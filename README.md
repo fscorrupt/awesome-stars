@@ -13,6 +13,7 @@
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jinja](#jinja)
   - [Makefile](#makefile)
   - [Others](#others)
   - [PHP](#php)
@@ -29,6 +30,7 @@
 
 ## C# # 
 
+- [saltydk/SARotate](https://github.com/saltydk/SARotate) - 
 - [xfouloux/TraktToPlex](https://github.com/xfouloux/TraktToPlex) - Sync watched status from Trakt to Plex Media Server
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 
@@ -48,6 +50,12 @@
 
 ## Go 
 
+- [l3uddz/mediarr](https://github.com/l3uddz/mediarr) - CLI tool to add new media to pvr's from the arr suite
+- [l3uddz/plexarr](https://github.com/l3uddz/plexarr) - Fix mismatched media in Plex mastered by Sonarr/Radarr
+- [l3uddz/movearr](https://github.com/l3uddz/movearr) - Simple CLI tool to perform various Radarr/Sonarr move functions.
+- [l3uddz/nabarr](https://github.com/l3uddz/nabarr) - Monitor newznab/torznab rss and add new media to sonarr/radarr
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative IPS able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI database to protect the user network.
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
@@ -61,6 +69,7 @@
 
 ## HTML 
 
+- [TRaSH-/Guides](https://github.com/TRaSH-/Guides) - Here you will find Guides mainly for Sonarr/Radarr/Bazarr and everything related to it.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [simplyzee/kube-rclone](https://github.com/simplyzee/kube-rclone) - kube-rclone is a rclone mount solution for Kubernetes
 - [KelvinTegelaar/CIPP](https://github.com/KelvinTegelaar/CIPP) - CIPP is a M365 multitenant management solution
@@ -72,9 +81,14 @@
 
 ## JavaScript 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [evoactivity/PlutoIPTV](https://github.com/evoactivity/PlutoIPTV) - Grab EPG & M3U from Pluto.tv
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - An open-source, self-hosted, low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with YAML or JSON.
+
+## Jinja 
+
+- [saltyorg/Saltbox](https://github.com/saltyorg/Saltbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 
 ## Makefile 
 
@@ -82,6 +96,7 @@
 
 ## Others 
 
+- [meisnate12/Plex-Meta-Manager-Wiki](https://github.com/meisnate12/Plex-Meta-Manager-Wiki) - Repository for editing Plex Meta Manager's Wiki https://github.com/meisnate12/Plex-Meta-Manager
 - [obazoud/awesome-dashboard](https://github.com/obazoud/awesome-dashboard) - A curated list of amazingly awesome dashboards/visualization resources.
 - [aelfa/awesome-piracy](https://github.com/aelfa/awesome-piracy) - A curated list of awesome warez and piracy links
 - [DockStation/dockstation](https://github.com/DockStation/dockstation) - DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
@@ -97,6 +112,9 @@
 
 ## Python 
 
+- [aelfa/Mr.Holmes](https://github.com/aelfa/Mr.Holmes) - :mag: A Complete Osint Tool
+- [mlsmithjr/plex-watchlist-migration](https://github.com/mlsmithjr/plex-watchlist-migration) - Script to migrate your "watch" list of media to a new Plex server.
+- [TheHumanRobot/Rollarr](https://github.com/TheHumanRobot/Rollarr) - This is the new and improved Plex Automatic Pre-roll script with a GUI
 - [Tkd-Alex/Twitch-Channel-Points-Miner-v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2) - A simple script that will watch a stream for you and earn the channel points.
 - [Casvt/Plex-scripts](https://github.com/Casvt/Plex-scripts) - Scripts that I made regarding Plex and the whole media stuff around it
 - [m0rtem/CloudFail](https://github.com/m0rtem/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
@@ -119,6 +137,9 @@
 
 ## Shell 
 
+- [ajkis/scripts](https://github.com/ajkis/scripts) - Ajki's scripts & guides
+- [PriamX/plexwho](https://github.com/PriamX/plexwho) - A Linux command-line shell script that lists current Plex media streams pulled from Tautulli's API.
+- [zvyn/pdf-decrypt](https://github.com/zvyn/pdf-decrypt) - Remove password-protection from a PDF-document permanently.
 - [dockserver/container](https://github.com/dockserver/container) - 
 - [kelinger/OmniStream](https://github.com/kelinger/OmniStream) - Deployment and management tools for an entire streaming platform that can reside on a server (local, remote, hosted, VPS) with media files stored on cloud services like Google Drive or Dropbox.
 - [nozel-org/serverbot](https://github.com/nozel-org/serverbot) - Lightweight server monitoring and alert tool for Linux
@@ -129,6 +150,7 @@
 
 ## TypeScript 
 
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [jorgelbg/dashflare](https://github.com/jorgelbg/dashflare) - 🕵🏼‍♀️ Open Source and privacy-focused analytics solution. 📊 Advanced monitoring for your website behind Cloudflare
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
@@ -139,6 +161,7 @@
 
 ## Vue 
 
+- [AlexImb/pelicula](https://github.com/AlexImb/pelicula) - 🎞    A progressive web app for creating movie night polls.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
 
 
