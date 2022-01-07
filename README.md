@@ -19,6 +19,7 @@
   - [PHP](#php)
   - [Perl](#perl)
   - [Python](#python)
+  - [Ruby](#ruby)
   - [Rust](#rust)
   - [Shell](#shell)
   - [TypeScript](#typescript)
@@ -69,6 +70,7 @@
 
 ## HTML 
 
+- [harsh98trivedi/links](https://github.com/harsh98trivedi/links) - A Beautiful Jekyll Theme For Links
 - [TRaSH-/Guides](https://github.com/TRaSH-/Guides) - Here you will find Guides mainly for Sonarr/Radarr/Bazarr and everything related to it.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [simplyzee/kube-rclone](https://github.com/simplyzee/kube-rclone) - kube-rclone is a rclone mount solution for Kubernetes
@@ -103,6 +105,7 @@
 
 ## PHP 
 
+- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website and API that collects Plex statistics using Tautulli and displays it. Similar to the Spotify Wrapped concept.
 - [iluminar/goodwork](https://github.com/iluminar/goodwork) - Self hosted project management and collaboration tool powered by TALL stack
 
@@ -129,6 +132,10 @@
 - [almenscorner/IntuneCD](https://github.com/almenscorner/IntuneCD) - Tool to backup and update configurations in Intune
 - [PJnes/cmcucp](https://github.com/PJnes/cmcucp) - The Complete Marvel Cinematic Universe Chronological Playlist
 - [burkasaurusrex/Plex-Auto-Collections](https://github.com/burkasaurusrex/Plex-Auto-Collections) - Python 3 script to automatically update Plex collections based off a configuration file
+
+## Ruby 
+
+- [filewatcher/filewatcher](https://github.com/filewatcher/filewatcher) - Command line utility to perform actions when files are updated, added or deleted. No config files. Pure Ruby implementation and minimalistic Ruby API.
 
 ## Rust 
 
