@@ -6,6 +6,7 @@
 ## Contents
 
   - [Batchfile](#batchfile)
+  - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
   - [Dockerfile](#dockerfile)
@@ -28,6 +29,10 @@
 ## Batchfile 
 
 - [Gamers-Against-Weed/winactivate](https://github.com/Gamers-Against-Weed/winactivate) - Easy-to-use Windows HWID/KMS38 Activation Script.
+
+## C 
+
+- [ipxe/ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
 
 ## C# # 
 
@@ -83,6 +88,8 @@
 
 ## JavaScript 
 
+- [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser.
+- [Chewbaka69/PlexShare](https://github.com/Chewbaka69/PlexShare) - Web Application standalone that provide management of local users, many PlexServer and it's libraries.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [evoactivity/PlutoIPTV](https://github.com/evoactivity/PlutoIPTV) - Grab EPG & M3U from Pluto.tv
@@ -115,6 +122,7 @@
 
 ## Python 
 
+- [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies
 - [aelfa/Mr.Holmes](https://github.com/aelfa/Mr.Holmes) - :mag: A Complete Osint Tool
 - [mlsmithjr/plex-watchlist-migration](https://github.com/mlsmithjr/plex-watchlist-migration) - Script to migrate your "watch" list of media to a new Plex server.
 - [TheHumanRobot/Rollarr](https://github.com/TheHumanRobot/Rollarr) - This is the new and improved Plex Automatic Pre-roll script with a GUI
@@ -144,6 +152,8 @@
 
 ## Shell 
 
+- [Makeshift/Marauder-Containers](https://github.com/Makeshift/Marauder-Containers) - The containers used in Makeshift/Marauder
+- [Makeshift/Marauder](https://github.com/Makeshift/Marauder) - A fully dockerized Media downloading solution utilising Google Drive as an unlimited disk backend
 - [ajkis/scripts](https://github.com/ajkis/scripts) - Ajki's scripts & guides
 - [PriamX/plexwho](https://github.com/PriamX/plexwho) - A Linux command-line shell script that lists current Plex media streams pulled from Tautulli's API.
 - [zvyn/pdf-decrypt](https://github.com/zvyn/pdf-decrypt) - Remove password-protection from a PDF-document permanently.
