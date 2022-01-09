@@ -56,6 +56,7 @@
 
 ## Go 
 
+- [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
 - [l3uddz/mediarr](https://github.com/l3uddz/mediarr) - CLI tool to add new media to pvr's from the arr suite
 - [l3uddz/plexarr](https://github.com/l3uddz/plexarr) - Fix mismatched media in Plex mastered by Sonarr/Radarr
 - [l3uddz/movearr](https://github.com/l3uddz/movearr) - Simple CLI tool to perform various Radarr/Sonarr move functions.
