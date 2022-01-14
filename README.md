@@ -37,6 +37,7 @@
 
 ## C# # 
 
+- [immense/Remotely](https://github.com/immense/Remotely) - A remote control and remote scripting solution, built with .NET 5, Blazor, SignalR Core, and WebRTC.
 - [saltydk/SARotate](https://github.com/saltydk/SARotate) - 
 - [xfouloux/TraktToPlex](https://github.com/xfouloux/TraktToPlex) - Sync watched status from Trakt to Plex Media Server
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
@@ -91,6 +92,7 @@
 
 ## JavaScript 
 
+- [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [JasonHHouse/gaps](https://github.com/JasonHHouse/gaps) - Find the missing movies in your Plex Server
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser.
 - [Chewbaka69/PlexShare](https://github.com/Chewbaka69/PlexShare) - Web Application standalone that provide management of local users, many PlexServer and it's libraries.
@@ -127,6 +129,7 @@
 
 ## Python 
 
+- [Cornishman/Plex-Trakt-Scrobbler](https://github.com/Cornishman/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to trakt.tv
 - [CecilioSilva/Plexy](https://github.com/CecilioSilva/Plexy) - Discord bot that connects your plex server to your discord server
 - [extrobe/plex_and_media_utilities](https://github.com/extrobe/plex_and_media_utilities) - Set of tools for managing Plex and Media Items
 - [CollinHeist/TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker) - Automated title card maker for Plex
@@ -161,6 +164,8 @@
 
 ## Shell 
 
+- [Josh5/docker-steam-headless](https://github.com/Josh5/docker-steam-headless) - Headless Steam supporting NVIDIA GPU and accessible via NoVNC
+- [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install
 - [Makeshift/Marauder-Containers](https://github.com/Makeshift/Marauder-Containers) - The containers used in Makeshift/Marauder
 - [Makeshift/Marauder](https://github.com/Makeshift/Marauder) - A fully dockerized Media downloading solution utilising Google Drive as an unlimited disk backend
 - [ajkis/scripts](https://github.com/ajkis/scripts) - Ajki's scripts & guides
