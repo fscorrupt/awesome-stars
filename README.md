@@ -19,6 +19,7 @@
   - [Others](#others)
   - [PHP](#php)
   - [Perl](#perl)
+  - [PowerShell](#powershell)
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -37,6 +38,8 @@
 
 ## C# # 
 
+- [revenz/FileFlowsPlugins](https://github.com/revenz/FileFlowsPlugins) - Plugins and plugin repo for FileFlows
+- [revenz/FileFlows](https://github.com/revenz/FileFlows) - FileFlows is a file processing application that can execute actions against a file in a tree flow structure.
 - [immense/Remotely](https://github.com/immense/Remotely) - A remote control and remote scripting solution, built with .NET 5, Blazor, SignalR Core, and WebRTC.
 - [saltydk/SARotate](https://github.com/saltydk/SARotate) - 
 - [xfouloux/TraktToPlex](https://github.com/xfouloux/TraktToPlex) - Sync watched status from Trakt to Plex Media Server
@@ -49,6 +52,7 @@
 
 ## Dockerfile 
 
+- [emanuelfreitas/docker-plex-trakt-sync](https://github.com/emanuelfreitas/docker-plex-trakt-sync) - 
 - [jauderho/dockerfiles](https://github.com/jauderho/dockerfiles) - Dockerfiles for various things
 - [linuxserver/docker-emulatorjs](https://github.com/linuxserver/docker-emulatorjs) - Web based retro emulation frontend with rom scanning and automated art ingestion.
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
@@ -126,6 +130,10 @@
 ## Perl 
 
 - [mikaku/Monitorix](https://github.com/mikaku/Monitorix) - Monitorix is a free, open source, lightweight system monitoring tool.
+
+## PowerShell 
+
+- [jamesstringerparsec/Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - A Project dedicated to making GPU Partitioning on Windows easier!
 
 ## Python 
 
