@@ -38,6 +38,7 @@
 
 ## C# # 
 
+- [SuchByte/Macro-Deck](https://github.com/SuchByte/Macro-Deck) - Macro Deck converts your phone, tablet or any other device with an up-to-date internet browser into an powerful remote macro pad to perform single actions or even multiple actions with just one tap.
 - [okieselbach/SyncMLViewer](https://github.com/okieselbach/SyncMLViewer) - A small real time SyncML protocol Viewer
 - [revenz/FileFlowsPlugins](https://github.com/revenz/FileFlowsPlugins) - Plugins and plugin repo for FileFlows
 - [revenz/FileFlows](https://github.com/revenz/FileFlows) - FileFlows is a file processing application that can execute actions against a file in a tree flow structure.
@@ -63,6 +64,7 @@
 
 ## Go 
 
+- [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
@@ -120,6 +122,7 @@
 
 ## Others 
 
+- [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
 - [opsdisk/the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - Free copy of The Cyber Plumber's Handbook
 - [meisnate12/Plex-Meta-Manager-Wiki](https://github.com/meisnate12/Plex-Meta-Manager-Wiki) - Repository for editing Plex Meta Manager's Wiki https://github.com/meisnate12/Plex-Meta-Manager
 - [obazoud/awesome-dashboard](https://github.com/obazoud/awesome-dashboard) - A curated list of amazingly awesome dashboards/visualization resources.
@@ -128,6 +131,8 @@
 
 ## PHP 
 
+- [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
+- [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
 - [iluminar/goodwork](https://github.com/iluminar/goodwork) - Self hosted project management and collaboration tool powered by TALL stack
 
@@ -143,6 +148,7 @@
 
 ## Python 
 
+- [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
 - [chenjj/espoofer](https://github.com/chenjj/espoofer) - An email spoofing testing tool that aims to bypass SPF/DKIM/DMARC and forge DKIM signatures.🍻
 - [Cornishman/Plex-Trakt-Scrobbler](https://github.com/Cornishman/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to trakt.tv
 - [CecilioSilva/Plexy](https://github.com/CecilioSilva/Plexy) - Discord bot that connects your plex server to your discord server
@@ -169,6 +175,7 @@
 
 ## Ruby 
 
+- [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 - [filewatcher/filewatcher](https://github.com/filewatcher/filewatcher) - Command line utility to perform actions when files are updated, added or deleted. No config files. Pure Ruby implementation and minimalistic Ruby API.
 
 ## Rust 
@@ -179,6 +186,7 @@
 
 ## Shell 
 
+- [animosity22/homescripts](https://github.com/animosity22/homescripts) - My Scripts for Plex / Emby with Dropbox and rclone
 - [Josh5/docker-steam-headless](https://github.com/Josh5/docker-steam-headless) - Headless Steam supporting NVIDIA GPU and accessible via NoVNC
 - [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install
 - [Makeshift/Marauder-Containers](https://github.com/Makeshift/Marauder-Containers) - The containers used in Makeshift/Marauder
@@ -196,6 +204,7 @@
 
 ## TypeScript 
 
+- [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker) - Self hosted media tracker for movies, tv shows, video games, books and audiobooks
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [jorgelbg/dashflare](https://github.com/jorgelbg/dashflare) - 🕵🏼‍♀️ Open Source and privacy-focused analytics solution. 📊 Advanced monitoring for your website behind Cloudflare
