@@ -88,6 +88,7 @@
 
 ## HTML 
 
+- [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [harsh98trivedi/links](https://github.com/harsh98trivedi/links) - A Beautiful Jekyll Theme For Links
 - [TRaSH-/Guides](https://github.com/TRaSH-/Guides) - Here you will find Guides mainly for Sonarr/Radarr/Bazarr and everything related to it.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
@@ -148,6 +149,7 @@
 
 ## Python 
 
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
 - [chenjj/espoofer](https://github.com/chenjj/espoofer) - An email spoofing testing tool that aims to bypass SPF/DKIM/DMARC and forge DKIM signatures.🍻
 - [Cornishman/Plex-Trakt-Scrobbler](https://github.com/Cornishman/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to trakt.tv
