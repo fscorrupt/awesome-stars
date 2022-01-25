@@ -22,6 +22,7 @@
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Python](#python)
+  - [QML](#qml)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Shell](#shell)
@@ -69,6 +70,7 @@
 
 ## Go 
 
+- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
@@ -154,6 +156,7 @@
 
 ## Python 
 
+- [zekroTJA/stargrab](https://github.com/zekroTJA/stargrab) - Securely mirror your starred repositories.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
 - [chenjj/espoofer](https://github.com/chenjj/espoofer) - An email spoofing testing tool that aims to bypass SPF/DKIM/DMARC and forge DKIM signatures.🍻
@@ -180,6 +183,10 @@
 - [PJnes/cmcucp](https://github.com/PJnes/cmcucp) - The Complete Marvel Cinematic Universe Chronological Playlist
 - [burkasaurusrex/Plex-Auto-Collections](https://github.com/burkasaurusrex/Plex-Auto-Collections) - Python 3 script to automatically update Plex collections based off a configuration file
 
+## QML 
+
+- [krillefear/fluffychat](https://github.com/krillefear/fluffychat) - +++++Moved to GitLab+++++
+
 ## Ruby 
 
 - [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
@@ -193,6 +200,7 @@
 
 ## Shell 
 
+- [AVENTER-UG/docker-matrix](https://github.com/AVENTER-UG/docker-matrix) - docker image for matrix.org
 - [tronyx/sonarr-episode-name-checker](https://github.com/tronyx/sonarr-episode-name-checker) - Bash script to check for episodes named "Episode ##" or "TBA"
 - [animosity22/homescripts](https://github.com/animosity22/homescripts) - My Scripts for Plex / Emby with Dropbox and rclone
 - [Josh5/docker-steam-headless](https://github.com/Josh5/docker-steam-headless) - Headless Steam supporting NVIDIA GPU and accessible via NoVNC
@@ -212,6 +220,7 @@
 
 ## TypeScript 
 
+- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker) - Self hosted media tracker for movies, tv shows, video games, books and audiobooks
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
@@ -219,7 +228,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
 - [ElonH/RcloneNg](https://github.com/ElonH/RcloneNg) - An angular web application for rclone
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API..
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [Eleven-am/frames](https://github.com/Eleven-am/frames) - Frames is a VOD streaming service built with react and NextJs around the Google Drive API.
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 
