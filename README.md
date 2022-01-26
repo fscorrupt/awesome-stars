@@ -26,6 +26,7 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Shell](#shell)
+  - [Smali](#smali)
   - [TypeScript](#typescript)
   - [Vue](#vue)
 
@@ -217,6 +218,10 @@
 - [Graylog2/graylog-docker](https://github.com/Graylog2/graylog-docker) - Official Graylog Docker image
 - [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
 - [dockserver/dockserver](https://github.com/dockserver/dockserver) - Install remote or local , included Authelia/ Traefikv2 and much more
+
+## Smali 
+
+- [D3VL/L3MON](https://github.com/D3VL/L3MON) - L3MON - Remote Android Managment Suite
 
 ## TypeScript 
 
