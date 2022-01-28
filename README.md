@@ -71,6 +71,7 @@
 
 ## Go 
 
+- [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
 - [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -109,6 +110,7 @@
 
 ## JavaScript 
 
+- [petersem/monocker](https://github.com/petersem/monocker) - 
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [JasonHHouse/gaps](https://github.com/JasonHHouse/gaps) - Find the missing movies in your Plex Server
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser.
@@ -157,6 +159,7 @@
 
 ## Python 
 
+- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [zekroTJA/stargrab](https://github.com/zekroTJA/stargrab) - Securely mirror your starred repositories.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
@@ -201,6 +204,7 @@
 
 ## Shell 
 
+- [petersem/dockerholics](https://github.com/petersem/dockerholics) - Apps and examples from the Dockerholics group.
 - [AVENTER-UG/docker-matrix](https://github.com/AVENTER-UG/docker-matrix) - docker image for matrix.org
 - [tronyx/sonarr-episode-name-checker](https://github.com/tronyx/sonarr-episode-name-checker) - Bash script to check for episodes named "Episode ##" or "TBA"
 - [animosity22/homescripts](https://github.com/animosity22/homescripts) - My Scripts for Plex / Emby with Dropbox and rclone
