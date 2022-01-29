@@ -110,6 +110,7 @@
 
 ## JavaScript 
 
+- [Peppermint-Lab/peppermint](https://github.com/Peppermint-Lab/peppermint) - A ticket management system  which aims to have a nice UI with easy to use features, lightweight infrastructure & the ability to run on any hardware you want 🍵
 - [petersem/monocker](https://github.com/petersem/monocker) - 
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [JasonHHouse/gaps](https://github.com/JasonHHouse/gaps) - Find the missing movies in your Plex Server
@@ -133,6 +134,7 @@
 
 ## Others 
 
+- [herrherrmann/awesome-multiplayer-games](https://github.com/herrherrmann/awesome-multiplayer-games) - :joystick: Awesome games for local multiplayer sessions or LAN parties.
 - [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
 - [opsdisk/the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - Free copy of The Cyber Plumber's Handbook
 - [meisnate12/Plex-Meta-Manager-Wiki](https://github.com/meisnate12/Plex-Meta-Manager-Wiki) - Repository for editing Plex Meta Manager's Wiki https://github.com/meisnate12/Plex-Meta-Manager
@@ -153,6 +155,7 @@
 
 ## PowerShell 
 
+- [api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) - The goal of this repository is to document the most common techniques to bypass AppLocker.
 - [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
 - [windows-admins/ConfigMgr](https://github.com/windows-admins/ConfigMgr) - 
 - [jamesstringerparsec/Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - A Project dedicated to making GPU Partitioning on Windows easier!
