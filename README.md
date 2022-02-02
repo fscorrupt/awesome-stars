@@ -114,6 +114,7 @@
 
 ## JavaScript 
 
+- [petio-team/petio](https://github.com/petio-team/petio) - Petio Request, Discover, Review
 - [Peppermint-Lab/peppermint](https://github.com/Peppermint-Lab/peppermint) - A ticket management system  which aims to have a nice UI with easy to use features, lightweight infrastructure & the ability to run on any hardware you want 🍵
 - [petersem/monocker](https://github.com/petersem/monocker) - 
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
@@ -166,6 +167,7 @@
 
 ## Python 
 
+- [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [pritunl/pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [zekroTJA/stargrab](https://github.com/zekroTJA/stargrab) - Securely mirror your starred repositories.
