@@ -11,6 +11,7 @@
   - [C++](#c++)
   - [CoffeeScript](#coffeescript)
   - [Dockerfile](#dockerfile)
+  - [Elixir](#elixir)
   - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
@@ -69,6 +70,10 @@
 - [crazy-max/docker-healthchecks](https://github.com/crazy-max/docker-healthchecks) - Healthchecks Docker image based on Alpine Linux
 - [k8s-at-home/container-images](https://github.com/k8s-at-home/container-images) - Kubernetes tailored container images for various applications
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
+
+## Elixir 
+
+- [midarrlabs/midarr-server](https://github.com/midarrlabs/midarr-server) - 🔥Midarr, the next-generation media server.
 
 ## Go 
 
