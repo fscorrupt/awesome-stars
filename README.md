@@ -29,6 +29,7 @@
   - [Shell](#shell)
   - [Smali](#smali)
   - [TypeScript](#typescript)
+  - [Visual Basic .NET](#visual-basic-.net)
   - [Vue](#vue)
 
 ## Batchfile 
@@ -43,6 +44,7 @@
 
 ## C# # 
 
+- [stax76/run-hidden](https://github.com/stax76/run-hidden) - run-hidden allows running console apps with hidden console window.
 - [SuchByte/Macro-Deck](https://github.com/SuchByte/Macro-Deck) - Macro Deck converts your phone, tablet or any other device with an up-to-date internet browser into an powerful remote macro pad to perform single actions or even multiple actions with just one tap.
 - [okieselbach/SyncMLViewer](https://github.com/okieselbach/SyncMLViewer) - A small real time SyncML protocol Viewer
 - [revenz/FileFlowsPlugins](https://github.com/revenz/FileFlowsPlugins) - Plugins and plugin repo for FileFlows
@@ -166,6 +168,7 @@
 
 ## PowerShell 
 
+- [stax76/Get-MediaInfo](https://github.com/stax76/Get-MediaInfo) - Get-MediaInfo is a PowerShell MediaInfo solution
 - [api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) - The goal of this repository is to document the most common techniques to bypass AppLocker.
 - [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
 - [windows-admins/ConfigMgr](https://github.com/windows-admins/ConfigMgr) - 
@@ -258,6 +261,11 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [Eleven-am/frames](https://github.com/Eleven-am/frames) - Frames is a VOD streaming service built with react and NextJs around the Google Drive API.
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
+
+## Visual Basic .NET 
+
+- [staxrip/staxrip](https://github.com/staxrip/staxrip) - 🎞 Video encoding GUI for Windows.
+- [stax76/File-Type-Registry-Viewer](https://github.com/stax76/File-Type-Registry-Viewer) - File Type Registry Viewer shows registry keys related to a defined file type.
 
 ## Vue 
 
