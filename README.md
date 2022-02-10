@@ -126,6 +126,7 @@
 - [petio-team/petio](https://github.com/petio-team/petio) - Petio Request, Discover, Review
 - [Peppermint-Lab/peppermint](https://github.com/Peppermint-Lab/peppermint) - A ticket management system  which aims to have a nice UI with easy to use features, lightweight infrastructure & the ability to run on any hardware you want 🍵
 - [petersem/monocker](https://github.com/petersem/monocker) - 
+- [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [JasonHHouse/gaps](https://github.com/JasonHHouse/gaps) - Find the missing movies in your Plex Server
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser.
@@ -171,7 +172,6 @@
 
 - [stax76/Get-MediaInfo](https://github.com/stax76/Get-MediaInfo) - Get-MediaInfo is a PowerShell MediaInfo solution
 - [api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) - The goal of this repository is to document the most common techniques to bypass AppLocker.
-- [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
 - [windows-admins/ConfigMgr](https://github.com/windows-admins/ConfigMgr) - 
 - [jamesstringerparsec/Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - A Project dedicated to making GPU Partitioning on Windows easier!
 
