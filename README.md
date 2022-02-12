@@ -57,6 +57,7 @@
 
 ## C++ 
 
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [gyf304/lpvpn](https://github.com/gyf304/lpvpn) - LAN Party VPN - Run VPN on top of Discord. No installation required.
 - [hyperion-project/hyperion.ng](https://github.com/hyperion-project/hyperion.ng) - The successor to Hyperion aka Hyperion Next Generation
 
@@ -170,6 +171,7 @@
 
 ## PowerShell 
 
+- [libDrive/libDrive](https://github.com/libDrive/libDrive) - libDrive is a Google Drive media library manager and indexer, similar to Plex, that organizes Google Drive media to offer an intuitive and user-friendly experience.
 - [stax76/Get-MediaInfo](https://github.com/stax76/Get-MediaInfo) - Get-MediaInfo is a PowerShell MediaInfo solution
 - [api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) - The goal of this repository is to document the most common techniques to bypass AppLocker.
 - [windows-admins/ConfigMgr](https://github.com/windows-admins/ConfigMgr) - 
