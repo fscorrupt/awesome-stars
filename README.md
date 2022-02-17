@@ -44,6 +44,7 @@
 
 ## C# # 
 
+- [drkno/pfs](https://github.com/drkno/pfs) - Mount any remote Plex server including ones you do not own as a local filesystem
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
 - [stax76/run-hidden](https://github.com/stax76/run-hidden) - run-hidden allows running console apps with hidden console window.
 - [SuchByte/Macro-Deck](https://github.com/SuchByte/Macro-Deck) - Macro Deck converts your phone, tablet or any other device with an up-to-date internet browser into an powerful remote macro pad to perform single actions or even multiple actions with just one tap.
