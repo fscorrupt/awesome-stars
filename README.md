@@ -17,6 +17,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jinja](#jinja)
+  - [Jupyter Notebook](#jupyter-notebook)
   - [Makefile](#makefile)
   - [Others](#others)
   - [PHP](#php)
@@ -122,6 +123,7 @@
 
 ## Java 
 
+- [paukiatwee/budgetapp](https://github.com/paukiatwee/budgetapp) - Open source personal budgeting application
 - [logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) - Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228
 
 ## JavaScript 
@@ -146,6 +148,10 @@
 
 - [ahembree/ansible-hms-docker](https://github.com/ahembree/ansible-hms-docker) - Ansible playbook for automated home media server setup
 - [saltyorg/Saltbox](https://github.com/saltyorg/Saltbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
+
+## Jupyter Notebook 
+
+- [jfeil/HelloFresh-Tandoor-Converter](https://github.com/jfeil/HelloFresh-Tandoor-Converter) - Jupyter-Notebook for retrieving all hellofresh recipes and importing them into Tandoor via the API
 
 ## Makefile 
 
