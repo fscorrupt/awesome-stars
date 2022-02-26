@@ -229,6 +229,7 @@
 
 ## Ruby 
 
+- [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 - [filewatcher/filewatcher](https://github.com/filewatcher/filewatcher) - Command line utility to perform actions when files are updated, added or deleted. No config files. Pure Ruby implementation and minimalistic Ruby API.
 
@@ -265,6 +266,7 @@
 
 ## TypeScript 
 
+- [MarcusOtter/discord-needle](https://github.com/MarcusOtter/discord-needle) - Needle is a Discord bot that helps you declutter your server by creating Discord threads automatically.
 - [sct/discord-support-threads](https://github.com/sct/discord-support-threads) - 
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
@@ -281,6 +283,7 @@
 
 ## Visual Basic .NET 
 
+- [kimmknight/remoteapptool](https://github.com/kimmknight/remoteapptool) - Create and manage RemoteApps hosted on Windows 7, 8, 10, XP and Server. Generate RDP and MSI files for clients.
 - [staxrip/staxrip](https://github.com/staxrip/staxrip) - 🎞 Video encoding GUI for Windows.
 - [stax76/File-Type-Registry-Viewer](https://github.com/stax76/File-Type-Registry-Viewer) - File Type Registry Viewer shows registry keys related to a defined file type.
 
