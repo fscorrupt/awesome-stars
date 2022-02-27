@@ -160,6 +160,7 @@
 
 ## Others 
 
+- [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 - [uup-dump/packs](https://github.com/uup-dump/packs) - UUP dump packs repository
 - [scriptzteam/badIPS](https://github.com/scriptzteam/badIPS) - badIPS
 - [herrherrmann/awesome-multiplayer-games](https://github.com/herrherrmann/awesome-multiplayer-games) - :joystick: Awesome games for local multiplayer sessions or LAN parties.
@@ -192,6 +193,7 @@
 
 ## Python 
 
+- [Iridocyclitis562/networking](https://github.com/Iridocyclitis562/networking) - All My Main Networking Programs
 - [NickGuyver/plex-recommender](https://github.com/NickGuyver/plex-recommender) - Get movie recommendations based on your current PleX library.
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [pritunl/pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server
@@ -266,6 +268,7 @@
 
 ## TypeScript 
 
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [MarcusOtter/discord-needle](https://github.com/MarcusOtter/discord-needle) - Needle is a Discord bot that helps you declutter your server by creating Discord threads automatically.
 - [sct/discord-support-threads](https://github.com/sct/discord-support-threads) - 
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
