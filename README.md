@@ -167,7 +167,6 @@
 - [herrherrmann/awesome-multiplayer-games](https://github.com/herrherrmann/awesome-multiplayer-games) - :joystick: Awesome games for local multiplayer sessions or LAN parties.
 - [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
 - [opsdisk/the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - Free copy of The Cyber Plumber's Handbook
-- [meisnate12/Plex-Meta-Manager-Wiki](https://github.com/meisnate12/Plex-Meta-Manager-Wiki) - Repository for editing Plex Meta Manager's Wiki https://github.com/meisnate12/Plex-Meta-Manager
 - [obazoud/awesome-dashboard](https://github.com/obazoud/awesome-dashboard) - A curated list of amazingly awesome dashboards/visualization resources.
 - [aelfa/awesome-piracy](https://github.com/aelfa/awesome-piracy) - A curated list of awesome warez and piracy links
 - [DockStation/dockstation](https://github.com/DockStation/dockstation) - DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
@@ -185,6 +184,7 @@
 
 ## PowerShell 
 
+- [Micke-K/IntuneManagement](https://github.com/Micke-K/IntuneManagement) - Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.
 - [markkerry/MSIPatches](https://github.com/markkerry/MSIPatches) - Detect and move orphaned patches from "C:\Windows\Installer" using this PowerShell module
 - [libDrive/libDrive](https://github.com/libDrive/libDrive) - libDrive is a Google Drive media library manager and indexer, similar to Plex, that organizes Google Drive media to offer an intuitive and user-friendly experience.
 - [stax76/Get-MediaInfo](https://github.com/stax76/Get-MediaInfo) - Get-MediaInfo is a PowerShell MediaInfo solution
@@ -194,6 +194,7 @@
 
 ## Python 
 
+- [pymedusa/Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
 - [Iridocyclitis562/networking](https://github.com/Iridocyclitis562/networking) - All My Main Networking Programs
 - [NickGuyver/plex-recommender](https://github.com/NickGuyver/plex-recommender) - Get movie recommendations based on your current PleX library.
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
@@ -210,6 +211,7 @@
 - [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies
 - [aelfa/Mr.Holmes](https://github.com/aelfa/Mr.Holmes) - :mag: A Complete Osint Tool
 - [mlsmithjr/plex-watchlist-migration](https://github.com/mlsmithjr/plex-watchlist-migration) - Script to migrate your "watch" list of media to a new Plex server.
+- [meisnate12/Plex-Meta-Manager-Wiki](https://github.com/meisnate12/Plex-Meta-Manager-Wiki) - Repository for editing Plex Meta Manager's Wiki https://github.com/meisnate12/Plex-Meta-Manager
 - [TheHumanRobot/Rollarr](https://github.com/TheHumanRobot/Rollarr) - This is the new and improved Plex Automatic Pre-roll script with a GUI
 - [Tkd-Alex/Twitch-Channel-Points-Miner-v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2) - A simple script that will watch a stream for you and earn the channel points.
 - [Casvt/Plex-scripts](https://github.com/Casvt/Plex-scripts) - Plex, the arr's and tautulli scripts coming from user requests
@@ -218,7 +220,7 @@
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
-- [meisnate12/Plex-Meta-Manager](https://github.com/meisnate12/Plex-Meta-Manager) - Python script to update metadata information for movies, shows, and collections as well as automatically build collections.
+- [meisnate12/Plex-Meta-Manager](https://github.com/meisnate12/Plex-Meta-Manager) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.
 - [Footsiefat/Plex-Server-Hoover](https://github.com/Footsiefat/Plex-Server-Hoover) - 
 - [ShaneIsrael/plex-auto-genres](https://github.com/ShaneIsrael/plex-auto-genres) - Automatically creates genre collections for your Plex media
 - [RustyRin/recipeBank](https://github.com/RustyRin/recipeBank) - Recipe JSON files for vabene1111's recipe application
