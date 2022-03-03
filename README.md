@@ -18,6 +18,7 @@
   - [JavaScript](#javascript)
   - [Jinja](#jinja)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [Lua](#lua)
   - [Makefile](#makefile)
   - [Others](#others)
   - [PHP](#php)
@@ -83,6 +84,8 @@
 
 ## Go 
 
+- [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) - Dockerized Signal Messenger REST API
+- [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
@@ -129,6 +132,8 @@
 
 ## JavaScript 
 
+- [revenz/Fenrus](https://github.com/revenz/Fenrus) - A personal home page for quick access to all your personal apps/sites.
+- [marklagendijk/node-toogoodtogo-watcher](https://github.com/marklagendijk/node-toogoodtogo-watcher) - Node.js cli tool for monitoring your favorite TooGoodToGo businesses. Docker image available.
 - [linuxserver/budge](https://github.com/linuxserver/budge) - 
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [petio-team/petio](https://github.com/petio-team/petio) - Petio Request, Discover, Review
@@ -141,7 +146,6 @@
 - [Chewbaka69/PlexShare](https://github.com/Chewbaka69/PlexShare) - Web Application standalone that provide management of local users, many PlexServer and it's libraries.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website and API that collects Plex statistics using Tautulli and displays it. Similar to the Spotify Wrapped concept.
-- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [evoactivity/PlutoIPTV](https://github.com/evoactivity/PlutoIPTV) - Grab EPG & M3U from Pluto.tv
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - An open-source, self-hosted, low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with YAML or JSON.
 - [KelvinTegelaar/CIPP](https://github.com/KelvinTegelaar/CIPP) - CIPP is a M365 multitenant management solution
@@ -154,6 +158,10 @@
 ## Jupyter Notebook 
 
 - [jfeil/HelloFresh-Tandoor-Converter](https://github.com/jfeil/HelloFresh-Tandoor-Converter) - Jupyter-Notebook for retrieving all hellofresh recipes and importing them into Tandoor via the API
+
+## Lua 
+
+- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 
 ## Makefile 
 
