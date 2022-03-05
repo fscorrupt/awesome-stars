@@ -28,6 +28,7 @@
   - [QML](#qml)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Shell](#shell)
   - [Smali](#smali)
   - [TypeScript](#typescript)
@@ -46,6 +47,7 @@
 
 ## C# # 
 
+- [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [drkno/pfs](https://github.com/drkno/pfs) - Mount any remote Plex server including ones you do not own as a local filesystem
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
 - [stax76/run-hidden](https://github.com/stax76/run-hidden) - run-hidden allows running console apps with hidden console window.
@@ -252,6 +254,10 @@
 - [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman
+
+## SCSS 
+
+- [lukevella/Rallly](https://github.com/lukevella/Rallly) - Rallly is a free collaborative scheduling service
 
 ## Shell 
 
