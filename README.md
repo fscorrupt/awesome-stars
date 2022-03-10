@@ -82,7 +82,7 @@
 
 ## Elixir 
 
-- [midarrlabs/midarr-server](https://github.com/midarrlabs/midarr-server) - 🔥Midarr, the next-generation media server.
+- [midarrlabs/midarr-server](https://github.com/midarrlabs/midarr-server) - 🔥Midarr, the minimal lightweight media server alternative.
 
 ## Go 
 
