@@ -9,6 +9,7 @@
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
+  - [CSS](#css)
   - [CoffeeScript](#coffeescript)
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
@@ -66,6 +67,10 @@
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [gyf304/lpvpn](https://github.com/gyf304/lpvpn) - LAN Party VPN - Run VPN on top of Discord. No installation required.
 - [hyperion-project/hyperion.ng](https://github.com/hyperion-project/hyperion.ng) - The successor to Hyperion aka Hyperion Next Generation
+
+## CSS 
+
+- [jkirkcaldy/plex-utills](https://github.com/jkirkcaldy/plex-utills) - Manage your Plex library automatically
 
 ## CoffeeScript 
 
@@ -199,7 +204,6 @@
 - [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel) - PowerShell module to import/export Excel spreadsheets, without Excel
 - [Micke-K/IntuneManagement](https://github.com/Micke-K/IntuneManagement) - Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.
 - [markkerry/MSIPatches](https://github.com/markkerry/MSIPatches) - Detect and move orphaned patches from "C:\Windows\Installer" using this PowerShell module
-- [libDrive/libDrive](https://github.com/libDrive/libDrive) - libDrive is a Google Drive media library manager and indexer, similar to Plex, that organizes Google Drive media to offer an intuitive and user-friendly experience.
 - [stax76/Get-MediaInfo](https://github.com/stax76/Get-MediaInfo) - Get-MediaInfo is a PowerShell MediaInfo solution
 - [api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) - The goal of this repository is to document the most common techniques to bypass AppLocker.
 - [windows-admins/ConfigMgr](https://github.com/windows-admins/ConfigMgr) - 
