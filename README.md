@@ -48,6 +48,7 @@
 
 ## C# # 
 
+- [MicrosoftDocs/WDAC-Toolkit](https://github.com/MicrosoftDocs/WDAC-Toolkit) - Documentation and tools to access Windows Defender Application Control (WDAC) technology.
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [drkno/pfs](https://github.com/drkno/pfs) - Mount any remote Plex server including ones you do not own as a local filesystem
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
@@ -212,6 +213,7 @@
 
 ## Python 
 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [dcragusa/HelloFreshRecipes](https://github.com/dcragusa/HelloFreshRecipes) - A project to download all of HelloFresh's recipes
 - [anubhavcodes/pyrecipes](https://github.com/anubhavcodes/pyrecipes) - An app to download recipes in usable formats like json, yaml etc.
 - [pymedusa/Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
