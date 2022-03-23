@@ -53,6 +53,7 @@
 
 ## C# # 
 
+- [endpointmanager/wingetbridge-powershell](https://github.com/endpointmanager/wingetbridge-powershell) - An easy-to-use Powershell-Module that completes the ability to automatically provide and maintain applications in your software deployment tool by using the Windows Package Manager Repository.
 - [MicrosoftDocs/WDAC-Toolkit](https://github.com/MicrosoftDocs/WDAC-Toolkit) - Documentation and tools to access Windows Defender Application Control (WDAC) technology.
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [drkno/pfs](https://github.com/drkno/pfs) - Mount any remote Plex server including ones you do not own as a local filesystem
@@ -206,6 +207,7 @@
 
 ## PowerShell 
 
+- [endpointmanager/wingetbridge-factory](https://github.com/endpointmanager/wingetbridge-factory) - Powershell-Scripts based on WingetBridge (Powershell-Module) for software deployment tools like Microsoft Endpoint Manager
 - [Romanitho/Winget-AllinOne](https://github.com/Romanitho/Winget-AllinOne) - Install apps one shot + Winget-AutoUpdate
 - [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) - Create scheduled tasks to update apps as system and notify connected users
 - [Romanitho/Winget-Install](https://github.com/Romanitho/Winget-Install) - Powershell scripts for Winget with SCCM/Intune
