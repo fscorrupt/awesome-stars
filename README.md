@@ -151,7 +151,7 @@
 - [linuxserver/budge](https://github.com/linuxserver/budge) - 
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [petio-team/petio](https://github.com/petio-team/petio) - Petio Request, Discover, Review
-- [Peppermint-Lab/peppermint](https://github.com/Peppermint-Lab/peppermint) - A ticket management system  which aims to have a nice UI with easy to use features, lightweight infrastructure & the ability to run on any hardware you want 🍵
+- [Peppermint-Lab/peppermint](https://github.com/Peppermint-Lab/peppermint) - An open source ticket management & help desk solution.
 - [petersem/monocker](https://github.com/petersem/monocker) - 
 - [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
@@ -183,6 +183,7 @@
 
 ## Others 
 
+- [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 - [uup-dump/packs](https://github.com/uup-dump/packs) - UUP dump packs repository
@@ -222,6 +223,7 @@
 
 ## Python 
 
+- [AlexxIT/HassWP](https://github.com/AlexxIT/HassWP) - Portable version of Home Assistant for Windows (no need to install)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [dcragusa/HelloFreshRecipes](https://github.com/dcragusa/HelloFreshRecipes) - A project to download all of HelloFresh's recipes
 - [anubhavcodes/pyrecipes](https://github.com/anubhavcodes/pyrecipes) - An app to download recipes in usable formats like json, yaml etc.
