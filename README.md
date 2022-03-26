@@ -85,6 +85,7 @@
 
 ## Dockerfile 
 
+- [mikolatero/docker-vlmcsd](https://github.com/mikolatero/docker-vlmcsd) - vlmcsd is a replacement for Microsoft's KMS server.
 - [emanuelfreitas/docker-plex-trakt-sync](https://github.com/emanuelfreitas/docker-plex-trakt-sync) - 
 - [jauderho/dockerfiles](https://github.com/jauderho/dockerfiles) - Dockerfiles for various things
 - [linuxserver/docker-emulatorjs](https://github.com/linuxserver/docker-emulatorjs) - Web based retro emulation frontend with rom scanning and automated art ingestion.
