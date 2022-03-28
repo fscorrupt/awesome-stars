@@ -185,6 +185,7 @@
 
 ## Makefile 
 
+- [instrumentisto/restic-docker-image](https://github.com/instrumentisto/restic-docker-image) - restic Docker image (backup utility)
 - [kubealex/k8s-mediaserver-operator](https://github.com/kubealex/k8s-mediaserver-operator) - Repository for k8s Mediaserver Operator project
 
 ## Others 
@@ -231,6 +232,7 @@
 
 ## Python 
 
+- [mannkind/borg-rclone-autobackup](https://github.com/mannkind/borg-rclone-autobackup) - Easily automate backups using Borg + RClone
 - [AlexxIT/HassWP](https://github.com/AlexxIT/HassWP) - Portable version of Home Assistant for Windows (no need to install)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [dcragusa/HelloFreshRecipes](https://github.com/dcragusa/HelloFreshRecipes) - A project to download all of HelloFresh's recipes
