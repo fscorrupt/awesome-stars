@@ -85,6 +85,7 @@
 
 ## Dockerfile 
 
+- [techno-tim/launchpad](https://github.com/techno-tim/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
 - [mikolatero/docker-vlmcsd](https://github.com/mikolatero/docker-vlmcsd) - vlmcsd is a replacement for Microsoft's KMS server.
 - [emanuelfreitas/docker-plex-trakt-sync](https://github.com/emanuelfreitas/docker-plex-trakt-sync) - 
 - [jauderho/dockerfiles](https://github.com/jauderho/dockerfiles) - Dockerfiles for various things
@@ -319,6 +320,7 @@
 
 ## TypeScript 
 
+- [shroudedcode/apk-mitm](https://github.com/shroudedcode/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [se1exin/Cleanarr](https://github.com/se1exin/Cleanarr) - A simple UI to help find and delete duplicate and sample files from your Plex server
