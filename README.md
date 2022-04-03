@@ -54,6 +54,7 @@
 
 ## C# # 
 
+- [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 - [endpointmanager/wingetbridge-powershell](https://github.com/endpointmanager/wingetbridge-powershell) - An easy-to-use Powershell-Module that completes the ability to automatically provide and maintain applications in your software deployment tool by using the Windows Package Manager Repository.
 - [MicrosoftDocs/WDAC-Toolkit](https://github.com/MicrosoftDocs/WDAC-Toolkit) - Documentation and tools to access Windows Defender Application Control (WDAC) technology.
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
@@ -142,7 +143,7 @@
 - [ajax-lives/NoRussian](https://github.com/ajax-lives/NoRussian) - Volunteer DoS tool via HTML + JS
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [harsh98trivedi/links](https://github.com/harsh98trivedi/links) - A Beautiful Jekyll Theme For Links
-- [TRaSH-/Guides](https://github.com/TRaSH-/Guides) - Here you will find Guides mainly for Sonarr/Radarr/Bazarr and everything related to it.
+- [TRaSH-/Guides](https://github.com/TRaSH-/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [simplyzee/kube-rclone](https://github.com/simplyzee/kube-rclone) - kube-rclone is a rclone mount solution for Kubernetes
 - [ITRav4/PlexRedirect](https://github.com/ITRav4/PlexRedirect) - a Plex landing page that redirects you to various sites.
