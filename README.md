@@ -141,6 +141,7 @@
 
 ## HTML 
 
+- [RootMyTV/RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io) - RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
 - [ajax-lives/NoRussian](https://github.com/ajax-lives/NoRussian) - Volunteer DoS tool via HTML + JS
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [harsh98trivedi/links](https://github.com/harsh98trivedi/links) - A Beautiful Jekyll Theme For Links
@@ -222,6 +223,8 @@
 
 ## PowerShell 
 
+- [T3los/mRemoteNGOpenVPN](https://github.com/T3los/mRemoteNGOpenVPN) - 
+- [realslacker/PSmRemoteNG](https://github.com/realslacker/PSmRemoteNG) - A module to create mRemoteNG connection files from PowerShell. You can install this module from the PSGallery!
 - [NicklasAhlberg/Microsoft-Endpoint-Manager](https://github.com/NicklasAhlberg/Microsoft-Endpoint-Manager) - 
 - [zebulonsmith/WingetToMECM](https://github.com/zebulonsmith/WingetToMECM) - This is a proof of concept that facilitates the creation of MECM Applications using Winget
 - [endpointmanager/wingetbridge-factory](https://github.com/endpointmanager/wingetbridge-factory) - Powershell-Scripts based on WingetBridge (Powershell-Module) for software deployment tools like Microsoft Endpoint Manager
@@ -239,6 +242,7 @@
 
 ## Python 
 
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [mannkind/borg-rclone-autobackup](https://github.com/mannkind/borg-rclone-autobackup) - Easily automate backups using Borg + RClone
 - [AlexxIT/HassWP](https://github.com/AlexxIT/HassWP) - Portable version of Home Assistant for Windows (no need to install)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A supercharged version of paperless: scan, index and archive all your physical documents
@@ -296,7 +300,7 @@
 
 ## SCSS 
 
-- [lukevella/Rallly](https://github.com/lukevella/Rallly) - Rallly is a free collaborative scheduling service
+- [lukevella/Rallly](https://github.com/lukevella/Rallly) - Rallly is a free group meeting scheduling tool
 
 ## Shell 
 
