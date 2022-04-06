@@ -104,6 +104,7 @@
 
 ## Go 
 
+- [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
 - [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) - Dockerized Signal Messenger REST API
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -182,6 +183,8 @@
 
 ## Jupyter Notebook 
 
+- [Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
+- [microsoft/Microsoft-365-Defender-Hunting-Queries](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries) - Sample queries for Advanced hunting in Microsoft 365 Defender
 - [jfeil/HelloFresh-Tandoor-Converter](https://github.com/jfeil/HelloFresh-Tandoor-Converter) - Jupyter-Notebook for retrieving all hellofresh recipes and importing them into Tandoor via the API
 
 ## Lua 
