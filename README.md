@@ -159,6 +159,8 @@
 
 ## JavaScript 
 
+- [moom0o/GoogleEarthDownloader](https://github.com/moom0o/GoogleEarthDownloader) - Download the entirety of Google Earth!
+- [Fmstrat/plex-cluster](https://github.com/Fmstrat/plex-cluster) - Synchronizes the watched and timeline status between any number of Plex servers all using standard Plex APIs.
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 - [Kayomani/PlexExternalPlayer](https://github.com/Kayomani/PlexExternalPlayer) - Allows you to use Plex to browse your media then play the files in your favorite media player (where the files are local).
 - [soerenkampschroer/plex-to-vlc](https://github.com/soerenkampschroer/plex-to-vlc) - Play your videos in VLC right from the Plex Web Player interface.
@@ -232,6 +234,8 @@
 
 ## PowerShell 
 
+- [microsoft/CSS-Exchange](https://github.com/microsoft/CSS-Exchange) - Exchange Server support tools and scripts
+- [paulwetter/DocumentConfigMgrCB](https://github.com/paulwetter/DocumentConfigMgrCB) - This script attempts to document your entire Configuration Manager (MEMCM/SCCM) environment
 - [12Knocksinna/Office365itpros](https://github.com/12Knocksinna/Office365itpros) - Office 365 for IT Pros PowerShell examples
 - [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for Windows 10 & Windows 11 fine-tuning and tweaking
@@ -241,7 +245,7 @@
 - [zebulonsmith/WingetToMECM](https://github.com/zebulonsmith/WingetToMECM) - This is a proof of concept that facilitates the creation of MECM Applications using Winget
 - [endpointmanager/wingetbridge-factory](https://github.com/endpointmanager/wingetbridge-factory) - Powershell-Scripts based on WingetBridge (Powershell-Module) for software deployment tools like Microsoft Endpoint Manager
 - [Romanitho/Winget-AllinOne](https://github.com/Romanitho/Winget-AllinOne) - Install apps one shot + Winget-AutoUpdate
-- [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) - Create scheduled tasks to update apps as system and notify connected users
+- [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) - Daily update apps as system and notify connected users. (Allowlist and Blocklist support)
 - [Romanitho/Winget-Install](https://github.com/Romanitho/Winget-Install) - Powershell scripts for Winget with SCCM/Intune
 - [nkasco/IT-Admin-Toolkit-WinUI](https://github.com/nkasco/IT-Admin-Toolkit-WinUI) - A CUSTOMIZABLE AND EXPANDABLE DESTINATION FOR CENTRALIZING DAY-TO-DAY JOB FUNCTIONS
 - [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel) - PowerShell module to import/export Excel spreadsheets, without Excel
