@@ -53,6 +53,7 @@
 
 ## C# # 
 
+- [PlexRipper/PlexRipper](https://github.com/PlexRipper/PlexRipper) - The best cross-platform Plex media downloader there is! In active development and feedback is very welcome!
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 - [endpointmanager/wingetbridge-powershell](https://github.com/endpointmanager/wingetbridge-powershell) - An easy-to-use Powershell-Module that completes the ability to automatically provide and maintain applications in your software deployment tool by using the Windows Package Manager Repository.
@@ -201,6 +202,8 @@
 
 ## Others 
 
+- [lukeed/awesome-cloudflare-workers](https://github.com/lukeed/awesome-cloudflare-workers) - 😎 Awesome Cloudflare Workers
+- [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 - [app-generator/flask-dashboard-black-pro](https://github.com/app-generator/flask-dashboard-black-pro) - Flask Dashboard - Black Design PRO | AppSeed App Generator
 - [SpamVerse/Piratezparty](https://github.com/SpamVerse/Piratezparty) - 
 - [Sphinxroot/Free2ViewTV](https://github.com/Sphinxroot/Free2ViewTV) - Free2View TV Project's Mirror
@@ -344,6 +347,7 @@
 
 ## TypeScript 
 
+- [LukeChannings/moviematch](https://github.com/LukeChannings/moviematch) - MovieMatch for Plex
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [shroudedcode/apk-mitm](https://github.com/shroudedcode/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
