@@ -161,6 +161,10 @@
 
 ## JavaScript 
 
+- [bchiang7/spotify-profile](https://github.com/bchiang7/spotify-profile) - A web app for visualizing personalized Spotify data built with React, Express, and the Spotify API
+- [CTK-WARRIOR/Auto-Translator-For-Discord](https://github.com/CTK-WARRIOR/Auto-Translator-For-Discord) - This bot will auto translate your message as soon as it identify your langauge.
+- [nullabork/talkbot](https://github.com/nullabork/talkbot) - Text-to-speech and translation bot for Discord
+- [saiteja-madha/discord-js-bot](https://github.com/saiteja-madha/discord-js-bot) - A cool multipurpose discord bot built using discord.js v13 with moderation, music, ticketing, translation, and much more
 - [moom0o/GoogleEarthDownloader](https://github.com/moom0o/GoogleEarthDownloader) - Download the entirety of Google Earth!
 - [Fmstrat/plex-cluster](https://github.com/Fmstrat/plex-cluster) - Synchronizes the watched and timeline status between any number of Plex servers all using standard Plex APIs.
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
@@ -204,6 +208,7 @@
 
 ## Others 
 
+- [xcad2k/cheat-sheets](https://github.com/xcad2k/cheat-sheets) - My personal Cheat-Sheets for various projects, tools and technologies
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [lukeed/awesome-cloudflare-workers](https://github.com/lukeed/awesome-cloudflare-workers) - 😎 Awesome Cloudflare Workers
 - [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
