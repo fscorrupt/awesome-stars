@@ -208,6 +208,7 @@
 
 ## Others 
 
+- [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [xcad2k/cheat-sheets](https://github.com/xcad2k/cheat-sheets) - My personal Cheat-Sheets for various projects, tools and technologies
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [lukeed/awesome-cloudflare-workers](https://github.com/lukeed/awesome-cloudflare-workers) - 😎 Awesome Cloudflare Workers
@@ -346,7 +347,7 @@
 - [zvyn/pdf-decrypt](https://github.com/zvyn/pdf-decrypt) - Remove password-protection from a PDF-document permanently.
 - [kelinger/OmniStream](https://github.com/kelinger/OmniStream) - Deployment and management tools for an entire streaming platform that can reside on a server (local, remote, hosted, VPS) with media files stored on cloud services like Google Drive or Dropbox.
 - [nozel-org/serverbot](https://github.com/nozel-org/serverbot) - Lightweight server monitoring and alert tool for Linux
-- [aelfa/scripts](https://github.com/aelfa/scripts) - A bunch of useful scripts for media server
+- [aelfa/scripts](https://github.com/aelfa/scripts) - A bunch of useful scripts
 - [Graylog2/graylog-docker](https://github.com/Graylog2/graylog-docker) - Official Graylog Docker image
 - [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
 
