@@ -106,6 +106,7 @@
 
 ## Go 
 
+- [fr3fou/discord-mutual-friends](https://github.com/fr3fou/discord-mutual-friends) - Stupid hacky script + program for visualising Discord mutual friends
 - [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
 - [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) - Dockerized Signal Messenger REST API
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
