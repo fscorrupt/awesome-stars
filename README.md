@@ -55,6 +55,7 @@
 
 ## C# # 
 
+- [SMSAgentSoftware/MEMScriptsViewer](https://github.com/SMSAgentSoftware/MEMScriptsViewer) - App to view scripts in Microsoft Endpoint Manager
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [PlexRipper/PlexRipper](https://github.com/PlexRipper/PlexRipper) - The best cross-platform Plex media downloader there is! In active development and feedback is very welcome!
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
