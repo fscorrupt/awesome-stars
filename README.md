@@ -180,7 +180,6 @@
 - [saiteja-madha/discord-js-bot](https://github.com/saiteja-madha/discord-js-bot) - A cool multipurpose discord bot built using discord.js v13 with moderation, music, ticketing, translation, and much more
 - [moom0o/GoogleEarthDownloader](https://github.com/moom0o/GoogleEarthDownloader) - Download the entirety of Google Earth!
 - [Fmstrat/plex-cluster](https://github.com/Fmstrat/plex-cluster) - Synchronizes the watched and timeline status between any number of Plex servers all using standard Plex APIs.
-- [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 - [Kayomani/PlexExternalPlayer](https://github.com/Kayomani/PlexExternalPlayer) - Allows you to use Plex to browse your media then play the files in your favorite media player (where the files are local).
 - [soerenkampschroer/plex-to-vlc](https://github.com/soerenkampschroer/plex-to-vlc) - Play your videos in VLC right from the Plex Web Player interface.
 - [nsano-rururu/docker-compose-ui](https://github.com/nsano-rururu/docker-compose-ui) - web interface for Docker Compose
@@ -260,6 +259,8 @@
 
 ## PowerShell 
 
+- [ConfigJon/Firmware-Management](https://github.com/ConfigJon/Firmware-Management) - Firmware and BIOS management scripts.
+- [markgodfreyii/PowerShell](https://github.com/markgodfreyii/PowerShell) - 
 - [chocolatey/boxstarter](https://github.com/chocolatey/boxstarter) - Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages
 - [ninthwalker/saverr](https://github.com/ninthwalker/saverr) - Download and save media from Plex Servers
 - [MSEndpointMgr/Reporting](https://github.com/MSEndpointMgr/Reporting) - Repository for Intune Reporting using Azure Monitor, Log Analytics and Azure Workbooks
@@ -289,6 +290,7 @@
 ## Python 
 
 - [RemiRigal/Plex-Auto-Languages](https://github.com/RemiRigal/Plex-Auto-Languages) - Automated language selection for Plex TV Shows !
+- [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [mannkind/borg-rclone-autobackup](https://github.com/mannkind/borg-rclone-autobackup) - Easily automate backups using Borg + RClone
 - [AlexxIT/HassWP](https://github.com/AlexxIT/HassWP) - Portable version of Home Assistant for Windows (no need to install)
