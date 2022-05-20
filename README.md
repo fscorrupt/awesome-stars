@@ -235,6 +235,7 @@
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
+- [uup-dump/packs](https://github.com/uup-dump/packs) - UUP dump packs repository
 - [scriptzteam/badIPS](https://github.com/scriptzteam/badIPS) - badIPS
 - [herrherrmann/awesome-multiplayer-games](https://github.com/herrherrmann/awesome-multiplayer-games) - :joystick: Awesome games for local multiplayer sessions or LAN parties.
 - [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
@@ -244,6 +245,7 @@
 
 ## PHP 
 
+- [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (writ
 - [ArabCoders/watchstate](https://github.com/ArabCoders/watchstate) - Sync watch state between different media servers.
 - [freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout) - FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)
@@ -292,6 +294,7 @@
 
 ## Python 
 
+- [speijnik/plex-watched-sync](https://github.com/speijnik/plex-watched-sync) - Simple tool to synchronize the watched status from one Plex server to another
 - [hartwork/jawanndenn](https://github.com/hartwork/jawanndenn) - :date: Simple alternative to Doodle polls and scheduling (Python 3, Django 3, JavaScript)
 - [RemiRigal/Plex-Auto-Languages](https://github.com/RemiRigal/Plex-Auto-Languages) - Automated language selection for Plex TV Shows !
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
@@ -353,6 +356,7 @@
 
 ## Shell 
 
+- [Fmstrat/plex-db-sync](https://github.com/Fmstrat/plex-db-sync) - Synchronizes the database watched status between two Plex servers. This includes watched times, and works for all users on the system without the need for tokens.
 - [trimstray/otseca](https://github.com/trimstray/otseca) - Open source security auditing tool to search and dump system configuration. It allows you to generate reports in HTML or RAW-HTML formats.
 - [trimstray/htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
 - [dockserver/apps](https://github.com/dockserver/apps) - Just docker-compose.yml files for the UI
@@ -381,6 +385,8 @@
 
 ## TypeScript 
 
+- [Kukkee/Kukkee](https://github.com/Kukkee/Kukkee) - Professional group meeting scheduler
+- [TetrisBlack/Kukkee](https://github.com/TetrisBlack/Kukkee) - The free, open source and self-hostable Doodle alternative
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Self-hostable doodle poll alternative. Find the best date for a meeting with your colleagues or friends without the back and forth emails.
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
