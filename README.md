@@ -175,6 +175,7 @@
 
 ## JavaScript 
 
+- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
 - [Revadike/epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Claim available free game promotions from the Epic Games Store.
 - [go-vikunja/desktop](https://github.com/go-vikunja/desktop) - Mirror of vikunja desktop from https://code.vikunja.io/desktop
 - [bchiang7/spotify-profile](https://github.com/bchiang7/spotify-profile) - A web app for visualizing personalized Spotify data built with React, Express, and the Spotify API
@@ -294,6 +295,7 @@
 
 ## Python 
 
+- [valknight/DoesTheDogWatchPlex](https://github.com/valknight/DoesTheDogWatchPlex) - DoesTheDogDie.com + Plex Integration
 - [mrfret/gdsa_maker](https://github.com/mrfret/gdsa_maker) - Manage Google Drive Service Accounts, Team Drives, Sharing and Groups
 - [williamjohnstone/AutoRclone-Rewrite](https://github.com/williamjohnstone/AutoRclone-Rewrite) - Rewrite of https://github.com/xyou365/AutoRclone
 - [speijnik/plex-watched-sync](https://github.com/speijnik/plex-watched-sync) - Simple tool to synchronize the watched status from one Plex server to another
