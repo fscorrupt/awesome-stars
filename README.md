@@ -176,6 +176,7 @@
 
 ## JavaScript 
 
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [MsGsuite/Shared-Drives-Creator-Website](https://github.com/MsGsuite/Shared-Drives-Creator-Website) - 
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
 - [Revadike/epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Claim available free game promotions from the Epic Games Store.
@@ -234,7 +235,7 @@
 - [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 - [app-generator/flask-dashboard-black-pro](https://github.com/app-generator/flask-dashboard-black-pro) - Flask Dashboard - Black Design PRO | AppSeed App Generator
 - [SpamVerse/Piratezparty](https://github.com/SpamVerse/Piratezparty) - 
-- [Sphinxroot/Free2ViewTV](https://github.com/Sphinxroot/Free2ViewTV) - Free2View TV Project's Mirror
+- [Sphinxroot/Free2ViewTV](https://github.com/Sphinxroot/Free2ViewTV) - The official repository for the Free2View TV Project
 - [meisnate12/Plex-Meta-Manager-Images](https://github.com/meisnate12/Plex-Meta-Manager-Images) - Images for Plex Meta Managers default collections
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
