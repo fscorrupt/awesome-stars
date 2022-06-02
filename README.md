@@ -115,6 +115,7 @@
 
 ## Go 
 
+- [ByteDream/docker4ssh](https://github.com/ByteDream/docker4ssh) - 🐋 Docker containers and more via ssh
 - [jeffwillette/docker-alertd](https://github.com/jeffwillette/docker-alertd) - Monitor docker stats and send alerts
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [r7wx/easy-gate](https://github.com/r7wx/easy-gate) - A gate to your self hosted infrastructure
@@ -178,6 +179,7 @@
 
 ## JavaScript 
 
+- [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [MsGsuite/Shared-Drives-Creator-Website](https://github.com/MsGsuite/Shared-Drives-Creator-Website) - 
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
