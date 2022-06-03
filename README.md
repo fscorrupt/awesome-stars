@@ -179,6 +179,7 @@
 
 ## JavaScript 
 
+- [Hulxv/vnstat-client](https://github.com/Hulxv/vnstat-client) - GUI Client for vnStat Network Monitor for Linux or GNU/Linux
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [MsGsuite/Shared-Drives-Creator-Website](https://github.com/MsGsuite/Shared-Drives-Creator-Website) - 
