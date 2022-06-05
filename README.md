@@ -257,7 +257,7 @@
 - [jamjnsn/cartridge](https://github.com/jamjnsn/cartridge) - Self-hosted game library.
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (writ
-- [ArabCoders/watchstate](https://github.com/ArabCoders/watchstate) - Sync watch state between different media servers.
+- [ArabCoders/watchstate](https://github.com/ArabCoders/watchstate) - Sync play state between different media servers.
 - [freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout) - FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)
 - [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, drag-and-drop, & nosql file conversion server & share tool that supports 75 file formats in 13 languages.
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
