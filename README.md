@@ -273,6 +273,8 @@
 
 ## PowerShell 
 
+- [mmelkersen/EndpointManager](https://github.com/mmelkersen/EndpointManager) - 
+- [1-chris/Powershell-Discord-Bot](https://github.com/1-chris/Powershell-Discord-Bot) - 100% powershell discord gateway websocket bot
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [Shayne55434/Tautulli2Discord](https://github.com/Shayne55434/Tautulli2Discord) - 
 - [davidprowe/BadBlood](https://github.com/davidprowe/BadBlood) - BadBlood by @davidprowe, Secframe.com, fills a Microsoft Active Directory Domain with a structure and thousands of objects. The output of the tool is a domain similar to a domain in the real world.  A
