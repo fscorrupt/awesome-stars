@@ -115,6 +115,9 @@
 
 ## Go 
 
+- [RoyXiang/plexproxy](https://github.com/RoyXiang/plexproxy) - 
+- [XanderStrike/goplaxt](https://github.com/XanderStrike/goplaxt) - Scrobble Plex plays to Trakt with ease!
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless.
 - [ByteDream/docker4ssh](https://github.com/ByteDream/docker4ssh) - 🐋 Docker containers and more via ssh
 - [jeffwillette/docker-alertd](https://github.com/jeffwillette/docker-alertd) - Monitor docker stats and send alerts
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
@@ -231,6 +234,7 @@
 
 ## Others 
 
+- [BionicAlice/Plex-Meta-Manager-Configs](https://github.com/BionicAlice/Plex-Meta-Manager-Configs) - Custom Configs for PMM
 - [tom-dell/Plex-Meta-Manager-Configs](https://github.com/tom-dell/Plex-Meta-Manager-Configs) - 
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
@@ -309,6 +313,7 @@
 
 ## Python 
 
+- [Nexius2/Plex_User_Manager](https://github.com/Nexius2/Plex_User_Manager) - tool to manage plex users
 - [ilarramendi/BetterCovers](https://github.com/ilarramendi/BetterCovers) - BetterCovers is a fully customizable script to automaticaly generate covers and backdrops with embeded ratings, mediainfo, language, certifications, age ratings, source, production companies, etc!
 - [ktecv2000/ProxyShell](https://github.com/ktecv2000/ProxyShell) - ProxyShell POC Exploit : Exchange Server RCE (ACL Bypass + EoP + Arbitrary File Write)
 - [valknight/DoesTheDogWatchPlex](https://github.com/valknight/DoesTheDogWatchPlex) - DoesTheDogDie.com + Plex Integration
@@ -377,6 +382,7 @@
 
 ## Shell 
 
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an 
 - [axlecrusher/plex_download_urls](https://github.com/axlecrusher/plex_download_urls) - Archive of Plex mediaserver download URLs
 - [Fmstrat/plex-db-sync](https://github.com/Fmstrat/plex-db-sync) - Synchronizes the database watched status between two Plex servers. This includes watched times, and works for all users on the system without the need for tokens.
 - [trimstray/otseca](https://github.com/trimstray/otseca) - Open source security auditing tool to search and dump system configuration. It allows you to generate reports in HTML or RAW-HTML formats.
@@ -407,6 +413,7 @@
 
 ## TypeScript 
 
+- [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
 - [AnandBaburajan/Kukkee](https://github.com/AnandBaburajan/Kukkee) - Meeting poll tool. Bring people together, at the right time!
 - [TetrisBlack/Kukkee](https://github.com/TetrisBlack/Kukkee) - The free, open source and self-hostable Doodle alternative
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Self-hostable doodle poll alternative. Find the best date for a meeting with your colleagues or friends without the back and forth emails.
