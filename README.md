@@ -280,6 +280,8 @@
 
 ## PowerShell 
 
+- [AdamGrossTX/Intune.Reporting](https://github.com/AdamGrossTX/Intune.Reporting) - Create shiny reports for your boss - with PowerShell!
+- [tabs-not-spaces/Intune.Reporting](https://github.com/tabs-not-spaces/Intune.Reporting) - Create shiny reports for your boss - with PowerShell!
 - [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
 - [mmelkersen/EndpointManager](https://github.com/mmelkersen/EndpointManager) - 
 - [1-chris/Powershell-Discord-Bot](https://github.com/1-chris/Powershell-Discord-Bot) - 100% powershell discord gateway websocket bot
