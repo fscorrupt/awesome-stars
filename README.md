@@ -102,6 +102,7 @@
 
 ## Dockerfile 
 
+- [PowerShell/PowerShell-Docker](https://github.com/PowerShell/PowerShell-Docker) - Repository for building PowerShell Docker images
 - [techno-tim/launchpad](https://github.com/techno-tim/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
 - [mikolatero/docker-vlmcsd](https://github.com/mikolatero/docker-vlmcsd) - vlmcsd is a replacement for Microsoft's KMS server.
 - [emanuelfreitas/docker-plex-trakt-sync](https://github.com/emanuelfreitas/docker-plex-trakt-sync) - 
@@ -118,6 +119,7 @@
 
 ## Go 
 
+- [WillFantom/OverCLIrr](https://github.com/WillFantom/OverCLIrr) - A command-line tool to interact with an Overseerr server
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 - [RoyXiang/plexproxy](https://github.com/RoyXiang/plexproxy) - 
 - [XanderStrike/goplaxt](https://github.com/XanderStrike/goplaxt) - Scrobble Plex plays to Trakt with ease!
@@ -184,6 +186,8 @@
 
 ## JavaScript 
 
+- [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden) - A self-hosted bookmark + archive manager to store your useful links.
+- [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 - [adamfowlerit/msportals.io](https://github.com/adamfowlerit/msportals.io) - Microsoft Administrator Sites
 - [RemiRigal/Overseerr-Assistant](https://github.com/RemiRigal/Overseerr-Assistant) - Browser extension for Overseerr that embeds buttons into IMDb and TMDB web pages to easily request movies and tv shows.
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
@@ -290,6 +294,7 @@
 
 ## PowerShell 
 
+- [waldo-irc/YouMayPasser](https://github.com/waldo-irc/YouMayPasser) - You shall pass
 - [SeidChr/POSHcord](https://github.com/SeidChr/POSHcord) - Discord bot written in Powershell
 - [Gerenios/AADInternals](https://github.com/Gerenios/AADInternals) - AADInternals PowerShell module for administering Azure AD and Office 365
 - [rvrsh3ll/Misc-Powershell-Scripts](https://github.com/rvrsh3ll/Misc-Powershell-Scripts) - Random Tools
@@ -333,6 +338,7 @@
 
 ## Python 
 
+- [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [Sleepingpirates/Invitarr](https://github.com/Sleepingpirates/Invitarr) - Plex Discord Bot to invite a user to a plex server
 - [whatdaybob/sonarr_youtubedl](https://github.com/whatdaybob/sonarr_youtubedl) - A Sonarr companion script to allow the automatic downloading of web series normally not available for Sonarr to search for. Using Youtube-DL it allows you to download your webseries from the list of s
 - [zeronetworks/BloodHound-Tools](https://github.com/zeronetworks/BloodHound-Tools) - Collection of tools that reflect the network dimension into Bloodhound's data
