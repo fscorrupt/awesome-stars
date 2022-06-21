@@ -110,7 +110,6 @@
 - [linuxserver/docker-emulatorjs](https://github.com/linuxserver/docker-emulatorjs) - Web based retro emulation frontend with rom scanning and automated art ingestion.
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [crazy-max/docker-healthchecks](https://github.com/crazy-max/docker-healthchecks) - Healthchecks Docker image
-- [k8s-at-home/container-images](https://github.com/k8s-at-home/container-images) - Kubernetes tailored container images for various applications
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 
 ## Elixir 
@@ -444,6 +443,7 @@
 - [aelfa/scripts](https://github.com/aelfa/scripts) - A bunch of useful scripts
 - [Graylog2/graylog-docker](https://github.com/Graylog2/graylog-docker) - Official Graylog Docker image
 - [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
+- [k8s-at-home/container-images](https://github.com/k8s-at-home/container-images) - Kubernetes tailored container images for various applications
 
 ## Smali 
 
