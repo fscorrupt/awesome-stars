@@ -292,6 +292,7 @@
 
 ## PowerShell 
 
+- [FrankysWeb/Admin-Abwesenheitsassistent](https://github.com/FrankysWeb/Admin-Abwesenheitsassistent) - 
 - [PoshCode/ModuleBuilder](https://github.com/PoshCode/ModuleBuilder) - A PowerShell Module to help scripters write, version, sign, package, and publish.
 - [waldo-irc/YouMayPasser](https://github.com/waldo-irc/YouMayPasser) - You shall pass
 - [SeidChr/POSHcord](https://github.com/SeidChr/POSHcord) - Discord bot written in Powershell
@@ -335,6 +336,7 @@
 - [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
 - [windows-admins/ConfigMgr](https://github.com/windows-admins/ConfigMgr) - 
 - [jamesstringerparsec/Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - A Project dedicated to making GPU Partitioning on Windows easier!
+- [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 
 ## Python 
 
@@ -441,7 +443,6 @@
 - [PriamX/plexwho](https://github.com/PriamX/plexwho) - A Linux command-line shell script that lists current Plex media streams pulled from Tautulli's API.
 - [zvyn/pdf-decrypt](https://github.com/zvyn/pdf-decrypt) - Remove password-protection from a PDF-document permanently.
 - [kelinger/OmniStream](https://github.com/kelinger/OmniStream) - Deployment and management tools for an entire streaming platform that can reside on a server (local, remote, hosted, VPS) with media files stored on cloud services like Google Drive or Dropbox.
-- [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [nozel-org/serverbot](https://github.com/nozel-org/serverbot) - Lightweight server monitoring and alert tool for Linux
 - [aelfa/scripts](https://github.com/aelfa/scripts) - A bunch of useful scripts
 - [Graylog2/graylog-docker](https://github.com/Graylog2/graylog-docker) - Official Graylog Docker image
