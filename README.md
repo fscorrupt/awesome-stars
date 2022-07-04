@@ -56,6 +56,9 @@
 
 ## C# # 
 
+- [PowerShell/PowerShellGet](https://github.com/PowerShell/PowerShellGet) - PowerShellGet is the package manager for PowerShell
+- [PowerShell/SecretStore](https://github.com/PowerShell/SecretStore) - 
+- [PowerShell/PowerShell-IoT](https://github.com/PowerShell/PowerShell-IoT) - Interact with I2C, SPI & GPIO devices using PowerShell Core!
 - [aimaat/RemoteUpdate](https://github.com/aimaat/RemoteUpdate) - Install Windows Updates remotely with the help of the famous PSWindowsUpdate module
 - [Azure/azure-powershell](https://github.com/Azure/azure-powershell) - Microsoft Azure PowerShell
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
