@@ -303,6 +303,7 @@
 
 ## PowerShell 
 
+- [jseerden/IntuneBackupAndRestore](https://github.com/jseerden/IntuneBackupAndRestore) - PowerShell Module that queries Microsoft Graph, and allows for cross-tenant Backup & Restore actions of your Intune Configuration.
 - [mzmaili/TestDeviceRegConnectivity](https://github.com/mzmaili/TestDeviceRegConnectivity) - Test-DeviceRegConnectivity PowerShell script helps to test the Internet connectivity to Microsoft resources under the system context to validate the connection status when troubleshooting Hybrid Azure
 - [ThomasKur/M365Documentation](https://github.com/ThomasKur/M365Documentation) - Automatic Microsoft 365 Documentation to simplify the life of admins and consultants.
 - [ThomasKur/IntuneDocumentation](https://github.com/ThomasKur/IntuneDocumentation) - Automatic Intune Documentation to simplify the life of admins and consultants.
@@ -354,6 +355,7 @@
 
 ## Python 
 
+- [ShokoAnime/ShokoOnPlex](https://github.com/ShokoAnime/ShokoOnPlex) - Repository for Shoko On Plex, a Plex channel plugin.
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [bullmoose20/Plex-Stuff](https://github.com/bullmoose20/Plex-Stuff) - Random plex related stuff
@@ -476,6 +478,7 @@
 
 ## TypeScript 
 
+- [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
 - [AnandBaburajan/Kukkee](https://github.com/AnandBaburajan/Kukkee) - Meeting poll tool. Bring people together, at the right time!
 - [TetrisBlack/Kukkee](https://github.com/TetrisBlack/Kukkee) - The free, open source and self-hostable Doodle alternative
