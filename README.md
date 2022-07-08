@@ -303,6 +303,10 @@
 
 ## PowerShell 
 
+- [ddneves/PSGUI](https://github.com/ddneves/PSGUI) - Powershell GUI with XAML WPF
+- [GruberMarkus/Set-OutlookSignatures](https://github.com/GruberMarkus/Set-OutlookSignatures) - Centrally manage and deploy Outlook text signatures and Out of Office auto reply messages.
+- [ShowUI/ShowUI](https://github.com/ShowUI/ShowUI) - ShowUI is a PowerShell module to help build graphical user interfaces in script.
+- [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
 - [jseerden/IntuneBackupAndRestore](https://github.com/jseerden/IntuneBackupAndRestore) - PowerShell Module that queries Microsoft Graph, and allows for cross-tenant Backup & Restore actions of your Intune Configuration.
 - [mzmaili/TestDeviceRegConnectivity](https://github.com/mzmaili/TestDeviceRegConnectivity) - Test-DeviceRegConnectivity PowerShell script helps to test the Internet connectivity to Microsoft resources under the system context to validate the connection status when troubleshooting Hybrid Azure
 - [ThomasKur/M365Documentation](https://github.com/ThomasKur/M365Documentation) - Automatic Microsoft 365 Documentation to simplify the life of admins and consultants.
@@ -432,6 +436,11 @@
 
 ## Rust 
 
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
