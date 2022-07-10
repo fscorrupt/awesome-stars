@@ -57,6 +57,7 @@
 
 ## C# # 
 
+- [redbaty/Wasari](https://github.com/redbaty/Wasari) - Downloads anime episodes
 - [PowerShell/PowerShellGet](https://github.com/PowerShell/PowerShellGet) - PowerShellGet is the package manager for PowerShell
 - [PowerShell/SecretStore](https://github.com/PowerShell/SecretStore) - 
 - [PowerShell/PowerShell-IoT](https://github.com/PowerShell/PowerShell-IoT) - Interact with I2C, SPI & GPIO devices using PowerShell Core!
@@ -95,6 +96,7 @@
 
 ## CSS 
 
+- [ecioran/kinderheim](https://github.com/ecioran/kinderheim) - 
 - [ryjo1026/plex-landing-page](https://github.com/ryjo1026/plex-landing-page) - A Landing Page for a Plex Media Server
 - [jkirkcaldy/plex-utills](https://github.com/jkirkcaldy/plex-utills) - Manage your Plex library automatically
 
@@ -252,6 +254,7 @@
 
 ## Others 
 
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - A collection of things you can do with ZeroTier, how-to guides, and more
 - [simon987/awesome-datahoarding](https://github.com/simon987/awesome-datahoarding) - List of data-hoarding related tools
 - [meisnate12/Plex-Meta-Manager-Configs](https://github.com/meisnate12/Plex-Meta-Manager-Configs) - Config files for Plex Meta Manager
@@ -450,6 +453,7 @@
 
 ## Shell 
 
+- [cbirkenbeul/docker-homelab](https://github.com/cbirkenbeul/docker-homelab) - Docker Compose Dateien für Homelabs
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image
 - [lux4rd0/grafana-loki-syslog-aio](https://github.com/lux4rd0/grafana-loki-syslog-aio) - Grafana Loki Syslog All In One Syslog Deployable Stack
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server.
