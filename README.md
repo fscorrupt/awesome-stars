@@ -18,6 +18,7 @@
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
+- [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -187,6 +188,10 @@
 - [aelfa/awesome-piracy](https://github.com/aelfa/awesome-piracy) - A curated list of awesome warez and piracy links
 - [simplyzee/kube-rclone](https://github.com/simplyzee/kube-rclone) - kube-rclone is a rclone mount solution for Kubernetes
 - [ITRav4/PlexRedirect](https://github.com/ITRav4/PlexRedirect) - a Plex landing page that redirects you to various sites.
+
+## Haskell 
+
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
 
 ## Java 
 
