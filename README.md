@@ -312,7 +312,7 @@
 
 ## PowerShell 
 
-- [fscorrupt/SCCM-Patchday-Powershell-UI](https://github.com/fscorrupt/SCCM-Patchday-Powershell-UI) - UI for common Tasks during a manual Patchday of Servers
+- [fscorrupt/SCCM-Patchday-Powershell-UI](https://github.com/fscorrupt/SCCM-Patchday-Powershell-UI) - UI for common Tasks during a manual Patchday of Servers with SCCM/MECM
 - [AnoopCNair/ConfigMgr-Infra-Monitoring](https://github.com/AnoopCNair/ConfigMgr-Infra-Monitoring) - Let's check ConfigMgr Infra monitoring script
 - [ddneves/PSGUI](https://github.com/ddneves/PSGUI) - Powershell GUI with XAML WPF
 - [GruberMarkus/Set-OutlookSignatures](https://github.com/GruberMarkus/Set-OutlookSignatures) - Centrally manage and deploy Outlook text signatures and Out of Office auto reply messages.
