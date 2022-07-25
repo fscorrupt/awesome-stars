@@ -129,6 +129,7 @@
 
 ## Go 
 
+- [gruntwork-io/cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) - A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [jyggen/intro-detection-info](https://github.com/jyggen/intro-detection-info) - CLI tool to show information related to Plex's intro detection feature.
@@ -264,6 +265,7 @@
 
 ## Others 
 
+- [repo-sync/repo-sync](https://github.com/repo-sync/repo-sync) - 🔄 Keep a pair of GitHub repos in sync
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [rustyshackleford36/locatarr](https://github.com/rustyshackleford36/locatarr) - My intent is to locate all the *arr apps that are out there in the world, like Sonarr, Radarr, etc. Thus, locatarr
@@ -320,6 +322,8 @@
 
 ## PowerShell 
 
+- [GruberMarkus/Export-RecipientPermissions](https://github.com/GruberMarkus/Export-RecipientPermissions) - Document, filter and compare Exchange permissions: Mailbox access rights, mailbox folder permissions, public folder permissions, send as, send on behalf, managed by, linked master accounts, forwarders
+- [pester/Pester](https://github.com/pester/Pester) - Pester is the ubiquitous test and mock framework for PowerShell.
 - [AnoopCNair/ConfigMgr-Infra-Monitoring](https://github.com/AnoopCNair/ConfigMgr-Infra-Monitoring) - Let's check ConfigMgr Infra monitoring script
 - [ddneves/PSGUI](https://github.com/ddneves/PSGUI) - Powershell GUI with XAML WPF
 - [GruberMarkus/Set-OutlookSignatures](https://github.com/GruberMarkus/Set-OutlookSignatures) - Centrally manage and deploy Outlook text signatures and Out of Office auto reply messages.
