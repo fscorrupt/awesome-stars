@@ -48,6 +48,7 @@
 
 ## C 
 
+- [jbara2002/windows-defender-remover](https://github.com/jbara2002/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 - [geekuillaume/soundsync](https://github.com/geekuillaume/soundsync) - Virtual cables between any audio source and any speaker in your home
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
@@ -209,6 +210,7 @@
 
 ## JavaScript 
 
+- [cglatot/pasta](https://github.com/cglatot/pasta) - Audio & Subtitle Track Changer for Plex
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [danrahn/PlexIntroEditor](https://github.com/danrahn/PlexIntroEditor) - View, edit, add, and delete intro markers for TV episodes in Plex.
 - [schmm2/mem-gaa](https://github.com/schmm2/mem-gaa) - Microsoft Endpoint Manager - Group Assignment Analyzer
@@ -363,7 +365,7 @@
 - [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
 - [mmelkersen/EndpointManager](https://github.com/mmelkersen/EndpointManager) - 
 - [1-chris/Powershell-Discord-Bot](https://github.com/1-chris/Powershell-Discord-Bot) - 100% powershell discord gateway websocket bot
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
+- [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [Shayne55434/Tautulli2Discord](https://github.com/Shayne55434/Tautulli2Discord) - 
 - [davidprowe/BadBlood](https://github.com/davidprowe/BadBlood) - BadBlood by @davidprowe, Secframe.com, fills a Microsoft Active Directory Domain with a structure and thousands of objects. The output of the tool is a domain similar to a domain in the real world.  A
 - [MSEndpointMgr/Intune](https://github.com/MSEndpointMgr/Intune) - Microsoft Intune scripts
@@ -399,6 +401,7 @@
 
 ## Python 
 
+- [zhuowei/DisneyPlusMetadataDownloader](https://github.com/zhuowei/DisneyPlusMetadataDownloader) - pulls metadata from Disney+. Probably useless for you.
 - [Mike7154/plex_family_management](https://github.com/Mike7154/plex_family_management) - 
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [karimhabush/cyberowl](https://github.com/karimhabush/cyberowl) - A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -484,6 +487,7 @@
 
 ## Rust 
 
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
