@@ -343,7 +343,7 @@
 - [mzmaili/DSRegTool](https://github.com/mzmaili/DSRegTool) - DSRegTool PowerShell is a comprehensive tool that performs more than 30 different tests that help you to identify and fix the most common device registration issues for all join types.
 - [maurice-daly/DriverAutomationTool](https://github.com/maurice-daly/DriverAutomationTool) - Home of the Driver Automation Tool
 - [microsoft/PowerStig](https://github.com/microsoft/PowerStig) - STIG Automation
-- [GruberMarkus/Export-RecipientPermissions](https://github.com/GruberMarkus/Export-RecipientPermissions) - Document, filter and compare Exchange permissions: Mailbox access rights, mailbox folder permissions, public folder permissions, send as, send on behalf, managed by, linked master accounts, forwarders
+- [GruberMarkus/Export-RecipientPermissions](https://github.com/GruberMarkus/Export-RecipientPermissions) - Document, filter and compare Exchange permissions: Mailbox Access Rights, Mailbox Folder permissions, Public Folder permissions, Send As, Send On Behalf, Managed By, Linked Master Accounts, Forwarders
 - [pester/Pester](https://github.com/pester/Pester) - Pester is the ubiquitous test and mock framework for PowerShell.
 - [AnoopCNair/ConfigMgr-Infra-Monitoring](https://github.com/AnoopCNair/ConfigMgr-Infra-Monitoring) - Let's check ConfigMgr Infra monitoring script
 - [ddneves/PSGUI](https://github.com/ddneves/PSGUI) - Powershell GUI with XAML WPF
@@ -386,7 +386,6 @@
 - [NicklasAhlberg/Microsoft-Endpoint-Manager](https://github.com/NicklasAhlberg/Microsoft-Endpoint-Manager) - 
 - [zebulonsmith/WingetToMECM](https://github.com/zebulonsmith/WingetToMECM) - This is a proof of concept that facilitates the creation of MECM Applications using Winget
 - [endpointmanager/wingetbridge-factory](https://github.com/endpointmanager/wingetbridge-factory) - Powershell-Scripts based on WingetBridge (Powershell-Module) for software deployment tools like Microsoft Endpoint Manager
-- [Romanitho/Winget-AllinOne](https://github.com/Romanitho/Winget-AllinOne) - Install apps one shot + Winget-AutoUpdate
 - [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) - WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)
 - [Romanitho/Winget-Install](https://github.com/Romanitho/Winget-Install) - Powershell scripts for Winget with SCCM/Intune
 - [nkasco/IT-Admin-Toolkit-WinUI](https://github.com/nkasco/IT-Admin-Toolkit-WinUI) - A CUSTOMIZABLE AND EXPANDABLE DESTINATION FOR CENTRALIZING DAY-TO-DAY JOB FUNCTIONS
@@ -470,7 +469,7 @@
 - [Footsiefat/Plex-Server-Hoover](https://github.com/Footsiefat/Plex-Server-Hoover) - 
 - [ShaneIsrael/plex-auto-genres](https://github.com/ShaneIsrael/plex-auto-genres) - Automatically creates genre collections for your Plex media
 - [RustyRin/recipeBank](https://github.com/RustyRin/recipeBank) - Recipe JSON files for vabene1111's recipe application
-- [almenscorner/IntuneCD](https://github.com/almenscorner/IntuneCD) - Tool to backup and update configurations in Intune
+- [almenscorner/IntuneCD](https://github.com/almenscorner/IntuneCD) - Tool to backup, update and document configurations in Intune
 - [PJnes/cmcucp](https://github.com/PJnes/cmcucp) - The Complete Marvel Cinematic Universe Chronological Playlist
 - [burkasaurusrex/Plex-Auto-Collections](https://github.com/burkasaurusrex/Plex-Auto-Collections) - Python 3 script to automatically update Plex collections based off a configuration file
 
