@@ -205,6 +205,7 @@
 
 ## Java 
 
+- [grimsi/gameyfin](https://github.com/grimsi/gameyfin) - A simple game library manager
 - [Ombrelin/plex-rich-presence](https://github.com/Ombrelin/plex-rich-presence) - A desktop app to enable discord rich presence for your Plex Media Server Activity
 - [paukiatwee/budgetapp](https://github.com/paukiatwee/budgetapp) - Open source personal budgeting application
 - [logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) - Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228
