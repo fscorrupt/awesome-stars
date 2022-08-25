@@ -218,6 +218,7 @@
 
 ## JavaScript 
 
+- [ferdium/ferdium-server](https://github.com/ferdium/ferdium-server) - 
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller.
 - [open-source-labs/Docketeer](https://github.com/open-source-labs/Docketeer) - An easy-to-use GUI for Docker that allows developers to manage Docker containers and monitor crucial metrics.
@@ -401,7 +402,7 @@
 - [paulwetter/DocumentConfigMgrCB](https://github.com/paulwetter/DocumentConfigMgrCB) - This script attempts to document your entire Configuration Manager (MEMCM/SCCM) environment
 - [12Knocksinna/Office365itpros](https://github.com/12Knocksinna/Office365itpros) - Office 365 for IT Pros PowerShell examples
 - [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for Windows 10 & Windows 11 fine-tuning and tweaking
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 - [T3los/mRemoteNGOpenVPN](https://github.com/T3los/mRemoteNGOpenVPN) - 
 - [realslacker/PSmRemoteNG](https://github.com/realslacker/PSmRemoteNG) - A module to create mRemoteNG connection files from PowerShell. You can install this module from the PSGallery!
 - [NicklasAhlberg/Microsoft-Endpoint-Manager](https://github.com/NicklasAhlberg/Microsoft-Endpoint-Manager) - 
@@ -532,6 +533,7 @@
 
 ## Shell 
 
+- [anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier](https://github.com/anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier) - Block advertisements and trackers using pi-hole in Oracle Always Free tier
 - [marcan/takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [RPiList/specials](https://github.com/RPiList/specials) - Schutz vor Fakeshops, Werbung, Tracking und anderen Angriffen aus dem Internet
 - [cbirkenbeul/docker-homelab](https://github.com/cbirkenbeul/docker-homelab) - Docker Compose Dateien für Homelabs
