@@ -47,6 +47,7 @@
 
 ## Batchfile 
 
+- [meisnate12/Plex-Meta-Manager-Configs](https://github.com/meisnate12/Plex-Meta-Manager-Configs) - Config files for Plex Meta Manager
 - [Gamers-Against-Weed/winactivate](https://github.com/Gamers-Against-Weed/winactivate) - Easy-to-use Windows HWID/KMS38 Activation Script.
 
 ## C 
@@ -94,6 +95,7 @@
 
 ## C++ 
 
+- [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [MirServer/ubuntu-frame](https://github.com/MirServer/ubuntu-frame) - The foundation for many embedded graphical display implementations
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -303,7 +305,6 @@
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - A collection of things you can do with ZeroTier, how-to guides, and more
 - [simon987/awesome-datahoarding](https://github.com/simon987/awesome-datahoarding) - List of data-hoarding related tools
-- [meisnate12/Plex-Meta-Manager-Configs](https://github.com/meisnate12/Plex-Meta-Manager-Configs) - Config files for Plex Meta Manager
 - [chryzsh/awesome-bloodhound](https://github.com/chryzsh/awesome-bloodhound) - A curated list of awesome BloodhoundAD resources
 - [fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 - [fabacab/awesome-malware](https://github.com/fabacab/awesome-malware) - :computer::warning: A curated collection of awesome malware, botnets, and other post-exploitation tools.
@@ -423,6 +424,7 @@
 
 ## Python 
 
+- [LizardByte/RetroArcher.bundle](https://github.com/LizardByte/RetroArcher.bundle) - RetroArcher is a gaming plugin for Plex!
 - [amidaware/tacticalrmm](https://github.com/amidaware/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
 - [qvantel/drolex](https://github.com/qvantel/drolex) - A command-line tool for extracting docker run commands from running or stopped containers
 - [zhuowei/DisneyPlusMetadataDownloader](https://github.com/zhuowei/DisneyPlusMetadataDownloader) - pulls metadata from Disney+. Probably useless for you.
