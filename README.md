@@ -95,6 +95,7 @@
 
 ## C++ 
 
+- [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [MirServer/ubuntu-frame](https://github.com/MirServer/ubuntu-frame) - The foundation for many embedded graphical display implementations
@@ -122,6 +123,7 @@
 
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [go-vikunja/app](https://github.com/go-vikunja/app) - 
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
 ## Dockerfile 
 
@@ -221,6 +223,7 @@
 
 ## JavaScript 
 
+- [SixDigitCode/AirBridge](https://github.com/SixDigitCode/AirBridge) - AirMessage Bridge for SMServer!
 - [ferdium/ferdium-server](https://github.com/ferdium/ferdium-server) - 
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller.
@@ -295,6 +298,7 @@
 
 ## Others 
 
+- [brettpetch/plex-cdn](https://github.com/brettpetch/plex-cdn) - This is an example of how to proxy Plex instances through NGINX, caching posters at the edge.
 - [Gameplex-Software/SkiffUI](https://github.com/Gameplex-Software/SkiffUI) - Create docker images at the click of a button, and manage your network with an easy to use UI
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
@@ -426,6 +430,8 @@
 
 ## Python 
 
+- [google/macops](https://github.com/google/macops) - Utilities, tools, and scripts for managing and tracking a fleet of Macintoshes in a corporate environment
+- [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [LizardByte/RetroArcher.bundle](https://github.com/LizardByte/RetroArcher.bundle) - RetroArcher is a gaming plugin for Plex!
 - [amidaware/tacticalrmm](https://github.com/amidaware/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
 - [qvantel/drolex](https://github.com/qvantel/drolex) - A command-line tool for extracting docker run commands from running or stopped containers
@@ -532,7 +538,6 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman
 
 ## Shell 
@@ -612,7 +617,7 @@
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [se1exin/Cleanarr](https://github.com/se1exin/Cleanarr) - A simple UI to help find and delete duplicate and sample files from your Plex server
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
-- [MarcusOtter/discord-needle](https://github.com/MarcusOtter/discord-needle) - Needle is a Discord bot that helps you declutter your server by creating Discord threads automatically.
+- [MarcusOtter/discord-needle](https://github.com/MarcusOtter/discord-needle) - Needle is a Discord bot that creates Discord threads automatically.
 - [sct/discord-support-threads](https://github.com/sct/discord-support-threads) - 
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
@@ -637,6 +642,7 @@
 
 ## Vue 
 
+- [sharkykh/tppm](https://github.com/sharkykh/tppm) - ▶ Manage playback progress items stored on Trakt.tv
 - [headwaymaps/headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap.
 - [go-vikunja/frontend](https://github.com/go-vikunja/frontend) - Mirror of vikunja from https://code.vikunja.io/frontend
 - [AlexImb/pelicula](https://github.com/AlexImb/pelicula) - 🎞    A progressive web app for creating movie night polls.
