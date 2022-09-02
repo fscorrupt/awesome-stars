@@ -216,6 +216,7 @@
 
 ## Java 
 
+- [BrunoReX/jmkvpropedit](https://github.com/BrunoReX/jmkvpropedit) - Batch GUI for mkvpropedit
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [Ombrelin/plex-rich-presence](https://github.com/Ombrelin/plex-rich-presence) - A desktop app to enable discord rich presence for your Plex Media Server Activity
 - [paukiatwee/budgetapp](https://github.com/paukiatwee/budgetapp) - Open source personal budgeting application
@@ -298,6 +299,8 @@
 
 ## Others 
 
+- [apptension/developer-handbook](https://github.com/apptension/developer-handbook) - An opinionated guide on how to become a professional Web/Mobile App Developer.
+- [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
 - [brettpetch/plex-cdn](https://github.com/brettpetch/plex-cdn) - This is an example of how to proxy Plex instances through NGINX, caching posters at the edge.
 - [Gameplex-Software/SkiffUI](https://github.com/Gameplex-Software/SkiffUI) - Create docker images at the click of a button, and manage your network with an easy to use UI
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
