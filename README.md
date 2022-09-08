@@ -22,6 +22,8 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
+- [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
@@ -294,6 +296,14 @@
 - [microsoft/Microsoft-365-Defender-Hunting-Queries](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries) - Sample queries for Advanced hunting in Microsoft 365 Defender
 - [jfeil/HelloFresh-Tandoor-Converter](https://github.com/jfeil/HelloFresh-Tandoor-Converter) - Jupyter-Notebook for retrieving all hellofresh recipes and importing them into Tandoor via the API
 
+## Kotlin 
+
+- [caydey/ffshare](https://github.com/caydey/ffshare) - An Android app to compress images and videos through ffmpeg before sharing them
+
+## Lua 
+
+- [docker/dockercraft](https://github.com/docker/dockercraft) - Docker + Minecraft = Dockercraft
+
 ## Makefile 
 
 - [instrumentisto/restic-docker-image](https://github.com/instrumentisto/restic-docker-image) - restic Docker image (backup utility)
@@ -443,6 +453,7 @@
 
 ## Python 
 
+- [opszero/nixtune](https://github.com/opszero/nixtune) - High Performance Tuning for Linux
 - [dawtmaytrikx/pySceneTools](https://github.com/dawtmaytrikx/pySceneTools) - Collection of Python tools for SCENE afficionados.
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [daveshap/PlainTextWikipedia](https://github.com/daveshap/PlainTextWikipedia) - Convert Wikipedia database dumps into plaintext files
