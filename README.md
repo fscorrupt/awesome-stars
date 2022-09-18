@@ -399,6 +399,7 @@
 
 ## PowerShell 
 
+- [aaronparker/packagefactory](https://github.com/aaronparker/packagefactory) - Integrating Evergreen, VcRedist, IntuneWin32App and IntuneWin32AppPackager to create a packaging factory
 - [Mauvlans/OneDrive](https://github.com/Mauvlans/OneDrive) - 
 - [The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool) - The script and configuration files in this repository provide an easy method to customize and apply performance related settings to virtual desktop environments.
 - [microsoft/Test-NetStack](https://github.com/microsoft/Test-NetStack) - This tool tests the native, synthetic, and hardware network data path
@@ -651,6 +652,7 @@
 
 ## TypeScript 
 
+- [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
