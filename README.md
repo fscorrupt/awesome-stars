@@ -103,6 +103,8 @@
 
 ## C++ 
 
+- [shieman/VideoProcess](https://github.com/shieman/VideoProcess) - Denoise, Colorize, Upscale Resolution, Video Stabilization, Increase FPS.
+- [Mew463/Project-l0ckcr4ck3r](https://github.com/Mew463/Project-l0ckcr4ck3r) - 
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
@@ -407,6 +409,7 @@
 
 ## PowerShell 
 
+- [arsscriptum/PowerShell.Module.InvokeWinGet](https://github.com/arsscriptum/PowerShell.Module.InvokeWinGet) - Module to Invoke WinGet via PowerShell and parse the command outputs in PSCustomObjects
 - [aaronparker/packagefactory](https://github.com/aaronparker/packagefactory) - Integrating Evergreen, VcRedist, and IntuneWin32App to create a packaging factory
 - [Mauvlans/OneDrive](https://github.com/Mauvlans/OneDrive) - 
 - [The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool) - The script and configuration files in this repository provide an easy method to customize and apply performance related settings to virtual desktop environments.
@@ -483,6 +486,8 @@
 
 ## Python 
 
+- [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync) - A python script that syncs the movies, shows and ratings between trakt and Plex (without needing a PlexPass or Trakt VIP subscription)
+- [walkxcode/Dashboard-Icons](https://github.com/walkxcode/Dashboard-Icons) - ❤️ The best icons for your personal dashboard.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted free open source website change detection tracking, monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed f
 - [vstconsulting/polemarch](https://github.com/vstconsulting/polemarch) - Simple WEB gui for infrastructure management by ansible playbooks or modules. This is only mirror with bins in releases.
