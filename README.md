@@ -25,6 +25,7 @@
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Logos](#logos)
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -57,6 +58,7 @@
 
 ## C 
 
+- [b1n4r1b01/desc_race](https://github.com/b1n4r1b01/desc_race) - iOS 15.1 kernel exploit POC for CVE-2021-30955
 - [jbara2002/windows-defender-remover](https://github.com/jbara2002/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 - [geekuillaume/soundsync](https://github.com/geekuillaume/soundsync) - Virtual cables between any audio source and any speaker in your home
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
@@ -327,6 +329,10 @@
 
 - [caydey/ffshare](https://github.com/caydey/ffshare) - An Android app to compress images and videos through ffmpeg before sharing them
 
+## Logos 
+
+- [Kc57/iHide](https://github.com/Kc57/iHide) - A utility for hiding jailbreak from iOS applications
+
 ## Lua 
 
 - [docker/dockercraft](https://github.com/docker/dockercraft) - Docker + Minecraft = Dockercraft
@@ -409,7 +415,6 @@
 
 ## PowerShell 
 
-- [arsscriptum/PowerShell.Module.InvokeWinGet](https://github.com/arsscriptum/PowerShell.Module.InvokeWinGet) - Module to Invoke WinGet via PowerShell and parse the command outputs in PSCustomObjects
 - [aaronparker/packagefactory](https://github.com/aaronparker/packagefactory) - Integrating Evergreen, VcRedist, and IntuneWin32App to create a packaging factory
 - [Mauvlans/OneDrive](https://github.com/Mauvlans/OneDrive) - 
 - [The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool) - The script and configuration files in this repository provide an easy method to customize and apply performance related settings to virtual desktop environments.
