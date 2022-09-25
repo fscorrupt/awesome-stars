@@ -416,7 +416,7 @@
 
 ## PowerShell 
 
-- [aaronparker/packagefactory](https://github.com/aaronparker/packagefactory) - Integrating Evergreen, VcRedist, and IntuneWin32App to create a packaging factory
+- [aaronparker/packagefactory](https://github.com/aaronparker/packagefactory) - Integrating Evergreen, VcRedist, and IntuneWin32App to create a packaging factory for Microsoft Intune
 - [Mauvlans/OneDrive](https://github.com/Mauvlans/OneDrive) - 
 - [The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool) - The script and configuration files in this repository provide an easy method to customize and apply performance related settings to virtual desktop environments.
 - [microsoft/Test-NetStack](https://github.com/microsoft/Test-NetStack) - This tool tests the native, synthetic, and hardware network data path
