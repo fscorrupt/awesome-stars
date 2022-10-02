@@ -72,6 +72,7 @@
 
 ## C# # 
 
+- [PowerShell/GraphicalTools](https://github.com/PowerShell/GraphicalTools) - Modules that mix PowerShell and GUIs/CUIs! - built on Avalonia and gui.cs
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [nicolonsky/IntuneDriveMapping](https://github.com/nicolonsky/IntuneDriveMapping) - Generate PowerShell scripts to map network drives on Intune managed Windows 10 devices
 - [Sanakan8472/copy-dialog-lunar-lander](https://github.com/Sanakan8472/copy-dialog-lunar-lander) - Play lunar lander in you windows file copy dialog
@@ -323,7 +324,6 @@
 ## Jupyter Notebook 
 
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-- [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 - [microsoft/Microsoft-365-Defender-Hunting-Queries](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries) - Sample queries for Advanced hunting in Microsoft 365 Defender
 - [jfeil/HelloFresh-Tandoor-Converter](https://github.com/jfeil/HelloFresh-Tandoor-Converter) - Jupyter-Notebook for retrieving all hellofresh recipes and importing them into Tandoor via the API
@@ -508,6 +508,7 @@
 - [vstconsulting/polemarch](https://github.com/vstconsulting/polemarch) - Simple WEB gui for infrastructure management by ansible playbooks or modules. This is only mirror with bins in releases.
 - [Inboxen/Inboxen](https://github.com/Inboxen/Inboxen) - Main repo for Inboxen.org
 - [grssmnn/ha-flexispot-standing-desk](https://github.com/grssmnn/ha-flexispot-standing-desk) - Home Assistant integration for a standing desk by Flexispot in micropython
+- [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [skavngr/rapidscan](https://github.com/skavngr/rapidscan) - :new: The Multi-Tool Web Vulnerability Scanner.
 - [evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning
 - [almandin/fuxploider](https://github.com/almandin/fuxploider) - File upload vulnerability scanner and exploitation tool.
