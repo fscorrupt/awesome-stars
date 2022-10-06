@@ -266,7 +266,7 @@
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [SixDigitCode/AirBridge](https://github.com/SixDigitCode/AirBridge) - AirMessage Bridge for SMServer!
-- [ferdium/ferdium-server](https://github.com/ferdium/ferdium-server) - 
+- [ferdium/ferdium-server](https://github.com/ferdium/ferdium-server) - The server component that can either be self-hosted or hosted for general purpose - for use with the ferdium thick client.
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller.
 - [open-source-labs/Docketeer](https://github.com/open-source-labs/Docketeer) - An easy-to-use GUI for Docker that allows developers to manage Docker containers and monitor crucial metrics.
@@ -354,6 +354,7 @@
 
 ## Others 
 
+- [MSEndpointMgr/IntuneDebugToolkit](https://github.com/MSEndpointMgr/IntuneDebugToolkit) - 
 - [zbetcheckin/Security_list](https://github.com/zbetcheckin/Security_list) - Great security list for fun and profit
 - [K4L4Uz/SFVIP-Player](https://github.com/K4L4Uz/SFVIP-Player) - 
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
