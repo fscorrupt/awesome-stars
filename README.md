@@ -78,6 +78,7 @@
 - [nicolonsky/IntuneDriveMapping](https://github.com/nicolonsky/IntuneDriveMapping) - Generate PowerShell scripts to map network drives on Intune managed Windows 10 devices
 - [Sanakan8472/copy-dialog-lunar-lander](https://github.com/Sanakan8472/copy-dialog-lunar-lander) - Play lunar lander in you windows file copy dialog
 - [vletoux/pingcastle](https://github.com/vletoux/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
+- [Ombrelin/plex-rich-presence](https://github.com/Ombrelin/plex-rich-presence) - A desktop app to enable discord rich presence for your Plex Media Server Activity
 - [redbaty/Wasari](https://github.com/redbaty/Wasari) - Downloads anime episodes
 - [PowerShell/PowerShellGet](https://github.com/PowerShell/PowerShellGet) - PowerShellGet is the package manager for PowerShell
 - [PowerShell/SecretStore](https://github.com/PowerShell/SecretStore) - 
@@ -254,7 +255,6 @@
 
 - [BrunoReX/jmkvpropedit](https://github.com/BrunoReX/jmkvpropedit) - Batch GUI for mkvpropedit
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
-- [Ombrelin/plex-rich-presence](https://github.com/Ombrelin/plex-rich-presence) - A desktop app to enable discord rich presence for your Plex Media Server Activity
 - [paukiatwee/budgetapp](https://github.com/paukiatwee/budgetapp) - Open source personal budgeting application
 - [logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) - Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228
 
@@ -665,7 +665,7 @@
 - [petersem/dockerholics](https://github.com/petersem/dockerholics) - Apps and examples from the Dockerholics group.
 - [AVENTER-UG/docker-matrix](https://github.com/AVENTER-UG/docker-matrix) - docker image for matrix.org
 - [animosity22/homescripts](https://github.com/animosity22/homescripts) - My Scripts for Plex / Emby with Dropbox and rclone
-- [Josh5/docker-steam-headless](https://github.com/Josh5/docker-steam-headless) - Headless Steam supporting NVIDIA GPU and accessible via NoVNC
+- [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - Headless Steam supporting NVIDIA GPU and accessible via NoVNC
 - [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install
 - [Makeshift/Marauder-Containers](https://github.com/Makeshift/Marauder-Containers) - The containers used in Makeshift/Marauder
 - [Makeshift/Marauder](https://github.com/Makeshift/Marauder) - A fully dockerized Media downloading solution utilising Google Drive as an unlimited disk backend
