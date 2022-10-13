@@ -54,7 +54,6 @@
 
 - [shirooo39/Windows-11-Bypass](https://github.com/shirooo39/Windows-11-Bypass) - Bypass Windows 11's system requirements in a simple and easy way.
 - [meisnate12/Plex-Meta-Manager-Configs](https://github.com/meisnate12/Plex-Meta-Manager-Configs) - Config files for Plex Meta Manager
-- [Gamers-Against-Weed/winactivate](https://github.com/Gamers-Against-Weed/winactivate) - Easy-to-use Windows HWID/KMS38 Activation Script.
 
 ## C 
 
@@ -353,6 +352,7 @@
 
 ## Others 
 
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [MSEndpointMgr/IntuneDebugToolkit](https://github.com/MSEndpointMgr/IntuneDebugToolkit) - 
 - [zbetcheckin/Security_list](https://github.com/zbetcheckin/Security_list) - Great security list for fun and profit
 - [K4L4Uz/SFVIP-Player](https://github.com/K4L4Uz/SFVIP-Player) - 
