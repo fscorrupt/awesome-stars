@@ -106,6 +106,7 @@
 
 ## C++ 
 
+- [riverar/mach2](https://github.com/riverar/mach2) - Windows Feature Control Multi-tool
 - [denandz/KeeFarce](https://github.com/denandz/KeeFarce) - Extracts passwords from a KeePass 2.x database, directly from memory.
 - [shieman/VideoProcess](https://github.com/shieman/VideoProcess) - Denoise, Colorize, Upscale Resolution, Video Stabilization, Increase FPS.
 - [Mew463/Project-l0ckcr4ck3r](https://github.com/Mew463/Project-l0ckcr4ck3r) - 
@@ -146,6 +147,7 @@
 
 ## Dockerfile 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting(on premises & private web servers) and managing software applications by yourself or your organization.
 - [PowerShell/PowerShell-Docker](https://github.com/PowerShell/PowerShell-Docker) - Repository for building PowerShell Docker images
 - [techno-tim/launchpad](https://github.com/techno-tim/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
 - [mikolatero/docker-vlmcsd](https://github.com/mikolatero/docker-vlmcsd) - vlmcsd is a replacement for Microsoft's KMS server.
@@ -512,6 +514,7 @@
 
 ## Python 
 
+- [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - A node-based image processing GUI aimed at making chaining image processing tasks (especially upscaling done by neural networks) easy, intuitive, and customizable.
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
 - [NiNiyas/Bettarr-Notifications](https://github.com/NiNiyas/Bettarr-Notifications) - Better Notifications for Sonarr, Radarr and Prowlarr. Supports Discord, Telegram, Slack, Pushover and ntfy.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
