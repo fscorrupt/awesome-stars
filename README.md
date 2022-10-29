@@ -191,7 +191,7 @@
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [r7wx/easy-gate](https://github.com/r7wx/easy-gate) - A gate to your self hosted infrastructure
 - [go-vikunja/api](https://github.com/go-vikunja/api) - Mirror of vikunja from https://code.vikunja.io/api
-- [fr3fou/discord-mutual-friends](https://github.com/fr3fou/discord-mutual-friends) - Stupid program for visualising Discord mutual friends
+- [fr3fou/discord-mutual-friends](https://github.com/fr3fou/discord-mutual-friends) - stupid program for visualising discord mutual friends
 - [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
 - [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) - Dockerized Signal Messenger REST API
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
@@ -464,6 +464,7 @@
 - [ShowUI/ShowUI](https://github.com/ShowUI/ShowUI) - ShowUI is a PowerShell module to help build graphical user interfaces in script.
 - [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
 - [jseerden/IntuneBackupAndRestore](https://github.com/jseerden/IntuneBackupAndRestore) - PowerShell Module that queries Microsoft Graph, and allows for cross-tenant Backup & Restore actions of your Intune Configuration.
+- [bullmoose20/Plex-Stuff](https://github.com/bullmoose20/Plex-Stuff) - Random plex related stuff
 - [mzmaili/TestDeviceRegConnectivity](https://github.com/mzmaili/TestDeviceRegConnectivity) - Test-DeviceRegConnectivity PowerShell script helps to test the Internet connectivity to Microsoft resources under the system context to validate the connection status when troubleshooting Hybrid Azure
 - [ThomasKur/M365Documentation](https://github.com/ThomasKur/M365Documentation) - Automatic Microsoft 365 Documentation to simplify the life of admins and consultants.
 - [ThomasKur/IntuneDocumentation](https://github.com/ThomasKur/IntuneDocumentation) - Automatic Intune Documentation to simplify the life of admins and consultants.
@@ -558,7 +559,6 @@
 - [ShokoAnime/ShokoOnPlex](https://github.com/ShokoAnime/ShokoOnPlex) - Repository for Shoko On Plex, a Plex channel plugin.
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-- [bullmoose20/Plex-Stuff](https://github.com/bullmoose20/Plex-Stuff) - Random plex related stuff
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [Sleepingpirates/Invitarr](https://github.com/Sleepingpirates/Invitarr) - Plex Discord Bot to invite a user to a plex server
