@@ -242,6 +242,7 @@
 - [leoherzog/ScheduleQuest](https://github.com/leoherzog/ScheduleQuest) - 📅 A free and open source web app to make it easy for others to schedule with you
 - [RootMyTV/RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io) - RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
 - [ajax-lives/NoRussian](https://github.com/ajax-lives/NoRussian) - Volunteer DoS tool via HTML + JS
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [harsh98trivedi/links](https://github.com/harsh98trivedi/links) - A Beautiful Jekyll Theme For Links
 - [TRaSH-/Guides](https://github.com/TRaSH-/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
@@ -450,7 +451,7 @@
 - [microsoft/Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC) - Manages, configures, extracts and monitors Microsoft 365 tenant configurations
 - [ThomasKur/ModernWorkplaceClientCenter](https://github.com/ThomasKur/ModernWorkplaceClientCenter) - This repository will be the home of a PowerShell Module, which helps to simplify tasks on MDM managed Windows clients. In a second step there will be a UI, which leverages these PowerShell functions f
 - [EvotecIT/ADEssentials](https://github.com/EvotecIT/ADEssentials) - PowerShell Active Directory helper functions to manage healthy Active Directory
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 400+ useful cross-platform PowerShell scripts.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts.
 - [EvotecIT/PSWriteHTML](https://github.com/EvotecIT/PSWriteHTML) - PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 - [ATVWGS/tenant-management-framework](https://github.com/ATVWGS/tenant-management-framework) - The Tenant Management Framework is a Powershell module that is able to create, update and delete resources or settings via the Microsoft Graph API.
 - [mzmaili/DSRegTool](https://github.com/mzmaili/DSRegTool) - DSRegTool PowerShell is a comprehensive tool that performs more than 30 different tests that help you to identify and fix the most common device registration issues for all join types.
@@ -740,7 +741,6 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [se1exin/Cleanarr](https://github.com/se1exin/Cleanarr) - A simple UI to help find and delete duplicate and sample files from your Plex server
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [MarcusOtter/discord-needle](https://github.com/MarcusOtter/discord-needle) - Needle is a Discord bot that creates Discord threads automatically.
 - [sct/discord-support-threads](https://github.com/sct/discord-support-threads) - 
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
