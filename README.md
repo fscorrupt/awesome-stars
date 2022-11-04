@@ -148,6 +148,7 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) - Documentation and Examples of base container modifications
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting(on premises & private web servers) and managing software applications by yourself or your organization.
 - [PowerShell/PowerShell-Docker](https://github.com/PowerShell/PowerShell-Docker) - Repository for building PowerShell Docker images
 - [techno-tim/launchpad](https://github.com/techno-tim/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
@@ -641,7 +642,7 @@
 
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - https://crates.io/crates/topgrade-rs/
+- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
