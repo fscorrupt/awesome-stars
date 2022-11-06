@@ -521,6 +521,8 @@
 
 ## Python 
 
+- [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
+- [angr/angr-management](https://github.com/angr/angr-management) - The official angr GUI.
 - [dfop02/auto-sub](https://github.com/dfop02/auto-sub) - Automatically subtitle a video from almost any language to your native language with at least 70% of precision.
 - [rmountjoy92/DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
 - [chazlarson/Media-Scripts](https://github.com/chazlarson/Media-Scripts) - 
