@@ -521,6 +521,8 @@
 
 ## Python 
 
+- [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+- [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - :mag: A Complete Osint Tool
 - [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 - [angr/angr-management](https://github.com/angr/angr-management) - The official angr GUI.
 - [dfop02/auto-sub](https://github.com/dfop02/auto-sub) - Automatically subtitle a video from almost any language to your native language with at least 70% of precision.
@@ -607,7 +609,6 @@
 - [extrobe/plex_and_media_utilities](https://github.com/extrobe/plex_and_media_utilities) - Set of tools for managing Plex and Media Items
 - [CollinHeist/TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker) - Automated title card maker for Plex
 - [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies
-- [aelfa/Mr.Holmes](https://github.com/aelfa/Mr.Holmes) - :mag: A Complete Osint Tool
 - [mlsmithjr/plex-watchlist-migration](https://github.com/mlsmithjr/plex-watchlist-migration) - Script to migrate your "watch" list of media to a new Plex server.
 - [TheHumanRobot/Rollarr](https://github.com/TheHumanRobot/Rollarr) - This is the new and improved Plex Automatic Pre-roll script with a GUI
 - [Tkd-Alex/Twitch-Channel-Points-Miner-v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2) - A simple script that will watch a stream for you and earn the channel points.
