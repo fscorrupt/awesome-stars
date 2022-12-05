@@ -428,7 +428,6 @@
 - [opsdisk/the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - Free copy of The Cyber Plumber's Handbook
 - [obazoud/awesome-dashboard](https://github.com/obazoud/awesome-dashboard) - A curated list of amazingly awesome dashboards/visualization resources.
 - [DockStation/dockstation](https://github.com/DockStation/dockstation) - DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
-- [Hasnayeen/goodwork](https://github.com/Hasnayeen/goodwork) - https://github.com/Hasnayeen/legacy-goodwork
 
 ## PHP 
 
@@ -697,6 +696,7 @@
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman
+- [Hasnayeen/goodwork](https://github.com/Hasnayeen/goodwork) - https://github.com/Hasnayeen/legacy-goodwork
 
 ## Shell 
 
