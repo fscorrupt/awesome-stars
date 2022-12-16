@@ -120,6 +120,7 @@
 
 ## C++ 
 
+- [microsoft/SandboxSecurityTools](https://github.com/microsoft/SandboxSecurityTools) - Security testing tools for Windows sandboxing technologies
 - [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
 - [M2Team/NSudo](https://github.com/M2Team/NSudo) - Series of System Administration Tools
 - [riverar/mach2](https://github.com/riverar/mach2) - Windows Feature Control Multi-tool
@@ -390,6 +391,8 @@
 
 ## Others 
 
+- [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
+- [NicklasAhlberg/AutopilotTool](https://github.com/NicklasAhlberg/AutopilotTool) - No more need to struggle to manually get, move and import the csv-file from another device. All you need to do is run the tool (Shift+F10 when you get to pick your keyboard layout), start Autopilot To
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [ajfriesen/pc-switch](https://github.com/ajfriesen/pc-switch) - esp8266 board to turn on/off your PC with Home Assistant and ESPHome
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
@@ -441,6 +444,8 @@
 
 ## PHP 
 
+- [fr0tt/benotes](https://github.com/fr0tt/benotes) - An open source self hosted notes and bookmarks taking web app.
+- [proconsule/nspindexer](https://github.com/proconsule/nspindexer) - PHP Indexer for Switch NSP
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with Cakephp
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
@@ -466,6 +471,7 @@
 
 ## PowerShell 
 
+- [microsoft/ConditionalAccessforZeroTrustResources](https://github.com/microsoft/ConditionalAccessforZeroTrustResources) - ConditionalAccessforZeroTrustResources holding resources for Azure AD CA guidance for Zero Trust
 - [microsoft/Intune-DeviceAdmins](https://github.com/microsoft/Intune-DeviceAdmins) - Code samples from the team that manages Intune and ConfigMgr for Microsoft
 - [DeploymentResearch/DRFiles](https://github.com/DeploymentResearch/DRFiles) - Sample files for the Deployment Research Blog
 - [microsoft/ARI](https://github.com/microsoft/ARI) - Azure Resource Inventory - It's a Powerful tool to create EXCEL inventory from Azure Resources with low effort
