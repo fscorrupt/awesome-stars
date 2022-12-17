@@ -564,6 +564,7 @@
 
 ## Python 
 
+- [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
 - [google/glazier](https://github.com/google/glazier) - A tool for automating the installation of the Microsoft Windows operating system on various device platforms.
 - [cyphar/orca-build](https://github.com/cyphar/orca-build) - Build OCI images from Dockerfiles.
 - [RogerSelwyn/O365-HomeAssistant](https://github.com/RogerSelwyn/O365-HomeAssistant) - Office 365 integration for Home Assistant
