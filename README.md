@@ -125,7 +125,7 @@
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Sunshine is a Gamestream host for Moonlight.
 - [microsoft/SandboxSecurityTools](https://github.com/microsoft/SandboxSecurityTools) - Security testing tools for Windows sandboxing technologies
 - [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
-- [M2Team/NSudo](https://github.com/M2Team/NSudo) - Series of System Administration Tools
+- [M2Team/NSudo](https://github.com/M2Team/NSudo) - [Deprecated, work in progress alternative: https://github.com/M2Team/NanaRun] Series of System Administration Tools
 - [riverar/mach2](https://github.com/riverar/mach2) - Windows Feature Control Multi-tool
 - [denandz/KeeFarce](https://github.com/denandz/KeeFarce) - Extracts passwords from a KeePass 2.x database, directly from memory.
 - [shieman/VideoProcess](https://github.com/shieman/VideoProcess) - Denoise, Colorize, Upscale Resolution, Video Stabilization, Increase FPS.
@@ -377,6 +377,7 @@
 
 ## Kotlin 
 
+- [itszechs/DriveStream](https://github.com/itszechs/DriveStream) - Stream video files from Google drive
 - [binwiederhier/ntfy-android](https://github.com/binwiederhier/ntfy-android) - Android app for ntfy.sh
 - [caydey/ffshare](https://github.com/caydey/ffshare) - An Android app to compress images and videos through ffmpeg before sharing them
 
@@ -733,6 +734,7 @@
 
 ## Shell 
 
+- [ChuckPa/PlexDBRepair](https://github.com/ChuckPa/PlexDBRepair) - Database repair utility for Plex Media Server databases
 - [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
