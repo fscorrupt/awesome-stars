@@ -351,6 +351,7 @@
 - [petio-team/petio](https://github.com/petio-team/petio) - Petio Request, Discover, Review
 - [Peppermint-Lab/peppermint](https://github.com/Peppermint-Lab/peppermint) - An open source ticket management & help desk solution. A freshdesk alternative
 - [petersem/monocker](https://github.com/petersem/monocker) - 
+- [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [JasonHHouse/gaps](https://github.com/JasonHHouse/gaps) - Find the missing movies in your Plex Server
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
@@ -469,7 +470,6 @@
 - [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, drag-and-drop, & nosql file conversion server & share tool that supports 75 file formats in 13 languages.
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [qdm12/2FAuth](https://github.com/qdm12/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
-- [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
 
@@ -481,6 +481,7 @@
 
 ## PowerShell 
 
+- [Integration-IT/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
 - [Azure-Samples/DSRegTool](https://github.com/Azure-Samples/DSRegTool) - 
 - [microsoft/ConditionalAccessforZeroTrustResources](https://github.com/microsoft/ConditionalAccessforZeroTrustResources) - ConditionalAccessforZeroTrustResources holding resources for Azure AD CA guidance for Zero Trust
 - [microsoft/Intune-DeviceAdmins](https://github.com/microsoft/Intune-DeviceAdmins) - Code samples from the team that manages Intune and ConfigMgr for Microsoft
