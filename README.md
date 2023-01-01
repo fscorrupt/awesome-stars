@@ -127,7 +127,7 @@
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Sunshine is a Gamestream host for Moonlight.
 - [microsoft/SandboxSecurityTools](https://github.com/microsoft/SandboxSecurityTools) - Security testing tools for Windows sandboxing technologies
 - [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
-- [M2Team/NSudo](https://github.com/M2Team/NSudo) - [Deprecated, work in progress alternative: https://github.com/M2Team/NanaRun] Series of System Administration Tools
+- [M2TeamArchived/NSudo](https://github.com/M2TeamArchived/NSudo) - [Deprecated, work in progress alternative: https://github.com/M2Team/NanaRun] Series of System Administration Tools
 - [riverar/mach2](https://github.com/riverar/mach2) - Windows Feature Control Multi-tool
 - [denandz/KeeFarce](https://github.com/denandz/KeeFarce) - Extracts passwords from a KeePass 2.x database, directly from memory.
 - [shieman/VideoProcess](https://github.com/shieman/VideoProcess) - Denoise, Colorize, Upscale Resolution, Video Stabilization, Increase FPS.
