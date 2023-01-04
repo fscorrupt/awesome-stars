@@ -530,7 +530,7 @@
 - [pester/Pester](https://github.com/pester/Pester) - Pester is the ubiquitous test and mock framework for PowerShell.
 - [AnoopCNair/ConfigMgr-Infra-Monitoring](https://github.com/AnoopCNair/ConfigMgr-Infra-Monitoring) - Let's check ConfigMgr Infra monitoring script
 - [ddneves/PSGUI](https://github.com/ddneves/PSGUI) - Powershell GUI with XAML WPF
-- [GruberMarkus/Set-OutlookSignatures](https://github.com/GruberMarkus/Set-OutlookSignatures) - Centrally manage and deploy Outlook text signatures and Out of Office auto reply messages.
+- [GruberMarkus/Set-OutlookSignatures](https://github.com/GruberMarkus/Set-OutlookSignatures) - Centrally manage and deploy Outlook text signatures and Out of Office auto reply messages
 - [ShowUI/ShowUI](https://github.com/ShowUI/ShowUI) - ShowUI is a PowerShell module to help build graphical user interfaces in script.
 - [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
 - [jseerden/IntuneBackupAndRestore](https://github.com/jseerden/IntuneBackupAndRestore) - PowerShell Module that queries Microsoft Graph, and allows for cross-tenant Backup & Restore actions of your Intune Configuration.
@@ -591,7 +591,7 @@
 - [google/glazier](https://github.com/google/glazier) - A tool for automating the installation of the Microsoft Windows operating system on various device platforms.
 - [cyphar/orca-build](https://github.com/cyphar/orca-build) - Build OCI images from Dockerfiles.
 - [RogerSelwyn/O365-HomeAssistant](https://github.com/RogerSelwyn/O365-HomeAssistant) - Office 365 integration for Home Assistant
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: a package manager for Winget and Scoop
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: a graphical user interface for Winget and Scoop
 - [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
 - [greenMikeEU/SmartMeterEVNKaifaMA309](https://github.com/greenMikeEU/SmartMeterEVNKaifaMA309) - Dieses Projekt ermöglicht es den Smartmeter der EVN (Netz Niederösterreich) über die Kundenschnittstelle auszulesen.
 - [greenMikeEU/SmartMeterEVNSagemcom-T210-D](https://github.com/greenMikeEU/SmartMeterEVNSagemcom-T210-D) - Dieses Projekt ermöglicht es den Smartmeter der EVN (Netz Niederösterreich) über die Kundenschnittstelle auszulesen.
