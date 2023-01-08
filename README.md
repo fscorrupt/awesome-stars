@@ -152,6 +152,7 @@
 
 ## CSS 
 
+- [kamyroll/Kamyroll-Tauri](https://github.com/kamyroll/Kamyroll-Tauri) - Kamyroll-Tauri is a computer client allowing you to view your favorite anime thanks to Kamyroll.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [matt8707/hass-config](https://github.com/matt8707/hass-config) - ✨ A different take on designing a Lovelace UI (Dashboard)
 - [wefuzz/books](https://github.com/wefuzz/books) - 
@@ -196,6 +197,8 @@
 
 ## Go 
 
+- [ovo/crunchyrip](https://github.com/ovo/crunchyrip) - Download full episodes from Crunchyroll
+- [crunchy-labs/crunchyroll-go](https://github.com/crunchy-labs/crunchyroll-go) - 📚 A Crunchyroll (beta) API implementation in Go
 - [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
 - [wanjohiryan/qwantify](https://github.com/wanjohiryan/qwantify) - Self hosted cloud gaming with friends, right from the browser
 - [NebulaZer0/AniScraper](https://github.com/NebulaZer0/AniScraper) - API that scrapes anime torrent magnets from AnimeTosho.
@@ -729,6 +732,7 @@
 
 ## Rust 
 
+- [Stremio/stremio-core](https://github.com/Stremio/stremio-core) - ⚛️ The Stremio Core: types, addon system, UI models, core logic
 - [afonsojramos/discrakt](https://github.com/afonsojramos/discrakt) - The Trakt 🎥 Plex ▶️ Discord 🎮 Rich Presence that you didn't know you needed.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -867,6 +871,7 @@
 
 ## Visual Basic .NET 
 
+- [hama3254/Crunchyroll-Downloader-v3.0](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) - Downloader for Crunchyroll
 - [kimmknight/remoteapptool](https://github.com/kimmknight/remoteapptool) - Create and manage RemoteApps hosted on Windows 7, 8, 10, XP and Server. Generate RDP and MSI files for clients.
 - [staxrip/staxrip](https://github.com/staxrip/staxrip) - 🎞 Video encoding GUI for Windows.
 - [stax76/File-Type-Registry-Viewer](https://github.com/stax76/File-Type-Registry-Viewer) - File Type Registry Viewer shows registry keys related to a defined file type.
