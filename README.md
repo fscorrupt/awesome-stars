@@ -154,6 +154,7 @@
 
 - [kamyroll/Kamyroll-Tauri](https://github.com/kamyroll/Kamyroll-Tauri) - Kamyroll-Tauri is a computer client allowing you to view your favorite anime thanks to Kamyroll.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [troinine/hass-config](https://github.com/troinine/hass-config) - 🏠 My Home Assistant configuration
 - [matt8707/hass-config](https://github.com/matt8707/hass-config) - ✨ A different take on designing a Lovelace UI (Dashboard)
 - [wefuzz/books](https://github.com/wefuzz/books) - 
 - [Just5KY/SkyPi](https://github.com/Just5KY/SkyPi) - selfhosting on a budget
@@ -315,7 +316,6 @@
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
-- [troinine/hass-config](https://github.com/troinine/hass-config) - My Home Assistant configuration
 - [lukevink/hass-config-lajv](https://github.com/lukevink/hass-config-lajv) - Home Assistant Configuration
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
 - [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
@@ -395,7 +395,7 @@
 
 - [itszechs/DriveStream](https://github.com/itszechs/DriveStream) - Stream video files from Google drive
 - [binwiederhier/ntfy-android](https://github.com/binwiederhier/ntfy-android) - Android app for ntfy.sh
-- [caydey/ffshare](https://github.com/caydey/ffshare) - An Android app to compress images and videos through ffmpeg before sharing them
+- [caydey/ffshare](https://github.com/caydey/ffshare) - An android app to compress image, video and audio files through ffmpeg before sharing them
 
 ## Logos 
 
@@ -596,6 +596,8 @@
 
 ## Python 
 
+- [shaunkleyn/PMM-Config](https://github.com/shaunkleyn/PMM-Config) - 
+- [lupohan44/GamesHub](https://github.com/lupohan44/GamesHub) - 
 - [majikat768/HuntStatsLogger](https://github.com/majikat768/HuntStatsLogger) - stats logger for Hunt: Showdown
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
 - [google/glazier](https://github.com/google/glazier) - A tool for automating the installation of the Microsoft Windows operating system on various device platforms.
