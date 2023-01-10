@@ -536,7 +536,7 @@
 - [mzmaili/DSRegTool](https://github.com/mzmaili/DSRegTool) - DSRegTool PowerShell is a comprehensive tool that performs more than 30 different tests that help you to identify and fix the most common device registration issues for all join types.
 - [maurice-daly/DriverAutomationTool](https://github.com/maurice-daly/DriverAutomationTool) - Home of the Driver Automation Tool
 - [microsoft/PowerStig](https://github.com/microsoft/PowerStig) - STIG Automation
-- [GruberMarkus/Export-RecipientPermissions](https://github.com/GruberMarkus/Export-RecipientPermissions) - Document, filter and compare Exchange permissions: Mailbox Access Rights, Mailbox Folder permissions, Public Folder permissions, Send As, Send On Behalf, Managed By, Linked Master Accounts, Forwarders
+- [GruberMarkus/Export-RecipientPermissions](https://github.com/GruberMarkus/Export-RecipientPermissions) - Document, filter and compare Exchange permissions: Mailbox access rights, mailbox folder permissions, public folder permissions, send as, send on behalf, managed by, moderated by, linked master accoun
 - [pester/Pester](https://github.com/pester/Pester) - Pester is the ubiquitous test and mock framework for PowerShell.
 - [AnoopCNair/ConfigMgr-Infra-Monitoring](https://github.com/AnoopCNair/ConfigMgr-Infra-Monitoring) - Let's check ConfigMgr Infra monitoring script
 - [ddneves/PSGUI](https://github.com/ddneves/PSGUI) - Powershell GUI with XAML WPF
@@ -596,7 +596,7 @@
 
 ## Python 
 
-- [shaunkleyn/PMM-Config](https://github.com/shaunkleyn/PMM-Config) - 
+- [shaunkleyn/PMM-Config](https://github.com/shaunkleyn/PMM-Config) - Configs for Plex Meta Manager
 - [lupohan44/GamesHub](https://github.com/lupohan44/GamesHub) - 
 - [majikat768/HuntStatsLogger](https://github.com/majikat768/HuntStatsLogger) - stats logger for Hunt: Showdown
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
