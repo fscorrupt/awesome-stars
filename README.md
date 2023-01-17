@@ -274,6 +274,7 @@
 
 ## HTML 
 
+- [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [petersem/posterr](https://github.com/petersem/posterr) - A digital poster app for Plex, Sonarr, Radarr, and Readarr
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, 
@@ -282,7 +283,6 @@
 - [containers-stack/willy](https://github.com/containers-stack/willy) - Willy is a web service that can be used to manage Docker. The application allows you to manage all your orchestrator resources (containers, images, volumes, networks and more) through a GUI.
 - [open-source-labs/Docketeer](https://github.com/open-source-labs/Docketeer) - An easy-to-use GUI for Docker that allows developers to manage Docker containers and monitor crucial metrics.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [leoherzog/ScheduleQuest](https://github.com/leoherzog/ScheduleQuest) - 📅 A free and open source web app to make it easy for others to schedule with you
 - [RootMyTV/RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io) - RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
@@ -499,7 +499,7 @@
 
 ## PowerShell 
 
-- [dfinke/PowerShellAI](https://github.com/dfinke/PowerShellAI) - GPT-3 in your PowerShell command line
+- [dfinke/PowerShellAI](https://github.com/dfinke/PowerShellAI) - GPT-3 on the PowerShell command line
 - [RomansPriv/PSChatGPT](https://github.com/RomansPriv/PSChatGPT) - PowerShell into the ChatGPT OpenAI API
 - [FrankysWeb/Get-ExchangeStatus](https://github.com/FrankysWeb/Get-ExchangeStatus) - Display Exchange Server Health Status
 - [Integration-IT/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
