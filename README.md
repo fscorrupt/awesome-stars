@@ -172,6 +172,7 @@
 
 ## Dart 
 
+- [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 - [JagandeepBrar/LunaSea](https://github.com/JagandeepBrar/LunaSea) - Self-hosted software controller built using Flutter
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [go-vikunja/app](https://github.com/go-vikunja/app) - 
@@ -622,7 +623,7 @@
 - [NiNiyas/Bettarr-Notifications](https://github.com/NiNiyas/Bettarr-Notifications) - Better Notifications for Sonarr, Radarr and Prowlarr. Supports Discord, Telegram, Slack, Pushover and ntfy.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
 - [dainok/netdoc](https://github.com/dainok/netdoc) - Network Documentation plugin for NetBox
-- [in9uz/Above](https://github.com/in9uz/Above) - Sniff-based Network Vulnerability Scanner
+- [c4s73r/Above](https://github.com/c4s73r/Above) - Network Vulnerability Scanner
 - [BananaPukeh/plex-music-grabber](https://github.com/BananaPukeh/plex-music-grabber) - Automate grabbing missing Plex theme songs
 - [JvSomeren/tautulli-watched-sync](https://github.com/JvSomeren/tautulli-watched-sync) - Use this script to make Tautulli for plex synchronize watched TV Shows to Trakt.tv and movies to Letterboxd
 - [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync) - A python script that syncs the movies, shows and ratings between trakt and Plex (without needing a PlexPass or Trakt VIP subscription)
@@ -734,6 +735,7 @@
 
 ## Rust 
 
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [Stremio/stremio-core](https://github.com/Stremio/stremio-core) - ⚛️ The Stremio Core: types, addon system, UI models, core logic
 - [afonsojramos/discrakt](https://github.com/afonsojramos/discrakt) - The Trakt 🎥 Plex ▶️ Discord 🎮 Rich Presence that you didn't know you needed.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
