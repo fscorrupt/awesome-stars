@@ -673,7 +673,7 @@
 - [klezVirus/chameleon](https://github.com/klezVirus/chameleon) - PowerShell Script Obfuscator
 - [byt3bl33d3r/DeathStar](https://github.com/byt3bl33d3r/DeathStar) - Uses Empire's (https://github.com/BC-SECURITY/Empire) RESTful API to automate gaining Domain and/or Enterprise Admin rights in Active Directory environments using some of the most common offensive TTP
 - [Porchetta-Industries/CrackMapExec](https://github.com/Porchetta-Industries/CrackMapExec) - A swiss army knife for pentesting networks
-- [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux
+- [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [Nexius2/Plex_User_Manager](https://github.com/Nexius2/Plex_User_Manager) - tool to manage plex users
 - [ilarramendi/BetterCovers](https://github.com/ilarramendi/BetterCovers) - BetterCovers is a fully customizable script to automaticaly generate covers and backdrops with embeded ratings, mediainfo, language, certifications, age ratings, source, production companies, etc!
