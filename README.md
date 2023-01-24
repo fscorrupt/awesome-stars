@@ -59,6 +59,7 @@
 ## Batchfile 
 
 - [shirooo39/Windows-11-Bypass](https://github.com/shirooo39/Windows-11-Bypass) - Bypass Windows 11's system requirements in a simple and easy way.
+- [jbara2002/windows-defender-remover](https://github.com/jbara2002/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 - [meisnate12/Plex-Meta-Manager-Configs](https://github.com/meisnate12/Plex-Meta-Manager-Configs) - Config files for Plex Meta Manager
 
 ## Bicep 
@@ -71,7 +72,6 @@
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [microsoft/etl2pcapng](https://github.com/microsoft/etl2pcapng) - Utility that converts an .etl file containing a Windows network packet capture into .pcapng format.
 - [b1n4r1b01/desc_race](https://github.com/b1n4r1b01/desc_race) - iOS 15.1 kernel exploit POC for CVE-2021-30955
-- [jbara2002/windows-defender-remover](https://github.com/jbara2002/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 - [geekuillaume/soundsync](https://github.com/geekuillaume/soundsync) - Virtual cables between any audio source and any speaker in your home
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
