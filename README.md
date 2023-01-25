@@ -341,7 +341,7 @@
 - [schmm2/mem-gaa](https://github.com/schmm2/mem-gaa) - Microsoft Endpoint Manager - Group Assignment Analyzer
 - [MehediH/winstall](https://github.com/MehediH/winstall) - A web app for browsing and installing Windows Package Manager apps.
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
-- [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden) - A self-hosted bookmark + archive manager to store your useful links.
+- [Daniel31x13/linkwarden](https://github.com/Daniel31x13/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
 - [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 - [adamfowlerit/msportals.io](https://github.com/adamfowlerit/msportals.io) - Microsoft Administrator Sites
 - [RemiRigal/Overseerr-Assistant](https://github.com/RemiRigal/Overseerr-Assistant) - Browser extension for Overseerr that embeds buttons into IMDb and TMDB web pages to easily request movies and tv shows.
@@ -601,6 +601,7 @@
 
 ## Python 
 
+- [fhamborg/news-please](https://github.com/fhamborg/news-please) - news-please - an integrated web crawler and information extractor for news that just works
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
 - [irodimus/Plex-scripts](https://github.com/irodimus/Plex-scripts) - Scripts that I made regarding Plex and the whole media stuff around it
 - [hansratzinger/smartmeter-docker](https://github.com/hansratzinger/smartmeter-docker) - Smartmeter für EVN-Kunden auf Docker
