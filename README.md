@@ -153,7 +153,6 @@
 
 ## CSS 
 
-- [kamyroll/Kamyroll-Tauri](https://github.com/kamyroll/Kamyroll-Tauri) - Kamyroll-Tauri is a computer client allowing you to view your favorite anime thanks to Kamyroll.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [matt8707/hass-config](https://github.com/matt8707/hass-config) - ✨ A different take on designing a Lovelace UI (Dashboard)
 - [wefuzz/books](https://github.com/wefuzz/books) - 
