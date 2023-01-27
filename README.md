@@ -501,7 +501,7 @@
 ## PowerShell 
 
 - [TrimarcJake/Locksmith](https://github.com/TrimarcJake/Locksmith) - A tiny tool to identify and remediate common misconfigurations in Active Directory Certificate Services
-- [dfinke/PowerShellAI](https://github.com/dfinke/PowerShellAI) - GPT-3 on the PowerShell command line
+- [dfinke/PowerShellAI](https://github.com/dfinke/PowerShellAI) - PowerShell AI at command line
 - [RomansPriv/PSChatGPT](https://github.com/RomansPriv/PSChatGPT) - PowerShell into the ChatGPT OpenAI API
 - [FrankysWeb/Get-ExchangeStatus](https://github.com/FrankysWeb/Get-ExchangeStatus) - Display Exchange Server Health Status
 - [Integration-IT/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
