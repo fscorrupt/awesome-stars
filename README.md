@@ -189,6 +189,7 @@
 - [mikolatero/docker-vlmcsd](https://github.com/mikolatero/docker-vlmcsd) - vlmcsd is a replacement for Microsoft's KMS server.
 - [jauderho/dockerfiles](https://github.com/jauderho/dockerfiles) - Dockerfiles for various things
 - [linuxserver/docker-emulatorjs](https://github.com/linuxserver/docker-emulatorjs) - Web based retro emulation frontend with rom scanning and automated art ingestion.
+- [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [crazy-max/docker-healthchecks](https://github.com/crazy-max/docker-healthchecks) - Healthchecks Docker image
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 
@@ -596,7 +597,6 @@
 - [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
 - [windows-admins/ConfigMgr](https://github.com/windows-admins/ConfigMgr) - 
 - [jamesstringerparsec/Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - A Project dedicated to making GPU Partitioning on Windows easier!
-- [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 
 ## Python 
 
@@ -778,7 +778,7 @@
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.3 (semi-)tethered checkm8 jailbreak
 - [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) -  Permanent TouchID support 👆 for `sudo`.
 - [brokenscripts/authentik_traefik](https://github.com/brokenscripts/authentik_traefik) - Authentik behind Traefik
-- [fractalnetworksco/selfhosted-gateway](https://github.com/fractalnetworksco/selfhosted-gateway) - Route encrypted traffic to your local Docker containers through a cloud VPS with SNI via WireGuard. Ideal for self-hosting / self-hosted setups.
+- [fractalnetworksco/selfhosted-gateway](https://github.com/fractalnetworksco/selfhosted-gateway) - Securely route traffic to your local Docker containers through a cloud VPS with SNI over WireGuard. Ideal for self-hosting / self-hosted setups.
 - [lancachenet/monolithic](https://github.com/lancachenet/monolithic) - A monolithic lancache service capable of caching all CDNs in a single instance
 - [CasCas2/proxmox-hetzner](https://github.com/CasCas2/proxmox-hetzner) - proxmox post installation scripts
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
