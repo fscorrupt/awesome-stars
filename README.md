@@ -600,6 +600,7 @@
 
 ## Python 
 
+- [McCloudS/subgen](https://github.com/McCloudS/subgen) - Autogenerate subtitles using OpenAI Whisper Model via Plex and Tautulli
 - [fhamborg/news-please](https://github.com/fhamborg/news-please) - news-please - an integrated web crawler and information extractor for news that just works
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
 - [irodimus/Plex-scripts](https://github.com/irodimus/Plex-scripts) - Scripts that I made regarding Plex and the whole media stuff around it
