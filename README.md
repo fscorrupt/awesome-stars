@@ -183,7 +183,7 @@
 - [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image
 - [linuxserver/docker-scrutiny](https://github.com/linuxserver/docker-scrutiny) - 
 - [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) - Documentation and Examples of base container modifications
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including the Matter networking protocol t
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including the Matter networking protocol, 
 - [PowerShell/PowerShell-Docker](https://github.com/PowerShell/PowerShell-Docker) - Repository for building PowerShell Docker images
 - [techno-tim/launchpad](https://github.com/techno-tim/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
 - [mikolatero/docker-vlmcsd](https://github.com/mikolatero/docker-vlmcsd) - vlmcsd is a replacement for Microsoft's KMS server.
@@ -303,6 +303,7 @@
 
 ## Java 
 
+- [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 - [BrunoReX/jmkvpropedit](https://github.com/BrunoReX/jmkvpropedit) - Batch GUI for mkvpropedit
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [grimsi/gameyfin](https://github.com/grimsi/gameyfin) - A simple game library manager
@@ -372,7 +373,6 @@
 - [JasonHHouse/gaps](https://github.com/JasonHHouse/gaps) - Find the missing movies in your Plex Server
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [Chewbaka69/PlexShare](https://github.com/Chewbaka69/PlexShare) - Web Application standalone that provide management of local users, many PlexServer and it's libraries.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application and API that collects Plex statistics using Tautulli and displays it in a nice format. Similar to the Spotify Wrapped concept.
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [evoactivity/PlutoIPTV](https://github.com/evoactivity/PlutoIPTV) - Grab EPG & M3U from Pluto.tv
@@ -409,6 +409,7 @@
 ## Makefile 
 
 - [instrumentisto/restic-docker-image](https://github.com/instrumentisto/restic-docker-image) - restic Docker image (backup utility)
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [kubealex/k8s-mediaserver-operator](https://github.com/kubealex/k8s-mediaserver-operator) - Repository for k8s Mediaserver Operator project
 
 ## Markdown 
@@ -769,7 +770,7 @@
 
 ## Shell 
 
-- [mag37/dockcheck](https://github.com/mag37/dockcheck) - A script checking updates for docker images without the need of pulling - then having the option to auto-update.
+- [mag37/dockcheck](https://github.com/mag37/dockcheck) - A script checking updates for docker images without the need of pulling - then optionally auto-update chosen containers.
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [ChuckPa/PlexDBRepair](https://github.com/ChuckPa/PlexDBRepair) - Database repair utility for Plex Media Server databases
 - [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
