@@ -160,7 +160,6 @@
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
 - [tronyx/plpp](https://github.com/tronyx/plpp) - PHP Library Presenter for PLEX
 - [ryjo1026/plex-landing-page](https://github.com/ryjo1026/plex-landing-page) - A Landing Page for a Plex Media Server
-- [jkirkcaldy/plex-utills](https://github.com/jkirkcaldy/plex-utills) - Manage your Plex library automatically
 
 ## Clojure 
 
@@ -692,6 +691,7 @@
 - [mannkind/borg-rclone-autobackup](https://github.com/mannkind/borg-rclone-autobackup) - Easily automate backups using Borg + RClone
 - [AlexxIT/HassWP](https://github.com/AlexxIT/HassWP) - Portable version of Home Assistant for Windows (no need to install)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+- [jkirkcaldy/plex-utills](https://github.com/jkirkcaldy/plex-utills) - Manage your Plex library automatically
 - [dcragusa/HelloFreshRecipes](https://github.com/dcragusa/HelloFreshRecipes) - A project to download all of HelloFresh's recipes
 - [anubhavcodes/pyrecipes](https://github.com/anubhavcodes/pyrecipes) - An app to download recipes in usable formats like json, yaml etc.
 - [Chris230291/STB-Proxy](https://github.com/Chris230291/STB-Proxy) - 
@@ -838,7 +838,7 @@
 - [PreMiD/PreMiD](https://github.com/PreMiD/PreMiD) - 🧬 Source code of the PreMiD application.
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
 - [Christopher-Hayes/image-optimizer](https://github.com/Christopher-Hayes/image-optimizer) - A free and open source tool for optimizing images and vector graphics.
-- [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform.
+- [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
