@@ -84,6 +84,7 @@
 
 ## C# # 
 
+- [vesoapp/veso](https://github.com/vesoapp/veso) - Open source media server.
 - [ryanries/ADReplStatus](https://github.com/ryanries/ADReplStatus) - AD Replication Status Tool
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your readi
