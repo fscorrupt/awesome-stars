@@ -37,7 +37,6 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
-- [QML](#qml)
 - [Riot](#riot)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -394,6 +393,7 @@
 
 ## Jupyter Notebook 
 
+- [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 - [microsoft/Microsoft-365-Defender-Hunting-Queries](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries) - Sample queries for Advanced hunting in Microsoft 365 Defender
@@ -732,10 +732,6 @@
 - [PJnes/cmcucp](https://github.com/PJnes/cmcucp) - The Complete Marvel Cinematic Universe Chronological Playlist
 - [burkasaurusrex/Plex-Auto-Collections](https://github.com/burkasaurusrex/Plex-Auto-Collections) - Python 3 script to automatically update Plex collections based off a configuration file
 
-## QML 
-
-- [krillefear/fluffychat](https://github.com/krillefear/fluffychat) - +++++Moved to GitLab+++++
-
 ## Riot 
 
 - [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private registry
@@ -779,7 +775,7 @@
 
 ## Shell 
 
-- [mag37/dockcheck](https://github.com/mag37/dockcheck) - A script checking updates for docker images without the need of pulling - then optionally auto-update chosen containers.
+- [mag37/dockcheck](https://github.com/mag37/dockcheck) - A script checking updates for docker images without pulling - then selectively auto-update some/all containers.
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [ChuckPa/PlexDBRepair](https://github.com/ChuckPa/PlexDBRepair) - Database repair utility for Plex Media Server databases
 - [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
