@@ -466,7 +466,7 @@
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [lukeed/awesome-cloudflare-workers](https://github.com/lukeed/awesome-cloudflare-workers) - 😎 Awesome Cloudflare Workers
 - [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
-- [app-generator/flask-dashboard-black-pro](https://github.com/app-generator/flask-dashboard-black-pro) - Flask Dashboard - Black Design PRO | AppSeed App Generator
+- [app-generator/flask-black-dashboard-pro](https://github.com/app-generator/flask-black-dashboard-pro) - Flask Dashboard - Black Design PRO | AppSeed App Generator
 - [SpamVerse/Piratezparty](https://github.com/SpamVerse/Piratezparty) - 
 - [meisnate12/Plex-Meta-Manager-Images](https://github.com/meisnate12/Plex-Meta-Manager-Images) - Images for Plex Meta Managers default collections
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
