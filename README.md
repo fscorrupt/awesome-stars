@@ -139,7 +139,7 @@
 - [shieman/VideoProcess](https://github.com/shieman/VideoProcess) - Denoise, Colorize, Upscale Resolution, Video Stabilization, Increase FPS.
 - [Mew463/Project-l0ckcr4ck3r](https://github.com/Mew463/Project-l0ckcr4ck3r) - 
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-- [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator
+- [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [MirServer/ubuntu-frame](https://github.com/MirServer/ubuntu-frame) - The foundation for many embedded graphical display implementations
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -862,7 +862,7 @@
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-- [AnandBaburajan/Kukkee](https://github.com/AnandBaburajan/Kukkee) - Meeting poll tool. Bring people together, at the right time!
+- [AnandBaburajan/Kukkee](https://github.com/AnandBaburajan/Kukkee) - Meeting poll tool
 - [TetrisBlack/Kukkee](https://github.com/TetrisBlack/Kukkee) - The free, open source and self-hostable Doodle alternative
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Self-hostable doodle poll alternative. Find the best date for a meeting with your colleagues or friends without the back and forth emails.
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
