@@ -29,6 +29,7 @@
 - [Kotlin](#kotlin)
 - [Logos](#logos)
 - [Lua](#lua)
+- [MATLAB](#matlab)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
@@ -183,7 +184,7 @@
 - [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image
 - [linuxserver/docker-scrutiny](https://github.com/linuxserver/docker-scrutiny) - 
 - [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) - Documentation and Examples of base container modifications
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including the Matter networking protocol, 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including WireGuard, Home Assistant, Homeb
 - [PowerShell/PowerShell-Docker](https://github.com/PowerShell/PowerShell-Docker) - Repository for building PowerShell Docker images
 - [techno-tim/launchpad](https://github.com/techno-tim/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
 - [mikolatero/docker-vlmcsd](https://github.com/mikolatero/docker-vlmcsd) - vlmcsd is a replacement for Microsoft's KMS server.
@@ -416,6 +417,10 @@
 
 - [docker/dockercraft](https://github.com/docker/dockercraft) - Docker + Minecraft = Dockercraft
 
+## MATLAB 
+
+- [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
+
 ## Makefile 
 
 - [instrumentisto/restic-docker-image](https://github.com/instrumentisto/restic-docker-image) - restic Docker image (backup utility)
@@ -513,6 +518,7 @@
 
 ## PowerShell 
 
+- [steve-prentice/autopilot](https://github.com/steve-prentice/autopilot) - 
 - [NetSPI/MicroBurst](https://github.com/NetSPI/MicroBurst) - A collection of scripts for assessing Microsoft Azure security
 - [PowerShellGuides/PowerShellGuide](https://github.com/PowerShellGuides/PowerShellGuide) - The Standard Repository for all PowerShell Knowledge and Wisdom
 - [TrimarcJake/Locksmith](https://github.com/TrimarcJake/Locksmith) - A tiny tool to identify and remediate common misconfigurations in Active Directory Certificate Services
@@ -752,6 +758,7 @@
 
 ## Rust 
 
+- [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [Stremio/stremio-core](https://github.com/Stremio/stremio-core) - ⚛️ The Stremio Core: types, addon system, UI models, core logic
 - [afonsojramos/discrakt](https://github.com/afonsojramos/discrakt) - The Trakt 🎥 Plex ▶️ Discord 🎮 Rich Presence that you didn't know you needed.
@@ -841,6 +848,7 @@
 
 ## TypeScript 
 
+- [pixelomer/discord-fs](https://github.com/pixelomer/discord-fs) - Discord as a filesystem
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever y
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [PreMiD/Presences](https://github.com/PreMiD/Presences) - 🛒 Storage for Presences located at our Presence Store.
@@ -852,7 +860,6 @@
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
 - [cisagov/RedEye](https://github.com/cisagov/RedEye) - RedEye is a visual analytic tool supporting Red & Blue Team operations
-- [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [open-source-labs/Docketeer](https://github.com/open-source-labs/Docketeer) - An easy-to-use GUI for Docker that allows developers to manage Docker containers and monitor crucial metrics.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
