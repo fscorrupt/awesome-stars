@@ -282,11 +282,12 @@
 
 ## HTML 
 
+- [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [petersem/posterr](https://github.com/petersem/posterr) - A digital poster app for Plex, Sonarr, Radarr, and Readarr
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, 
-- [Wizarrrr/wizarr](https://github.com/Wizarrrr/wizarr) - Wizarr is an automatic user invitation system for Plex.
+- [Wizarrrr/wizarr](https://github.com/Wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [containers-stack/willy](https://github.com/containers-stack/willy) - Willy is a web service that can be used to manage Docker. The application allows you to manage all your orchestrator resources (containers, images, volumes, networks and more) through a GUI.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -322,7 +323,6 @@
 - [ndom91/briefkasten](https://github.com/ndom91/briefkasten) - 📮 Self hosted bookmarking app
 - [TheUltimateC0der/alternatrr](https://github.com/TheUltimateC0der/alternatrr) - alternatrr lets you add alternative titles to your sonarr instance with a simple WebUI
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 - [AlexSciFier/neonlink](https://github.com/AlexSciFier/neonlink) - Simple self-hosted bookmark service.
 - [theMK2k/Media-Hoarder](https://github.com/theMK2k/Media-Hoarder) - Media Hoarder - THE media frontend for data hoarders and movie lovers
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
