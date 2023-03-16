@@ -162,6 +162,7 @@
 - [Just5KY/SkyPi](https://github.com/Just5KY/SkyPi) - selfhosting on a budget
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
 - [tronyx/plpp](https://github.com/tronyx/plpp) - PHP Library Presenter for PLEX
+- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   An application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.  Track who, what and when.
 - [ryjo1026/plex-landing-page](https://github.com/ryjo1026/plex-landing-page) - A Landing Page for a Plex Media Server
 
 ## Clojure 
@@ -365,7 +366,6 @@
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
 - [Revadike/epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Claim available free game promotions from the Epic Games Store.
 - [go-vikunja/desktop](https://github.com/go-vikunja/desktop) - Mirror of vikunja desktop from https://code.vikunja.io/desktop
-- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   An application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.  Track who, what and when.
 - [bchiang7/spotify-profile](https://github.com/bchiang7/spotify-profile) - A web app for visualizing personalized Spotify data built with React, Express, and the Spotify API
 - [CTK-WARRIOR/Auto-Translator-For-Discord](https://github.com/CTK-WARRIOR/Auto-Translator-For-Discord) - This bot will auto translate your message as soon as it identify your langauge.
 - [nullabork/talkbot](https://github.com/nullabork/talkbot) - Text-to-speech and translation bot for Discord
@@ -435,6 +435,7 @@
 
 ## Others 
 
+- [PatchMyPCTeam/MEM-Patching-Optimizer](https://github.com/PatchMyPCTeam/MEM-Patching-Optimizer) - This tool run various tests against your WSUS  & ConfigMgr environment, Including WSUS, SQL & IIS and provide feedback based on Microsoft best practices
 - [rishirdua/awesome-code-formatters](https://github.com/rishirdua/awesome-code-formatters) - A curated list of awesome code formatting tools and libraries
 - [bitgapp/Cursr](https://github.com/bitgapp/Cursr) - 🖱 Cursor movement customization between multiple Displays  🖥  (and soon between multiple Computers)
 - [NicklasAhlberg/RockEnrollTool](https://github.com/NicklasAhlberg/RockEnrollTool) - 
@@ -537,7 +538,6 @@
 - [microsoft/Intune-DeviceAdmins](https://github.com/microsoft/Intune-DeviceAdmins) - Code samples from the team that manages Intune and ConfigMgr for Microsoft
 - [DeploymentResearch/DRFiles](https://github.com/DeploymentResearch/DRFiles) - Sample files for the Deployment Research Blog
 - [microsoft/ARI](https://github.com/microsoft/ARI) - Azure Resource Inventory - It's a Powerful tool to create EXCEL inventory from Azure Resources with low effort
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [JayRHa/Intune-Scripts](https://github.com/JayRHa/Intune-Scripts) - 
 - [AzureAD/AzureADAssessment](https://github.com/AzureAD/AzureADAssessment) - Tooling for assessing an Azure AD tenant state and configuration
 - [microsoft/Documentarian](https://github.com/microsoft/Documentarian) - An open source toolkit for documentarians and community contributors to reduce friction and provide a delightful experience for contributing to and maintaining documentation.
@@ -636,10 +636,12 @@
 - [shaunkleyn/PMM-Config](https://github.com/shaunkleyn/PMM-Config) - Configs for Plex Meta Manager
 - [lupohan44/GamesHub](https://github.com/lupohan44/GamesHub) - 
 - [majikat768/HuntStatsLogger](https://github.com/majikat768/HuntStatsLogger) - stats logger for Hunt: Showdown
+- [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
 - [google/glazier](https://github.com/google/glazier) - A tool for automating the installation of the Microsoft Windows operating system on various device platforms.
 - [cyphar/orca-build](https://github.com/cyphar/orca-build) - Build OCI images from Dockerfiles.
 - [RogerSelwyn/O365-HomeAssistant](https://github.com/RogerSelwyn/O365-HomeAssistant) - Office 365 integration for Home Assistant
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [troinine/hass-config](https://github.com/troinine/hass-config) - 🏠 My Home Assistant configuration
 - [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
 - [greenMikeEU/SmartMeterEVNKaifaMA309](https://github.com/greenMikeEU/SmartMeterEVNKaifaMA309) - Dieses Projekt ermöglicht es den Smartmeter der EVN (Netz Niederösterreich) über die Kundenschnittstelle auszulesen.
@@ -799,7 +801,6 @@
 - [mag37/dockcheck](https://github.com/mag37/dockcheck) - A script checking updates for docker images without pulling - then selectively auto-update some/all containers.
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [ChuckPa/PlexDBRepair](https://github.com/ChuckPa/PlexDBRepair) - Database repair utility for Plex Media Server databases
-- [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [RandomNinjaAtk/docker-radarr-extended](https://github.com/RandomNinjaAtk/docker-radarr-extended) - Radarr (develop) with bash scripts to automate and extend functionality.
@@ -882,7 +883,7 @@
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [AnandBaburajan/Kukkee](https://github.com/AnandBaburajan/Kukkee) - Meeting poll tool
 - [TetrisBlack/Kukkee](https://github.com/TetrisBlack/Kukkee) - The free, open source and self-hostable Doodle alternative
-- [lukevella/rallly](https://github.com/lukevella/rallly) - Self-hostable doodle poll alternative. Find the best date for a meeting with your colleagues or friends without the back and forth emails.
+- [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
