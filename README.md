@@ -521,6 +521,7 @@
 
 ## PowerShell 
 
+- [jason4tw/ConfigMgrScripts](https://github.com/jason4tw/ConfigMgrScripts) - 
 - [petripaavola/Get-IntuneManagementExtensionDiagnostics](https://github.com/petripaavola/Get-IntuneManagementExtensionDiagnostics) - Get-IntuneManagementExtensionDiagnostics script analyzes Intune IME logs and shows events in Timeline
 - [halsey51013/UpdateWindowsRE-CVE-2022-41099](https://github.com/halsey51013/UpdateWindowsRE-CVE-2022-41099) - Script to update Windows Recovery Environment to patch against CVE-2022-41099
 - [johnthebrit/AzureMasterClass](https://github.com/johnthebrit/AzureMasterClass) - Repo for the Azure Master Class
