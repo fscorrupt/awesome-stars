@@ -323,6 +323,7 @@
 
 ## Java 
 
+- [newhinton/extRact](https://github.com/newhinton/extRact) - Rclone for Android
 - [BrunoReX/jmkvpropedit](https://github.com/BrunoReX/jmkvpropedit) - Batch GUI for mkvpropedit
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [grimsi/gameyfin](https://github.com/grimsi/gameyfin) - A simple game library manager
