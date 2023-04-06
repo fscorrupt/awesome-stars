@@ -209,7 +209,6 @@
 
 - [mhmdiaa/second-order](https://github.com/mhmdiaa/second-order) - Second-order subdomain takeover scanner
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [terrasim/coredns-traefik](https://github.com/terrasim/coredns-traefik) - 📚 A CoreDNS plugin to discover domains by docker hosted traefik instances
 - [plexdrive/plexdrive](https://github.com/plexdrive/plexdrive) - Plexdrive mounts your Google Drive FUSE filesystem (optimized for media playback)
 - [alcionai/corso](https://github.com/alcionai/corso) - Free, Secure, and Open-Source Backup for Microsoft 365
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner with web GUI
@@ -332,6 +331,7 @@
 
 ## JavaScript 
 
+- [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [DavidFW1960/bom-weather-card](https://github.com/DavidFW1960/bom-weather-card) - Custom Animated Weather Card for any weather provider
 - [iprodanovbg/homeassistant-desktop](https://github.com/iprodanovbg/homeassistant-desktop) - 🎛 Desktop application (Windows / macOS / Linux) for Home Assistant built with Electron
@@ -497,6 +497,7 @@
 - [opsdisk/the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - Free copy of The Cyber Plumber's Handbook
 - [obazoud/awesome-dashboard](https://github.com/obazoud/awesome-dashboard) - A curated list of amazingly awesome dashboards/visualization resources.
 - [DockStation/dockstation](https://github.com/DockStation/dockstation) - DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
+- [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
 
 ## PHP 
 
@@ -863,7 +864,6 @@
 - [nozel-org/serverbot](https://github.com/nozel-org/serverbot) - Lightweight server monitoring and alert tool for Linux
 - [aelfa/scripts](https://github.com/aelfa/scripts) - A bunch of useful scripts
 - [Graylog2/graylog-docker](https://github.com/Graylog2/graylog-docker) - Official Graylog Docker image
-- [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
 - [k8s-at-home/container-images](https://github.com/k8s-at-home/container-images) - Kubernetes tailored container images for various applications
 
 ## Svelte 
