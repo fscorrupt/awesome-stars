@@ -441,6 +441,8 @@
 
 ## Others 
 
+- [jiska2342/malware](https://github.com/jiska2342/malware) - It's malware!
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [wcventure/FuzzingPaper](https://github.com/wcventure/FuzzingPaper) - Recent Fuzzing Paper
 - [microsoft/latte](https://github.com/microsoft/latte) - 
 - [RX-M/kubecon-eu-2022](https://github.com/RX-M/kubecon-eu-2022) - Kubecon talks
