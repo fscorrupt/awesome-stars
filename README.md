@@ -121,7 +121,6 @@
 - [endpointmanager/wingetbridge-powershell](https://github.com/endpointmanager/wingetbridge-powershell) - An easy-to-use Powershell-Module that completes the ability to automatically provide and maintain applications in your software deployment tool by using the Windows Package Manager Repository.
 - [MicrosoftDocs/WDAC-Toolkit](https://github.com/MicrosoftDocs/WDAC-Toolkit) - Documentation and tools to access Windows Defender Application Control (WDAC) technology.
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
-- [revenz/Fenrus](https://github.com/revenz/Fenrus) - A personal home page for quick access to all your personal apps/sites.
 - [drkno/pfs](https://github.com/drkno/pfs) - Mount any remote Plex server including ones you do not own as a local filesystem
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [Macro-Deck-App/Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck) - Macro Deck converts your phone, tablet or any other device with an up-to-date internet browser into an powerful remote macro pad to perform single actions or even multiple actions with just one tap.
@@ -393,6 +392,7 @@
 - [Kayomani/PlexExternalPlayer](https://github.com/Kayomani/PlexExternalPlayer) - Allows you to use Plex to browse your media then play the files in your favorite media player (where the files are local).
 - [soerenkampschroer/plex-to-vlc](https://github.com/soerenkampschroer/plex-to-vlc) - Play your videos in VLC right from the Plex Web Player interface.
 - [nsano-rururu/docker-compose-ui](https://github.com/nsano-rururu/docker-compose-ui) - web interface for Docker Compose
+- [revenz/Fenrus](https://github.com/revenz/Fenrus) - A personal home page for quick access to all your personal apps/sites.
 - [marklagendijk/node-toogoodtogo-watcher](https://github.com/marklagendijk/node-toogoodtogo-watcher) - Node.js cli tool for monitoring your favorite TooGoodToGo businesses. Docker image available.
 - [linuxserver/budge](https://github.com/linuxserver/budge) - 
 - [petio-team/petio](https://github.com/petio-team/petio) - Petio Request, Discover, Review
