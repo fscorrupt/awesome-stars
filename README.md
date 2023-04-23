@@ -181,7 +181,7 @@
 
 - [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) - The Ultimate Open-Source VPN, Ad-blocker and DNS resolver :llama::shield:
 - [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
-- [JagandeepBrar/LunaSea](https://github.com/JagandeepBrar/LunaSea) - Self-hosted software controller built using Flutter
+- [JagandeepBrar/lunasea](https://github.com/JagandeepBrar/lunasea) - Self-hosted software controller built using Flutter
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [go-vikunja/app](https://github.com/go-vikunja/app) - 
 
@@ -755,7 +755,7 @@
 - [hartwork/jawanndenn](https://github.com/hartwork/jawanndenn) - :date: Simple alternative to Doodle polls and scheduling (Python 3, Django 4, some JavaScript)
 - [RemiRigal/Plex-Auto-Languages](https://github.com/RemiRigal/Plex-Auto-Languages) - Automated language selection for Plex TV Shows !
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premiere source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [mannkind/borg-rclone-autobackup](https://github.com/mannkind/borg-rclone-autobackup) - Easily automate backups using Borg + RClone
 - [AlexxIT/HassWP](https://github.com/AlexxIT/HassWP) - Portable version of Home Assistant for Windows (no need to install)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
