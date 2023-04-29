@@ -659,7 +659,8 @@
 
 ## Python 
 
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)
+- [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [macr0dev/Audiobooks.bundle](https://github.com/macr0dev/Audiobooks.bundle) - Plex metadata scraper for Audiobooks
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -786,7 +787,6 @@
 - [Casvt/Plex-scripts](https://github.com/Casvt/Plex-scripts) - Plex, the arr's and tautulli scripts coming from user requests
 - [m0rtem/CloudFail](https://github.com/m0rtem/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
-- [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [meisnate12/Plex-Meta-Manager](https://github.com/meisnate12/Plex-Meta-Manager) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.
 - [Footsiefat/Plex-Server-Hoover](https://github.com/Footsiefat/Plex-Server-Hoover) - 
