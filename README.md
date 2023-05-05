@@ -86,6 +86,7 @@
 
 ## C# # 
 
+- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [mivano/azure-cost-cli](https://github.com/mivano/azure-cost-cli) - CLI tool to perform cost analysis on your Azure subscription
 - [n00mkrad/text2image-gui](https://github.com/n00mkrad/text2image-gui) - Somewhat modular text2image GUI, initially just for Stable Diffusion
 - [vesoapp/veso](https://github.com/vesoapp/veso) - Open source media server.
@@ -522,6 +523,7 @@
 
 ## PHP 
 
+- [karlomikus/bar-assistant](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar.
 - [farisc0de/Uploady](https://github.com/farisc0de/Uploady) - Simple File Uploading Software
 - [fr0tt/benotes](https://github.com/fr0tt/benotes) - An open source self hosted notes and bookmarks taking web app.
 - [proconsule/nspindexer](https://github.com/proconsule/nspindexer) - PHP Indexer for Switch NSP
@@ -554,6 +556,7 @@
 
 ## PowerShell 
 
+- [last-byte/PersistenceSniper](https://github.com/last-byte/PersistenceSniper) - Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. Made with ❤️ by @last0x00 and @dottor_morte
 - [DanysysTeam/PS-SFTA](https://github.com/DanysysTeam/PS-SFTA) - PowerShell Set File Type Association
 - [ShaunLawrie/PwshSpectreConsole](https://github.com/ShaunLawrie/PwshSpectreConsole) - PwshSpectreConsole is an opinionated wrapper for the awesome Spectre.Console library
 - [dafthack/MFASweep](https://github.com/dafthack/MFASweep) - A tool for checking if MFA is enabled on multiple Microsoft Services
