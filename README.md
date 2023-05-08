@@ -134,6 +134,7 @@
 
 ## C++ 
 
+- [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [Alkl58/RcloneBrowser](https://github.com/Alkl58/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
@@ -670,6 +671,8 @@
 
 ## Python 
 
+- [aelfa/Mr.Holmes](https://github.com/aelfa/Mr.Holmes) - :mag: A Complete Osint Tool
+- [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 400+ 1-click Portainer app templates
 - [djdembeck/Audnexus.bundle](https://github.com/djdembeck/Audnexus.bundle) - An audnexus client, providing rich author and audiobook data to Plex via it's legacy plugin agent system.
 - [joxeankoret/diaphora](https://github.com/joxeankoret/diaphora) - Diaphora, the most advanced Free and Open Source program diffing tool.
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
@@ -918,6 +921,7 @@
 
 ## TypeScript 
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [kekst/socialnuke](https://github.com/kekst/socialnuke) - best discord msg nuker is back / sponsored by uncle cheng
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
@@ -939,7 +943,7 @@
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
 - [cisagov/RedEye](https://github.com/cisagov/RedEye) - RedEye is a visual analytic tool supporting Red & Blue Team operations
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
 - [open-source-labs/Docketeer](https://github.com/open-source-labs/Docketeer) - A Docker application to manage resources & visualize both host and container metric data
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
