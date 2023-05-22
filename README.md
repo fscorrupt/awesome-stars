@@ -66,7 +66,7 @@
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.4.1 semi-tethered checkm8 jailbreak
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.5 semi-tethered checkm8 jailbreak
 - [microsoft/etl2pcapng](https://github.com/microsoft/etl2pcapng) - Utility that converts an .etl file containing a Windows network packet capture into .pcapng format.
 - [b1n4r1b01/desc_race](https://github.com/b1n4r1b01/desc_race) - iOS 15.1 kernel exploit POC for CVE-2021-30955
 - [geekuillaume/soundsync](https://github.com/geekuillaume/soundsync) - Virtual cables between any audio source and any speaker in your home
@@ -299,7 +299,7 @@
 ## HTML 
 
 - [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
-- [iptv-org/epg](https://github.com/iptv-org/epg) - EPG (Electronic Program Guide) for thousands of TV channels collected from different sources
+- [iptv-org/epg](https://github.com/iptv-org/epg) - Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
@@ -358,7 +358,7 @@
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [lukevink/hass-config-lajv](https://github.com/lukevink/hass-config-lajv) - Home Assistant Configuration
-- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A web extension that redirects popular sites to alternative frontends and backends
+- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
@@ -554,6 +554,7 @@
 
 ## PowerShell 
 
+- [ShaunLawrie/PwshSyntaxHighlight](https://github.com/ShaunLawrie/PwshSyntaxHighlight) - 🌈 Render PowerShell in the Terminal with Syntax Highlighting
 - [last-byte/PersistenceSniper](https://github.com/last-byte/PersistenceSniper) - Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. Made with ❤️ by @last0x00 and @dottor_morte
 - [DanysysTeam/PS-SFTA](https://github.com/DanysysTeam/PS-SFTA) - PowerShell Set File Type Association
 - [ShaunLawrie/PwshSpectreConsole](https://github.com/ShaunLawrie/PwshSpectreConsole) - 👻 PwshSpectreConsole is an opinionated wrapper for the awesome Spectre.Console library
