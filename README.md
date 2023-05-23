@@ -210,7 +210,8 @@
 
 ## Go 
 
-- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client
+- [pydio/cells](https://github.com/pydio/cells) - Future-proof content collaboration platform
+- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 - [aditya-K2/gspt](https://github.com/aditya-K2/gspt) - Spotify for the terminal written in Go
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -410,6 +411,7 @@
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [Chewbaka69/PlexShare](https://github.com/Chewbaka69/PlexShare) - Web Application standalone that provide management of local users, many PlexServer and it's libraries.
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application and API that collects Plex statistics using Tautulli and displays it in a nice format. Similar to the Spotify Wrapped concept.
+- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [evoactivity/PlutoIPTV](https://github.com/evoactivity/PlutoIPTV) - Grab EPG & M3U from Pluto.tv
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The easiest config web stack on top of Next.js - build internal tools, web apps, admin panels, BI dashboards, web sites, and CRUD apps with YAML or JSON.
 - [KelvinTegelaar/CIPP](https://github.com/KelvinTegelaar/CIPP) - CIPP is a M365 multitenant management solution
@@ -441,7 +443,6 @@
 ## Lua 
 
 - [docker/dockercraft](https://github.com/docker/dockercraft) - Docker + Minecraft = Dockercraft
-- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 
 ## Makefile 
 
