@@ -337,7 +337,7 @@
 
 ## Java 
 
-- [newhinton/extRact](https://github.com/newhinton/extRact) - Rclone for Android
+- [newhinton/Round-Sync](https://github.com/newhinton/Round-Sync) - Rclone for Android
 - [BrunoReX/jmkvpropedit](https://github.com/BrunoReX/jmkvpropedit) - Batch GUI for mkvpropedit
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [grimsi/gameyfin](https://github.com/grimsi/gameyfin) - A simple game library manager
@@ -463,6 +463,7 @@
 
 ## Others 
 
+- [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *Arrs and related stuff.
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
 - [jiska2342/malware](https://github.com/jiska2342/malware) - It's malware!
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
