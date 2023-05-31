@@ -107,7 +107,7 @@
 - [Sanakan8472/copy-dialog-lunar-lander](https://github.com/Sanakan8472/copy-dialog-lunar-lander) - Play lunar lander in you windows file copy dialog
 - [vletoux/pingcastle](https://github.com/vletoux/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
 - [Ombrelin/plex-rich-presence](https://github.com/Ombrelin/plex-rich-presence) - A desktop app to enable discord rich presence for your Plex Media Server Activity
-- [PowerShell/PowerShellGet](https://github.com/PowerShell/PowerShellGet) - PowerShellGet is the package manager for PowerShell
+- [PowerShell/PSResourceGet](https://github.com/PowerShell/PSResourceGet) - PSResourceGet is the package manager for PowerShell
 - [PowerShell/SecretStore](https://github.com/PowerShell/SecretStore) - 
 - [PowerShell/PowerShell-IoT](https://github.com/PowerShell/PowerShell-IoT) - Interact with I2C, SPI & GPIO devices using PowerShell Core!
 - [aimaat/RemoteUpdate](https://github.com/aimaat/RemoteUpdate) - Install Windows Updates remotely with the help of the famous PSWindowsUpdate module
@@ -548,6 +548,7 @@
 - [qdm12/2FAuth](https://github.com/qdm12/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
+- [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
 
 ## Pascal 
 
@@ -562,6 +563,7 @@
 
 ## PowerShell 
 
+- [lptstr/winfetch](https://github.com/lptstr/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
 - [ShaunLawrie/PwshSyntaxHighlight](https://github.com/ShaunLawrie/PwshSyntaxHighlight) - 🌈 Render PowerShell in the Terminal with Syntax Highlighting
 - [last-byte/PersistenceSniper](https://github.com/last-byte/PersistenceSniper) - Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. Made with ❤️ by @last0x00 and @dottor_morte
 - [DanysysTeam/PS-SFTA](https://github.com/DanysysTeam/PS-SFTA) - PowerShell Set File Type Association
@@ -677,6 +679,7 @@
 
 ## Python 
 
+- [sabeechen/hassio-google-drive-backup](https://github.com/sabeechen/hassio-google-drive-backup) - Automatically create and sync Home Assistant backups into Google Drive
 - [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader) - A command-line tool to download manga from MangaDex, written in Python.
 - [aelfa/Mr.Holmes](https://github.com/aelfa/Mr.Holmes) - :mag: A Complete Osint Tool
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 400+ 1-click Portainer app templates
@@ -861,7 +864,6 @@
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman
-- [Hasnayeen/larks](https://github.com/Hasnayeen/larks) - https://github.com/Hasnayeen/goodwork
 
 ## Shell 
 
@@ -962,7 +964,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
+- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
