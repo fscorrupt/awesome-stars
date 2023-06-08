@@ -348,6 +348,7 @@
 
 ## JavaScript 
 
+- [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ Secure and Easy Self-hosted platform. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot, ...)
 - [krestaino/my-dash](https://github.com/krestaino/my-dash) - 🔢 A developer friendly dashboard for monitoring your self-hosted services with a clean and modern UI.
 - [fmartinou/whats-up-docker](https://github.com/fmartinou/whats-up-docker) - What's up Docker ( aka WUD ) gets you notified when a new version of your Docker Container is available.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
@@ -871,6 +872,7 @@
 
 ## Shell 
 
+- [jfroment/seedbox](https://github.com/jfroment/seedbox) - A Docker-powered seedbox with persistent data and more cool stuff.
 - [RandomNinjaAtk/docker-raromprocessor](https://github.com/RandomNinjaAtk/docker-raromprocessor) - RA ROM Processor is a Docker container that is used to aquire/orgainze/process/verify/dedupe/scrape a ROMs library automatically by matching ROMs to the RetroAchievement.org website Hash database.
 - [RandomNinjaAtk/docker-lidarr-extended](https://github.com/RandomNinjaAtk/docker-lidarr-extended) - lidarr-extended :: Lidarr application packaged with multiple scripts to provide additional functionality
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
