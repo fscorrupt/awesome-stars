@@ -54,6 +54,7 @@
 
 ## AutoIt 
 
+- [chall32/LDWin](https://github.com/chall32/LDWin) - Link Discovery for Windows
 - [cw2k/Adobe-GenP](https://github.com/cw2k/Adobe-GenP) - Adobe CC 2019/2020/2021/2022/2023 GenP Universal Patch 3.0
 
 ## Batchfile 
@@ -68,6 +69,7 @@
 
 ## C 
 
+- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [ufrisk/pcileech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
@@ -124,7 +126,7 @@
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [drkno/pfs](https://github.com/drkno/pfs) - Mount any remote Plex server including ones you do not own as a local filesystem
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
-- [Macro-Deck-App/Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck) - Macro Deck converts your phone, tablet or any other device with an up-to-date internet browser into an powerful remote macro pad to perform single actions or even multiple actions with just one tap.
+- [Macro-Deck-App/Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck) - Macro Deck transforms your phone, tablet, or any device equipped with a modern internet browser into an efficient remote macro pad. With this tool, you can execute single or multi-step actions seamles
 - [okieselbach/SyncMLViewer](https://github.com/okieselbach/SyncMLViewer) - A small real time SyncML protocol Viewer
 - [revenz/FileFlowsPlugins](https://github.com/revenz/FileFlowsPlugins) - Plugins and plugin repo for FileFlows
 - [revenz/FileFlows](https://github.com/revenz/FileFlows) - FileFlows is a file processing application that can execute actions against a file in a tree flow structure.
@@ -193,6 +195,7 @@
 ## Dockerfile 
 
 - [jefflessard/plex-vaapi-amdgpu-mod](https://github.com/jefflessard/plex-vaapi-amdgpu-mod) - linuxserver.io mod to enable hardware acceleration using vaapi amdgpu on linuxserver/plex
+- [wanjohiryan/Arc3dia](https://github.com/wanjohiryan/Arc3dia) - Self hosted cloud gaming with friends, right from the browser
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
 - [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image
 - [linuxserver/docker-scrutiny](https://github.com/linuxserver/docker-scrutiny) - 
@@ -883,7 +886,6 @@
 - [BiosPlus/Movie-Cleanup](https://github.com/BiosPlus/Movie-Cleanup) - 
 - [88lex/sa-gen](https://github.com/88lex/sa-gen) - Create projects, service accounts, jsons and a group list in csv using gcloud sdk
 - [mag37/dockcheck](https://github.com/mag37/dockcheck) - A script checking updates for docker images without pulling - then selectively auto-update some/all containers.
-- [wanjohiryan/Arc3dia](https://github.com/wanjohiryan/Arc3dia) - Self hosted cloud gaming with friends, right from the browser
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [ChuckPa/PlexDBRepair](https://github.com/ChuckPa/PlexDBRepair) - Database repair utility for Plex Media Server databases
 - [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
