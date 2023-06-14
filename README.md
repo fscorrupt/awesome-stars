@@ -159,7 +159,7 @@
 - [rdesktop/seamlessrdp](https://github.com/rdesktop/seamlessrdp) - Extension for seamless applications.
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [zodiacon/TotalRegistry](https://github.com/zodiacon/TotalRegistry) - Total Registry - enhanced Registry editor/viewer
-- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [stax76/run-hidden](https://github.com/stax76/run-hidden) - run-hidden runs Windows console apps like PowerShell with hidden console window.
 - [gyf304/lpvpn](https://github.com/gyf304/lpvpn) - LAN Party VPN - Run VPN on top of Discord. No installation required.
 - [hyperion-project/hyperion.ng](https://github.com/hyperion-project/hyperion.ng) - The successor to Hyperion aka Hyperion Next Generation
@@ -221,6 +221,7 @@
 
 ## Go 
 
+- [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Plex/Jellyfin/Emby based on xTeVe
 - [pydio/cells](https://github.com/pydio/cells) - Future-proof content collaboration platform
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 - [aditya-K2/gspt](https://github.com/aditya-K2/gspt) - Spotify for the terminal written in Go
