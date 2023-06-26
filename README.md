@@ -333,7 +333,7 @@
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [harsh98trivedi/links](https://github.com/harsh98trivedi/links) - A Beautiful Jekyll Theme For Links
-- [TRaSH-/Guides](https://github.com/TRaSH-/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
+- [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [aelfa/awesome-piracy](https://github.com/aelfa/awesome-piracy) - A curated list of awesome warez and piracy links
 - [simplyzee/kube-rclone](https://github.com/simplyzee/kube-rclone) - kube-rclone is a rclone mount solution for Kubernetes
