@@ -883,6 +883,7 @@
 
 ## Shell 
 
+- [binpash/try](https://github.com/binpash/try) - "Do, or do not. There is no try."  We're setting out to change that: `try cmd` and commit---or not.
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [jfroment/seedbox](https://github.com/jfroment/seedbox) - A Docker-powered seedbox with persistent data and more cool stuff.
 - [RandomNinjaAtk/docker-raromprocessor](https://github.com/RandomNinjaAtk/docker-raromprocessor) - RA ROM Processor is a Docker container that is used to aquire/orgainze/process/verify/dedupe/scrape a ROMs library automatically by matching ROMs to the RetroAchievement.org website Hash database.
@@ -940,7 +941,6 @@
 - [nozel-org/serverbot](https://github.com/nozel-org/serverbot) - Lightweight server monitoring and alert tool for Linux
 - [aelfa/scripts](https://github.com/aelfa/scripts) - A bunch of useful scripts
 - [Graylog2/graylog-docker](https://github.com/Graylog2/graylog-docker) - Official Graylog Docker image
-- [k8s-at-home/container-images](https://github.com/k8s-at-home/container-images) - Kubernetes tailored container images for various applications
 
 ## Svelte 
 
@@ -1026,6 +1026,7 @@
 
 ## Vue 
 
+- [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content.
 - [cmd430/vue-dashboard](https://github.com/cmd430/vue-dashboard) - A Dashboard for showing information about a Plex, Tautulli, Sonarr and Radarr Media server
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
