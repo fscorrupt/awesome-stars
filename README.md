@@ -696,6 +696,7 @@
 
 ## Python 
 
+- [simplymemes/Crunchyroll.bundle](https://github.com/simplymemes/Crunchyroll.bundle) - Crunchyroll.bundle is a Plex Media Server plugin that provides access to the content available at Crunchyroll.com.
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
 - [nautobot/nautobot](https://github.com/nautobot/nautobot) - Network Source of Truth & Network Automation Platform
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
