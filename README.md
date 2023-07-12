@@ -221,6 +221,7 @@
 
 ## Go 
 
+- [zer-far/spurt](https://github.com/zer-far/spurt) - HTTP stress testing tool that can overload web servers.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [BeryJu/gravity](https://github.com/BeryJu/gravity) - Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd
@@ -696,6 +697,7 @@
 
 ## Python 
 
+- [SickChill/sickchill](https://github.com/SickChill/sickchill) - Less rage, more chill.
 - [hurlenko/mloader](https://github.com/hurlenko/mloader) - Download manga from mangaplus.shueisha.co.jp
 - [simplymemes/Crunchyroll.bundle](https://github.com/simplymemes/Crunchyroll.bundle) - Crunchyroll.bundle is a Plex Media Server plugin that provides access to the content available at Crunchyroll.com.
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
@@ -955,6 +957,7 @@
 
 ## Svelte 
 
+- [Pyxxilated-Studios/Moonarr](https://github.com/Pyxxilated-Studios/Moonarr) - An *arr for tidal
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
 
 ## Swift 
@@ -964,6 +967,7 @@
 
 ## TypeScript 
 
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
 - [eramdam/starry-raindrop](https://github.com/eramdam/starry-raindrop) - Sync GitHub starred repos to a Raindrop.io collection
 - [manybothans/plex-requester-collections](https://github.com/manybothans/plex-requester-collections) - This app will tag your media in Plex, Radarr, and Sonarr with the username of the person who requested the media in Overseerr. To assist with library pruning, it can also connect to Tautulli and tag m
 - [dialmaster/Youtarr](https://github.com/dialmaster/Youtarr) - An application to automate downloading of Youtube videos for Plex
@@ -972,7 +976,7 @@
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [plugsy/core](https://github.com/plugsy/core) - A simple, pluggable dashboard and status page
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted container management and delivery platform.
 - [bacher09/pwgen-for-bios](https://github.com/bacher09/pwgen-for-bios) - Password generator for BIOS
