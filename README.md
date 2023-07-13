@@ -89,6 +89,7 @@
 
 ## C# # 
 
+- [gaseous-project/gaseous-server](https://github.com/gaseous-project/gaseous-server) - A game ROM manager using multiple sources to identify and provide metadata
 - [immense/Remotely](https://github.com/immense/Remotely) - A remote control and remote scripting solution, built with .NET 6, Blazor, and SignalR Core.
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [mivano/azure-cost-cli](https://github.com/mivano/azure-cost-cli) - CLI tool to perform cost analysis on your Azure subscription
@@ -137,6 +138,7 @@
 
 ## C++ 
 
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
 - [DarkflameUniverse/DarkflameServer](https://github.com/DarkflameUniverse/DarkflameServer) - The main repository for the Darkflame Universe Server Emulator project.
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -328,6 +330,7 @@
 - [Wizarrrr/wizarr](https://github.com/Wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [containers-stack/willy](https://github.com/containers-stack/willy) - Willy is a web service that can be used to manage Docker. The application allows you to manage all your orchestrator resources (containers, images, volumes, networks and more) through a GUI.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [GruberMarkus/Set-OutlookSignatures](https://github.com/GruberMarkus/Set-OutlookSignatures) - Centrally manage and deploy Outlook text signatures and Out of Office auto reply messages
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [adamfowlerit/msportals.io](https://github.com/adamfowlerit/msportals.io) - Microsoft Administrator Sites
 - [leoherzog/ScheduleQuest](https://github.com/leoherzog/ScheduleQuest) - 📅 A free and open source web app to make it easy for others to schedule with you
@@ -642,7 +645,6 @@
 - [pester/Pester](https://github.com/pester/Pester) - Pester is the ubiquitous test and mock framework for PowerShell.
 - [AnoopCNair/ConfigMgr-Infra-Monitoring](https://github.com/AnoopCNair/ConfigMgr-Infra-Monitoring) - Let's check ConfigMgr Infra monitoring script
 - [ddneves/PSGUI](https://github.com/ddneves/PSGUI) - Powershell GUI with XAML WPF
-- [GruberMarkus/Set-OutlookSignatures](https://github.com/GruberMarkus/Set-OutlookSignatures) - Centrally manage and deploy Outlook text signatures and Out of Office auto reply messages
 - [ShowUI/ShowUI](https://github.com/ShowUI/ShowUI) - ShowUI is a PowerShell module to help build graphical user interfaces in script.
 - [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
 - [jseerden/IntuneBackupAndRestore](https://github.com/jseerden/IntuneBackupAndRestore) - PowerShell Module that queries Microsoft Graph, and allows for cross-tenant Backup & Restore actions of your Intune Configuration.
@@ -697,6 +699,7 @@
 
 ## Python 
 
+- [PiotrMachowski/Xiaomi-cloud-tokens-extractor](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor) - This tool/script retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices.
 - [SickChill/sickchill](https://github.com/SickChill/sickchill) - Less rage, more chill.
 - [hurlenko/mloader](https://github.com/hurlenko/mloader) - Download manga from mangaplus.shueisha.co.jp
 - [simplymemes/Crunchyroll.bundle](https://github.com/simplymemes/Crunchyroll.bundle) - Crunchyroll.bundle is a Plex Media Server plugin that provides access to the content available at Crunchyroll.com.
@@ -993,7 +996,7 @@
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
 - [cisagov/RedEye](https://github.com/cisagov/RedEye) - RedEye is a visual analytic tool supporting Red & Blue Team operations
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [open-source-labs/Docketeer](https://github.com/open-source-labs/Docketeer) - A Docker & Kubernetes developer tool to manage containers & visualize both cluster and container metrics
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
