@@ -9,6 +9,7 @@
 - [AutoIt](#autoit)
 - [Batchfile](#batchfile)
 - [Bicep](#bicep)
+- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -66,6 +67,10 @@
 ## Bicep 
 
 - [Azure/avdaccelerator](https://github.com/Azure/avdaccelerator) - AVD Accelerator deployment automation to simplify the setup of AVD (Azure Virtual Desktop) based on best practices
+
+## Blade 
+
+- [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
 
 ## C 
 
@@ -534,7 +539,6 @@
 - [lukeed/awesome-cloudflare-workers](https://github.com/lukeed/awesome-cloudflare-workers) - 😎 Awesome Cloudflare Workers
 - [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 - [app-generator/flask-black-dashboard-pro](https://github.com/app-generator/flask-black-dashboard-pro) - Flask Dashboard - Black Design PRO | AppSeed App Generator
-- [SpamVerse/Piratezparty](https://github.com/SpamVerse/Piratezparty) - 
 - [meisnate12/Plex-Meta-Manager-Images](https://github.com/meisnate12/Plex-Meta-Manager-Images) - Images for Plex Meta Managers default collections
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
@@ -569,7 +573,6 @@
 - [qdm12/2FAuth](https://github.com/qdm12/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
-- [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
 
 ## Pascal 
 
@@ -703,6 +706,7 @@
 
 ## Python 
 
+- [jeanslack/Videomass](https://github.com/jeanslack/Videomass) - Videomass is a free, open source and cross-platform GUI for FFmpeg and yt-dlp
 - [PiotrMachowski/Xiaomi-cloud-tokens-extractor](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor) - This tool/script retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices.
 - [SickChill/sickchill](https://github.com/SickChill/sickchill) - Less rage, more chill.
 - [hurlenko/mloader](https://github.com/hurlenko/mloader) - Download manga from mangaplus.shueisha.co.jp
@@ -900,7 +904,7 @@
 
 ## Shell 
 
-- [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts
+- [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
 - [l0westbob/mloader](https://github.com/l0westbob/mloader) - Docker compose for running mloader in a docker container
 - [l0westbob/crunchy-cli](https://github.com/l0westbob/crunchy-cli) - Docker compose for running crunchyroll-cli in a docker container
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
