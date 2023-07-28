@@ -368,6 +368,7 @@
 
 ## JavaScript 
 
+- [Azure/ipam](https://github.com/Azure/ipam) - IP Address Management on Azure
 - [MRAJEKO/UF1-Viewer-with-F1MV](https://github.com/MRAJEKO/UF1-Viewer-with-F1MV) - 
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ Secure and Easy Self-hosted platform. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
@@ -453,6 +454,7 @@
 
 ## Jupyter Notebook 
 
+- [Azure/MDTI-Solutions](https://github.com/Azure/MDTI-Solutions) - Repository to publish sample use cases, templates, solutions, automations for Microsoft Defender Threat Intelligence (MDTI) product
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
 - [Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 - [microsoft/Microsoft-365-Defender-Hunting-Queries](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries) - Sample queries for Advanced hunting in Microsoft 365 Defender
@@ -879,7 +881,7 @@
 ## Rust 
 
 - [sarendsen/replex](https://github.com/sarendsen/replex) - Remix your Plex recommendations
-- [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 A pure Rust written Crunchyroll cli client and downloader
+- [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 CLI based downloader for Crunchyroll
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
