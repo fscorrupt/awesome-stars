@@ -95,6 +95,7 @@
 
 ## C# # 
 
+- [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
 - [BenediktAlkin/SongTaggerForSpotify](https://github.com/BenediktAlkin/SongTaggerForSpotify) - Song tagging for Spotify
 - [gaseous-project/gaseous-server](https://github.com/gaseous-project/gaseous-server) - A game ROM manager using multiple sources to identify and provide metadata
 - [immense/Remotely](https://github.com/immense/Remotely) - A remote control and remote scripting solution, built with .NET 7, Blazor, and SignalR.
@@ -1016,7 +1017,6 @@
 ## TypeScript 
 
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
-- [microsoft/azurechatgpt](https://github.com/microsoft/azurechatgpt) - 🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼
 - [kekst/socialnuke](https://github.com/kekst/socialnuke) - best discord msg nuker is back / sponsored by uncle cheng
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu) - shelf is open source Asset Management Infrastructure for absolutely everyone.
