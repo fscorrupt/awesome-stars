@@ -205,6 +205,7 @@
 - [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) - The Ultimate Open-Source VPN, Ad-blocker and DNS resolver :llama::shield:
 - [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 - [JagandeepBrar/lunasea](https://github.com/JagandeepBrar/lunasea) - Self-hosted software controller built using Flutter
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [go-vikunja/app](https://github.com/go-vikunja/app) - 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
@@ -578,7 +579,7 @@
 - [herrherrmann/awesome-multiplayer-games](https://github.com/herrherrmann/awesome-multiplayer-games) - :joystick: Awesome games for local multiplayer sessions or LAN parties.
 - [ShadowCorpIndustries/SpotLight](https://github.com/ShadowCorpIndustries/SpotLight) - THIS PROJECT HAS BEEN DELETED
 - [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
-- [opsdisk/the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - Free copy of The Cyber Plumber's Handbook
+- [opsdisk/the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - Free copy of The Cyber Plumber's Handbook - The definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [obazoud/awesome-dashboard](https://github.com/obazoud/awesome-dashboard) - A curated list of amazingly awesome dashboards/visualization resources.
 - [DockStation/dockstation](https://github.com/DockStation/dockstation) - DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
@@ -1073,7 +1074,6 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
