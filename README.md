@@ -9,7 +9,6 @@
 - [AutoIt](#autoit)
 - [Batchfile](#batchfile)
 - [Bicep](#bicep)
-- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -69,10 +68,6 @@
 ## Bicep 
 
 - [Azure/avdaccelerator](https://github.com/Azure/avdaccelerator) - AVD Accelerator deployment automation to simplify the setup of AVD (Azure Virtual Desktop) based on best practices
-
-## Blade 
-
-- [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
 
 ## C 
 
@@ -607,6 +602,7 @@
 - [qdm12/2FAuth](https://github.com/qdm12/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
+- [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
 
 ## Pascal 
 
