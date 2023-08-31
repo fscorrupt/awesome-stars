@@ -506,6 +506,7 @@
 
 ## Others 
 
+- [TomW1605/SV07_Klipper_config](https://github.com/TomW1605/SV07_Klipper_config) - 
 - [microsoft/python-in-excel](https://github.com/microsoft/python-in-excel) - Python in Microsoft Excel
 - [fryc88/klipper-sv06plus-screen](https://github.com/fryc88/klipper-sv06plus-screen) - Modified screen firmware files for Sovol SV06 Plus and stock screen to use with Klipper
 - [bassamanator/Sovol-SV06-firmware](https://github.com/bassamanator/Sovol-SV06-firmware) - A comprehensive Klipper configuration for the SV06, and variants, as well as other 3D printers.
@@ -1031,6 +1032,7 @@
 
 ## TypeScript 
 
+- [Donkie/Spoolman](https://github.com/Donkie/Spoolman) - Keep track of your inventory of 3D-printer filament spools.
 - [debridmediamanager/debrid-media-manager](https://github.com/debridmediamanager/debrid-media-manager) - Curate an inifinite media library
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
@@ -1051,7 +1053,7 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [plugsy/core](https://github.com/plugsy/core) - A simple, pluggable dashboard and status page
-- [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery platform.
+- [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
 - [bacher09/pwgen-for-bios](https://github.com/bacher09/pwgen-for-bios) - Password generator for BIOS
 - [pixelomer/discord-fs](https://github.com/pixelomer/discord-fs) - Discord as a filesystem
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever y
