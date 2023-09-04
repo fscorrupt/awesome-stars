@@ -373,6 +373,7 @@
 
 ## JavaScript 
 
+- [HaschekSolutions/pictshare](https://github.com/HaschekSolutions/pictshare) - :camera: PictShare is an open source image, mp4, pastebin hosting service with a simple resizing and upload API that you can host yourself. :rice_scene:
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) - Jellystat is a free and open source Statistics App for Jellyfin
 - [microsoftgraph/windowsupdates-webapplication-sample](https://github.com/microsoftgraph/windowsupdates-webapplication-sample) - 
 - [pietervanheijningen/clickbait-remover-for-youtube](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - Replaces thumbnails and modifies titles of videos on youtube.com
