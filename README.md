@@ -627,6 +627,7 @@
 
 ## PowerShell 
 
+- [DevClate/365AutomatedLab](https://github.com/DevClate/365AutomatedLab) - This module will create a Microsoft 365 Test Environment
 - [EvotecIT/PSWinDocumentation](https://github.com/EvotecIT/PSWinDocumentation) - PowerShell Module that creates Word/Excel/SQL documentation from Active Directory (AD), AWS, Office 365 and others. It's a work in progress!
 - [gwblok/garytown](https://github.com/gwblok/garytown) - GaryTown Scripts, Downloads, Etc
 - [vexx32/PSKoans](https://github.com/vexx32/PSKoans) - A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing.
@@ -1048,6 +1049,8 @@
 
 ## TypeScript 
 
+- [rush86999/atomic](https://github.com/rush86999/atomic) - What if your calendar had a brain? Chat with and teach your calendar to solve your time problems
+- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. demo:  https://demo.paisa.fyi
 - [oae/kaizoku](https://github.com/oae/kaizoku) - Self-hosted manga downloader
 - [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
 - [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
