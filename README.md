@@ -347,7 +347,6 @@
 - [petersem/posterr](https://github.com/petersem/posterr) - A digital poster app for Plex, Sonarr, Radarr, and Readarr
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, 
-- [Wizarrrr/wizarr](https://github.com/Wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [containers-stack/willy](https://github.com/containers-stack/willy) - Willy is a web service that can be used to manage Docker. The application allows you to manage all your orchestrator resources (containers, images, volumes, networks and more) through a GUI.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
@@ -1148,6 +1147,7 @@
 - [cmd430/vue-dashboard](https://github.com/cmd430/vue-dashboard) - A Dashboard for showing information about a Plex, Tautulli, Sonarr and Radarr Media server
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+- [Wizarrrr/wizarr](https://github.com/Wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [sharkykh/tppm](https://github.com/sharkykh/tppm) - ▶ Manage playback progress items stored on Trakt.tv
 - [headwaymaps/headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap.
 - [go-vikunja/frontend](https://github.com/go-vikunja/frontend) - Mirror of vikunja from https://code.vikunja.io/frontend
