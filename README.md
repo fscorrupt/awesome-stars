@@ -71,7 +71,7 @@
 
 ## C 
 
-- [brunodev85/winlator](https://github.com/brunodev85/winlator) - 
+- [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [ufrisk/pcileech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
