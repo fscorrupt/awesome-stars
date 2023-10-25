@@ -768,6 +768,7 @@
 
 ## Python 
 
+- [Heinz-Loepmeier/nozzleboss](https://github.com/Heinz-Loepmeier/nozzleboss) - 
 - [christophetd/CloudFlair](https://github.com/christophetd/CloudFlair) - 🔎 Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys.
 - [Shayne55434/Tautulli2Discord-python](https://github.com/Shayne55434/Tautulli2Discord-python) - 
 - [mtrogman/regrabarr](https://github.com/mtrogman/regrabarr) - A discord bot to delete and search for media
@@ -809,7 +810,7 @@
 - [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [mikenye/docker-striparr](https://github.com/mikenye/docker-striparr) - Strips metadata from files downloaded by Sonarr and Radarr. Triggered via WebHook.
-- [McCloudS/subgen](https://github.com/McCloudS/subgen) - Autogenerate subtitles using OpenAI Whisper Model via Plex and Tautulli
+- [McCloudS/subgen](https://github.com/McCloudS/subgen) - Autogenerate subtitles using OpenAI Whisper Model via Jellyfin, Plex, and Tautulli
 - [fhamborg/news-please](https://github.com/fhamborg/news-please) - news-please - an integrated web crawler and information extractor for news that just works
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
 - [irodimus/Plex-scripts](https://github.com/irodimus/Plex-scripts) - Scripts that I made regarding Plex and the whole media stuff around it
