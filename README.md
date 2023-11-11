@@ -654,6 +654,7 @@
 
 ## PowerShell 
 
+- [canix1/ADACLScanner](https://github.com/canix1/ADACLScanner) - Repo for ADACLScan.ps1 - Your number one script for ACL's in Active Directory
 - [TECHCSID/lenovowarranty](https://github.com/TECHCSID/lenovowarranty) - 
 - [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
 - [FlorianSLZ/Intune-Win32-Deployer](https://github.com/FlorianSLZ/Intune-Win32-Deployer) - Create and deploy winget and chocolatey (win32) apps to Intune with one click!
@@ -790,7 +791,7 @@
 
 - [toniebox-reverse-engineering/toniebox](https://github.com/toniebox-reverse-engineering/toniebox) - Holds all gathered information. Join our telegram-channel Check out our Telegram Channel https://t.me/toniebox_reverse_engineering
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
-- [FIXARR/fixarr](https://github.com/FIXARR/fixarr) - 🍿 Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
+- [FIXARR/fixarr](https://github.com/FIXARR/fixarr) - 🍿  Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [sachinsenal0x64/FIXARR](https://github.com/sachinsenal0x64/FIXARR) - 🍿 Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [LMS57/TempleOfPwn](https://github.com/LMS57/TempleOfPwn) - All Files, Scripts, and exploits can be found here
 - [xxlong0/Wonder3D](https://github.com/xxlong0/Wonder3D) - Single Image to 3D using Cross-Domain Diffusion
