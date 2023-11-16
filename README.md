@@ -201,6 +201,7 @@
 
 ## Dart 
 
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [lepras/Milkyway](https://github.com/lepras/Milkyway) - Blackhole 2.0, taking the flame a little forward.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
 - [JellyBookOrg/JellyBook](https://github.com/JellyBookOrg/JellyBook) - A nice way to read books and comics from Jellyfin
@@ -790,6 +791,7 @@
 
 ## Python 
 
+- [zakkarry/reTraktarr](https://github.com/zakkarry/reTraktarr) - reTraktarr is a "reverse" Trakt.tv list implementation for Radarr/Sonarr that creates Trakt lists for your movies/series using API calls.
 - [Hassassistant/openai_response](https://github.com/Hassassistant/openai_response) - Custom component to integrate OpenAI's ChatGPT into Home Assistant
 - [toniebox-reverse-engineering/toniebox](https://github.com/toniebox-reverse-engineering/toniebox) - Holds all gathered information. Join our telegram-channel Check out our Telegram Channel https://t.me/toniebox_reverse_engineering
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
@@ -1096,6 +1098,7 @@
 
 ## TypeScript 
 
+- [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [KopyTKG/MovieDB](https://github.com/KopyTKG/MovieDB) - Database viewer of my plex library
 - [KittyCAD/modeling-app](https://github.com/KittyCAD/modeling-app) - The KittyCAD modeling app.
 - [rush86999/atomic](https://github.com/rush86999/atomic) - Chat with and teach your calendar to solve your scheduling & time problems
@@ -1196,7 +1199,7 @@
 - [cmd430/vue-dashboard](https://github.com/cmd430/vue-dashboard) - A Dashboard for showing information about a Plex, Tautulli, Sonarr and Radarr Media server
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
-- [Wizarrrr/wizarr](https://github.com/Wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
+- [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [sharkykh/tppm](https://github.com/sharkykh/tppm) - ▶ Manage playback progress items stored on Trakt.tv
 - [headwaymaps/headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap.
 - [go-vikunja/frontend](https://github.com/go-vikunja/frontend) - Mirror of vikunja from https://code.vikunja.io/frontend
