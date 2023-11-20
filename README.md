@@ -239,10 +239,14 @@
 
 ## Elixir 
 
+- [ClaperCo/Claper](https://github.com/ClaperCo/Claper) - The ultimate tool to interact with your audience
 - [midarrlabs/midarr-server](https://github.com/midarrlabs/midarr-server) - 🔥Midarr, the minimal lightweight media server.
 
 ## Go 
 
+- [zorchenhimer/MovieNight](https://github.com/zorchenhimer/MovieNight) - Single instance video streaming server with integrated chat.
+- [julianolorenzato/trendle](https://github.com/julianolorenzato/trendle) - A self-hosted, real-time polling system.
+- [zorchenhimer/MoviePolls](https://github.com/zorchenhimer/MoviePolls) - Voting to decide on a movie to watch with MovieNight
 - [jessepeterson/kmfddm](https://github.com/jessepeterson/kmfddm) - KMFDDM is an Apple Declarative Device Management (DDM) server. It works together with NanoMDM.
 - [micromdm/nanomdm](https://github.com/micromdm/nanomdm) - NanoMDM is a minimalist Apple MDM server heavily inspired by MicroMDM
 - [micromdm/micromdm](https://github.com/micromdm/micromdm) - Mobile Device Management server
@@ -400,6 +404,10 @@
 
 ## JavaScript 
 
+- [emanuelchristo/movie-night-server](https://github.com/emanuelchristo/movie-night-server) - 🗄 Server for Movie Night web app
+- [PollBuddy/PollBuddy](https://github.com/PollBuddy/PollBuddy) - Poll Buddy is an interactive questionnaire platform that aims to be an enjoyable and easy to use way to collect answers and insights from a group of people.
+- [MovieMatchMaker/TinderForMoviesV2](https://github.com/MovieMatchMaker/TinderForMoviesV2) - 
+- [lkalliance/Be-For-Reel-beta](https://github.com/lkalliance/Be-For-Reel-beta) - A site for creating, voting in, and commenting on movie polls. Powered by IMDb, written in Node, Express, and MySQL.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [resoai/TileBoard](https://github.com/resoai/TileBoard) - A simple yet highly configurable Dashboard for HomeAssistant
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
@@ -795,6 +803,7 @@
 
 ## Python 
 
+- [OperationFman/Plexensus](https://github.com/OperationFman/Plexensus) - Tinder for Plex Movies
 - [zakkarry/retraktarr](https://github.com/zakkarry/retraktarr) - reTraktarr is a "reverse" Trakt.tv list implementation for Radarr/Sonarr that creates Trakt lists for your movies/series using API calls.
 - [Hassassistant/openai_response](https://github.com/Hassassistant/openai_response) - Custom component to integrate OpenAI's ChatGPT into Home Assistant
 - [toniebox-reverse-engineering/toniebox](https://github.com/toniebox-reverse-engineering/toniebox) - Holds all gathered information. Join our telegram-channel Check out our Telegram Channel https://t.me/toniebox_reverse_engineering
@@ -1103,6 +1112,9 @@
 
 ## TypeScript 
 
+- [Maurizio-F/movie-night](https://github.com/Maurizio-F/movie-night) - Movie night planner
+- [edwinsoftwaredev/movie-polls-fastify-nextjs](https://github.com/edwinsoftwaredev/movie-polls-fastify-nextjs) - 
+- [NickMarcha/Moobie-Poll](https://github.com/NickMarcha/Moobie-Poll) - Create a Straw Poll based on results from TMDB and Youtube
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [KopyTKG/MovieDB](https://github.com/KopyTKG/MovieDB) - Database viewer of my plex library
@@ -1199,6 +1211,7 @@
 
 ## Vue 
 
+- [emanuelchristo/movie-night](https://github.com/emanuelchristo/movie-night) - ⭐️ Sync play local video files with your friends
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
 - [Mawthuq-Software/Wireguard-Manager-GUI](https://github.com/Mawthuq-Software/Wireguard-Manager-GUI) - The front-end GUI for the wireguard manager and API.
