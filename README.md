@@ -404,6 +404,12 @@
 
 ## JavaScript 
 
+- [VedankPande/polling-app](https://github.com/VedankPande/polling-app) - A real-time polling/voting application that allows users to create and participate in polls
+- [morikeli/Fast-Polls](https://github.com/morikeli/Fast-Polls) - This is a polling website that allows users to create, edit or delete polls they published. Other users can vote and view poll results.
+- [ilyeshammadi/voting_app](https://github.com/ilyeshammadi/voting_app) - Voting app, that let's users create and edit polls
+- [paspheeris/polling](https://github.com/paspheeris/polling) - Create, edit, view and vote on polls
+- [RaajAakarsh/ThePollPlaza](https://github.com/RaajAakarsh/ThePollPlaza) - Sample Polling Website (Work in Progress): This is a sample polling website created as a part of a web development project. The website allows users to create and participate in polls on various topic
+- [man-united/quickpoll](https://github.com/man-united/quickpoll) - Full stack web app allowing live polls to be created. Users share url link for others to vote.
 - [emanuelchristo/movie-night-server](https://github.com/emanuelchristo/movie-night-server) - 🗄 Server for Movie Night web app
 - [PollBuddy/PollBuddy](https://github.com/PollBuddy/PollBuddy) - Poll Buddy is an interactive questionnaire platform that aims to be an enjoyable and easy to use way to collect answers and insights from a group of people.
 - [MovieMatchMaker/TinderForMoviesV2](https://github.com/MovieMatchMaker/TinderForMoviesV2) - 
@@ -803,8 +809,10 @@
 
 ## Python 
 
+- [Quinos2003/PollsApp](https://github.com/Quinos2003/PollsApp) - The "polls" application is a simple Django web app that allows users to create, vote on, and view the results of polls or surveys. It consists of models for questions and choices, views for handling u
+- [zablon-oigo/polls_app](https://github.com/zablon-oigo/polls_app) - a simple poll app where users can create polls, vote in polls, and view poll results.
 - [OperationFman/Plexensus](https://github.com/OperationFman/Plexensus) - Tinder for Plex Movies
-- [zakkarry/retraktarr](https://github.com/zakkarry/retraktarr) - reTraktarr is a "reverse" Trakt.tv list implementation for Radarr/Sonarr that creates Trakt lists for your movies/series using API calls.
+- [zakkarry/retraktarr](https://github.com/zakkarry/retraktarr) - retraktarr is a "reverse" Trakt.tv list implementation for Radarr/Sonarr that creates Trakt lists for your movies/series
 - [Hassassistant/openai_response](https://github.com/Hassassistant/openai_response) - Custom component to integrate OpenAI's ChatGPT into Home Assistant
 - [toniebox-reverse-engineering/toniebox](https://github.com/toniebox-reverse-engineering/toniebox) - Holds all gathered information. Join our telegram-channel Check out our Telegram Channel https://t.me/toniebox_reverse_engineering
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
@@ -1112,6 +1120,11 @@
 
 ## TypeScript 
 
+- [kriziu/kripoll](https://github.com/kriziu/kripoll) - An app to create polls and vote.
+- [Damian-Zuk/pollwizard](https://github.com/Damian-Zuk/pollwizard) - Web application for creating polls and voting made using FastAPI and React.js
+- [HashTalmiz/PromptPolls](https://github.com/HashTalmiz/PromptPolls) - A full stack app that allows you to create Polls without signing up and vote in them, but does not allow duplicate votes.
+- [rajmaurya-dev/PollPal](https://github.com/rajmaurya-dev/PollPal) - PollPal: Your go-to app for creating, sharing, and voting on polls with friends. Make decisions together and have fun along the way!
+- [boomboxik/Rankr-app](https://github.com/boomboxik/Rankr-app) - Rankr is an application that lets you create voting polls
 - [Maurizio-F/movie-night](https://github.com/Maurizio-F/movie-night) - Movie night planner
 - [edwinsoftwaredev/movie-polls-fastify-nextjs](https://github.com/edwinsoftwaredev/movie-polls-fastify-nextjs) - 
 - [NickMarcha/Moobie-Poll](https://github.com/NickMarcha/Moobie-Poll) - Create a Straw Poll based on results from TMDB and Youtube
@@ -1211,6 +1224,7 @@
 
 ## Vue 
 
+- [nuxt/movies](https://github.com/nuxt/movies) - 🍿 A TMDB client built with Nuxt 3
 - [emanuelchristo/movie-night](https://github.com/emanuelchristo/movie-night) - ⭐️ Sync play local video files with your friends
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
