@@ -73,6 +73,7 @@
 
 ## C 
 
+- [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
@@ -551,6 +552,7 @@
 
 ## Others 
 
+- [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 - [Desuuuu/klipper-macros](https://github.com/Desuuuu/klipper-macros) - A collection of my Klipper G-code macros.
 - [herveaurel/HomeAssistant](https://github.com/herveaurel/HomeAssistant) - Mad-Geek : My Custom Dashboard
 - [Fribb/anime-lists](https://github.com/Fribb/anime-lists) - Anime-Mapping Project
