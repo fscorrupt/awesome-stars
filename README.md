@@ -33,7 +33,6 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
-- [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -75,6 +74,7 @@
 
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [ufrisk/pcileech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software
@@ -547,10 +547,6 @@
 ## Mustache 
 
 - [simplyzee/kube-rclone](https://github.com/simplyzee/kube-rclone) - kube-rclone is a rclone mount solution for Kubernetes
-
-## Objective-C 
-
-- [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 
 ## Others 
 
