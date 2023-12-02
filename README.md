@@ -503,7 +503,7 @@
 - [JasonHHouse/gaps](https://github.com/JasonHHouse/gaps) - Find the missing movies in your Plex Server
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [Chewbaka69/PlexShare](https://github.com/Chewbaka69/PlexShare) - Web Application standalone that provide management of local users, many PlexServer and it's libraries.
-- [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application and API that collects Plex statistics using Tautulli and displays it in a nice format. Similar to the Spotify Wrapped concept.
+- [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
 - [evoactivity/PlutoIPTV](https://github.com/evoactivity/PlutoIPTV) - Grab EPG & M3U from Pluto.tv
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
 - [KelvinTegelaar/CIPP](https://github.com/KelvinTegelaar/CIPP) - CIPP is a M365 multitenant management solution
@@ -555,6 +555,7 @@
 
 ## Others 
 
+- [PRProd/HA-Firemote](https://github.com/PRProd/HA-Firemote) - Apple TV, Amazon Fire TV, Fire streaming stick, Chromecast, NVIDIA Shield, Xiaomi Mi, and Android TV remote control emulator for Home Assistant
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [SystemSecurityStorm/Awesome-Binary-Rewriting](https://github.com/SystemSecurityStorm/Awesome-Binary-Rewriting) - An awesome & curated list of binary rewriting papers
 - [bramkragten/weather-card](https://github.com/bramkragten/weather-card) - Weather Card with animated icons for Home Assistant Lovelace
@@ -650,7 +651,7 @@
 - [fr0tt/benotes](https://github.com/fr0tt/benotes) - An open source self hosted notes and bookmarks taking web app.
 - [proconsule/nspindexer](https://github.com/proconsule/nspindexer) - PHP Indexer for Switch NSP
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
-- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with CakePHP
+- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [ghartemann/plex-finder](https://github.com/ghartemann/plex-finder) - A Tinder-like experience for Plex Watchlist: swipe and match with another person and find the movie you're gonna watch tonight.
 - [Dachande663/Plex-Export](https://github.com/Dachande663/Plex-Export) - Export your Plex Library as an interactive HTML page for others to browse.
@@ -695,7 +696,7 @@
 - [gwblok/garytown](https://github.com/gwblok/garytown) - GaryTown Scripts, Downloads, Etc
 - [vexx32/PSKoans](https://github.com/vexx32/PSKoans) - A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing.
 - [dafthack/DomainPasswordSpray](https://github.com/dafthack/DomainPasswordSpray) - DomainPasswordSpray is a tool written in PowerShell to perform a password spray attack against users of a domain. By default it will automatically generate the userlist from the domain. BE VERY CAREFU
-- [vectra-ai-research/MAAD-AF](https://github.com/vectra-ai-research/MAAD-AF) - MAAD Attack Framework - An attack tool for simple, fast & effective security testing of M365 & Azure AD.
+- [vectra-ai-research/MAAD-AF](https://github.com/vectra-ai-research/MAAD-AF) - MAAD Attack Framework - An attack tool for simple, fast & effective security testing of M365 & Entra ID (Azure AD).
 - [scipag/HardeningKitty](https://github.com/scipag/HardeningKitty) - HardeningKitty - Checks and hardens your Windows configuration
 - [hausec/PowerZure](https://github.com/hausec/PowerZure) - PowerShell framework to assess Azure security
 - [kmwoley/restic-windows-backup](https://github.com/kmwoley/restic-windows-backup) - Powershell scripts to run Restic backups on Windows
@@ -821,6 +822,8 @@
 
 ## Python 
 
+- [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - 
+- [RickDB/PlexAniSync-Custom-Mappings](https://github.com/RickDB/PlexAniSync-Custom-Mappings) - Repository for community driven custom anime mappings
 - [RickDB/PlexAniSync](https://github.com/RickDB/PlexAniSync) - Sync Plex anime library to AniList
 - [Quinos2003/PollsApp](https://github.com/Quinos2003/PollsApp) - The "polls" application is a simple Django web app that allows users to create, vote on, and view the results of polls or surveys. It consists of models for questions and choices, views for handling u
 - [zablon-oigo/polls_app](https://github.com/zablon-oigo/polls_app) - a simple poll app where users can create polls, vote in polls, and view poll results.
