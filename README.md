@@ -827,6 +827,7 @@
 
 ## Python 
 
+- [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Cross-platform iMessage POC
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [RickDB/PlexAniSync-Custom-Mappings](https://github.com/RickDB/PlexAniSync-Custom-Mappings) - Repository for community driven custom anime mappings
 - [RickDB/PlexAniSync](https://github.com/RickDB/PlexAniSync) - Sync Plex anime library to AniList
@@ -1144,7 +1145,6 @@
 - [kriziu/kripoll](https://github.com/kriziu/kripoll) - An app to create polls and vote.
 - [Damian-Zuk/pollwizard](https://github.com/Damian-Zuk/pollwizard) - Web application for creating polls and voting made using FastAPI and React.js
 - [HashTalmiz/PromptPolls](https://github.com/HashTalmiz/PromptPolls) - A full stack app that allows you to create Polls without signing up and vote in them, but does not allow duplicate votes.
-- [rajmaurya-dev/PollPal](https://github.com/rajmaurya-dev/PollPal) - PollPal: Your go-to app for creating, sharing, and voting on polls with friends. Make decisions together and have fun along the way!
 - [boomboxik/Rankr-app](https://github.com/boomboxik/Rankr-app) - Rankr is an application that lets you create voting polls
 - [Maurizio-F/movie-night](https://github.com/Maurizio-F/movie-night) - Movie night planner
 - [edwinsoftwaredev/movie-polls-fastify-nextjs](https://github.com/edwinsoftwaredev/movie-polls-fastify-nextjs) - 
@@ -1167,7 +1167,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [PascalLuginbuehl/home-assistant-tray-menu](https://github.com/PascalLuginbuehl/home-assistant-tray-menu) - An app to interact with Home Assistant in the Windows System Tray
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Open Source Education Platform
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant ⚡️🤖 Chat with your files (PDF, CSV, ...)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share wi
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [eramdam/starry-raindrop](https://github.com/eramdam/starry-raindrop) - Sync GitHub starred repos to a Raindrop.io collection
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki, Status: https://uptime.m-o.dev/status
 - [manybothans/plex-requester-collections](https://github.com/manybothans/plex-requester-collections) - This app will tag your media in Plex, Radarr, and Sonarr with the username of the person who requested the media in Overseerr. To assist with library pruning, it can also connect to Tautulli and tag m
