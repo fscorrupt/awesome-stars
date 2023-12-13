@@ -831,6 +831,7 @@
 
 ## Python 
 
+- [jcwillox/hass-auto-backup](https://github.com/jcwillox/hass-auto-backup) - 🗃️ Improved Backup Service for Home Assistant that can Automatically Remove Backups and Supports Generational Backup Schemes.
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
 - [cisagov/untitledgoosetool](https://github.com/cisagov/untitledgoosetool) - Untitled Goose Tool is a robust and flexible hunt and incident response tool that adds novel authentication and data gathering methods in order to run a full investigation against a customer’s Azure A
