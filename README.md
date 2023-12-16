@@ -97,6 +97,8 @@
 
 ## C# # 
 
+- [oknorton/LethalCompanyScalingMaster](https://github.com/oknorton/LethalCompanyScalingMaster) - A mod that allows users to fully customize the scaling of the most player impacted values.
+- [no00ob/LCSoundTool](https://github.com/no00ob/LCSoundTool) - Simple Lethal Company sound tool and debugger.
 - [C9Glax/tranga](https://github.com/C9Glax/tranga) - Client that automatically downloads new chapters from Manga-Websites.
 - [jellyfin/jellyfin-plugin-ldapauth](https://github.com/jellyfin/jellyfin-plugin-ldapauth) - LDAP Authentication for Jellyfin
 - [David-Moreira/JellyseerrSync](https://github.com/David-Moreira/JellyseerrSync) - 
@@ -831,6 +833,7 @@
 
 ## Python 
 
+- [onedr0p/JBOPS](https://github.com/onedr0p/JBOPS) - Just a Bunch Of Plex Scripts
 - [jcwillox/hass-auto-backup](https://github.com/jcwillox/hass-auto-backup) - 🗃️ Improved Backup Service for Home Assistant that can Automatically Remove Backups and Supports Generational Backup Schemes.
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
@@ -935,7 +938,7 @@
 - [vstconsulting/polemarch](https://github.com/vstconsulting/polemarch) - Simple WEB gui for infrastructure management by ansible playbooks or modules. This is only mirror with bins in releases.
 - [Inboxen/Inboxen](https://github.com/Inboxen/Inboxen) - Main repo for Inboxen.org
 - [grssmnn/ha-flexispot-standing-desk](https://github.com/grssmnn/ha-flexispot-standing-desk) - Home Assistant integration for a standing desk by Flexispot in micropython
-- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
+- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management https://www.secologist.com/
 - [skavngr/rapidscan](https://github.com/skavngr/rapidscan) - :new: The Multi-Tool Web Vulnerability Scanner.
 - [evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning
 - [almandin/fuxploider](https://github.com/almandin/fuxploider) - File upload vulnerability scanner and exploitation tool.
@@ -1070,6 +1073,7 @@
 
 ## Shell 
 
+- [debridmediamanager/zurg-testing](https://github.com/debridmediamanager/zurg-testing) - A self-hosted Real-Debrid webdav server you can use with Infuse. Together with rclone it can mount your Real-Debrid torrent library into your filesystem and load it to Plex or Jellyfin.
 - [rix1337/docker-ripper](https://github.com/rix1337/docker-ripper) - The best way to automatically rip optical disks using docker!
 - [fabricionaweb/sonarr-tba-rename](https://github.com/fabricionaweb/sonarr-tba-rename) - Look for TBA episodes in Library, ask to Refresh them ask to Rename
 - [kayabe/syncplay-server-docker](https://github.com/kayabe/syncplay-server-docker) - Syncplay 1.7.0 docker
