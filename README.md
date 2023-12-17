@@ -327,7 +327,7 @@
 - [RoyXiang/plexproxy](https://github.com/RoyXiang/plexproxy) - 
 - [XanderStrike/goplaxt](https://github.com/XanderStrike/goplaxt) - Scrobble Plex plays to Trakt with ease!
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, PassKeys, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, accou
-- [ByteDream/docker4ssh](https://github.com/ByteDream/docker4ssh) - 🐋 Docker containers and more via ssh
+- [bytedream/docker4ssh](https://github.com/bytedream/docker4ssh) - 🐋 Docker containers and more via ssh
 - [jeffwillette/docker-alertd](https://github.com/jeffwillette/docker-alertd) - Monitor docker stats and send alerts
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [r7wx/easy-gate](https://github.com/r7wx/easy-gate) - A gate to your self hosted infrastructure
@@ -692,6 +692,7 @@
 
 ## PowerShell 
 
+- [akamai/Invoke-DHCPCheckup](https://github.com/akamai/Invoke-DHCPCheckup) - 
 - [AzureAD/Azure-AD-Incident-Response-PowerShell-Module](https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module) - The Azure Active Directory Incident Response PowerShell module provides a number of tools, developed by the Azure Active Directory Product Group in conjunction with the Microsoft Detection and Respons
 - [realmjoin/realmjoin-remediation](https://github.com/realmjoin/realmjoin-remediation) - Generic Remediation Scripts Repository
 - [realmjoin/realmjoin-runbooks](https://github.com/realmjoin/realmjoin-runbooks) - Generic Runbooks Repository
