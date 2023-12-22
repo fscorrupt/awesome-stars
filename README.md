@@ -370,7 +370,6 @@
 
 ## HTML 
 
-- [kmille/freetar](https://github.com/kmille/freetar) - freetar  - an alternative frontend for ultimate-guitar.com
 - [BobHasNoSoul/jellyfin-mods](https://github.com/BobHasNoSoul/jellyfin-mods) - This is just a guide for various modifications and dumping ground for jellyfin mods so i dont have to make a new jftool for every platform and revision
 - [blakadder/sv06](https://github.com/blakadder/sv06) - Sovol SV06 and SV06 Plus Knowledge Base
 - [Suffuse-Team/suffuse-team.github.io](https://github.com/Suffuse-Team/suffuse-team.github.io) - Website for Suffuse
@@ -528,6 +527,7 @@
 
 ## Kotlin 
 
+- [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 - [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - [Gap month 2023.12.1 - 2023.12.31] 数据备份 DataBackup for Android
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
 - [itszechs/DriveStream](https://github.com/itszechs/DriveStream) - Stream video files from Google drive
