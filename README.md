@@ -77,7 +77,6 @@
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
-- [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [ufrisk/pcileech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
@@ -403,6 +402,7 @@
 ## Java 
 
 - [Fribb/anime-lists-generator](https://github.com/Fribb/anime-lists-generator) - generator for the anime-lists project
+- [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [newhinton/Round-Sync](https://github.com/newhinton/Round-Sync) - Rclone for Android
 - [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 - [BrunoReX/jmkvpropedit](https://github.com/BrunoReX/jmkvpropedit) - Batch GUI for mkvpropedit
@@ -760,7 +760,7 @@
 - [FriendsOfMDT/PSD](https://github.com/FriendsOfMDT/PSD) - PowerShell Deployment
 - [frugglehost/TautulliBatch2Trakt](https://github.com/frugglehost/TautulliBatch2Trakt) - Powershell script to send Tautulli notificaions to Trakt
 - [microsoft/Microsoft-Defender-for-Identity](https://github.com/microsoft/Microsoft-Defender-for-Identity) - Additional resources to improve customer experience with Microsoft Defender for Identity
-- [silverhack/monkey365](https://github.com/silverhack/monkey365) - Monkey365 provides a tool for security consultants to easily conduct not only Microsoft 365, but also Azure subscriptions and Azure Active Directory security configuration reviews.
+- [silverhack/monkey365](https://github.com/silverhack/monkey365) - Monkey365 provides a tool for security consultants to easily conduct not only Microsoft 365, but also Azure subscriptions and Microsoft Entra ID security configuration reviews.
 - [cybermoloch/PSAppDeployToolkit-Plus](https://github.com/cybermoloch/PSAppDeployToolkit-Plus) - 
 - [aaronparker/packagefactory](https://github.com/aaronparker/packagefactory) - A packaging factory for Microsoft Intune using Evergreen, VcRedist, and IntuneWin32App
 - [Mauvlans/OneDrive](https://github.com/Mauvlans/OneDrive) - 
@@ -838,6 +838,8 @@
 
 ## Python 
 
+- [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
+- [Dragon2fly/ZipUnicode](https://github.com/Dragon2fly/ZipUnicode) - Extract zip file with correct encoding. Auto detect encoding for filename that was used to archive files. Fix zip file to use UTF-8 as filename encoding.
 - [DevilXD/TwitchDropsMiner](https://github.com/DevilXD/TwitchDropsMiner) - An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
 - [ZeroQI/Absolute-Series-Scanner](https://github.com/ZeroQI/Absolute-Series-Scanner) - Seasons, absolute mode, Subfolders...
 - [onedr0p/JBOPS](https://github.com/onedr0p/JBOPS) - Just a Bunch Of Plex Scripts
