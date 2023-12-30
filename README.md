@@ -154,6 +154,8 @@
 
 ## C++ 
 
+- [hackerhouse-opensource/WMIProcessWatcher](https://github.com/hackerhouse-opensource/WMIProcessWatcher) - A CIA tradecraft technique to asynchronously detect when a process is created using WMI.
+- [hackerhouse-opensource/SignToolEx](https://github.com/hackerhouse-opensource/SignToolEx) - Patching "signtool.exe" to accept expired certificates for code-signing.
 - [ujjwall-R/Dree](https://github.com/ujjwall-R/Dree) - One single package for visualization, debugging, and exploration of folder hierarchies
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN.
@@ -1110,7 +1112,6 @@
 - [fieu/discord.sh](https://github.com/fieu/discord.sh) - Write-only command-line Discord webhooks integration written in 100% Bash script
 - [Zeioth/termux-docker](https://github.com/Zeioth/termux-docker) - Just a script that setups everything for you
 - [seanap/Plex-Audiobook-Guide](https://github.com/seanap/Plex-Audiobook-Guide) - A walkthrough for optimal Audiobook experience using Plex
-- [BiosPlus/Movie-Cleanup](https://github.com/BiosPlus/Movie-Cleanup) - 
 - [88lex/sa-gen](https://github.com/88lex/sa-gen) - Create projects, service accounts, jsons and a group list in csv using gcloud sdk
 - [mag37/dockcheck](https://github.com/mag37/dockcheck) - A script checking updates for docker images without pulling - then selectively auto-update some/all containers.
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
