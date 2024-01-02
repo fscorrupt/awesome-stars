@@ -861,7 +861,7 @@
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [RickDB/PlexAniSync-Custom-Mappings](https://github.com/RickDB/PlexAniSync-Custom-Mappings) - Repository for community driven custom anime mappings
 - [RickDB/PlexAniSync](https://github.com/RickDB/PlexAniSync) - Sync Plex anime library to AniList
-- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - collect agent's system prompt and share some prompt inject knowledge
+- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [Quinos2003/PollsApp](https://github.com/Quinos2003/PollsApp) - The "polls" application is a simple Django web app that allows users to create, vote on, and view the results of polls or surveys. It consists of models for questions and choices, views for handling u
 - [zablon-oigo/polls_app](https://github.com/zablon-oigo/polls_app) - a simple poll app where users can create polls, vote in polls, and view poll results.
 - [OperationFman/Plexensus](https://github.com/OperationFman/Plexensus) - Tinder for Plex Movies
