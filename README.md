@@ -843,6 +843,7 @@
 
 ## Python 
 
+- [bibanon/tubeup](https://github.com/bibanon/tubeup) - Use yt-dlp to download video and upload to the Internet Archive with metadata.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 - [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
 - [meeb/tubesync](https://github.com/meeb/tubesync) - Syncs YouTube channels and playlists to a locally hosted media server
@@ -1273,7 +1274,7 @@
 ## Visual Basic .NET 
 
 - [hama3254/Crunchyroll-Downloader-v3.0](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) - Downloader for Crunchyroll
-- [kimmknight/remoteapptool](https://github.com/kimmknight/remoteapptool) - Create and manage RemoteApps hosted on Windows 7, 8, 10, XP and Server. Generate RDP and MSI files for clients.
+- [kimmknight/remoteapptool](https://github.com/kimmknight/remoteapptool) - Create and manage RemoteApps hosted on Windows 7, 8, 10, 11, XP and Server. Generate RDP and MSI files for clients.
 - [staxrip/staxrip](https://github.com/staxrip/staxrip) - 🎞 Video encoding GUI for Windows.
 - [stax76/File-Type-Registry-Viewer](https://github.com/stax76/File-Type-Registry-Viewer) - File Type Registry Viewer shows registry keys related to a defined file type.
 
