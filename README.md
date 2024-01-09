@@ -662,6 +662,7 @@
 
 ## PHP 
 
+- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
 - [axeloz/filesharing](https://github.com/axeloz/filesharing) - Self-hosted files sharing application, easy to setup, easy to use
 - [stefanzweifel/screeenly](https://github.com/stefanzweifel/screeenly) - 📸  Screenshot as a Service
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies
