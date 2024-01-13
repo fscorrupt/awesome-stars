@@ -567,6 +567,7 @@
 
 ## Others 
 
+- [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
 - [minimaxir/hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) - Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
 - [awattar-backtesting/awattar-backtesting.github.io](https://github.com/awattar-backtesting/awattar-backtesting.github.io) - A tool to visualize your electricity usage with aWATTar
 - [okieselbach/Autopilot-Manager](https://github.com/okieselbach/Autopilot-Manager) - Autopilot Manager simplifies Windows Autopilot imports by using a small client program and an Azure app service.
