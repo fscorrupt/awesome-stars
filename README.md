@@ -225,6 +225,8 @@
 
 ## Dockerfile 
 
+- [div-opn/rtsp-to-mjpeg](https://github.com/div-opn/rtsp-to-mjpeg) - Simple container to provide access to a RTSP stream via MJPEG.
+- [eroji/rtsp2mjpg](https://github.com/eroji/rtsp2mjpg) - RTSP to MJPEG stream conversion using FFmpeg and FFserver
 - [youegraillot/lidarr-on-steroids](https://github.com/youegraillot/lidarr-on-steroids) - Lidarr with some muscles thanks to deemix
 - [jefflessard/plex-vaapi-amdgpu-mod](https://github.com/jefflessard/plex-vaapi-amdgpu-mod) - linuxserver.io mod to enable hardware acceleration using vaapi amdgpu on linuxserver/plex
 - [wanjohiryan/Arc3dia](https://github.com/wanjohiryan/Arc3dia) - Self-Hosted Stadia: Play with your friends online from any device and at any time
@@ -703,6 +705,7 @@
 
 ## PowerShell 
 
+- [mkht/DSCR_AutoLogon](https://github.com/mkht/DSCR_AutoLogon) - PowerShell DSC Resource & Functions to turn on / off automatic logon in Windows.
 - [akamai/Invoke-DHCPCheckup](https://github.com/akamai/Invoke-DHCPCheckup) - 
 - [AzureAD/Azure-AD-Incident-Response-PowerShell-Module](https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module) - The Azure Active Directory Incident Response PowerShell module provides a number of tools, developed by the Azure Active Directory Product Group in conjunction with the Microsoft Detection and Respons
 - [realmjoin/realmjoin-remediation](https://github.com/realmjoin/realmjoin-remediation) - Generic Remediation Scripts Repository
@@ -1179,6 +1182,7 @@
 
 ## TypeScript 
 
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [productiveops/dokemon](https://github.com/productiveops/dokemon) - Docker Container Management GUI
 - [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
