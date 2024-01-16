@@ -259,7 +259,7 @@
 - [datarhei/core](https://github.com/datarhei/core) - datarhei Core is management for FFmpeg processes without development effort. Whether your streaming has one viewer or a million, we have the tools to help you develop, deploy and manage any video proj
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [zorchenhimer/MovieNight](https://github.com/zorchenhimer/MovieNight) - Single instance video streaming server with integrated chat.
-- [julianolorenzato/trendle](https://github.com/julianolorenzato/trendle) - A self-hosted, real-time polling system.
+- [julianolorenzato/trendle](https://github.com/julianolorenzato/trendle) - 🔥 A self-hosted, real-time polling system.
 - [zorchenhimer/MoviePolls](https://github.com/zorchenhimer/MoviePolls) - Voting to decide on a movie to watch with MovieNight
 - [jessepeterson/kmfddm](https://github.com/jessepeterson/kmfddm) - KMFDDM is an Apple Declarative Device Management (DDM) server. It works together with NanoMDM.
 - [micromdm/nanomdm](https://github.com/micromdm/nanomdm) - NanoMDM is a minimalist Apple MDM server heavily inspired by MicroMDM
@@ -374,6 +374,7 @@
 
 ## HTML 
 
+- [DRMStuff/ChromeCDM](https://github.com/DRMStuff/ChromeCDM) - Widevine guesser to get mpd and keys from any widevine site
 - [markstan/IntuneOneDataCollector](https://github.com/markstan/IntuneOneDataCollector) - Intune One Data Collector - automated tool to collect data for Intune support issues.
 - [BobHasNoSoul/jellyfin-mods](https://github.com/BobHasNoSoul/jellyfin-mods) - This is just a guide for various modifications and dumping ground for jellyfin mods so i dont have to make a new jftool for every platform and revision
 - [blakadder/sv06](https://github.com/blakadder/sv06) - Sovol SV06 and SV06 Plus Knowledge Base
@@ -556,7 +557,7 @@
 
 ## Markdown 
 
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mustache 
@@ -852,6 +853,7 @@
 
 ## Python 
 
+- [GetWVKeys/getwvkeys](https://github.com/GetWVKeys/getwvkeys) - Official repository for getwvkeys.cc
 - [I-am-PUID-0/pd_zurg](https://github.com/I-am-PUID-0/pd_zurg) - A combined docker image for the unified deployment of itsToggle's, yowmamasita's, and ncw's projects -- plex_debrid, zurg, and rclone
 - [bibanon/tubeup](https://github.com/bibanon/tubeup) - Use yt-dlp to download video and upload to the Internet Archive with metadata.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
@@ -895,7 +897,6 @@
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
 - [willmcgugan/faqtory](https://github.com/willmcgugan/faqtory) - A tool to generate FAQ.md documents and automatically suggest answers to issues
 - [slashback100/presence_simulation](https://github.com/slashback100/presence_simulation) - Home Assistant Presence Simulation
-- [chazlarson/PMM-Quickstart](https://github.com/chazlarson/PMM-Quickstart) - 
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
 - [Casvt/Kapowarr](https://github.com/Casvt/Kapowarr) - Kapowarr is a software to build and manage a comic book library, fitting in the *arr suite of software.
 - [jeanslack/Videomass](https://github.com/jeanslack/Videomass) - Videomass is a free, open source and cross-platform GUI for FFmpeg and yt-dlp
