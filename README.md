@@ -855,6 +855,7 @@
 
 ## Python 
 
+- [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [GetWVKeys/getwvkeys](https://github.com/GetWVKeys/getwvkeys) - Official repository for getwvkeys.cc
 - [I-am-PUID-0/pd_zurg](https://github.com/I-am-PUID-0/pd_zurg) - A combined docker image for the unified deployment of itsToggle's, yowmamasita's, and ncw's projects -- plex_debrid, zurg, and rclone
 - [bibanon/tubeup](https://github.com/bibanon/tubeup) - Use yt-dlp to download video and upload to the Internet Archive with metadata.
@@ -1176,6 +1177,7 @@
 
 ## Svelte 
 
+- [matt8707/ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [Pyxxilated-Studios/Moonarr](https://github.com/Pyxxilated-Studios/Moonarr) - An *arr for tidal
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
