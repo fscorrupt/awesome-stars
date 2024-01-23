@@ -246,6 +246,7 @@
 
 ## EJS 
 
+- [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a web interface for managing Docker, with a zero-config dashboard for your containers.
 - [my-ugly-code/WebsUpTV](https://github.com/my-ugly-code/WebsUpTV) - Node.js application for displaying various web widgets over Android TV OS - Sports, News, Weather, Plex and more
 
 ## Elixir 
@@ -714,7 +715,6 @@
 - [GhostPack/PSPKIAudit](https://github.com/GhostPack/PSPKIAudit) - PowerShell toolkit for AD CS auditing based on the PSPKI toolkit.
 - [mkht/DSCR_AutoLogon](https://github.com/mkht/DSCR_AutoLogon) - PowerShell DSC Resource & Functions to turn on / off automatic logon in Windows.
 - [akamai/Invoke-DHCPCheckup](https://github.com/akamai/Invoke-DHCPCheckup) - 
-- [debridmediamanager/zurg-testing](https://github.com/debridmediamanager/zurg-testing) - A self-hosted Real-Debrid webdav server you can use with Infuse. Together with rclone it can mount your Real-Debrid torrent library into your filesystem and load it to Plex or Jellyfin.
 - [AzureAD/Azure-AD-Incident-Response-PowerShell-Module](https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module) - The Azure Active Directory Incident Response PowerShell module provides a number of tools, developed by the Azure Active Directory Product Group in conjunction with the Microsoft Detection and Respons
 - [realmjoin/realmjoin-remediation](https://github.com/realmjoin/realmjoin-remediation) - Generic Remediation Scripts Repository
 - [realmjoin/realmjoin-runbooks](https://github.com/realmjoin/realmjoin-runbooks) - Generic Runbooks Repository
@@ -1107,6 +1107,7 @@
 
 ## Shell 
 
+- [debridmediamanager/zurg-testing](https://github.com/debridmediamanager/zurg-testing) - A self-hosted Real-Debrid webdav server you can use with Infuse. Together with rclone it can mount your Real-Debrid torrent library into your filesystem and load it to Plex or Jellyfin.
 - [rix1337/docker-ripper](https://github.com/rix1337/docker-ripper) - The best way to automatically rip optical disks using docker!
 - [fabricionaweb/sonarr-tba-rename](https://github.com/fabricionaweb/sonarr-tba-rename) - Look for TBA episodes in Library, ask to Refresh them ask to Rename
 - [kayabe/syncplay-server-docker](https://github.com/kayabe/syncplay-server-docker) - Syncplay 1.7.0 docker
