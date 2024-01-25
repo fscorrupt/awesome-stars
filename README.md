@@ -572,6 +572,7 @@
 
 ## Others 
 
+- [zarox-things/configs-and-stuff](https://github.com/zarox-things/configs-and-stuff) - 
 - [blackhatethicalhacking/Google-Dorking](https://github.com/blackhatethicalhacking/Google-Dorking) - Google Dorking Cheat Sheet
 - [rod-trent/MustLearnKQL](https://github.com/rod-trent/MustLearnKQL) - Code included as part of the MustLearnKQL blog series
 - [LearningKijo/KQL](https://github.com/LearningKijo/KQL) - Threat Hunting query in Microsoft 365 Defender, XDR. Provide out-of-the-box KQL hunting queries - App, Email, Identity and Endpoint.
@@ -617,7 +618,7 @@
 - [RX-M/kubecon-eu-2022](https://github.com/RX-M/kubecon-eu-2022) - Kubecon talks
 - [PatchMyPCTeam/MEM-Patching-Optimizer](https://github.com/PatchMyPCTeam/MEM-Patching-Optimizer) - This tool run various tests against your WSUS  & ConfigMgr environment, Including WSUS, SQL & IIS and provide feedback based on Microsoft best practices
 - [rishirdua/awesome-code-formatters](https://github.com/rishirdua/awesome-code-formatters) - A curated list of awesome code formatting tools and libraries
-- [bitgapp/Cursr](https://github.com/bitgapp/Cursr) - 🖱 Cursor movement customization between multiple Displays  🖥  (and soon between multiple Computers)
+- [bitgapp/Cursr](https://github.com/bitgapp/Cursr) - KVM - Share Mouse & Keyboard between multiple computers. Custom borders and more!
 - [NicklasAhlberg/RockEnrollTool](https://github.com/NicklasAhlberg/RockEnrollTool) - 
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [NicklasAhlberg/AutopilotTool](https://github.com/NicklasAhlberg/AutopilotTool) - No more need to struggle to manually get, move and import the csv-file from another device. All you need to do is run the tool (Shift+F10 when you get to pick your keyboard layout), start Autopilot To
@@ -1288,7 +1289,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
 - [ElonH/RcloneNg](https://github.com/ElonH/RcloneNg) - An angular web application for rclone
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [Eleven-am/frames](https://github.com/Eleven-am/frames) - Frames is a VOD streaming service built with react and NextJs around the Google Drive API.
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 
