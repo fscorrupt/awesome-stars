@@ -33,6 +33,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
+- [Objective-C](#objective-c)
 - [Open Policy Agent](#open-policy-agent)
 - [Others](#others)
 - [PHP](#php)
@@ -62,6 +63,9 @@
 
 ## Batchfile 
 
+- [joshuacline/packagecreator](https://github.com/joshuacline/packagecreator) - 
+- [joshuacline/imageconverter](https://github.com/joshuacline/imageconverter) - 
+- [joshuacline/windick](https://github.com/joshuacline/windick) - Windows Deployment Image Customization Kit
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [shirooo39/Windows-11-Bypass](https://github.com/shirooo39/Windows-11-Bypass) - Bypass Windows 11's system requirements in a simple and easy way.
 - [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
@@ -76,7 +80,6 @@
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-- [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [ufrisk/pcileech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
@@ -420,6 +423,7 @@
 
 ## JavaScript 
 
+- [Stirling-Tools/Stirling-Tools.github.io](https://github.com/Stirling-Tools/Stirling-Tools.github.io) - Documentation for Stirling-PDF
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 - [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 - [ShaneIsrael/fireshare](https://github.com/ShaneIsrael/fireshare) - Self host your media and share with unique links
@@ -566,6 +570,10 @@
 ## Mustache 
 
 - [simplyzee/kube-rclone](https://github.com/simplyzee/kube-rclone) - kube-rclone is a rclone mount solution for Kubernetes
+
+## Objective-C 
+
+- [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 
 ## Open Policy Agent 
 
@@ -716,6 +724,7 @@
 
 ## PowerShell 
 
+- [dfinke/PSWeave](https://github.com/dfinke/PSWeave) - PSWeave: a PowerShell module bringing OpenAI's GPT to your fingertips, and simplified prompt engineering
 - [GhostPack/PSPKIAudit](https://github.com/GhostPack/PSPKIAudit) - PowerShell toolkit for AD CS auditing based on the PSPKI toolkit.
 - [mkht/DSCR_AutoLogon](https://github.com/mkht/DSCR_AutoLogon) - PowerShell DSC Resource & Functions to turn on / off automatic logon in Windows.
 - [akamai/Invoke-DHCPCheckup](https://github.com/akamai/Invoke-DHCPCheckup) - 
