@@ -423,6 +423,8 @@
 
 ## JavaScript 
 
+- [RobSpectre/Trump-Filter](https://github.com/RobSpectre/Trump-Filter) - A Chrome extension that removes Donald Trump from the Internet.
+- [openappsec/open-appsec-npm](https://github.com/openappsec/open-appsec-npm) - Docker container for managing Nginx proxy hosts with a simple, powerful interface including open-appsec support
 - [Stirling-Tools/Stirling-Tools.github.io](https://github.com/Stirling-Tools/Stirling-Tools.github.io) - Documentation for Stirling-PDF
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 - [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
@@ -541,7 +543,6 @@
 
 ## Kotlin 
 
-- [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 - [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
 - [itszechs/DriveStream](https://github.com/itszechs/DriveStream) - Stream video files from Google drive
