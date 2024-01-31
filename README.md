@@ -237,6 +237,7 @@
 
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [containers-stack/willy](https://github.com/containers-stack/willy) - Willy is a web service that can be used to manage Docker. The application allows you to manage all your orchestrator resources (containers, images, volumes, networks and more) through a GUI.
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies (w/ VPN)
 - [ElonH/RcloneNg](https://github.com/ElonH/RcloneNg) - An angular web application for rclone
 
@@ -641,6 +642,7 @@
 - [amidaware/tacticalrmm](https://github.com/amidaware/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
 - [hartwork/jawanndenn](https://github.com/hartwork/jawanndenn) - :date: Simple alternative to Doodle polls and scheduling (Python 3, Django 5, some JavaScript)
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies (w/ VPN)
 
 ## docker 
@@ -1392,6 +1394,7 @@
 
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 
 ## macos 
 
@@ -1590,6 +1593,7 @@
 
 ## others 
 
+- [MrZablah/SyncPosterProcess](https://github.com/MrZablah/SyncPosterProcess) - This a simple python script that will merge existing scripts to simplify the process.
 - [custom-cards/dual-gauge-card](https://github.com/custom-cards/dual-gauge-card) - Dual gauge custom card for Lovelace in Home Assistant
 - [RobSpectre/Trump-Filter](https://github.com/RobSpectre/Trump-Filter) - A Chrome extension that removes Donald Trump from the Internet.
 - [openappsec/open-appsec-npm](https://github.com/openappsec/open-appsec-npm) - Docker container for managing Nginx proxy hosts with a simple, powerful interface including open-appsec support
@@ -2043,7 +2047,6 @@
 - [Romanitho/Winget-Install](https://github.com/Romanitho/Winget-Install) - Powershell scripts for Winget with SCCM/Intune
 - [kimmknight/raweb](https://github.com/kimmknight/raweb) - A simple web interface for your RemoteApps hosted on Win 7, 8, 10 and Server
 - [MicrosoftDocs/WDAC-Toolkit](https://github.com/MicrosoftDocs/WDAC-Toolkit) - Documentation and tools to access Windows Defender Application Control (WDAC) technology.
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [jkirkcaldy/plex-utills](https://github.com/jkirkcaldy/plex-utills) - Manage your Plex library automatically
 - [dcragusa/HelloFreshRecipes](https://github.com/dcragusa/HelloFreshRecipes) - A project to download all of HelloFresh's recipes
 - [Chris230291/STB-Proxy](https://github.com/Chris230291/STB-Proxy) - 
