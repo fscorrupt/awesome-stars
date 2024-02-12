@@ -652,7 +652,7 @@
 
 ## docker 
 
-- [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime) with user authentication, modern and clean UI and a very simple setup.
+- [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [I-am-PUID-0/pdrcrd](https://github.com/I-am-PUID-0/pdrcrd) - A combined docker image for the unified deployment of itsToggle's projects -- plex_debrid and rclone_RD
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a web interface for managing Docker, with a zero-config dashboard for your containers.
 - [div-opn/rtsp-to-mjpeg](https://github.com/div-opn/rtsp-to-mjpeg) - Simple container to provide access to a RTSP stream via MJPEG.
@@ -897,6 +897,7 @@
 
 ## games 
 
+- [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
 - [LizardByte/RetroArcher-plex](https://github.com/LizardByte/RetroArcher-plex) - RetroArcher metadata plugin for Plex.
@@ -930,7 +931,7 @@
 
 ## go 
 
-- [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime) with user authentication, modern and clean UI and a very simple setup.
+- [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [julianolorenzato/trendle](https://github.com/julianolorenzato/trendle) - 🔥 A self-hosted, real-time polling system.
@@ -964,7 +965,7 @@
 
 ## golang 
 
-- [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime) with user authentication, modern and clean UI and a very simple setup.
+- [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure
 - [julianolorenzato/trendle](https://github.com/julianolorenzato/trendle) - 🔥 A self-hosted, real-time polling system.
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
@@ -2579,7 +2580,7 @@
 
 ## self-hosted 
 
-- [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime) with user authentication, modern and clean UI and a very simple setup.
+- [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [julianolorenzato/trendle](https://github.com/julianolorenzato/trendle) - 🔥 A self-hosted, real-time polling system.
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
@@ -2698,7 +2699,7 @@
 
 ## sqlite 
 
-- [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime) with user authentication, modern and clean UI and a very simple setup.
+- [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Open Source Education Platform
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
@@ -2716,7 +2717,7 @@
 
 ## svelte 
 
-- [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime) with user authentication, modern and clean UI and a very simple setup.
+- [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [wirow-io/wirow-server](https://github.com/wirow-io/wirow-server) - A full featured self-hosted video web-conferencing platform.
