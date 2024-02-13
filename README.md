@@ -259,7 +259,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [I-am-PUID-0/pdrcrd](https://github.com/I-am-PUID-0/pdrcrd) - A combined docker image for the unified deployment of itsToggle's projects -- plex_debrid and rclone_RD
 - [FIXARR/fixarr](https://github.com/FIXARR/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
-- [sachinsenal0x64/FIXARR](https://github.com/sachinsenal0x64/FIXARR) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
+- [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [KopyTKG/MovieDB](https://github.com/KopyTKG/MovieDB) - Database viewer of my plex library
 - [K0p1-Git/cloudflare-ddns-updater](https://github.com/K0p1-Git/cloudflare-ddns-updater) - Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP! Written in pure BASH~
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
@@ -1340,7 +1340,7 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [FIXARR/fixarr](https://github.com/FIXARR/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
-- [sachinsenal0x64/FIXARR](https://github.com/sachinsenal0x64/FIXARR) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
+- [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
@@ -1405,7 +1405,7 @@
 ## mac 
 
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a web interface for managing Docker, with a zero-config dashboard for your containers.
-- [sachinsenal0x64/FIXARR](https://github.com/sachinsenal0x64/FIXARR) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
+- [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 
@@ -1610,6 +1610,7 @@
 
 ## others 
 
+- [ar0x4/ysoserial.net-docker](https://github.com/ar0x4/ysoserial.net-docker) - ysoserial.net docker image
 - [boivinx7/Plex-PS-Module](https://github.com/boivinx7/Plex-PS-Module) - There was a Python Web Api for Plex, but I don't get Python at all so I made this
 - [InsertDisc/pattrmm-develop](https://github.com/InsertDisc/pattrmm-develop) - 
 - [MrZablah/SyncPosterProcess](https://github.com/MrZablah/SyncPosterProcess) - This a simple python script that will merge existing scripts to simplify the process.
@@ -2181,7 +2182,7 @@
 - [mhmdiaa/second-order](https://github.com/mhmdiaa/second-order) - Second-order subdomain takeover scanner
 - [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [Integration-IT/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
-- [cursedpkt/Above](https://github.com/cursedpkt/Above) - Invisible network protocol sniffer
+- [casterbyte/Above](https://github.com/casterbyte/Above) - Invisible network protocol sniffer
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning
 - [almandin/fuxploider](https://github.com/almandin/fuxploider) - File upload vulnerability scanner and exploitation tool.
@@ -2333,7 +2334,7 @@
 - [bibanon/tubeup](https://github.com/bibanon/tubeup) - Use yt-dlp to download video and upload to the Internet Archive with metadata.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [FIXARR/fixarr](https://github.com/FIXARR/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
-- [sachinsenal0x64/FIXARR](https://github.com/sachinsenal0x64/FIXARR) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
+- [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [rfsbraz/deleterr](https://github.com/rfsbraz/deleterr) - Deleterr is a Python script designed to help you manage available disk space in your Plex media server.
 - [jeanslack/Videomass](https://github.com/jeanslack/Videomass) - Videomass is a free, open source and cross-platform GUI for FFmpeg and yt-dlp
 - [nautobot/nautobot](https://github.com/nautobot/nautobot) - Network Source of Truth & Network Automation Platform
