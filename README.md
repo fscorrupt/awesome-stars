@@ -1610,6 +1610,7 @@
 
 ## others 
 
+- [chazlarson/Media-Scripts](https://github.com/chazlarson/Media-Scripts) - 
 - [ar0x4/ysoserial.net-docker](https://github.com/ar0x4/ysoserial.net-docker) - ysoserial.net docker image
 - [boivinx7/Plex-PS-Module](https://github.com/boivinx7/Plex-PS-Module) - There was a Python Web Api for Plex, but I don't get Python at all so I made this
 - [InsertDisc/pattrmm-develop](https://github.com/InsertDisc/pattrmm-develop) - 
@@ -1886,7 +1887,6 @@
 - [vysecurity/DomLink](https://github.com/vysecurity/DomLink) - A tool to link a domain with registered organisation names and emails, to other domains.
 - [linuxserver/docker-scrutiny](https://github.com/linuxserver/docker-scrutiny) - 
 - [rmountjoy92/DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
-- [chazlarson/Media-Scripts](https://github.com/chazlarson/Media-Scripts) - 
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful
 - [riverar/mach2](https://github.com/riverar/mach2) - Windows Feature Control Multi-tool
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
@@ -2561,7 +2561,7 @@
 - [vletoux/pingcastle](https://github.com/vletoux/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
 - [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
-- [karimhabush/cyberowl](https://github.com/karimhabush/cyberowl) - A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
+- [karimhabush/cyberowl](https://github.com/karimhabush/cyberowl) - A daily updated summary of the most frequent types of security advisories currently being reported from different sources.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
@@ -2581,6 +2581,7 @@
 
 ## self-hosted 
 
+- [drag0n141/containers](https://github.com/drag0n141/containers) - Collection of container images i am using
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [julianolorenzato/trendle](https://github.com/julianolorenzato/trendle) - 🔥 A self-hosted, real-time polling system.
