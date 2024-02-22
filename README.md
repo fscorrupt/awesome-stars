@@ -194,7 +194,7 @@
 
 ## ai 
 
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -257,7 +257,7 @@
 
 ## api 
 
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [I-am-PUID-0/pdrcrd](https://github.com/I-am-PUID-0/pdrcrd) - A combined docker image for the unified deployment of itsToggle's projects -- plex_debrid and rclone_RD
 - [fixarr/fixarr](https://github.com/fixarr/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
@@ -1286,7 +1286,7 @@
 
 ## kubernetes 
 
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
@@ -1774,7 +1774,7 @@
 - [PascalLuginbuehl/home-assistant-tray-menu](https://github.com/PascalLuginbuehl/home-assistant-tray-menu) - An app to interact with Home Assistant in the Windows System Tray
 - [Casvt/Kapowarr](https://github.com/Casvt/Kapowarr) - Kapowarr is a software to build and manage a comic book library, fitting in the *arr suite of software.
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
-- [soteria-security/365Inspect](https://github.com/soteria-security/365Inspect) - A PowerShell script that automates the security assessment of Microsoft Office 365 environments.
+- [soteria-security/365Inspect](https://github.com/soteria-security/365Inspect) - A PowerShell script that automates the security assessment of Microsoft 365 environments.
 - [PiotrMachowski/Xiaomi-cloud-tokens-extractor](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor) - This tool/script retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices.
 - [gaseous-project/gaseous-server](https://github.com/gaseous-project/gaseous-server) - A game ROM manager, with a built in web based emulator using multiple sources to identify and provide metadata
 - [Pyxxilated-Studios/Moonarr](https://github.com/Pyxxilated-Studios/Moonarr) - An *arr for tidal
