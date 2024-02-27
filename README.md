@@ -1611,6 +1611,8 @@
 
 ## others 
 
+- [fscorrupt/Plex-Poster-Maker](https://github.com/fscorrupt/Plex-Poster-Maker) - Automated poster maker for Plex. (PPM)
+- [jruizaranguren/best-of-digital-identity](https://github.com/jruizaranguren/best-of-digital-identity) - A ranked list of awesome Digital Identity open source projects
 - [SenexCrenshaw/StreamMaster](https://github.com/SenexCrenshaw/StreamMaster) - 
 - [chazlarson/Media-Scripts](https://github.com/chazlarson/Media-Scripts) - 
 - [ar0x4/ysoserial.net-docker](https://github.com/ar0x4/ysoserial.net-docker) - ysoserial.net docker image
