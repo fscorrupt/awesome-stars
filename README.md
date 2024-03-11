@@ -12,6 +12,7 @@
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
+- [archlinux](#archlinux)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
@@ -275,6 +276,10 @@
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - Mirror of vikunja from https://code.vikunja.io/api
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
+
+## archlinux 
+
+- [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 
 ## arduino 
 
@@ -1723,7 +1728,7 @@
 - [lepras/Milkyway](https://github.com/lepras/Milkyway) - Blackhole 2.0, taking the flame a little forward.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [LMS57/TempleOfPwn](https://github.com/LMS57/TempleOfPwn) - All Files, Scripts, and exploits can be found here
-- [xxlong0/Wonder3D](https://github.com/xxlong0/Wonder3D) - Single Image to 3D using Cross-Domain Diffusion
+- [xxlong0/Wonder3D](https://github.com/xxlong0/Wonder3D) - Single Image to 3D using Cross-Domain Diffusion for 3D Generation
 - [Heinz-Loepmeier/nozzleboss](https://github.com/Heinz-Loepmeier/nozzleboss) - 
 - [David-Moreira/JellyseerrSync](https://github.com/David-Moreira/JellyseerrSync) - 
 - [the-rarbg/yaps](https://github.com/the-rarbg/yaps) - Y.A.P.S [Yet Another Piracy Site]
