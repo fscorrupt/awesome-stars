@@ -1201,7 +1201,7 @@
 - [sikelio/plexmanager](https://github.com/sikelio/plexmanager) - A cross platform app build in React Native, based on the Plex API for managing Plex Media Servers from a phone.
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [JagandeepBrar/lunasea](https://github.com/JagandeepBrar/lunasea) - Self-hosted software controller built using Flutter
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for arm64 devices on iOS 15.0+
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11 devices, on iOS 15.0 and higher.
 - [Kc57/iHide](https://github.com/Kc57/iHide) - A utility for hiding jailbreak from iOS applications
 
 ## iot 
