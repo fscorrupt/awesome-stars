@@ -654,6 +654,7 @@
 
 ## docker 
 
+- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container.
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [I-am-PUID-0/pdrcrd](https://github.com/I-am-PUID-0/pdrcrd) - A combined docker image for the unified deployment of itsToggle's projects -- plex_debrid and rclone_RD
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a web interface for managing Docker, with a zero-config dashboard for your containers.
@@ -965,6 +966,7 @@
 
 ## golang 
 
+- [cecobask/imdb-trakt-sync](https://github.com/cecobask/imdb-trakt-sync) - Automatic sync from IMDb to Trakt (watchlist, lists, ratings and history) using GitHub actions.
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure
 - [julianolorenzato/trendle](https://github.com/julianolorenzato/trendle) - 🔥 A self-hosted, real-time polling system.
@@ -1040,6 +1042,7 @@
 
 ## hacktoberfest 
 
+- [Locatarr/Locatarr](https://github.com/Locatarr/Locatarr) - Locating *Arr services and aggregating them into a single list. Thus, Locatarr.
 - [Villhellm/lovelace-animated-background](https://github.com/Villhellm/lovelace-animated-background) - Animated backgrounds for lovelace
 - [edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
@@ -2598,6 +2601,7 @@
 
 ## self-hosted 
 
+- [Locatarr/Locatarr](https://github.com/Locatarr/Locatarr) - Locating *Arr services and aggregating them into a single list. Thus, Locatarr.
 - [drag0n141/containers](https://github.com/drag0n141/containers) - Collection of container images i am using
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
@@ -2913,6 +2917,7 @@
 
 ## windows 
 
+- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container.
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a web interface for managing Docker, with a zero-config dashboard for your containers.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
