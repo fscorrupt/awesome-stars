@@ -1529,6 +1529,7 @@
 
 ## nextjs 
 
+- [MohamedBassem/hoarder-app](https://github.com/MohamedBassem/hoarder-app) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [kriziu/kripoll](https://github.com/kriziu/kripoll) - An app to create polls and vote.
 - [KopyTKG/MovieDB](https://github.com/KopyTKG/MovieDB) - Database viewer of my plex library
 - [oae/kaizoku](https://github.com/oae/kaizoku) - Self-hosted manga downloader
@@ -1619,6 +1620,7 @@
 
 ## others 
 
+- [Ipmake/PerPlexed](https://github.com/Ipmake/PerPlexed) - PerPlexed is a complete redesign of Plex's UI using the plex media server's API.
 - [FabryB/New-KrbtgtKeys.ps1](https://github.com/FabryB/New-KrbtgtKeys.ps1) - This script will enable you to reset the krbtgt account password and related keys while minimizing the likelihood of Kerberos authentication issues being caused by the operation.
 - [byteben/Win32App-Migration-Tool](https://github.com/byteben/Win32App-Migration-Tool) - 
 - [iantrich/list-card](https://github.com/iantrich/list-card) - 📰 Display sensor list data in a table
@@ -2471,6 +2473,7 @@
 
 ## react-native 
 
+- [MohamedBassem/hoarder-app](https://github.com/MohamedBassem/hoarder-app) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [sikelio/plexmanager](https://github.com/sikelio/plexmanager) - A cross platform app build in React Native, based on the Plex API for managing Plex Media Servers from a phone.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 
