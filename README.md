@@ -1632,6 +1632,8 @@
 
 ## others 
 
+- [hyugogirubato/KeyDive](https://github.com/hyugogirubato/KeyDive) - Extract Widevine L3 keys from Android devices effortlessly, spanning multiple Android versions for DRM research and education.
+- [danvergara/morphos](https://github.com/danvergara/morphos) - Self-hosted file converter server
 - [fscorrupt/Plex-Poster-Maker](https://github.com/fscorrupt/Plex-Poster-Maker) - Automated poster maker for Plex. (PPM)
 - [Ipmake/PerPlexed](https://github.com/Ipmake/PerPlexed) - PerPlexed is a complete redesign of Plex's UI using the plex media server's API.
 - [FabryB/New-KrbtgtKeys.ps1](https://github.com/FabryB/New-KrbtgtKeys.ps1) - This script will enable you to reset the krbtgt account password and related keys while minimizing the likelihood of Kerberos authentication issues being caused by the operation.
