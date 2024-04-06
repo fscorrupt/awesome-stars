@@ -1062,6 +1062,7 @@
 
 ## hacktoberfest 
 
+- [zigpy/zha-device-handlers](https://github.com/zigpy/zha-device-handlers) - ZHA device handlers bridge the functionality gap created when manufacturers deviate from the ZCL specification, handling deviations and exceptions by parsing custom messages to and from Zigbee devices
 - [Locatarr/Locatarr](https://github.com/Locatarr/Locatarr) - Locating *Arr services and aggregating them into a single list. Thus, Locatarr.
 - [Villhellm/lovelace-animated-background](https://github.com/Villhellm/lovelace-animated-background) - Animated backgrounds for lovelace
 - [edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
@@ -1168,6 +1169,7 @@
 
 ## home-assistant 
 
+- [zigpy/zha-device-handlers](https://github.com/zigpy/zha-device-handlers) - ZHA device handlers bridge the functionality gap created when manufacturers deviate from the ZCL specification, handling deviations and exceptions by parsing custom messages to and from Zigbee devices
 - [custom-components/feedparser](https://github.com/custom-components/feedparser) - 📰 RSS Feed Integration
 - [benct/lovelace-xiaomi-vacuum-card](https://github.com/benct/lovelace-xiaomi-vacuum-card) - Simple card for various robot vacuums in Home Assistant's Lovelace UI
 - [matt8707/ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard
@@ -1641,6 +1643,7 @@
 
 ## others 
 
+- [SMSAgentSoftware/IntuneAssignmentsReport](https://github.com/SMSAgentSoftware/IntuneAssignmentsReport) - Reporting solution for Intune Assignments using Azure automation and Power BI
 - [hyugogirubato/KeyDive](https://github.com/hyugogirubato/KeyDive) - Extract Widevine L3 keys from Android devices effortlessly, spanning multiple Android versions for DRM research and education.
 - [danvergara/morphos](https://github.com/danvergara/morphos) - Self-hosted file converter server
 - [fscorrupt/Plex-Poster-Maker](https://github.com/fscorrupt/Plex-Poster-Maker) - Automated poster maker for Plex. (PPM)
