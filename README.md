@@ -1655,6 +1655,7 @@
 
 ## others 
 
+- [Vansmak/OCDarr](https://github.com/Vansmak/OCDarr) - Automates sending episodes or seasons to sonarr one at a time as played
 - [tmaylock/PowerShell-Automation](https://github.com/tmaylock/PowerShell-Automation) - 
 - [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a mult
 - [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex.
@@ -1977,7 +1978,7 @@
 - [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync) - A python script that syncs the movies, shows and ratings between trakt and Plex (without needing a PlexPass or Trakt VIP subscription)
 - [Mew463/Project-l0ckcr4ck3r](https://github.com/Mew463/Project-l0ckcr4ck3r) - 
 - [eraseyourknees/msdl](https://github.com/eraseyourknees/msdl) - Microsoft Software Download Listing
-- [K4L4Uz/SFVIP-Player](https://github.com/K4L4Uz/SFVIP-Player) - Please donate if you find this project useful! BTC: bc1qavv7vvs294ys5vl6e5ne0t86kxvq5n04j6pmf6
+- [K4L4Uz/SFVIP-Player](https://github.com/K4L4Uz/SFVIP-Player) - Please donate if you find this project useful!  Bitcoin BTC: bc1qavv7vvs294ys5vl6e5ne0t86kxvq5n04j6pmf6
 - [grssmnn/ha-flexispot-standing-desk](https://github.com/grssmnn/ha-flexispot-standing-desk) - Home Assistant integration for a standing desk by Flexispot in micropython
 - [Mauvlans/OneDrive](https://github.com/Mauvlans/OneDrive) - 
 - [nicolonsky/IntuneDriveMapping](https://github.com/nicolonsky/IntuneDriveMapping) - Generate PowerShell scripts to map network drives on Intune managed Windows 10 devices
