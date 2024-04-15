@@ -1656,6 +1656,7 @@
 
 ## others 
 
+- [DedBash/WireGuard-VPN-on-Fritz-Box](https://github.com/DedBash/WireGuard-VPN-on-Fritz-Box) - Setup WireGuard VPN on Fritz!Boxes
 - [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex.
 - [TheWicklowWolf/LidaTube](https://github.com/TheWicklowWolf/LidaTube) - Lidarr -&gt; Downloader
 - [canix1/PIMSCAN](https://github.com/canix1/PIMSCAN) - Tool for creating reports on Entra ID Role Assignments
