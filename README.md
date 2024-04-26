@@ -968,7 +968,7 @@
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [pwnesia/dnstake](https://github.com/pwnesia/dnstake) - DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 - [aunefyren/poenskelisten](https://github.com/aunefyren/poenskelisten) - A self-hosted application for sharing wishlists and collaborating on gifts and presents.
@@ -1007,7 +1007,7 @@
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [pwnesia/dnstake](https://github.com/pwnesia/dnstake) - DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
@@ -1036,6 +1036,7 @@
 
 ## good-first-issue 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 
 ## google 
@@ -1049,6 +1050,7 @@
 
 ## graphql 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [anthonyg-1/PSGraphQL](https://github.com/anthonyg-1/PSGraphQL) - This PowerShell module contains functions that facilitate querying and create, update, and delete operations (mutations) for GraphQL, which is an an open-source data language for APIs. For more on Gra
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
@@ -1579,6 +1581,7 @@
 
 ## nestjs 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
@@ -1653,6 +1656,7 @@
 
 ## open-source 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams
 - [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) - Automation to assess the state of your M365 tenant against CISA's baselines
 - [netdisco/netdisco](https://github.com/netdisco/netdisco) - A web-based network management tool.
@@ -1681,6 +1685,7 @@
 
 ## others 
 
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [TechBuckler/PlexGifMaker](https://github.com/TechBuckler/PlexGifMaker) - A quick way to use your Plex Library and Subtitles to make gifs
 - [DedBash/WireGuard-VPN-on-Fritz-Box](https://github.com/DedBash/WireGuard-VPN-on-Fritz-Box) - Setup WireGuard VPN on Fritz!Boxes
 - [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex.
@@ -2313,6 +2318,7 @@
 
 ## postgresql 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [kriziu/kripoll](https://github.com/kriziu/kripoll) - An app to create polls and vote.
 - [julianolorenzato/trendle](https://github.com/julianolorenzato/trendle) - 🔥 A self-hosted, real-time polling system.
@@ -2513,6 +2519,7 @@
 
 ## react 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [kriziu/kripoll](https://github.com/kriziu/kripoll) - An app to create polls and vote.
 - [RaajAakarsh/ThePollPlaza](https://github.com/RaajAakarsh/ThePollPlaza) - Sample Polling Website (Work in Progress): This is a sample polling website created as a part of a web development project. The website allows users to create and participate in polls on various topic
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
@@ -2552,6 +2559,7 @@
 
 ## reactjs 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [PollBuddy/PollBuddy](https://github.com/PollBuddy/PollBuddy) - Poll Buddy is an interactive questionnaire platform that aims to be an enjoyable and easy to use way to collect answers and insights from a group of people.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
@@ -2910,6 +2918,7 @@
 
 ## typescript 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [kriziu/kripoll](https://github.com/kriziu/kripoll) - An app to create polls and vote.
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [oae/kaizoku](https://github.com/oae/kaizoku) - Self-hosted manga downloader
@@ -2978,6 +2987,7 @@
 
 ## web 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
