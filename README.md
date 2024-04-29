@@ -2086,7 +2086,7 @@
 - [waldo-irc/YouMayPasser](https://github.com/waldo-irc/YouMayPasser) - You shall pass
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [samyk/slipstream](https://github.com/samyk/slipstream) - NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by anyone on the victim's network visiting a website
-- [Sleepingpirates/Invitarr](https://github.com/Sleepingpirates/Invitarr) - Plex Discord Bot to invite a user to a plex server
+- [faizyy01/Invitarr](https://github.com/faizyy01/Invitarr) - Plex Discord Bot to invite a user to a plex server
 - [samyk/pwnat](https://github.com/samyk/pwnat) - The only tool/technique to punch holes through firewalls/NATs where multiple clients & server can be behind separate NATs without any 3rd party involvement. Pwnat is a newly developed technique, explo
 - [whatdaybob/sonarr_youtubedl](https://github.com/whatdaybob/sonarr_youtubedl) - A Sonarr companion script to allow the automatic downloading of web series normally not available for Sonarr to search for. Using Youtube-DL it allows you to download your webseries from the list of s
 - [SeidChr/POSHcord](https://github.com/SeidChr/POSHcord) - Discord bot written in Powershell
