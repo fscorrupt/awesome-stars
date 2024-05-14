@@ -20,4 +20,4 @@ jobs:
     - name: update repo
       env:
         GITHUB_TOKEN: ${{ secrets.CR_PAT }}
-      run: starred --username fscorrupt --repository awesome-stars --sort --token ${GITHUB_TOKEN} --topic --message 'stars update by github actions cron'
+      run: starred --username fscorrupt --repository awesome-stars --sort --token ${GITHUB_TOKEN} --message 'stars update by github actions cron'
