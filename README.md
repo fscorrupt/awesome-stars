@@ -273,7 +273,7 @@
 
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Robust AI driven development in your terminal. Designed for large, real-world tasks in new or existing codebases.
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [danvergara/morphos](https://github.com/danvergara/morphos) - Self-hosted file converter server
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [cecobask/imdb-trakt-sync](https://github.com/cecobask/imdb-trakt-sync) - Automatic sync from IMDb to Trakt (watchlist, lists, ratings and history) using GitHub actions.
@@ -1273,6 +1273,7 @@
 
 ## TypeScript 
 
+- [swingerman/lovelace-fluid-level-background-card](https://github.com/swingerman/lovelace-fluid-level-background-card) - This card wraps any other cards and renders a fluid background behind them.
 - [remorses/docker-phobia](https://github.com/remorses/docker-phobia) - Analyze Docker images size
 - [badgooooor/localai-vscode-plugin](https://github.com/badgooooor/localai-vscode-plugin) - 🤖👨‍💻 Extension for attaching LocalAI instance to VSCode, LabLab Open Source AI Hackathon Submission
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.
