@@ -760,6 +760,7 @@
 
 ## PowerShell 
 
+- [dpo007/psDrugWars](https://github.com/dpo007/psDrugWars) - psDrugWars: A ridiculous PowerShell-based game inspired by 'Drug Wars'. 💉💰👮
 - [PacktPublishing/Microsoft-Intune-Cookbook](https://github.com/PacktPublishing/Microsoft-Intune-Cookbook) - Microsoft Intune Cookbook, published by Packt
 - [JayRHa/EndpointAnalyticsRemediationScripts](https://github.com/JayRHa/EndpointAnalyticsRemediationScripts) - 
 - [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex.
@@ -919,12 +920,13 @@
 
 ## Python 
 
+- [fe80Grau/ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM) - A little script to serve Youtube / Twitch / Crunchyroll videos without storage it.  Uses yt-dlp HTTP data throught Flask and dynamic URLs. We can use this dynamic URLs to set STRM files.
 - [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone
 - [fu/fass](https://github.com/fu/fass) - This simple server enables scraping of website with dynamic content.
 - [josStorer/selfhostedAI](https://github.com/josStorer/selfhostedAI) - A collection of one-click self-hosted AI
 - [dreulavelle/iceberg](https://github.com/dreulavelle/iceberg) - Plex Debrid Rewrite (WIP)
-- [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams
+- [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
 - [TheWicklowWolf/LidaTube](https://github.com/TheWicklowWolf/LidaTube) - Lidarr -&gt; Downloader
 - [Vansmak/OCDarr](https://github.com/Vansmak/OCDarr) - Automates sending and deleting episodes or seasons to sonarr one at a time as played
 - [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a mult
