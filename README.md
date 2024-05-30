@@ -565,6 +565,7 @@
 
 ## Jupyter Notebook 
 
+- [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Create Magic Story!
 - [Azure/MDTI-Solutions](https://github.com/Azure/MDTI-Solutions) - Repository to publish sample use cases, templates, solutions, automations for Microsoft Defender Threat Intelligence (MDTI) product
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
