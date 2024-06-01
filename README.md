@@ -82,6 +82,7 @@
 
 ## C 
 
+- [ipxe/wimboot](https://github.com/ipxe/wimboot) - WIM bootloader
 - [RobSmithDev/DiskFlashback](https://github.com/RobSmithDev/DiskFlashback) - Windows package to mount disk images and real floppy drives for non standard windows file systems
 - [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)
 - [toniebox-reverse-engineering/teddycloud](https://github.com/toniebox-reverse-engineering/teddycloud) - teddyCloud is an open source server replacement for the Boxine Cloud
@@ -435,6 +436,7 @@
 
 ## Java 
 
+- [shmuelzon/home-assistant-floor-plan](https://github.com/shmuelzon/home-assistant-floor-plan) - Home Assistant Floor Plan Generator Plugin For Sweet Home 3D
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [Fribb/anime-lists-generator](https://github.com/Fribb/anime-lists-generator) - generator for the anime-lists project
 - [newhinton/Round-Sync](https://github.com/newhinton/Round-Sync) - An android cloud file manager, powered by rclone. Visit https://roundsync.com for more information!
