@@ -117,7 +117,7 @@
 - [SenexCrenshaw/StreamMaster](https://github.com/SenexCrenshaw/StreamMaster) - 
 - [oknorton/LethalCompanyScalingMaster](https://github.com/oknorton/LethalCompanyScalingMaster) - A mod that allows users to fully customize the scaling of the most player impacted values.
 - [no00ob/LCSoundTool](https://github.com/no00ob/LCSoundTool) - Simple Lethal Company sound tool and debugger.
-- [C9Glax/tranga](https://github.com/C9Glax/tranga) - Client that automatically downloads new chapters from Manga-Websites.
+- [C9Glax/tranga](https://github.com/C9Glax/tranga) - Docker-Container to monitor (Manga) Scanlation-Sites for download new chapters.
 - [jellyfin/jellyfin-plugin-ldapauth](https://github.com/jellyfin/jellyfin-plugin-ldapauth) - LDAP Authentication for Jellyfin
 - [David-Moreira/JellyseerrSync](https://github.com/David-Moreira/JellyseerrSync) - 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
@@ -1292,6 +1292,7 @@
 
 ## TypeScript 
 
+- [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
 - [RaunoT/plex-rewind](https://github.com/RaunoT/plex-rewind) - Present Plex user statistics and habits in a beautiful and organized manner à la Spotify Wrapped.
 - [arthurfiorette/steam-trader](https://github.com/arthurfiorette/steam-trader) - 📈 Trade items smartly with multiple automated steam accounts at the same time!
 - [step-security/harden-runner](https://github.com/step-security/harden-runner) - Network egress filtering and runtime security for GitHub-hosted and self-hosted runners
