@@ -173,6 +173,7 @@
 
 ## C++ 
 
+- [LadybirdWebBrowser/ladybird](https://github.com/LadybirdWebBrowser/ladybird) - Truly independent web browser
 - [rt64/rt64](https://github.com/rt64/rt64) - RT64 is an N64 graphics renderer for playing with enhancements in emulators and native ports.
 - [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
 - [moonlight-stream/Internet-Hosting-Tool](https://github.com/moonlight-stream/Internet-Hosting-Tool) - Enable Moonlight streaming from your PC over the Internet with no configuration required
@@ -526,7 +527,6 @@
 - [danrahn/MarkerEditorForPlex](https://github.com/danrahn/MarkerEditorForPlex) - View, edit, add, and delete intro and credit markers for your Plex media.
 - [schmm2/mem-gaa](https://github.com/schmm2/mem-gaa) - Microsoft Endpoint Manager - Group Assignment Analyzer
 - [omaha-consulting/winstall](https://github.com/omaha-consulting/winstall) - A web app for browsing and installing Windows Package Manager apps.
-- [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 - [RemiRigal/Overseerr-Assistant](https://github.com/RemiRigal/Overseerr-Assistant) - Browser extension for Overseerr that embeds buttons into IMDb and TMDB web pages to easily request movies and tv shows.
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 - [Hulxv/vnstat-client](https://github.com/Hulxv/vnstat-client) - GUI Client for vnStat Network Monitor for Linux or GNU/Linux
@@ -794,7 +794,7 @@
 - [Kevin-Robertson/Powermad](https://github.com/Kevin-Robertson/Powermad) - PowerShell MachineAccountQuota and DNS exploit tools
 - [canix1/ADACLScanner](https://github.com/canix1/ADACLScanner) - Repo for ADACLScan.ps1 - Your number one script for ACL's in Active Directory
 - [TECHCSID/lenovowarranty](https://github.com/TECHCSID/lenovowarranty) - 
-- [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
+- [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening Settings
 - [FlorianSLZ/Intune-Win32-Deployer](https://github.com/FlorianSLZ/Intune-Win32-Deployer) - Create and deploy winget and chocolatey (win32) apps to Intune with one click!
 - [DevClate/365AutomatedLab](https://github.com/DevClate/365AutomatedLab) - This module will create a Microsoft 365 Test Environment
 - [EvotecIT/PSWinDocumentation](https://github.com/EvotecIT/PSWinDocumentation) - PowerShell Module that creates Word/Excel/SQL documentation from Active Directory (AD), AWS, Office 365 and others. It's a work in progress!
@@ -1097,6 +1097,7 @@
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
+- [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 - [faizyy01/Invitarr](https://github.com/faizyy01/Invitarr) - Plex Discord Bot to invite a user to a plex server
 - [whatdaybob/sonarr_youtubedl](https://github.com/whatdaybob/sonarr_youtubedl) - A Sonarr companion script to allow the automatic downloading of web series normally not available for Sonarr to search for. Using Youtube-DL it allows you to download your webseries from the list of s
 - [zeronetworks/BloodHound-Tools](https://github.com/zeronetworks/BloodHound-Tools) - Collection of tools that reflect the network dimension into Bloodhound's data
