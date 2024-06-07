@@ -173,6 +173,7 @@
 
 ## C++ 
 
+- [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 - [LadybirdWebBrowser/ladybird](https://github.com/LadybirdWebBrowser/ladybird) - Truly independent web browser
 - [rt64/rt64](https://github.com/rt64/rt64) - RT64 is an N64 graphics renderer for playing with enhancements in emulators and native ports.
 - [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
@@ -927,7 +928,7 @@
 
 ## Python 
 
-- [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and ubuntu
+- [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and linux
 - [ToonCrafter/ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) - a research paper for generative cartoon interpolation
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [croneter/PlexKodiConnect](https://github.com/croneter/PlexKodiConnect) - Plex integration in Kodi done right
