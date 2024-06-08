@@ -173,6 +173,7 @@
 
 ## C++ 
 
+- [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRN
 - [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 - [LadybirdWebBrowser/ladybird](https://github.com/LadybirdWebBrowser/ladybird) - Truly independent web browser
 - [rt64/rt64](https://github.com/rt64/rt64) - RT64 is an N64 graphics renderer for playing with enhancements in emulators and native ports.
@@ -451,6 +452,7 @@
 
 ## JavaScript 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [ThomasTavernier/Improve-Crunchyroll](https://github.com/ThomasTavernier/Improve-Crunchyroll) - 
 - [Koenkk/zigbee-OTA](https://github.com/Koenkk/zigbee-OTA) - A collection of Zigbee OTA files
 - [nervetattoo/banner-card](https://github.com/nervetattoo/banner-card) - A fluffy banner card for Home Assistant 🥰
@@ -579,7 +581,7 @@
 ## Kotlin 
 
 - [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
-- [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android
+- [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 8.0+
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
 - [itszechs/DriveStream](https://github.com/itszechs/DriveStream) - Stream video files from Google drive
 - [binwiederhier/ntfy-android](https://github.com/binwiederhier/ntfy-android) - Android app for ntfy.sh
@@ -618,6 +620,7 @@
 
 ## Others 
 
+- [ricasanbr/360MultiStretch.ps1](https://github.com/ricasanbr/360MultiStretch.ps1) - 
 - [elax46/custom-brand-icons](https://github.com/elax46/custom-brand-icons) - Custom brand icons for Home Assistant
 - [TheJJ/ceph-cheatsheet](https://github.com/TheJJ/ceph-cheatsheet) - All™ you ever wanted to know about operating a Ceph cluster!
 - [DedBash/WireGuard-VPN-on-Fritz-Box](https://github.com/DedBash/WireGuard-VPN-on-Fritz-Box) - Setup WireGuard VPN on Fritz!Boxes
@@ -700,7 +703,6 @@
 - [fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 - [fabacab/awesome-malware](https://github.com/fabacab/awesome-malware) - :computer::warning: A curated collection of awesome malware, botnets, and other post-exploitation tools.
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
-- [Azure/azure-powershell](https://github.com/Azure/azure-powershell) - Microsoft Azure PowerShell
 - [BionicAlice/Plex-Meta-Manager-Configs](https://github.com/BionicAlice/Plex-Meta-Manager-Configs) - Custom Configs for PMM
 - [tom-dell/Plex-Meta-Manager-Configs](https://github.com/tom-dell/Plex-Meta-Manager-Configs) - 
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -890,6 +892,7 @@
 - [AdamGrossTX/Intune.Reporting](https://github.com/AdamGrossTX/Intune.Reporting) - Create shiny reports for your boss - with PowerShell!
 - [tabs-not-spaces/Intune.Reporting](https://github.com/tabs-not-spaces/Intune.Reporting) - Create shiny reports for your boss - with PowerShell!
 - [PhrozenIO/PowerRemoteDesktop](https://github.com/PhrozenIO/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
+- [Azure/azure-powershell](https://github.com/Azure/azure-powershell) - Microsoft Azure PowerShell
 - [mmelkersen/EndpointManager](https://github.com/mmelkersen/EndpointManager) - 
 - [1-chris/Powershell-Discord-Bot](https://github.com/1-chris/Powershell-Discord-Bot) - 100% powershell discord gateway websocket bot
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
@@ -928,6 +931,7 @@
 
 ## Python 
 
+- [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) - This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC's activity snapshots.
 - [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and linux
 - [ToonCrafter/ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) - a research paper for generative cartoon interpolation
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
@@ -939,7 +943,7 @@
 - [josStorer/selfhostedAI](https://github.com/josStorer/selfhostedAI) - A collection of one-click self-hosted AI
 - [dreulavelle/iceberg](https://github.com/dreulavelle/iceberg) - Plex Debrid Rewrite (WIP)
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
-- [TheWicklowWolf/LidaTube](https://github.com/TheWicklowWolf/LidaTube) - App for finding missing Lidarr albums.
+- [TheWicklowWolf/LidaTube](https://github.com/TheWicklowWolf/LidaTube) - App for finding missing Lidarr albums via yt-dlp.
 - [Vansmak/OCDarr](https://github.com/Vansmak/OCDarr) - Automates sending and deleting episodes or seasons to sonarr one at a time as played
 - [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a mult
 - [zigpy/zha-device-handlers](https://github.com/zigpy/zha-device-handlers) - ZHA device handlers bridge the functionality gap created when manufacturers deviate from the ZCL specification, handling deviations and exceptions by parsing custom messages to and from Zigbee devices
@@ -1210,6 +1214,7 @@
 
 ## Shell 
 
+- [bilde2910/stitch-gear360](https://github.com/bilde2910/stitch-gear360) - Stitching tool for 360° videos captured by the Samsung Gear 360 (SM-C200)
 - [AdrienPoupa/docker-compose-nas](https://github.com/AdrienPoupa/docker-compose-nas) - Simple Docker Compose NAS featuring Sonarr, Radarr, Prowlarr, Jellyfin, qBittorrent, PIA VPN and Traefik with SSL support
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [drag0n141/containers](https://github.com/drag0n141/containers) - Collection of container images i am using
