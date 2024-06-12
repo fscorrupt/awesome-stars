@@ -151,6 +151,7 @@
 - [PowerShell/SecretStore](https://github.com/PowerShell/SecretStore) - 
 - [PowerShell/PowerShell-IoT](https://github.com/PowerShell/PowerShell-IoT) - Interact with I2C, SPI & GPIO devices using PowerShell Core!
 - [aimaat/RemoteUpdate](https://github.com/aimaat/RemoteUpdate) - Install Windows Updates remotely with the help of the famous PSWindowsUpdate module
+- [Azure/azure-powershell](https://github.com/Azure/azure-powershell) - Microsoft Azure PowerShell
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [SMSAgentSoftware/IntuneScriptsViewer](https://github.com/SMSAgentSoftware/IntuneScriptsViewer) - App to view scripts in Microsoft Intune
@@ -453,6 +454,8 @@
 
 ## JavaScript 
 
+- [Mariusthvdb/custom-ui](https://github.com/Mariusthvdb/custom-ui) - Add templates and icon_color to Home Assistant UI
+- [Deejayfool/hass-shutter-card](https://github.com/Deejayfool/hass-shutter-card) - Shutter card for Home Assistant Lovelace UI
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [ThomasTavernier/Improve-Crunchyroll](https://github.com/ThomasTavernier/Improve-Crunchyroll) - 
 - [Koenkk/zigbee-OTA](https://github.com/Koenkk/zigbee-OTA) - A collection of Zigbee OTA files
@@ -620,6 +623,7 @@
 
 ## Others 
 
+- [andyblac/UI-Minimalist-Custom-Cards](https://github.com/andyblac/UI-Minimalist-Custom-Cards) - A modified version of Minimalist Room Card.
 - [ricasanbr/360MultiStretch.ps1](https://github.com/ricasanbr/360MultiStretch.ps1) - 
 - [elax46/custom-brand-icons](https://github.com/elax46/custom-brand-icons) - Custom brand icons for Home Assistant
 - [TheJJ/ceph-cheatsheet](https://github.com/TheJJ/ceph-cheatsheet) - All™ you ever wanted to know about operating a Ceph cluster!
@@ -727,6 +731,7 @@
 
 ## PHP 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [K-vanc/Tempest-EPG-Generator](https://github.com/K-vanc/Tempest-EPG-Generator) - The fastest XMLTV formatted EPG Generator with GUI and the lowest memory usage
 - [tchapi/davis](https://github.com/tchapi/davis) - 🗓 A simple, fully translatable admin interface for sabre/dav based on Symfony 5 and Bootstrap 5, initially inspired by Baïkal.
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service.
@@ -892,7 +897,6 @@
 - [AdamGrossTX/Intune.Reporting](https://github.com/AdamGrossTX/Intune.Reporting) - Create shiny reports for your boss - with PowerShell!
 - [tabs-not-spaces/Intune.Reporting](https://github.com/tabs-not-spaces/Intune.Reporting) - Create shiny reports for your boss - with PowerShell!
 - [PhrozenIO/PowerRemoteDesktop](https://github.com/PhrozenIO/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
-- [Azure/azure-powershell](https://github.com/Azure/azure-powershell) - Microsoft Azure PowerShell
 - [mmelkersen/EndpointManager](https://github.com/mmelkersen/EndpointManager) - 
 - [1-chris/Powershell-Discord-Bot](https://github.com/1-chris/Powershell-Discord-Bot) - 100% powershell discord gateway websocket bot
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
@@ -931,6 +935,8 @@
 
 ## Python 
 
+- [Py-KMS-Organization/py-kms](https://github.com/Py-KMS-Organization/py-kms) - KMS Server Emulator written in Python
+- [s-allius/tsun-gen3-proxy](https://github.com/s-allius/tsun-gen3-proxy) - This proxy enables a reliable connection between TSUN third generation inverters (eg. TSOL MS600, MS800, MS2000) and an MQTT broker to integrate the inverter into typical home automations.
 - [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) - This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC's activity snapshots.
 - [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and linux
 - [ToonCrafter/ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) - a research paper for generative cartoon interpolation
@@ -1303,6 +1309,7 @@
 
 ## TypeScript 
 
+- [5rahim/seanime](https://github.com/5rahim/seanime) - Scan, automate and enjoy your anime collection, read manga, track your progress and more - all in one place.
 - [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
 - [RaunoT/plex-rewind](https://github.com/RaunoT/plex-rewind) - Present Plex user statistics and habits in a beautiful and organized manner à la Spotify Wrapped.
 - [arthurfiorette/steam-trader](https://github.com/arthurfiorette/steam-trader) - 📈 Trade items smartly with multiple automated steam accounts at the same time!
