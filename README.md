@@ -774,11 +774,11 @@
 
 ## PowerShell 
 
+- [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex.
 - [PlagueHO/CosmosDB](https://github.com/PlagueHO/CosmosDB) - PowerShell Module for working with Azure Cosmos DB databases, collections, documents, attachments, offers, users, permissions, triggers, stored procedures and user defined functions.
 - [dpo007/psDrugWars](https://github.com/dpo007/psDrugWars) - psDrugWars: A ridiculous PowerShell-based game inspired by 'Drug Wars'. 💉💰👮
 - [PacktPublishing/Microsoft-Intune-Cookbook](https://github.com/PacktPublishing/Microsoft-Intune-Cookbook) - Microsoft Intune Cookbook, published by Packt
 - [JayRHa/EndpointAnalyticsRemediationScripts](https://github.com/JayRHa/EndpointAnalyticsRemediationScripts) - 
-- [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex.
 - [canix1/PIMSCAN](https://github.com/canix1/PIMSCAN) - Tool for creating reports on Entra ID Role Assignments
 - [anthonyg-1/PSGraphQL](https://github.com/anthonyg-1/PSGraphQL) - This PowerShell module contains functions that facilitate querying and create, update, and delete operations (mutations) for GraphQL, which is an an open-source data language for APIs. For more on Gra
 - [farag2/Utilities](https://github.com/farag2/Utilities) - Useful things
