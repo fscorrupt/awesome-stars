@@ -42,6 +42,7 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [Rich Text Format](#rich-text-format)
 - [Riot](#riot)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -753,7 +754,7 @@
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
 - [arabcoders/watchstate](https://github.com/arabcoders/watchstate) - Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.
-- [freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout) - FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)
+- [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) - FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)
 - [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 445 file formats in 13 languages.
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
@@ -1164,6 +1165,10 @@
 - [almenscorner/IntuneCD](https://github.com/almenscorner/IntuneCD) - Tool to backup, update and document configurations in Intune
 - [PJnes/cmcucp](https://github.com/PJnes/cmcucp) - The Complete Marvel Cinematic Universe Chronological Playlist
 - [burkasaurusrex/Plex-Auto-Collections](https://github.com/burkasaurusrex/Plex-Auto-Collections) - Python 3 script to automatically update Plex collections based off a configuration file
+
+## Rich Text Format 
+
+- [ccadic/ESP32-S2-DevBoardTFT](https://github.com/ccadic/ESP32-S2-DevBoardTFT) - Esp32-S2 dev board with 240x240 IPS display
 
 ## Riot 
 
