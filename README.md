@@ -776,8 +776,8 @@
 
 ## PowerShell 
 
-- [EvotecIT/GPOZaurr](https://github.com/EvotecIT/GPOZaurr) - Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them.
 - [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex.
+- [EvotecIT/GPOZaurr](https://github.com/EvotecIT/GPOZaurr) - Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them.
 - [PlagueHO/CosmosDB](https://github.com/PlagueHO/CosmosDB) - PowerShell Module for working with Azure Cosmos DB databases, collections, documents, attachments, offers, users, permissions, triggers, stored procedures and user defined functions.
 - [dpo007/psDrugWars](https://github.com/dpo007/psDrugWars) - psDrugWars: A ridiculous PowerShell-based game inspired by 'Drug Wars'. 💉💰👮
 - [PacktPublishing/Microsoft-Intune-Cookbook](https://github.com/PacktPublishing/Microsoft-Intune-Cookbook) - Microsoft Intune Cookbook, published by Packt
@@ -938,6 +938,7 @@
 
 ## Python 
 
+- [x1ao4/edition-manager-for-plex](https://github.com/x1ao4/edition-manager-for-plex) - Plex 电影版本（Edition）管理工具 - Movie Edition Management Tool for Plex
 - [Py-KMS-Organization/py-kms](https://github.com/Py-KMS-Organization/py-kms) - KMS Server Emulator written in Python
 - [s-allius/tsun-gen3-proxy](https://github.com/s-allius/tsun-gen3-proxy) - This proxy enables a reliable connection between TSUN third generation inverters (eg. TSOL MS600, MS800, MS2000) and an MQTT broker to integrate the inverter into typical home automations.
 - [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) - This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC's activity snapshots.
