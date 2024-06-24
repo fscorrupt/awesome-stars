@@ -41,6 +41,7 @@
 - [Pascal](#pascal)
 - [Perl](#perl)
 - [PowerShell](#powershell)
+- [PureBasic](#purebasic)
 - [Python](#python)
 - [Rich Text Format](#rich-text-format)
 - [Riot](#riot)
@@ -409,7 +410,6 @@
 
 ## HTML 
 
-- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [TechBuckler/PlexGifMaker](https://github.com/TechBuckler/PlexGifMaker) - A quick way to use your Plex Library and Subtitles to make gifs
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a web interface for managing Docker, with a zero-config dashboard for your containers.
 - [DRMStuff/ChromeCDM](https://github.com/DRMStuff/ChromeCDM) - Widevine guesser to get mpd and keys from any widevine site
@@ -789,7 +789,6 @@
 - [SMSAgentSoftware/IntuneAssignmentsReport](https://github.com/SMSAgentSoftware/IntuneAssignmentsReport) - Reporting solution for Intune Assignments using Azure automation and Power BI
 - [FabryB/New-KrbtgtKeys.ps1](https://github.com/FabryB/New-KrbtgtKeys.ps1) - This script will enable you to reset the krbtgt account password and related keys while minimizing the likelihood of Kerberos authentication issues being caused by the operation.
 - [byteben/Win32App-Migration-Tool](https://github.com/byteben/Win32App-Migration-Tool) - 
-- [tugich/SetupPackagerIntune](https://github.com/tugich/SetupPackagerIntune) - Setup Packager helps you to easily package your software installation for Intune or other device management solutions. With just a few clicks you can create a PSADT-capable package from your files and
 - [boivinx7/Plex-PS-Module](https://github.com/boivinx7/Plex-PS-Module) - There was a Python Web Api for Plex, but I don't get Python at all so I made this
 - [dfinke/PSWeave](https://github.com/dfinke/PSWeave) - PSWeave: a PowerShell module bringing OpenAI's GPT to your fingertips, and simplified prompt engineering
 - [damienvanrobaeys/Learn-KQL-in-one-month](https://github.com/damienvanrobaeys/Learn-KQL-in-one-month) - 
@@ -935,6 +934,10 @@
 - [windows-admins/ConfigMgr](https://github.com/windows-admins/ConfigMgr) - 
 - [jamesstringerparsec/Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - A Project dedicated to making GPU Partitioning on Windows easier!
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
+
+## PureBasic 
+
+- [tugich/SetupPackagerIntune](https://github.com/tugich/SetupPackagerIntune) - Setup Packager helps you to easily package your software installation for Intune or other device management solutions. With just a few clicks you can create a PSADT-capable package from your files and
 
 ## Python 
 
@@ -1323,6 +1326,7 @@
 - [swingerman/lovelace-fluid-level-background-card](https://github.com/swingerman/lovelace-fluid-level-background-card) - This card wraps any other cards and renders a fluid background behind them.
 - [remorses/docker-phobia](https://github.com/remorses/docker-phobia) - Analyze Docker images size
 - [badgooooor/localai-vscode-plugin](https://github.com/badgooooor/localai-vscode-plugin) - 🤖👨‍💻 Extension for attaching LocalAI instance to VSCode, LabLab Open Source AI Hackathon Submission
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀
