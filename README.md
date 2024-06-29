@@ -254,6 +254,7 @@
 
 ## Dockerfile 
 
+- [imagegenius/docker-immich](https://github.com/imagegenius/docker-immich) - Monolithic (Single) Docker Container for Immich
 - [linuxserver/docker-syncthing](https://github.com/linuxserver/docker-syncthing) - 
 - [drag0n141/containers](https://github.com/drag0n141/containers) - Collection of container images i am using
 - [div-opn/rtsp-to-mjpeg](https://github.com/div-opn/rtsp-to-mjpeg) - Simple container to provide access to a RTSP stream via MJPEG.
@@ -943,6 +944,7 @@
 
 ## Python 
 
+- [athrowaway2021/comix](https://github.com/athrowaway2021/comix) - Seamlessly download and de-drm comics and manga from Kindle in highest possible quality
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
 - [x1ao4/edition-manager-for-plex](https://github.com/x1ao4/edition-manager-for-plex) - Plex 电影版本（Edition）管理工具 - Movie Edition Management Tool for Plex
 - [Py-KMS-Organization/py-kms](https://github.com/Py-KMS-Organization/py-kms) - KMS Server Emulator written in Python
@@ -1223,7 +1225,7 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
