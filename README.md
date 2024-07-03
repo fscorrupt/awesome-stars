@@ -785,8 +785,8 @@
 
 ## PowerShell 
 
-- [piaudonn/SecurityNotifications](https://github.com/piaudonn/SecurityNotifications) - Send security notifications to your users when something important happened on their accounts (such as new MFA methods, atypical travels, TAP usage...).
 - [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex.
+- [piaudonn/SecurityNotifications](https://github.com/piaudonn/SecurityNotifications) - Send security notifications to your users when something important happened on their accounts (such as new MFA methods, atypical travels, TAP usage...).
 - [EvotecIT/GPOZaurr](https://github.com/EvotecIT/GPOZaurr) - Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them.
 - [PlagueHO/CosmosDB](https://github.com/PlagueHO/CosmosDB) - PowerShell Module for working with Azure Cosmos DB databases, collections, documents, attachments, offers, users, permissions, triggers, stored procedures and user defined functions.
 - [dpo007/psDrugWars](https://github.com/dpo007/psDrugWars) - psDrugWars: A ridiculous PowerShell-based game inspired by 'Drug Wars'. 💉💰👮
