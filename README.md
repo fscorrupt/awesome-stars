@@ -787,6 +787,7 @@
 
 ## PowerShell 
 
+- [Jake40286/Hunt-Showdown-Highlights](https://github.com/Jake40286/Hunt-Showdown-Highlights) - Powershell script that automatically saves Shadowplay highlights and puts them into another folder.
 - [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex.
 - [piaudonn/SecurityNotifications](https://github.com/piaudonn/SecurityNotifications) - Send security notifications to your users when something important happened on their accounts (such as new MFA methods, atypical travels, TAP usage...).
 - [EvotecIT/GPOZaurr](https://github.com/EvotecIT/GPOZaurr) - Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them.
@@ -953,6 +954,7 @@
 
 ## Python 
 
+- [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Make one portrait alive!
 - [danieldotnl/ha-multiscrape](https://github.com/danieldotnl/ha-multiscrape) - Home Assistant custom component for scraping (html, xml or json) multiple values (from a single HTTP request) with a separate sensor/attribute for each value. Support for (login) form-submit functiona
 - [duplaja/kavita-scripts](https://github.com/duplaja/kavita-scripts) - Various helper scripts to use with Kavita
 - [athrowaway2021/comix](https://github.com/athrowaway2021/comix) - Seamlessly download and de-drm comics and manga from Kindle in highest possible quality
