@@ -788,6 +788,8 @@
 
 ## PowerShell 
 
+- [AntoPorter/Intune-Remediations](https://github.com/AntoPorter/Intune-Remediations) - I hope these Microsoft Intune Remediations inspire you to make your own!
+- [mmeierm/Scripts](https://github.com/mmeierm/Scripts) - Scripts that are used in my blog articles
 - [Jake40286/Hunt-Showdown-Highlights](https://github.com/Jake40286/Hunt-Showdown-Highlights) - Powershell script that automatically saves Shadowplay highlights and puts them into another folder.
 - [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex.
 - [piaudonn/SecurityNotifications](https://github.com/piaudonn/SecurityNotifications) - Send security notifications to your users when something important happened on their accounts (such as new MFA methods, atypical travels, TAP usage...).
@@ -956,7 +958,7 @@
 ## Python 
 
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
-- [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Make one portrait alive!
+- [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
 - [danieldotnl/ha-multiscrape](https://github.com/danieldotnl/ha-multiscrape) - Home Assistant custom component for scraping (html, xml or json) multiple values (from a single HTTP request) with a separate sensor/attribute for each value. Support for (login) form-submit functiona
 - [duplaja/kavita-scripts](https://github.com/duplaja/kavita-scripts) - Various helper scripts to use with Kavita
 - [athrowaway2021/comix](https://github.com/athrowaway2021/comix) - Seamlessly download and de-drm comics and manga from Kindle in highest possible quality
