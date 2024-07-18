@@ -242,6 +242,7 @@
 
 ## Dart 
 
+- [mirarr-app/mirarr](https://github.com/mirarr-app/mirarr) - 
 - [phantomate/Untare](https://github.com/phantomate/Untare) - Flutter app for tandoor recipes
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [JideGuru/FlutterEbookApp](https://github.com/JideGuru/FlutterEbookApp) - A simple Flutter app to Read and Download eBooks.
@@ -270,7 +271,6 @@
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image
 - [linuxserver/docker-scrutiny](https://github.com/linuxserver/docker-scrutiny) - 
-- [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) - Documentation and Examples of base container modifications
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [PowerShell/PowerShell-Docker](https://github.com/PowerShell/PowerShell-Docker) - Repository for building PowerShell Docker images
 - [techno-tim/launchpad](https://github.com/techno-tim/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
@@ -701,6 +701,7 @@
 - [ajfriesen/pc-switch](https://github.com/ajfriesen/pc-switch) - esp8266 board to turn on/off your PC with Home Assistant and ESPHome
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon) - Curated list of awesome Mastodon-related stuff!
+- [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) - Documentation and Examples of base container modifications
 - [microsoft/aka](https://github.com/microsoft/aka) - Doc page listing all public aka.ms links for Microsoft admin portals
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [MSEndpointMgr/IntuneDebugToolkit](https://github.com/MSEndpointMgr/IntuneDebugToolkit) - 
@@ -1220,6 +1221,7 @@
 
 ## Rust 
 
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [mackenly/kavita-import-tool](https://github.com/mackenly/kavita-import-tool) - Drag and drop to put eBook files for Kavita in the correct folder structure
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI.
