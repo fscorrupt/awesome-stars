@@ -419,7 +419,7 @@
 ## HTML 
 
 - [TechBuckler/PlexGifMaker](https://github.com/TechBuckler/PlexGifMaker) - A quick way to use your Plex Library and Subtitles to make gifs
-- [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a web interface for managing Docker, with a zero-config dashboard for your containers.
+- [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [DRMStuff/ChromeCDM](https://github.com/DRMStuff/ChromeCDM) - Widevine guesser to get mpd and keys from any widevine site
 - [markstan/IntuneOneDataCollector](https://github.com/markstan/IntuneOneDataCollector) - Intune One Data Collector - automated tool to collect data for Intune support issues.
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
