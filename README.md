@@ -116,6 +116,7 @@
 
 ## C# # 
 
+- [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
 - [iPromKnight/zilean](https://github.com/iPromKnight/zilean) - 
 - [donderjoekel/Mangarr](https://github.com/donderjoekel/Mangarr) - An *arr inspired approach to downloading manga using individual sources
 - [PCJones/UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages
@@ -591,6 +592,7 @@
 
 ## Jupyter Notebook 
 
+- [braindotai/Watermark-Removal-Pytorch](https://github.com/braindotai/Watermark-Removal-Pytorch) - 🔥 CNN for Watermark Removal using Deep Image Prior with Pytorch 🔥.
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Create Magic Story!
 - [Azure/MDTI-Solutions](https://github.com/Azure/MDTI-Solutions) - Repository to publish sample use cases, templates, solutions, automations for Microsoft Defender Threat Intelligence (MDTI) product
