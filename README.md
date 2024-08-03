@@ -87,6 +87,7 @@
 
 ## C 
 
+- [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [ipxe/wimboot](https://github.com/ipxe/wimboot) - WIM bootloader
 - [RobSmithDev/DiskFlashback](https://github.com/RobSmithDev/DiskFlashback) - Windows package to mount disk images and real floppy drives for non standard windows file systems
 - [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)
@@ -835,7 +836,7 @@
 - [canix1/ADACLScanner](https://github.com/canix1/ADACLScanner) - Repo for ADACLScan.ps1 - Your number one script for ACL's in Active Directory
 - [TECHCSID/lenovowarranty](https://github.com/TECHCSID/lenovowarranty) - 
 - [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening Settings
-- [FlorianSLZ/Intune-Win32-Deployer](https://github.com/FlorianSLZ/Intune-Win32-Deployer) - Create and deploy winget and chocolatey (win32) apps to Intune with one click!
+- [FlorianSLZ/IntuneWin32Deployer](https://github.com/FlorianSLZ/IntuneWin32Deployer) - Create and deploy winget and chocolatey (win32) apps to Intune with one click!
 - [DevClate/365AutomatedLab](https://github.com/DevClate/365AutomatedLab) - This module will create a Microsoft 365 Test Environment
 - [EvotecIT/PSWinDocumentation](https://github.com/EvotecIT/PSWinDocumentation) - PowerShell Module that creates Word/Excel/SQL documentation from Active Directory (AD), AWS, Office 365 and others. It's a work in progress!
 - [gwblok/garytown](https://github.com/gwblok/garytown) - GaryTown Scripts, Downloads, Etc
