@@ -973,7 +973,7 @@
 
 ## Python 
 
-- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (uncensored)
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [agittins/bermuda](https://github.com/agittins/bermuda) - Bermuda Bluetooth/BLE Triangulation / Trilateration for HomeAssistant
 - [madereddy/noisy](https://github.com/madereddy/noisy) - Simple random DNS, HTTP/S internet traffic noise generator in a Docker container
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -1374,12 +1374,13 @@
 
 ## TypeScript 
 
+- [fredrikburmester/streamyfin](https://github.com/fredrikburmester/streamyfin) - A Jellyfin client build with Expo
 - [ciotlosm/lovelace-thermostat-dark-card](https://github.com/ciotlosm/lovelace-thermostat-dark-card) - 🌡 Thermostat card with a round and black feel to it
 - [Disane87/docudigger](https://github.com/Disane87/docudigger) - Website scraper for getting invoices automagically as pdf (useful for taxes or DMS)
 - [akuse-app/akuse](https://github.com/akuse-app/akuse) - 🌸 Simple and easy to use anime streaming desktop app without ads.
 - [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) - Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
-- [5rahim/seanime](https://github.com/5rahim/seanime) - Scan, automate and enjoy your anime collection, read manga, track your progress and more - all in one place.
+- [5rahim/seanime](https://github.com/5rahim/seanime) - All-in-one platform for anime and manga. Scan, watch, stream, and read—anytime, anywhere.
 - [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
 - [RaunoT/plex-rewind](https://github.com/RaunoT/plex-rewind) - Present Plex user statistics and habits in a beautiful and organized manner.
 - [arthurfiorette/steam-trader](https://github.com/arthurfiorette/steam-trader) - 📈 Trade items smartly with multiple automated steam accounts at the same time!
