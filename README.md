@@ -117,6 +117,7 @@
 
 ## C# # 
 
+- [rogerfar/rdt-client](https://github.com/rogerfar/rdt-client) - Real-Debrid Client Proxy
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
 - [iPromKnight/zilean](https://github.com/iPromKnight/zilean) - 
@@ -802,6 +803,7 @@
 
 ## PowerShell 
 
+- [telstrapurple/MSTeamsChatExporter](https://github.com/telstrapurple/MSTeamsChatExporter) - Code that helps an end-user export their Microsoft Teams Chat History to HTML
 - [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex.
 - [akapv/atomic-red-team](https://github.com/akapv/atomic-red-team) - 
 - [alaurie/WimWitchFK](https://github.com/alaurie/WimWitchFK) - General clean up of WimWitch script before converting into a PowerShell module.
@@ -973,6 +975,9 @@
 
 ## Python 
 
+- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
+- [Entree3k/edition-manager](https://github.com/Entree3k/edition-manager) - Edition Manager - Movie Edition Management Tool for Plex
+- [I-am-PUID-0/DMB](https://github.com/I-am-PUID-0/DMB) - Debrid Media Bridge
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [agittins/bermuda](https://github.com/agittins/bermuda) - Bermuda Bluetooth/BLE Triangulation / Trilateration for HomeAssistant
 - [madereddy/noisy](https://github.com/madereddy/noisy) - Simple random DNS, HTTP/S internet traffic noise generator in a Docker container
@@ -1238,6 +1243,7 @@
 
 ## Rust 
 
+- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [mackenly/kavita-import-tool](https://github.com/mackenly/kavita-import-tool) - Drag and drop to put eBook files for Kavita in the correct folder structure
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on ??? GPUs
@@ -1374,6 +1380,7 @@
 
 ## TypeScript 
 
+- [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [fredrikburmester/streamyfin](https://github.com/fredrikburmester/streamyfin) - A Jellyfin client build with Expo
 - [ciotlosm/lovelace-thermostat-dark-card](https://github.com/ciotlosm/lovelace-thermostat-dark-card) - 🌡 Thermostat card with a round and black feel to it
 - [Disane87/docudigger](https://github.com/Disane87/docudigger) - Website scraper for getting invoices automagically as pdf (useful for taxes or DMS)
