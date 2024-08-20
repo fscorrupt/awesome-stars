@@ -650,6 +650,7 @@
 
 ## Others 
 
+- [DRMStuff/CDM](https://github.com/DRMStuff/CDM) - CDM Collections
 - [debridmediamanager/awesome-debrid](https://github.com/debridmediamanager/awesome-debrid) - 🆓 Download and stream in an instant
 - [andyblac/UI-Minimalist-Custom-Cards](https://github.com/andyblac/UI-Minimalist-Custom-Cards) - A modified version of Minimalist Room Card.
 - [ricasanbr/360MultiStretch.ps1](https://github.com/ricasanbr/360MultiStretch.ps1) - 
