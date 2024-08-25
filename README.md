@@ -247,6 +247,7 @@
 
 ## Dart 
 
+- [inotia00/revanced-manager](https://github.com/inotia00/revanced-manager) - 💊 Application to use ReVanced on Android
 - [mirarr-app/mirarr](https://github.com/mirarr-app/mirarr) - 
 - [phantomate/Untare](https://github.com/phantomate/Untare) - Flutter app for tandoor recipes
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
