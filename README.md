@@ -298,7 +298,7 @@
 
 ## Go 
 
-- [sirrobot01/debrid-blackhole](https://github.com/sirrobot01/debrid-blackhole) - A Debrid Torrent Blackhole
+- [sirrobot01/debrid-blackhole](https://github.com/sirrobot01/debrid-blackhole) - A Debrid Torrent Blackhole with Proxy Support
 - [casbin/caswaf](https://github.com/casbin/caswaf) - HTTP & OAuth Gateway and Web Application Firewall (WAF) based on ModSecurity, online demo: https://door.caswaf.com
 - [autobrr/omegabrr](https://github.com/autobrr/omegabrr) - Omegabrr transforms monitored shows, movies, books and music from arrs into autobrr filters. It also supports adding titles from custom lists to autobrr filters.
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
