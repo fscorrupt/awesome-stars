@@ -233,7 +233,7 @@
 - [matt8707/hass-config](https://github.com/matt8707/hass-config) - ✨ A different take on designing a Lovelace UI (Dashboard)
 - [wefuzz/books](https://github.com/wefuzz/books) - awesome crypto books
 - [just5ky/SkyPi](https://github.com/just5ky/SkyPi) - selfhosting on a budget
-- [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
+- [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard that enables you to monitor and track the status of your server.
 - [tronyx/plpp](https://github.com/tronyx/plpp) - PHP Library Presenter for PLEX
 - [ryjo1026/plex-landing-page](https://github.com/ryjo1026/plex-landing-page) - A Landing Page for a Plex Media Server
 
@@ -534,7 +534,7 @@
 - [krestaino/my-dash](https://github.com/krestaino/my-dash) - 🔢 A developer friendly dashboard for monitoring your self-hosted services with a clean and modern UI.
 - [fmartinou/whats-up-docker](https://github.com/fmartinou/whats-up-docker) - What's up Docker ( aka WUD ) gets you notified when a new version of your Docker Container is available.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-- [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
+- [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [DavidFW1960/bom-weather-card](https://github.com/DavidFW1960/bom-weather-card) - Custom Animated Weather Card for any weather provider
 - [iprodanovbg/homeassistant-desktop](https://github.com/iprodanovbg/homeassistant-desktop) - 🎛 Desktop application (Windows / macOS / Linux) for Home Assistant built with Electron
@@ -639,6 +639,7 @@
 
 ## Markdown 
 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mustache 
@@ -688,7 +689,6 @@
 - [Desuuuu/klipper-macros](https://github.com/Desuuuu/klipper-macros) - A collection of my Klipper G-code macros.
 - [herveaurel/HomeAssistant](https://github.com/herveaurel/HomeAssistant) - Mad-Geek : My Custom Dashboard
 - [Fribb/anime-lists](https://github.com/Fribb/anime-lists) - Anime-Mapping Project
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [gugutab/TvOverlay](https://github.com/gugutab/TvOverlay) - 
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [dreulavelle/Prowlarr-Indexers](https://github.com/dreulavelle/Prowlarr-Indexers) - Prowlarr Indexers used by Cardigann
@@ -814,7 +814,7 @@
 
 ## PowerShell 
 
-- [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex.
+- [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin.
 - [telstrapurple/MSTeamsChatExporter](https://github.com/telstrapurple/MSTeamsChatExporter) - Code that helps an end-user export their Microsoft Teams Chat History to HTML
 - [akapv/atomic-red-team](https://github.com/akapv/atomic-red-team) - 
 - [alaurie/WimWitchFK](https://github.com/alaurie/WimWitchFK) - General clean up of WimWitch script before converting into a PowerShell module.
@@ -1117,6 +1117,7 @@
 - [shaunkleyn/Series-Collection-Status-for-Kometa](https://github.com/shaunkleyn/Series-Collection-Status-for-Kometa) - Configs for Plex Meta Manager
 - [lupohan44/GamesHub](https://github.com/lupohan44/GamesHub) - 
 - [majikat768/HuntStatsLogger](https://github.com/majikat768/HuntStatsLogger) - stats logger for Hunt: Showdown
+- [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
 - [google/glazier](https://github.com/google/glazier) - A tool for automating the installation of the Microsoft Windows operating system on various device platforms.
 - [cyphar/orca-build](https://github.com/cyphar/orca-build) - Build OCI images from Dockerfiles.
@@ -1332,7 +1333,6 @@
 - [mag37/dockcheck](https://github.com/mag37/dockcheck) - CLI tool to automate docker image updates. Selective, notifications, autoprune, no pre-pulling.
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [ChuckPa/PlexDBRepair](https://github.com/ChuckPa/PlexDBRepair) - Database repair utility for Plex Media Server databases
-- [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [RandomNinjaAtk/docker-radarr-extended](https://github.com/RandomNinjaAtk/docker-radarr-extended) - Radarr (develop) with bash scripts to automate and extend functionality.
 - [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) -  Permanent TouchID support 👆 for `sudo`.
@@ -1396,6 +1396,7 @@
 
 ## TypeScript 
 
+- [thomasloven/lovelace-more-info-card](https://github.com/thomasloven/lovelace-more-info-card) - 🔹 Display the more-info dialog of any entity as a lovelace card
 - [ducan-ne/remove-bg](https://github.com/ducan-ne/remove-bg) - Remove background directly in your browser, powered by WebGPU
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [fredrikburmester/streamyfin](https://github.com/fredrikburmester/streamyfin) - A Jellyfin client build with Expo
@@ -1457,7 +1458,7 @@
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [plugsy/core](https://github.com/plugsy/core) - A simple, pluggable dashboard and status page
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
 - [bacher09/pwgen-for-bios](https://github.com/bacher09/pwgen-for-bios) - Password generator for BIOS
