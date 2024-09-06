@@ -870,7 +870,7 @@
 - [ShaunLawrie/PwshSyntaxHighlight](https://github.com/ShaunLawrie/PwshSyntaxHighlight) - 🌈 Render PowerShell in the Terminal with Syntax Highlighting
 - [last-byte/PersistenceSniper](https://github.com/last-byte/PersistenceSniper) - Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. Official Twitter/X account @PersistSniper. Made with
 - [DanysysTeam/PS-SFTA](https://github.com/DanysysTeam/PS-SFTA) - PowerShell Set File Type Association
-- [ShaunLawrie/PwshSpectreConsole](https://github.com/ShaunLawrie/PwshSpectreConsole) - 👻 PwshSpectreConsole is an opinionated wrapper for the awesome Spectre.Console library
+- [ShaunLawrie/PwshSpectreConsole](https://github.com/ShaunLawrie/PwshSpectreConsole) - 👻 PwshSpectreConsole is a PowerShell wrapper for the awesome Spectre.Console library
 - [dafthack/MFASweep](https://github.com/dafthack/MFASweep) - A tool for checking if MFA is enabled on multiple Microsoft Services
 - [bokusu/animeManga-autoBackup](https://github.com/bokusu/animeManga-autoBackup) - Automatically/manually backup your anime (and manga) list from MAL etc.
 - [FlorianSLZ/scloud](https://github.com/FlorianSLZ/scloud) - Code Snippets mentioned at my Blog: scloud.work
