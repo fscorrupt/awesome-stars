@@ -657,6 +657,7 @@
 
 ## Others 
 
+- [geekau/mediastack](https://github.com/geekau/mediastack) - The ultimate Docker Compose files and configs to build your desired media stack, quickly and easily, with secure outbound network traffic and secure remote access using multifactor authentication.
 - [navilg/media-stack](https://github.com/navilg/media-stack) - A stack of self-hosted tools to manage and stream media. Sonarr + Radarr + qBitTorrent + Prowlarr + Jellyfin + Jellyseerr + VPN
 - [FalconForceTeam/FalconFriday](https://github.com/FalconForceTeam/FalconFriday) - Hunting queries and detections
 - [yackermann/awesome-webauthn](https://github.com/yackermann/awesome-webauthn) - 🔐 A curated list of awesome WebAuthn and Passkey resources
@@ -814,6 +815,7 @@
 
 ## PowerShell 
 
+- [dfinke/Build-PromptFromFiles](https://github.com/dfinke/Build-PromptFromFiles) - Combine files from a directory into a single prompt, ready for use with large language models (LLMs)
 - [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 - [telstrapurple/MSTeamsChatExporter](https://github.com/telstrapurple/MSTeamsChatExporter) - Code that helps an end-user export their Microsoft Teams Chat History to HTML
 - [akapv/atomic-red-team](https://github.com/akapv/atomic-red-team) - 
@@ -916,7 +918,7 @@
 - [microsoft/Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC) - Manages, configures, extracts and monitors Microsoft 365 tenant configurations
 - [ThomasKur/ModernWorkplaceClientCenter](https://github.com/ThomasKur/ModernWorkplaceClientCenter) - This repository will be the home of a PowerShell Module, which helps to simplify tasks on MDM managed Windows clients. In a second step there will be a UI, which leverages these PowerShell functions f
 - [EvotecIT/ADEssentials](https://github.com/EvotecIT/ADEssentials) - PowerShell Active Directory helper functions to manage healthy Active Directory
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell sample scripts (.ps1) for every system!
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell sample scripts (.ps1) for Linux, Mac OS, and Windows.
 - [EvotecIT/PSWriteHTML](https://github.com/EvotecIT/PSWriteHTML) - PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 - [ATVWGS/tenant-management-framework](https://github.com/ATVWGS/tenant-management-framework) - The Tenant Management Framework is a Powershell module that is able to create, update and delete resources or settings via the Microsoft Graph API.
 - [mzmaili/DSRegTool](https://github.com/mzmaili/DSRegTool) - DSRegTool PowerShell is a comprehensive tool that performs more than 30 different tests that help you to identify and fix the most common device registration issues for all join types.
