@@ -116,6 +116,7 @@
 
 ## C# # 
 
+- [ianis58/WindowsIsoDownloader](https://github.com/ianis58/WindowsIsoDownloader) - Tool to programatically download Windows 11 ISO from Microsoft servers
 - [rogerfar/rdt-client](https://github.com/rogerfar/rdt-client) - Real-Debrid Client Proxy
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
@@ -550,7 +551,6 @@
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [lukevink/hass-config-lajv](https://github.com/lukevink/hass-config-lajv) - Home Assistant Configuration
-- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [eraseyourknees/msdl](https://github.com/eraseyourknees/msdl) - Microsoft Software Download Listing
@@ -609,7 +609,7 @@
 
 - [braindotai/Watermark-Removal-Pytorch](https://github.com/braindotai/Watermark-Removal-Pytorch) - 🔥 CNN for Watermark Removal using Deep Image Prior with Pytorch 🔥.
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
-- [HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Create Magic Story!
+- [HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Accepted as [NeurIPS 2024] Spotlight Presentation Paper
 - [Azure/MDTI-Solutions](https://github.com/Azure/MDTI-Solutions) - Repository to publish sample use cases, templates, solutions, automations for Microsoft Defender Threat Intelligence (MDTI) product
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
 - [Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
@@ -654,6 +654,7 @@
 
 ## Others 
 
+- [V33RU/IoTSecurity101](https://github.com/V33RU/IoTSecurity101) - A Curated list of IoT Security Resources
 - [cyb3rmik3/KQL-threat-hunting-queries](https://github.com/cyb3rmik3/KQL-threat-hunting-queries) - A repository of KQL queries focused on threat hunting and threat detecting for Microsoft Sentinel & Microsoft XDR (Former Microsoft 365 Defender).
 - [geekau/mediastack](https://github.com/geekau/mediastack) - The ultimate Docker Compose files and configs to build your desired media stack, quickly and easily, with secure outbound network traffic and secure remote access using multifactor authentication.
 - [navilg/media-stack](https://github.com/navilg/media-stack) - A stack of self-hosted tools to manage and stream media. Sonarr + Radarr + qBitTorrent + Prowlarr + Jellyfin + Jellyseerr + VPN
@@ -814,6 +815,7 @@
 ## PowerShell 
 
 - [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
+- [ianis58/tiny11builder](https://github.com/ianis58/tiny11builder) - This script create a trimmed-down Windows 11 image. PowerShell version of ntdevlabs/tiny11builder with some improvements.
 - [okieselbach/Intune](https://github.com/okieselbach/Intune) - Intune Scripts and Helpers.
 - [dfinke/Build-PromptFromFiles](https://github.com/dfinke/Build-PromptFromFiles) - Combine files from a directory into a single prompt, ready for use with large language models (LLMs)
 - [telstrapurple/MSTeamsChatExporter](https://github.com/telstrapurple/MSTeamsChatExporter) - Code that helps an end-user export their Microsoft Teams Chat History to HTML
@@ -988,7 +990,7 @@
 
 ## Python 
 
-- [cyb3rgh05t/mr.streamnet_telegram](https://github.com/cyb3rgh05t/mr.streamnet_telegram) - 
+- [cyb3rgh05t/telegram_bot](https://github.com/cyb3rgh05t/telegram_bot) - Telegram Bot
 - [sureshfizzy/CineSync](https://github.com/sureshfizzy/CineSync) - CineSync is a Python based library management tool designed to organize debrid & local libraries without the support of Sonarr & Radarr
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [spotify2tidal/spotify_to_tidal](https://github.com/spotify2tidal/spotify_to_tidal) - A command line tool for importing your Spotify playlists into Tidal
@@ -1387,6 +1389,7 @@
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [matt8707/ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard
 - [Pyxxilated-Studios/Moonarr](https://github.com/Pyxxilated-Studios/Moonarr) - An *arr for tidal
+- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
 
 ## Swift 
