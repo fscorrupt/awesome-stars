@@ -992,8 +992,9 @@
 
 ## Python 
 
+- [cyb3rgh05t/plexadd](https://github.com/cyb3rgh05t/plexadd) - discord bot
 - [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD's "Panels" app
-- [cyb3rgh05t/telegram_bot](https://github.com/cyb3rgh05t/telegram_bot) - Telegram Bot
+- [cyb3rgh05t/telegram-bot](https://github.com/cyb3rgh05t/telegram-bot) - Telegram Bot
 - [sureshfizzy/CineSync](https://github.com/sureshfizzy/CineSync) - CineSync is a Python based library management tool designed to organize debrid & local libraries without the support of Sonarr & Radarr
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [spotify2tidal/spotify_to_tidal](https://github.com/spotify2tidal/spotify_to_tidal) - A command line tool for importing your Spotify playlists into Tidal
