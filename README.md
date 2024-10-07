@@ -128,7 +128,7 @@
 - [Mayyhem/SharpSCCM](https://github.com/Mayyhem/SharpSCCM) - A C# utility for interacting with SCCM
 - [SenexCrenshaw/StreamMaster](https://github.com/SenexCrenshaw/StreamMaster) - 
 - [oknorton/LethalCompanyScalingMaster](https://github.com/oknorton/LethalCompanyScalingMaster) - A mod that allows users to fully customize the scaling of the most player impacted values.
-- [no00ob/LCSoundTool](https://github.com/no00ob/LCSoundTool) - Simple Lethal Company sound tool and debugger.
+- [susy-bakaa/LCSoundTool](https://github.com/susy-bakaa/LCSoundTool) - Simple Lethal Company sound tool and debugger.
 - [C9Glax/tranga](https://github.com/C9Glax/tranga) - Docker-Container to monitor (Manga) Scanlation-Sites for download new chapters.
 - [jellyfin/jellyfin-plugin-ldapauth](https://github.com/jellyfin/jellyfin-plugin-ldapauth) - LDAP Authentication for Jellyfin
 - [David-Moreira/JellyseerrSync](https://github.com/David-Moreira/JellyseerrSync) - 
@@ -721,7 +721,7 @@
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [NicklasAhlberg/AutopilotTool](https://github.com/NicklasAhlberg/AutopilotTool) - No more need to struggle to manually get, move and import the csv-file from another device. All you need to do is run the tool (Shift+F10 when you get to pick your keyboard layout), start Autopilot To
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
-- [ajfriesen/pc-switch](https://github.com/ajfriesen/pc-switch) - esp8266 board to turn on/off your PC with Home Assistant and ESPHome
+- [ajfriesen/PokyPow](https://github.com/ajfriesen/PokyPow) - esp8266 board to turn on/off your PC with Home Assistant and ESPHome
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon) - Curated list of awesome Mastodon-related stuff!
 - [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) - Documentation and Examples of base container modifications
@@ -991,6 +991,7 @@
 
 ## Python 
 
+- [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd) - SABnzbd - The automated Usenet download tool
 - [cyb3rgh05t/plexadd](https://github.com/cyb3rgh05t/plexadd) - discord bot
 - [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD's "Panels" app
 - [cyb3rgh05t/telegram-bot](https://github.com/cyb3rgh05t/telegram-bot) - Telegram Bot
