@@ -638,6 +638,7 @@
 
 ## Makefile 
 
+- [asdcorp/hwreqchk](https://github.com/asdcorp/hwreqchk) - Professional hardware requirements bypass for Windows 11 24H2
 - [instrumentisto/restic-docker-image](https://github.com/instrumentisto/restic-docker-image) - restic Docker image (backup utility)
 - [kubealex/k8s-mediaserver-operator](https://github.com/kubealex/k8s-mediaserver-operator) - Repository for k8s Mediaserver Operator project
 
@@ -991,6 +992,7 @@
 
 ## Python 
 
+- [hg1337/homeassistant-dwd](https://github.com/hg1337/homeassistant-dwd) - Custom component for Home Assistant that integrates weather data (measurements and forecasts) of Deutscher Wetterdienst (DWD).
 - [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd) - SABnzbd - The automated Usenet download tool
 - [cyb3rgh05t/plexadd](https://github.com/cyb3rgh05t/plexadd) - discord bot
 - [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD's "Panels" app
