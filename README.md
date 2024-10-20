@@ -484,6 +484,7 @@
 
 ## JavaScript 
 
+- [kalkih/simple-weather-card](https://github.com/kalkih/simple-weather-card) - Minimalistic weather card for Home Assistant
 - [besuper/TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to watch sub only VOD on Twitch
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
@@ -816,6 +817,7 @@
 
 ## PowerShell 
 
+- [AdamGrossTX/MGGraphHelperFunctions](https://github.com/AdamGrossTX/MGGraphHelperFunctions) - A collection of helper functions to interact with the Microsoft Graph API using the Microsoft.Graph module.
 - [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 - [ianis58/tiny11builder](https://github.com/ianis58/tiny11builder) - This script create a trimmed-down Windows 11 image. PowerShell version of ntdevlabs/tiny11builder with some improvements.
 - [okieselbach/Intune](https://github.com/okieselbach/Intune) - Intune Scripts and Helpers.
