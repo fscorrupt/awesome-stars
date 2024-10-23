@@ -185,6 +185,7 @@
 
 ## C++ 
 
+- [AaronMargosis/ZombieFinder](https://github.com/AaronMargosis/ZombieFinder) - 
 - [hacking-support/DVUEFI](https://github.com/hacking-support/DVUEFI) - Damn Vulnerable UEFI
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [Sigil-Ebook/Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor
