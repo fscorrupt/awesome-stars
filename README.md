@@ -116,6 +116,7 @@
 
 ## C# # 
 
+- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [svrooij/WingetIntune](https://github.com/svrooij/WingetIntune) - Package any app from Winget to Intune - WinTuner
 - [ianis58/WindowsIsoDownloader](https://github.com/ianis58/WindowsIsoDownloader) - Tool to programatically download Windows 11 ISO from Microsoft servers
 - [rogerfar/rdt-client](https://github.com/rogerfar/rdt-client) - Real-Debrid Client Proxy
@@ -818,6 +819,7 @@
 
 ## PowerShell 
 
+- [samratashok/nishang](https://github.com/samratashok/nishang) - Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
 - [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 - [AdamGrossTX/MGGraphHelperFunctions](https://github.com/AdamGrossTX/MGGraphHelperFunctions) - A collection of helper functions to interact with the Microsoft Graph API using the Microsoft.Graph module.
 - [ianis58/tiny11builder](https://github.com/ianis58/tiny11builder) - This script create a trimmed-down Windows 11 image. PowerShell version of ntdevlabs/tiny11builder with some improvements.
@@ -995,6 +997,7 @@
 
 ## Python 
 
+- [biemster/FindMy](https://github.com/biemster/FindMy) - Query Apple's Find My network
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [asdcorp/psfextract](https://github.com/asdcorp/psfextract) - Microsoft PSTREAM File Extractor
 - [hg1337/homeassistant-dwd](https://github.com/hg1337/homeassistant-dwd) - Custom component for Home Assistant that integrates weather data (measurements and forecasts) of Deutscher Wetterdienst (DWD).
