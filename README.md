@@ -116,6 +116,7 @@
 
 ## C# # 
 
+- [tom-englert/RegionToShare](https://github.com/tom-englert/RegionToShare) - Helper app to share only a part of a screen via video conference apps
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [svrooij/WingetIntune](https://github.com/svrooij/WingetIntune) - Package any app from Winget to Intune - WinTuner
 - [ianis58/WindowsIsoDownloader](https://github.com/ianis58/WindowsIsoDownloader) - Tool to programatically download Windows 11 ISO from Microsoft servers
@@ -127,6 +128,7 @@
 - [PCJones/UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages
 - [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature
 - [Mayyhem/SharpSCCM](https://github.com/Mayyhem/SharpSCCM) - A C# utility for interacting with SCCM
+- [SenexCrenshaw/StreamMaster](https://github.com/SenexCrenshaw/StreamMaster) - 
 - [oknorton/LethalCompanyScalingMaster](https://github.com/oknorton/LethalCompanyScalingMaster) - A mod that allows users to fully customize the scaling of the most player impacted values.
 - [susy-bakaa/LCSoundTool](https://github.com/susy-bakaa/LCSoundTool) - Simple Lethal Company sound tool and debugger.
 - [C9Glax/tranga](https://github.com/C9Glax/tranga) - Docker-Container to monitor (Manga) Scanlation-Sites for download new chapters.
@@ -433,7 +435,6 @@
 
 - [eddiechu/File-Smuggling](https://github.com/eddiechu/File-Smuggling) - HTML smuggling is not an evil, it can be useful
 - [TechBuckler/PlexGifMaker](https://github.com/TechBuckler/PlexGifMaker) - A quick way to use your Plex Library and Subtitles to make gifs
-- [SenexCrenshaw/StreamMaster](https://github.com/SenexCrenshaw/StreamMaster) - 
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [DRMStuff/ChromeCDM](https://github.com/DRMStuff/ChromeCDM) - Widevine guesser to get mpd and keys from any widevine site
 - [markstan/IntuneOneDataCollector](https://github.com/markstan/IntuneOneDataCollector) - Intune One Data Collector - automated tool to collect data for Intune support issues.
@@ -818,6 +819,9 @@
 
 ## PowerShell 
 
+- [S3cur3Th1sSh1t/PowerSharpPack](https://github.com/S3cur3Th1sSh1t/PowerSharpPack) - 
+- [subat0mik/Misconfiguration-Manager](https://github.com/subat0mik/Misconfiguration-Manager) - Misconfiguration Manager is a central knowledge base for all known Microsoft Configuration Manager tradecraft and associated defensive and hardening guidance.
+- [SMSAgentSoftware/MEM](https://github.com/SMSAgentSoftware/MEM) - Microsoft Endpoint Manager related resources
 - [MSEndpointMgr/IntuneAppFactory](https://github.com/MSEndpointMgr/IntuneAppFactory) - Intune App Factory automates Win32 application packaging in Intune.
 - [Romanitho/WingetIntunePackager](https://github.com/Romanitho/WingetIntunePackager) - Intune Winget app packager
 - [rink-turksma/IntunePrepTool](https://github.com/rink-turksma/IntunePrepTool) - IntunePrepTool is a GUI designed for creating Intune packages using the MS Win32 Content Prep Tool. The tool aims to simplify the process of packaging applications for deployment through Intune by aut
@@ -1328,6 +1332,7 @@
 
 ## Shell 
 
+- [PeterPawn/YourFritz](https://github.com/PeterPawn/YourFritz) - dynamic package management for AVM routers
 - [plexguide/Apps](https://github.com/plexguide/Apps) - 
 - [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
@@ -1364,7 +1369,7 @@
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [RandomNinjaAtk/docker-radarr-extended](https://github.com/RandomNinjaAtk/docker-radarr-extended) - Radarr (develop) with bash scripts to automate and extend functionality.
 - [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) -  Permanent TouchID support 👆 for `sudo`.
-- [etherai/selfhosted-gateway](https://github.com/etherai/selfhosted-gateway) - Self-hosted Docker native tunneling to localhost. Expose local docker containers to the public Internet via a simple docker compose interface.
+- [hintjen/selfhosted-gateway](https://github.com/hintjen/selfhosted-gateway) - Self-hosted Docker native tunneling to localhost. Expose local docker containers to the public Internet via a simple docker compose interface.
 - [lancachenet/monolithic](https://github.com/lancachenet/monolithic) - A monolithic lancache service capable of caching all CDNs in a single instance
 - [CasCas2/proxmox-hetzner](https://github.com/CasCas2/proxmox-hetzner) - proxmox post installation scripts
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
