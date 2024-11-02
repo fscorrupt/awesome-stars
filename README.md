@@ -116,6 +116,7 @@
 
 ## C# # 
 
+- [GreemDev/Ryujinx](https://github.com/GreemDev/Ryujinx) - Experimental Switch emulator written in C#
 - [tom-englert/RegionToShare](https://github.com/tom-englert/RegionToShare) - Helper app to share only a part of a screen via video conference apps
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [svrooij/WingetIntune](https://github.com/svrooij/WingetIntune) - Package any app from Winget to Intune - WinTuner
@@ -571,6 +572,7 @@
 - [danrahn/MarkerEditorForPlex](https://github.com/danrahn/MarkerEditorForPlex) - View, edit, add, and delete intro and credit markers for your Plex media.
 - [schmm2/mem-gaa](https://github.com/schmm2/mem-gaa) - Microsoft Endpoint Manager - Group Assignment Analyzer
 - [omaha-consulting/winstall](https://github.com/omaha-consulting/winstall) - A web app for browsing and installing Windows Package Manager apps.
+- [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 - [RemiRigal/Overseerr-Assistant](https://github.com/RemiRigal/Overseerr-Assistant) - Browser extension for Overseerr that embeds buttons into IMDb and TMDB web pages to easily request movies and tv shows.
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 - [hulxv/vnstat-client](https://github.com/hulxv/vnstat-client) - GUI Client for vnStat Network Monitor for Linux or GNU/Linux
@@ -1210,7 +1212,6 @@
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
-- [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 - [faizyy01/Invitarr](https://github.com/faizyy01/Invitarr) - Plex Discord Bot to invite a user to a plex server
 - [whatdaybob/sonarr_youtubedl](https://github.com/whatdaybob/sonarr_youtubedl) - A Sonarr companion script to allow the automatic downloading of web series normally not available for Sonarr to search for. Using Youtube-DL it allows you to download your webseries from the list of s
 - [zeronetworks/BloodHound-Tools](https://github.com/zeronetworks/BloodHound-Tools) - Collection of tools that reflect the network dimension into Bloodhound's data
