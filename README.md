@@ -737,7 +737,7 @@
 - [MSEndpointMgr/IntuneDebugToolkit](https://github.com/MSEndpointMgr/IntuneDebugToolkit) - 
 - [zbetcheckin/Security_list](https://github.com/zbetcheckin/Security_list) - Great security list for fun and profit
 - [brokenscripts/authentik_traefik](https://github.com/brokenscripts/authentik_traefik) - Authentik behind Traefik
-- [K4L4Uz/SFVIP-Player](https://github.com/K4L4Uz/SFVIP-Player) - The best IPTV Player for Windows.
+- [K4L4Uz/SFVIP-Player](https://github.com/K4L4Uz/SFVIP-Player) - Best IPTV Player for Windows.
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [apptension/developer-handbook](https://github.com/apptension/developer-handbook) - An opinionated guide on how to become a professional Web/Mobile App Developer.
 - [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
@@ -777,6 +777,7 @@
 
 ## PHP 
 
+- [projectsend/projectsend](https://github.com/projectsend/projectsend) - ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple langua
 - [benjaminjonard/koillection](https://github.com/benjaminjonard/koillection) - Koillection is a self-hosted service allowing users to manage any kind of collections.
 - [AzuraCast/AzuraCast](https://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -822,6 +823,7 @@
 
 ## PowerShell 
 
+- [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 - [S3cur3Th1sSh1t/PowerSharpPack](https://github.com/S3cur3Th1sSh1t/PowerSharpPack) - 
 - [subat0mik/Misconfiguration-Manager](https://github.com/subat0mik/Misconfiguration-Manager) - Misconfiguration Manager is a central knowledge base for all known Microsoft Configuration Manager tradecraft and associated defensive and hardening guidance.
 - [SMSAgentSoftware/MEM](https://github.com/SMSAgentSoftware/MEM) - Microsoft Endpoint Manager related resources
@@ -829,7 +831,6 @@
 - [Romanitho/WingetIntunePackager](https://github.com/Romanitho/WingetIntunePackager) - Intune Winget app packager
 - [rink-turksma/IntunePrepTool](https://github.com/rink-turksma/IntunePrepTool) - IntunePrepTool is a GUI designed for creating Intune packages using the MS Win32 Content Prep Tool. The tool aims to simplify the process of packaging applications for deployment through Intune by aut
 - [MSEndpointMgr/IntuneWin32AppPackager](https://github.com/MSEndpointMgr/IntuneWin32AppPackager) - This project aims at making it easier to package, create and at the same time document Win32 applications for Microsoft Intune
-- [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 - [samratashok/nishang](https://github.com/samratashok/nishang) - Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
 - [AdamGrossTX/MGGraphHelperFunctions](https://github.com/AdamGrossTX/MGGraphHelperFunctions) - A collection of helper functions to interact with the Microsoft Graph API using the Microsoft.Graph module.
 - [ianis58/tiny11builder](https://github.com/ianis58/tiny11builder) - This script create a trimmed-down Windows 11 image. PowerShell version of ntdevlabs/tiny11builder with some improvements.
@@ -981,7 +982,7 @@
 - [paulwetter/DocumentConfigMgrCB](https://github.com/paulwetter/DocumentConfigMgrCB) - This script attempts to document your entire Configuration Manager (MEMCM/SCCM) environment
 - [12Knocksinna/Office365itpros](https://github.com/12Knocksinna/Office365itpros) - Office 365 for IT Pros PowerShell examples
 - [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows
 - [T3los/mRemoteNGOpenVPN](https://github.com/T3los/mRemoteNGOpenVPN) - 
 - [realslacker/PSmRemoteNG](https://github.com/realslacker/PSmRemoteNG) - A module to create mRemoteNG connection files from PowerShell. You can install this module from the PSGallery!
 - [NicklasAhlberg/Microsoft-Endpoint-Manager](https://github.com/NicklasAhlberg/Microsoft-Endpoint-Manager) - 
@@ -1048,7 +1049,7 @@
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [croneter/PlexKodiConnect](https://github.com/croneter/PlexKodiConnect) - Plex integration in Kodi done right
 - [fe80Grau/ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM) - A little script to serve Youtube / Twitch / Crunchyroll videos without storage it.  Uses yt-dlp HTTP data throught Flask and dynamic URLs. We can use this dynamic URLs to set STRM files.
-- [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
+- [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - QodoAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
 - [fu/fass](https://github.com/fu/fass) - This simple server enables scraping of website with dynamic content.
 - [josStorer/selfhostedAI](https://github.com/josStorer/selfhostedAI) - A collection of one-click self-hosted AI
@@ -1287,6 +1288,7 @@
 
 ## Rust 
 
+- [vadimcn/codelldb](https://github.com/vadimcn/codelldb) - A native debugger extension for VSCode based on LLDB
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [chrivers/bifrost](https://github.com/chrivers/bifrost) - Hue Bridge Emulator
@@ -1334,6 +1336,7 @@
 
 ## Shell 
 
+- [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
 - [PeterPawn/YourFritz](https://github.com/PeterPawn/YourFritz) - dynamic package management for AVM routers
 - [plexguide/Apps](https://github.com/plexguide/Apps) - 
 - [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
