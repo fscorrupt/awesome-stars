@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [ASP.NET](#asp.net)
 - [Astro](#astro)
 - [AutoIt](#autoit)
 - [Batchfile](#batchfile)
@@ -56,10 +55,6 @@
 - [TypeScript](#typescript)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
-
-## ASP.NET 
-
-- [kimmknight/raweb](https://github.com/kimmknight/raweb) - A simple web interface for your RemoteApps hosted on Win 7, 8, 10 and Server
 
 ## Astro 
 
@@ -488,6 +483,7 @@
 
 ## JavaScript 
 
+- [mlamberts78/weather-chart-card](https://github.com/mlamberts78/weather-chart-card) - Custom weather card with charts.
 - [kalkih/simple-weather-card](https://github.com/kalkih/simple-weather-card) - Minimalistic weather card for Home Assistant
 - [besuper/TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to watch sub only VOD on Twitch
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
@@ -663,6 +659,7 @@
 
 ## Others 
 
+- [PaulWieland/ratgdo](https://github.com/PaulWieland/ratgdo) - 
 - [V33RU/IoTSecurity101](https://github.com/V33RU/IoTSecurity101) - A Curated list of IoT Security Resources
 - [cyb3rmik3/KQL-threat-hunting-queries](https://github.com/cyb3rmik3/KQL-threat-hunting-queries) - A repository of KQL queries focused on threat hunting and threat detecting for Microsoft Sentinel & Microsoft XDR (Former Microsoft 365 Defender).
 - [geekau/mediastack](https://github.com/geekau/mediastack) - The ultimate Docker Compose files and configs to build your desired media stack, quickly and easily, with secure outbound network traffic and secure remote access using multifactor authentication.
@@ -990,6 +987,7 @@
 - [endpointmanager/wingetbridge-factory](https://github.com/endpointmanager/wingetbridge-factory) - Powershell-Scripts based on WingetBridge (Powershell-Module) for software deployment tools like Microsoft Endpoint Manager
 - [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) - WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)
 - [Romanitho/Winget-Install](https://github.com/Romanitho/Winget-Install) - Powershell scripts for Winget with SCCM/Intune
+- [kimmknight/raweb](https://github.com/kimmknight/raweb) - A simple web interface for your RemoteApps hosted on Win 7, 8, 10 and Server
 - [nkasco/IT-Admin-Toolkit-WinUI](https://github.com/nkasco/IT-Admin-Toolkit-WinUI) - A CUSTOMIZABLE AND EXPANDABLE DESTINATION FOR CENTRALIZING DAY-TO-DAY JOB FUNCTIONS
 - [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel) - PowerShell module to import/export Excel spreadsheets, without Excel
 - [Micke-K/IntuneManagement](https://github.com/Micke-K/IntuneManagement) - Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and ed
@@ -1008,6 +1006,7 @@
 
 ## Python 
 
+- [cgtobi/netatmo_custom](https://github.com/cgtobi/netatmo_custom) - This repo is a custom component from the beta version of the official HA netatmo component
 - [xcp-ng/xcp](https://github.com/xcp-ng/xcp) - Entry point for issues and wiki. Also contains some scripts and sources.
 - [biemster/FindMy](https://github.com/biemster/FindMy) - Query Apple's Find My network
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
@@ -1023,7 +1022,7 @@
 - [feizc/FluxMusic](https://github.com/feizc/FluxMusic) - Text-to-Music Generation with Rectified Flow Transformers
 - [mozilla/fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.
 - [hannob/snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers
-- [AIHawk-co/Auto_Jobs_Applier](https://github.com/AIHawk-co/Auto_Jobs_Applier) - Auto_Jobs_Applier by AIHawk is an Agen that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way
+- [AIHawk-co/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-co/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
 - [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
 - [Entree3k/edition-manager](https://github.com/Entree3k/edition-manager) - Edition Manager - Movie Edition Management Tool for Plex
 - [I-am-PUID-0/DMB](https://github.com/I-am-PUID-0/DMB) - Debrid Media Bridge
@@ -1336,6 +1335,8 @@
 
 ## Shell 
 
+- [KleinRiese/ha_cmdline_netatmo](https://github.com/KleinRiese/ha_cmdline_netatmo) - Get weather data from your favourite netatmo station
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
 - [PeterPawn/YourFritz](https://github.com/PeterPawn/YourFritz) - dynamic package management for AVM routers
 - [plexguide/Apps](https://github.com/plexguide/Apps) - 
@@ -1345,7 +1346,6 @@
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
 - [bilde2910/stitch-gear360](https://github.com/bilde2910/stitch-gear360) - Stitching tool for 360° videos captured by the Samsung Gear 360 (SM-C200)
 - [AdrienPoupa/docker-compose-nas](https://github.com/AdrienPoupa/docker-compose-nas) - Simple Docker Compose NAS featuring Sonarr, Radarr, Prowlarr, Jellyfin, qBittorrent, PIA VPN and Traefik with SSL support
-- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [ar0x4/ysoserial.net-docker](https://github.com/ar0x4/ysoserial.net-docker) - ysoserial.net docker image
 - [rix1337/docker-ripper](https://github.com/rix1337/docker-ripper) - The best way to automatically rip optical disks using docker!
 - [fabricionaweb/sonarr-tba-rename](https://github.com/fabricionaweb/sonarr-tba-rename) - Look for TBA episodes in Library, ask to Refresh them ask to Rename
@@ -1356,7 +1356,6 @@
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [2nistechworld/yoc](https://github.com/2nistechworld/yoc) - Your Own Cloud - automatic install script
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
-- [l0westbob/mloader](https://github.com/l0westbob/mloader) - Docker compose for running mloader in a docker container
 - [l0westbob/crunchy-cli](https://github.com/l0westbob/crunchy-cli) - Docker compose for running crunchyroll-cli in a docker container
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
@@ -1452,7 +1451,7 @@
 - [akuse-app/akuse](https://github.com/akuse-app/akuse) - 🌸 Simple and easy to use anime streaming desktop app without ads.
 - [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) - Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
-- [5rahim/seanime](https://github.com/5rahim/seanime) - Open-source media server for anime and manga that includes library scanning, downloading, transcoding, torrent & debrid streaming, and more.
+- [5rahim/seanime](https://github.com/5rahim/seanime) - Open-source media server for anime and manga.
 - [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
 - [RaunoT/plex-rewind](https://github.com/RaunoT/plex-rewind) - Present Plex user statistics and habits in a beautiful and organized manner.
 - [arthurfiorette/steam-trader](https://github.com/arthurfiorette/steam-trader) - 📈 Trade items smartly with multiple automated steam accounts at the same time!
