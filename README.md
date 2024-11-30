@@ -82,6 +82,7 @@
 
 ## C 
 
+- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Visualize the time packets spend in the kernel, watch & analyze in command line.
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [ipxe/wimboot](https://github.com/ipxe/wimboot) - WIM bootloader
 - [RobSmithDev/DiskFlashback](https://github.com/RobSmithDev/DiskFlashback) - Windows package to mount disk images and real floppy drives for non standard windows file systems
@@ -112,6 +113,7 @@
 
 ## C# # 
 
+- [PCJones/MediathekArr](https://github.com/PCJones/MediathekArr) - Integrate ARD&ZDF Mediathek in Prowlarr, Sonarr and Radarr
 - [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
 - [GreemDev/Ryujinx](https://github.com/GreemDev/Ryujinx) - Experimental Switch emulator written in C#
 - [tom-englert/RegionToShare](https://github.com/tom-englert/RegionToShare) - Helper app to share only a part of a screen via video conference apps
@@ -471,6 +473,7 @@
 
 ## Java 
 
+- [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [alex9849/CocktailPi](https://github.com/alex9849/CocktailPi) - The webinterface and controlling software for a diy raspberry-pi based cocktail making machine
 - [tejado/Authorizer](https://github.com/tejado/Authorizer) - Authorizer is a Password Manager for Android. It emulates an HID keyboard over USB and enters your credentials on your target device. Additionally it supports OTP :key::mobile_phone_off:
 - [shmuelzon/home-assistant-floor-plan](https://github.com/shmuelzon/home-assistant-floor-plan) - Home Assistant Floor Plan Generator Plugin For Sweet Home 3D
@@ -1449,6 +1452,7 @@
 
 ## TypeScript 
 
+- [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card) - Vacuum cleaner card for Home Assistant Lovelace UI
 - [custom-cards/canvas-gauge-card](https://github.com/custom-cards/canvas-gauge-card) - The card makes it possible to use gauges from https://canvas-gauges.com/
 - [GeorgeSG/lovelace-time-picker-card](https://github.com/GeorgeSG/lovelace-time-picker-card) - 🕰️ Time Picker Card for Home Assistant's Lovelace UI
 - [blrchen/azure-speed-test](https://github.com/blrchen/azure-speed-test) - Azure Speed Test Tool: Measure network latency, download, and upload speeds to Azure datacenters worldwide.
