@@ -400,7 +400,7 @@
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [RoyXiang/plexproxy](https://github.com/RoyXiang/plexproxy) - 
 - [XanderStrike/goplaxt](https://github.com/XanderStrike/goplaxt) - Scrobble Plex plays to Trakt with ease!
-- [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Mu
+- [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
 - [bytedream/docker4ssh](https://github.com/bytedream/docker4ssh) - 🐋 Docker containers and more via ssh
 - [jeffwillette/docker-alertd](https://github.com/jeffwillette/docker-alertd) - Monitor docker stats and send alerts
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
@@ -444,6 +444,7 @@
 
 - [Celerium/Modern-PowerShell-HTML-Reports](https://github.com/Celerium/Modern-PowerShell-HTML-Reports) - Proof of concept to see if more modern HTML reports can be made with PowerShell
 - [Hampelmen/nzb-sources](https://github.com/Hampelmen/nzb-sources) - 
+- [blrchen/azure-speed-test](https://github.com/blrchen/azure-speed-test) - Azure Speed Test Tool: Measure network latency, download, and upload speeds to Azure datacenters worldwide.
 - [eddiechu/File-Smuggling](https://github.com/eddiechu/File-Smuggling) - HTML smuggling is not an evil, it can be useful
 - [TechBuckler/PlexGifMaker](https://github.com/TechBuckler/PlexGifMaker) - A quick way to use your Plex Library and Subtitles to make gifs
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
@@ -843,6 +844,7 @@
 ## PowerShell 
 
 - [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
+- [dfinke/DougFinke-PowerShell-Scripts-Collection](https://github.com/dfinke/DougFinke-PowerShell-Scripts-Collection) - This repository contains a collection of PowerShell scripts developed by Doug Finke. The scripts cover a variety of tasks, ranging from fun projects to practical utilities aimed at enhancing productiv
 - [Celerium/FanartTV-PowerShellWrapper](https://github.com/Celerium/FanartTV-PowerShellWrapper) - PowerShell wrapper for the Fanart.tv API
 - [tugich/DeploymentEditor](https://github.com/tugich/DeploymentEditor) - Deployment Editor simplifies software packaging with PSAppDeployToolkit (PSADT). You can click your sequence for PSADT through the easy GUI.
 - [andrew-s-taylor/WindowsAutopilotInfo](https://github.com/andrew-s-taylor/WindowsAutopilotInfo) - 
@@ -1323,6 +1325,7 @@
 
 ## Rust 
 
+- [dan-online/autopulse](https://github.com/dan-online/autopulse) - 💫 automated lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr and Radarr
 - [evilsocket/nerve](https://github.com/evilsocket/nerve) - Create LLM agents without writing code.
 - [vadimcn/codelldb](https://github.com/vadimcn/codelldb) - A native debugger extension for VSCode based on LLDB
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
@@ -1475,6 +1478,7 @@
 
 ## TypeScript 
 
+- [arjanterheegde/InfinitePlexLibrary](https://github.com/arjanterheegde/InfinitePlexLibrary) - Create a truly infinite Plex library without overloading your debrid provider / indexers
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.
 - [Gh61/lovelace-hue-like-light-card](https://github.com/Gh61/lovelace-hue-like-light-card) - This card provides a Hue-like way to control your lights in Home Assistant.
@@ -1483,7 +1487,6 @@
 - [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card) - Vacuum cleaner card for Home Assistant Lovelace UI
 - [custom-cards/canvas-gauge-card](https://github.com/custom-cards/canvas-gauge-card) - The card makes it possible to use gauges from https://canvas-gauges.com/
 - [GeorgeSG/lovelace-time-picker-card](https://github.com/GeorgeSG/lovelace-time-picker-card) - 🕰️ Time Picker Card for Home Assistant's Lovelace UI
-- [blrchen/azure-speed-test](https://github.com/blrchen/azure-speed-test) - Azure Speed Test Tool: Measure network latency, download, and upload speeds to Azure datacenters worldwide.
 - [iantrich/restriction-card](https://github.com/iantrich/restriction-card) - 🔒 Apply restrictions to Lovelace cards
 - [vwh/sqlite-viewer](https://github.com/vwh/sqlite-viewer) - View and query SQLite databases in the browser
 - [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
