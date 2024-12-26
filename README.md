@@ -1478,6 +1478,7 @@
 
 ## TypeScript 
 
+- [raydak-labs/configarr](https://github.com/raydak-labs/configarr) - Sync TRaSH Guides + custom configs with Sonarr/Radarr
 - [arjanterheegde/InfinitePlexLibrary](https://github.com/arjanterheegde/InfinitePlexLibrary) - Create a truly infinite Plex library without overloading your debrid provider / indexers
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.
@@ -1585,7 +1586,7 @@
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [samay-app/samay](https://github.com/samay-app/samay) - Find a time which works for everyone
 - [TetrisBlack/Kukkee](https://github.com/TetrisBlack/Kukkee) - The free, open source and self-hostable Doodle alternative
