@@ -54,6 +54,7 @@
 - [TypeScript](#typescript)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
+- [Zig](#zig)
 
 ## Astro 
 
@@ -118,7 +119,7 @@
 - [TheUltimateC0der/listrr](https://github.com/TheUltimateC0der/listrr) - listrr.pro creates and maintains lists on trakt.tv completely automated based on your filters.
 - [PCJones/MediathekArr](https://github.com/PCJones/MediathekArr) - Integrate ARD&ZDF Mediathek in Prowlarr, Sonarr and Radarr
 - [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
-- [GreemDev/Ryujinx](https://github.com/GreemDev/Ryujinx) - Nintendo Switch emulator written in C#, originally created by gdkchan.
+- [Ryubing/Ryujinx](https://github.com/Ryubing/Ryujinx) - Nintendo Switch emulator written in C#, originally created by gdkchan.
 - [tom-englert/RegionToShare](https://github.com/tom-englert/RegionToShare) - Helper app to share only a part of a screen via video conference apps
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [svrooij/WingetIntune](https://github.com/svrooij/WingetIntune) - Package any app from Winget to Intune - WinTuner
@@ -633,7 +634,6 @@
 - [HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Accepted as [NeurIPS 2024] Spotlight Presentation Paper
 - [Azure/MDTI-Solutions](https://github.com/Azure/MDTI-Solutions) - Repository to publish sample use cases, templates, solutions, automations for Microsoft Defender Threat Intelligence (MDTI) product
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
-- [Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 - [microsoft/Microsoft-365-Defender-Hunting-Queries](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries) - Sample queries for Advanced hunting in Microsoft 365 Defender
 - [jfeil/HelloFresh-Tandoor-Converter](https://github.com/jfeil/HelloFresh-Tandoor-Converter) - Jupyter-Notebook for retrieving all hellofresh recipes and importing them into Tandoor via the API
 
@@ -678,7 +678,6 @@
 
 ## Others 
 
-- [MajorPain007/homelab](https://github.com/MajorPain007/homelab) - 
 - [Hampelmen/Extensive-Usenet-Indexer-List](https://github.com/Hampelmen/Extensive-Usenet-Indexer-List) - 
 - [OfficeDev/FAVE](https://github.com/OfficeDev/FAVE) - Firewall & Antivirus Exclusions Migrator
 - [PaulWieland/ratgdo](https://github.com/PaulWieland/ratgdo) - 
@@ -1031,6 +1030,8 @@
 
 ## Python 
 
+- [mrusse/soularr](https://github.com/mrusse/soularr) - A Python script that connects Lidarr with Soulseek!
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
 - [Nezreka/Spotify-Plex-Playlist-Sync](https://github.com/Nezreka/Spotify-Plex-Playlist-Sync) - Sync playlist from spotify to your plex server.
 - [TheImaginear/dynamiX](https://github.com/TheImaginear/dynamiX) - **DynamiX** is an automation tool for dynamically managing Plex collections. It pins and unpins library collections based on configurable time blocks, ensuring fresh and relevant content is featured. 
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
@@ -1269,6 +1270,7 @@
 - [hartwork/jawanndenn](https://github.com/hartwork/jawanndenn) - :date: Simple alternative to Doodle polls and scheduling (Python 3, Django 5, some JavaScript)
 - [RemiRigal/Plex-Auto-Languages](https://github.com/RemiRigal/Plex-Auto-Languages) - Automated language selection for Plex TV Shows !
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
+- [Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [mannkind/borg-rclone-autobackup](https://github.com/mannkind/borg-rclone-autobackup) - Easily automate backups using Borg + RClone
 - [AlexxIT/HassWP](https://github.com/AlexxIT/HassWP) - Portable version of Home Assistant for Windows (no need to install)
@@ -1375,6 +1377,7 @@
 
 ## Shell 
 
+- [MajorPain007/homelab](https://github.com/MajorPain007/homelab) - 
 - [uroni/urbackup-server-docker](https://github.com/uroni/urbackup-server-docker) - A multiarch docker image for a UrBackup server
 - [dockur/windows-arm](https://github.com/dockur/windows-arm) - Windows for ARM in a Docker container.
 - [KleinRiese/ha_cmdline_netatmo](https://github.com/KleinRiese/ha_cmdline_netatmo) - Get weather data from your favourite netatmo station
@@ -1478,6 +1481,7 @@
 
 ## TypeScript 
 
+- [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
 - [raydak-labs/configarr](https://github.com/raydak-labs/configarr) - Sync TRaSH Guides + custom configs with Sonarr/Radarr
 - [arjanterheegde/InfinitePlexLibrary](https://github.com/arjanterheegde/InfinitePlexLibrary) - Create a truly infinite Plex library without overloading your debrid provider / indexers
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
@@ -1645,6 +1649,10 @@
 - [go-vikunja/frontend](https://github.com/go-vikunja/frontend) - Mirror of vikunja from https://code.vikunja.io/frontend
 - [AlexImb/pelicula](https://github.com/AlexImb/pelicula) - 🎞    A progressive web app for creating movie night polls.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+
+## Zig 
+
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 
 ## License
