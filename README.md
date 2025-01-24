@@ -120,6 +120,8 @@
 
 ## C# # 
 
+- [lingarr-translate/lingarr](https://github.com/lingarr-translate/lingarr) - Lingarr is an application that supports both local and SaaS translation services to translate subtitle files into a specified target language. With automated translation options, Lingarr simplifies tr
+- [Crunchy-DL/Crunchy-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) - A simple crunchyroll downloader that allows you to download your favorite series and episodes directly from Crunchyroll
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [ShokoAnime/ShokoServer](https://github.com/ShokoAnime/ShokoServer) - Repository for Shoko Server.
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
@@ -279,6 +281,7 @@
 
 ## Dockerfile 
 
+- [tsaridas/stremio-docker](https://github.com/tsaridas/stremio-docker) - Docker files for easy stremio server and client. Images pushed to Dockerhub
 - [imagegenius/docker-immich](https://github.com/imagegenius/docker-immich) - Monolithic (Single) Docker Container for Immich
 - [linuxserver/docker-syncthing](https://github.com/linuxserver/docker-syncthing) - 
 - [drag0n141/containers](https://github.com/drag0n141/containers) - Collection of container images i am using
@@ -289,7 +292,7 @@
 - [wanjohiryan/Arc3dia](https://github.com/wanjohiryan/Arc3dia) - Self-Hosted Stadia: Play with your friends online from any device and at any time
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image
-- [linuxserver/docker-scrutiny](https://github.com/linuxserver/docker-scrutiny) - 
+- [linuxserver-archive/docker-scrutiny](https://github.com/linuxserver-archive/docker-scrutiny) - 
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [PowerShell/PowerShell-Docker](https://github.com/PowerShell/PowerShell-Docker) - Repository for building PowerShell Docker images
 - [techno-tim/launchpad](https://github.com/techno-tim/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
@@ -311,9 +314,14 @@
 
 ## Go 
 
+- [jrudio/go-plex-client](https://github.com/jrudio/go-plex-client) - A Plex.tv and Plex Media Server Go client
+- [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
+- [Trugamr/wol](https://github.com/Trugamr/wol) - 🦭 Wake up your devices with a single command or click. A Wake-On-LAN tool that works via CLI and web interface.
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+- [fabriziosalmi/caddy-mib](https://github.com/fabriziosalmi/caddy-mib) - Track and ban client IPs generating repetitive errors on Caddy
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
-- [fabriziosalmi/caddy-waf](https://github.com/fabriziosalmi/caddy-waf) - Caddy WAF (OWASP rule-based filtering, IP and DNS filtering, rate limiting, GeoIP)
+- [fabriziosalmi/caddy-waf](https://github.com/fabriziosalmi/caddy-waf) - Caddy WAF (regex rule-based filtering, IP and DNS filtering, rate limiting, GeoIP, Tor blocking)
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Build AI assistants that interact with your systems
 - [Tensai75/nzb-monkey-go](https://github.com/Tensai75/nzb-monkey-go) - NZB Monkey Go - Golang version of the NZB Monkey with included NZB direct search
@@ -507,11 +515,18 @@
 
 ## JavaScript 
 
+- [Sanjeet990/Astroluma](https://github.com/Sanjeet990/Astroluma) - Astroluma is a feature-rich, user-friendly dashboard designed to help you manage multiple aspects of your daily tasks and services.
+- [custom-cards/upcoming-media-card](https://github.com/custom-cards/upcoming-media-card) - 📺 A card to display upcoming episodes and movies from services like: Plex, Kodi, Radarr, Sonarr, and Trakt.
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
+- [custom-cards/circle-sensor-card](https://github.com/custom-cards/circle-sensor-card) - A custom component for displaying sensor values as cards or elements
+- [std4453/mikanarr](https://github.com/std4453/mikanarr) - Mikanarr, a bridge between Mikan Anime and Sonarr
 - [gnmyt/myspeed](https://github.com/gnmyt/myspeed) - A speed test analysis software that shows your internet speed for up to 30 days
-- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API and Ollama (Mistral, llama, phi 3, gemma 2) to automatically analyze and tag your documents.
+- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [buxuku/VideoSubtitleGenerator](https://github.com/buxuku/VideoSubtitleGenerator) - 批量为本地视频生成字幕文件，并可将字幕文件翻译成其它语言， 跨平台支持 window, mac 系统
 - [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual's server
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
+- [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.
 - [brunosabot/streamline-card](https://github.com/brunosabot/streamline-card) - Streamline your Lovelace configuration with with a card template system.
 - [dockur/portainer-backup](https://github.com/dockur/portainer-backup) - Portainer Backup Utility
 - [mlamberts78/weather-chart-card](https://github.com/mlamberts78/weather-chart-card) - Custom weather card with charts.
@@ -538,8 +553,8 @@
 - [openappsec/open-appsec-npm](https://github.com/openappsec/open-appsec-npm) - Docker container for managing Nginx proxy hosts with a simple, powerful interface including open-appsec support
 - [Stirling-Tools/Stirling-Tools.github.io](https://github.com/Stirling-Tools/Stirling-Tools.github.io) - Documentation for Stirling-PDF
 - [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
+- [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
 - [ShaneIsrael/fireshare](https://github.com/ShaneIsrael/fireshare) - Self host your media and share with unique links
-- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [VedankPande/polling-app](https://github.com/VedankPande/polling-app) - A real-time polling/voting application that allows users to create and participate in polls
@@ -651,6 +666,7 @@
 
 ## Kotlin 
 
+- [theothernt/AerialViews](https://github.com/theothernt/AerialViews) - A screensaver for Android TV devices including Nvidia Shield, Fire TV, and Chromecast with Google TV. Inspired by Apple TV's video screensaver.
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
 - [FossifyOrg/Calendar](https://github.com/FossifyOrg/Calendar) - A simple calendar with events, customizable widgets and no ads.
 - [Schaka/janitorr](https://github.com/Schaka/janitorr) - Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space
@@ -692,6 +708,8 @@
 
 ## Others 
 
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
+- [th3jesta/ha-lcars](https://github.com/th3jesta/ha-lcars) - LCARS theme for Home Assistant
 - [UnderwaterOverground/Plex-Concierge](https://github.com/UnderwaterOverground/Plex-Concierge) - A demonstration of the connection between a Custom GPT and Overseerr
 - [RedSquirrel87/manga-downloader](https://github.com/RedSquirrel87/manga-downloader) - A very simple application written in JAVA to download any chapters of any manga from the supported websites
 - [Hampelmen/Extensive-Usenet-Indexer-List](https://github.com/Hampelmen/Extensive-Usenet-Indexer-List) - 
@@ -850,7 +868,8 @@
 
 ## Perl 
 
-- [ddclient/ddclient](https://github.com/ddclient/ddclient) - Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
+- [XMLTV/xmltv](https://github.com/XMLTV/xmltv) - Utilities to obtain, generate, and post-process TV listings data in XMLTV format
+- [ddclient/ddclient](https://github.com/ddclient/ddclient) - ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
 - [netdisco/netdisco](https://github.com/netdisco/netdisco) - A web-based network management tool.
 - [Moham3dRiahi/Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) - Th3Inspector 🕵️ Best Tool For Information Gathering 🔎
 - [samyk/slipstream](https://github.com/samyk/slipstream) - NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by anyone on the victim's network visiting a website
@@ -1049,8 +1068,15 @@
 
 ## Python 
 
+- [exislow/tidal-dl-ng](https://github.com/exislow/tidal-dl-ng) - Multithreaded TIDAL Media Downloader Next Generation! Up to HiRes Lossless / TIDAL MAX 24-bit, 192 kHz.
+- [gorgarp/Recommender](https://github.com/gorgarp/Recommender) - A standalone AI-powered application designed to learn your viewing preferences on your Plex server and provide personalized recommendations on what to watch.
+- [Benzauber/convert-commander](https://github.com/Benzauber/convert-commander) - The free software for converting files!
+- [X1Plus/X1Plus](https://github.com/X1Plus/X1Plus) - Custom firmware for Bambu Lab X1 and X1 Carbon 3D printers
+- [ninthwalker/androidtvbackground-docker](https://github.com/ninthwalker/androidtvbackground-docker) - This is a simple script to retrieve media background, i developed this to use it with alternative android tv launcher that support wallpapers
+- [netplexflix/Missing-Trailer-Downloader-For-Plex](https://github.com/netplexflix/Missing-Trailer-Downloader-For-Plex) - Checks your Plex library for missing (Plex Pass) trailers and downloads them.
+- [JourneyDocker/Plex-Auto-Languages](https://github.com/JourneyDocker/Plex-Auto-Languages) - Automated language selection for Plex TV Shows !
+- [CmdrShepard/Skyhook](https://github.com/CmdrShepard/Skyhook) - Wrapper for the Sonarr Skyhook (TVDB API Wrapper)
 - [eitchtee/WYGIWYH](https://github.com/eitchtee/WYGIWYH) - A simple and powerful finance tracker
-- [fabriziosalmi/caddy-mib](https://github.com/fabriziosalmi/caddy-mib) - Track and ban client IPs generating repetitive errors on Caddy
 - [browser-use/web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
 - [baxtree/subaligner](https://github.com/baxtree/subaligner) - Automatically synchronize and translate subtitles, or create new ones by transcribing, using pre-trained DNNs, Forced Alignments and Transformers. https://subaligner.readthedocs.io/
@@ -1088,7 +1114,7 @@
 - [feizc/FluxMusic](https://github.com/feizc/FluxMusic) - Text-to-Music Generation with Rectified Flow Transformers
 - [mozilla/fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.
 - [hannob/snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers
-- [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and p
+- [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
 - [Entree3k/edition-manager](https://github.com/Entree3k/edition-manager) - Edition Manager - Movie Edition Management Tool for Plex
 - [I-am-PUID-0/DMB](https://github.com/I-am-PUID-0/DMB) - Debrid Media Bridge
@@ -1109,7 +1135,7 @@
 - [Py-KMS-Organization/py-kms](https://github.com/Py-KMS-Organization/py-kms) - KMS Server Emulator written in Python
 - [s-allius/tsun-gen3-proxy](https://github.com/s-allius/tsun-gen3-proxy) - This proxy enables a reliable connection between TSUN third generation inverters (eg. TSOL MS600, MS800, MS2000) and an MQTT broker to integrate the inverter into typical home automations.
 - [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) - This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC's activity snapshots.
-- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Dockerized Computer Use Agents with Production Ready API’s - MCP Client for Langchain - GCA
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Task oriented AI agent framework for digital workers and vertical AI agents
 - [Doubiiu/ToonCrafter](https://github.com/Doubiiu/ToonCrafter) - [SIGGRAPH Asia 2024, Journal Track] ToonCrafter: Generative Cartoon Interpolation
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [croneter/PlexKodiConnect](https://github.com/croneter/PlexKodiConnect) - Plex integration in Kodi done right
@@ -1342,6 +1368,8 @@
 
 ## Ruby 
 
+- [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hosted alternative to Google Location History (Google Maps Timeline)
+- [Eigenfocus/eigenfocus](https://github.com/Eigenfocus/eigenfocus) - Self-Hosted All-in-One Management App: Boards, Time Tracking & Focus Tools
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [TheOdinProject/theodinproject](https://github.com/TheOdinProject/theodinproject) - Main Website for The Odin Project
 - [Gueils/whales](https://github.com/Gueils/whales) - :whale: Tool to automatically dockerize your application.
@@ -1419,6 +1447,7 @@
 - [bilde2910/stitch-gear360](https://github.com/bilde2910/stitch-gear360) - Stitching tool for 360° videos captured by the Samsung Gear 360 (SM-C200)
 - [AdrienPoupa/docker-compose-nas](https://github.com/AdrienPoupa/docker-compose-nas) - Simple Docker Compose NAS featuring Sonarr, Radarr, Prowlarr, Jellyfin, qBittorrent, PIA VPN and Traefik with SSL support
 - [ar0x4/ysoserial.net-docker](https://github.com/ar0x4/ysoserial.net-docker) - ysoserial.net docker image
+- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [rix1337/docker-ripper](https://github.com/rix1337/docker-ripper) - The best way to automatically rip optical disks using docker!
 - [fabricionaweb/sonarr-tba-rename](https://github.com/fabricionaweb/sonarr-tba-rename) - Look for TBA episodes in Library, ask to Refresh them ask to Rename
 - [kayabe/syncplay-server-docker](https://github.com/kayabe/syncplay-server-docker) - Syncplay 1.7.0 docker
@@ -1484,12 +1513,14 @@
 
 ## Svelte 
 
+- [open-webui/extension](https://github.com/open-webui/extension) - WIP: Open WebUI Chrome Extension (Requires Open WebUI v0.2.0+)
+- [brunostjohn/perplexideez](https://github.com/brunostjohn/perplexideez) - Search the web and your self-hosted apps using local AI agents.
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 - [Alia5/lovelace-expander-card](https://github.com/Alia5/lovelace-expander-card) - Expander card for HomeAssistant
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
-- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Beautiful Status Page, batteries included
 - [matt8707/ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard
 - [Pyxxilated-Studios/Moonarr](https://github.com/Pyxxilated-Studios/Moonarr) - An *arr for tidal
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
@@ -1510,6 +1541,10 @@
 
 ## TypeScript 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
+- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀
+- [kariudo/animetarr](https://github.com/kariudo/animetarr) - View scheduled anime releases with details and add them to Sonarr.
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 - [anidl/multi-downloader-nx](https://github.com/anidl/multi-downloader-nx) - Downloader for Crunchyroll, Hidive, AnimeOnegai, and AnimationDigitalNetwork with CLI and GUI
 - [addyosmani/bg-remove](https://github.com/addyosmani/bg-remove) - Free image background removal - private, client-side and powered by Transformers.js
@@ -1524,7 +1559,6 @@
 - [raydak-labs/configarr](https://github.com/raydak-labs/configarr) - Sync TRaSH Guides + custom configs with Sonarr/Radarr
 - [arjanterheegde/InfinitePlexLibrary](https://github.com/arjanterheegde/InfinitePlexLibrary) - Create a truly infinite Plex library without overloading your debrid provider / indexers
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
-- [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.
 - [Gh61/lovelace-hue-like-light-card](https://github.com/Gh61/lovelace-hue-like-light-card) - This card provides a Hue-like way to control your lights in Home Assistant.
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
@@ -1548,18 +1582,17 @@
 - [akuse-app/akuse](https://github.com/akuse-app/akuse) - 🌸 Simple and easy to use anime streaming desktop app without ads.
 - [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) - Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
-- [5rahim/seanime](https://github.com/5rahim/seanime) - Open-source media server with a Web UI and Desktop app for anime and manga.
+- [5rahim/seanime](https://github.com/5rahim/seanime) - Open-source media server with a web interface and desktop app for anime and manga.
 - [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
 - [RaunoT/plex-rewind](https://github.com/RaunoT/plex-rewind) - Present Plex user statistics and habits in a beautiful and organized manner.
 - [arthurfiorette/steam-trader](https://github.com/arthurfiorette/steam-trader) - 📈 Trade items smartly with multiple automated steam accounts at the same time!
-- [step-security/harden-runner](https://github.com/step-security/harden-runner) - Network egress filtering and runtime security for GitHub-hosted and self-hosted runners
+- [step-security/harden-runner](https://github.com/step-security/harden-runner) - Harden-Runner secures CI/CD workflows by controlling network access and monitoring activities on GitHub-hosted and self-hosted runners
 - [swingerman/lovelace-fluid-level-background-card](https://github.com/swingerman/lovelace-fluid-level-background-card) - This card wraps any other cards and renders a fluid background behind them.
 - [Koenkk/zigbee-OTA](https://github.com/Koenkk/zigbee-OTA) - A collection of Zigbee OTA files
 - [badgooooor/localai-vscode-plugin](https://github.com/badgooooor/localai-vscode-plugin) - 🤖👨‍💻 Extension for attaching LocalAI instance to VSCode, LabLab Open Source AI Hackathon Submission
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀
 - [FoxxMD/tautulli-notification-digest](https://github.com/FoxxMD/tautulli-notification-digest) - Consolidate Tautuilli Notification agent events for discord
 - [metoro-io/statusphere](https://github.com/metoro-io/statusphere) - Batteries included open-source api-first status page aggregator
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
@@ -1567,7 +1600,6 @@
 - [Ipmake/PerPlexed](https://github.com/Ipmake/PerPlexed) - PerPlexed is a complete redesign of Plex's UI using the plex media server API.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [productiveops/dokemon](https://github.com/productiveops/dokemon) - Docker Container Management GUI
-- [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
 - [kriziu/kripoll](https://github.com/kriziu/kripoll) - An app to create polls and vote.
 - [Damian-Zuk/pollwizard](https://github.com/Damian-Zuk/pollwizard) - Web application for creating polls and voting made using FastAPI and React.js
 - [HashTalmiz/PromptPolls](https://github.com/HashTalmiz/PromptPolls) - A full stack app that allows you to create Polls without signing up and vote in them, but does not allow duplicate votes.
@@ -1586,7 +1618,7 @@
 - [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [debridmediamanager/debrid-media-manager](https://github.com/debridmediamanager/debrid-media-manager) - Curate an inifinite media library
-- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [kekst/socialnuke](https://github.com/kekst/socialnuke) - best discord msg nuker is back / sponsored by uncle cheng
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu) - shelf is open source Asset Management Infrastructure for absolutely everyone.
