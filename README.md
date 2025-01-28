@@ -314,6 +314,7 @@
 
 ## Go 
 
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [jrudio/go-plex-client](https://github.com/jrudio/go-plex-client) - A Plex.tv and Plex Media Server Go client
 - [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
 - [Trugamr/wol](https://github.com/Trugamr/wol) - 🦭 Wake up your devices with a single command or click. A Wake-On-LAN tool that works via CLI and web interface.
@@ -325,7 +326,7 @@
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Build AI assistants that interact with your systems
 - [Tensai75/nzb-monkey-go](https://github.com/Tensai75/nzb-monkey-go) - NZB Monkey Go - Golang version of the NZB Monkey with included NZB direct search
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 - [autobrr/dashbrr](https://github.com/autobrr/dashbrr) - A sleek, modern dashboard for monitoring and managing your media stack services.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
@@ -458,6 +459,7 @@
 
 ## HTML 
 
+- [abiteman/DumbDrop](https://github.com/abiteman/DumbDrop) - dumb file dropper
 - [tedhinklater/Jellyfin-Featured-Content-Bar](https://github.com/tedhinklater/Jellyfin-Featured-Content-Bar) - Featured Bar now with Fullscreen Version
 - [Celerium/Modern-PowerShell-HTML-Reports](https://github.com/Celerium/Modern-PowerShell-HTML-Reports) - Proof of concept to see if more modern HTML reports can be made with PowerShell
 - [Hampelmen/nzb-sources](https://github.com/Hampelmen/nzb-sources) - 
@@ -497,6 +499,7 @@
 
 ## Java 
 
+- [RoastSlav/quickdrop](https://github.com/RoastSlav/quickdrop) - QuickDrop is an easy-to-use file sharing application that allows users to upload files without an account, generate download links, and manage file availability, file encryption and optional password 
 - [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
 - [bilde2910/Hauk](https://github.com/bilde2910/Hauk) - Open-source realtime location sharing
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
@@ -515,6 +518,7 @@
 
 ## JavaScript 
 
+- [abiteman/DumbPad](https://github.com/abiteman/DumbPad) - A Dumb Pad
 - [Sanjeet990/Astroluma](https://github.com/Sanjeet990/Astroluma) - Astroluma is a feature-rich, user-friendly dashboard designed to help you manage multiple aspects of your daily tasks and services.
 - [custom-cards/upcoming-media-card](https://github.com/custom-cards/upcoming-media-card) - 📺 A card to display upcoming episodes and movies from services like: Plex, Kodi, Radarr, Sonarr, and Trakt.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -580,7 +584,7 @@
 - [MRAJEKO/UF1-Viewer-with-F1MV](https://github.com/MRAJEKO/UF1-Viewer-with-F1MV) - 
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [krestaino/my-dash](https://github.com/krestaino/my-dash) - 🔢 A developer friendly dashboard for monitoring your self-hosted services with a clean and modern UI.
-- [getwud/wud](https://github.com/getwud/wud) - WUD (aka What's up Docker?) gets you notified when a new version of your Docker Container is available.
+- [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
@@ -879,7 +883,7 @@
 
 - [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
-- [ugurkocde/IntuneAssignmentChecker](https://github.com/ugurkocde/IntuneAssignmentChecker) - This script enables IT administrators to efficiently analyze and audit Intune assignments. It checks assignments for specific users, groups, or devices, displays all policies and their assignments, id
+- [ugurkocde/IntuneAssignmentChecker](https://github.com/ugurkocde/IntuneAssignmentChecker) - This script enables IT administrators to analyze and audit Intune assignments. It checks assignments for specific users, groups, or devices, displays all policies and their assignments, identifies una
 - [AttacktheSOC/Azure-SecOps](https://github.com/AttacktheSOC/Azure-SecOps) - Collection of different Azure/Entra focused solutions (Deployable templates, Function Apps, etc)
 - [dfinke/DougFinke-PowerShell-Scripts-Collection](https://github.com/dfinke/DougFinke-PowerShell-Scripts-Collection) - This repository contains a collection of PowerShell scripts developed by Doug Finke. The scripts cover a variety of tasks, ranging from fun projects to practical utilities aimed at enhancing productiv
 - [Celerium/FanartTV-PowerShellWrapper](https://github.com/Celerium/FanartTV-PowerShellWrapper) - PowerShell wrapper for the Fanart.tv API
@@ -1068,11 +1072,14 @@
 
 ## Python 
 
+- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [aaPanel/aaPanel](https://github.com/aaPanel/aaPanel) - Simple but Powerful web-based Control Panel
+- [Xoconoch/zotifarrr](https://github.com/Xoconoch/zotifarrr) - 
 - [exislow/tidal-dl-ng](https://github.com/exislow/tidal-dl-ng) - Multithreaded TIDAL Media Downloader Next Generation! Up to HiRes Lossless / TIDAL MAX 24-bit, 192 kHz.
 - [gorgarp/Recommender](https://github.com/gorgarp/Recommender) - A standalone AI-powered application designed to learn your viewing preferences on your Plex server and provide personalized recommendations on what to watch.
 - [Benzauber/convert-commander](https://github.com/Benzauber/convert-commander) - The free software for converting files!
 - [X1Plus/X1Plus](https://github.com/X1Plus/X1Plus) - Custom firmware for Bambu Lab X1 and X1 Carbon 3D printers
-- [ninthwalker/androidtvbackground-docker](https://github.com/ninthwalker/androidtvbackground-docker) - This is a simple script to retrieve media background, i developed this to use it with alternative android tv launcher that support wallpapers
 - [netplexflix/Missing-Trailer-Downloader-For-Plex](https://github.com/netplexflix/Missing-Trailer-Downloader-For-Plex) - Checks your Plex library for missing (Plex Pass) trailers and downloads them.
 - [JourneyDocker/Plex-Auto-Languages](https://github.com/JourneyDocker/Plex-Auto-Languages) - Automated language selection for Plex TV Shows !
 - [CmdrShepard/Skyhook](https://github.com/CmdrShepard/Skyhook) - Wrapper for the Sonarr Skyhook (TVDB API Wrapper)
@@ -1114,7 +1121,7 @@
 - [feizc/FluxMusic](https://github.com/feizc/FluxMusic) - Text-to-Music Generation with Rectified Flow Transformers
 - [mozilla/fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.
 - [hannob/snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers
-- [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Jobs_Applier_AI_Agent_AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
 - [Entree3k/edition-manager](https://github.com/Entree3k/edition-manager) - Edition Manager - Movie Edition Management Tool for Plex
 - [I-am-PUID-0/DMB](https://github.com/I-am-PUID-0/DMB) - Debrid Media Bridge
@@ -1231,7 +1238,7 @@
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [Kometa-Team/Overlay-Reset](https://github.com/Kometa-Team/Overlay-Reset) - Python3 Script to Remove all Overlays Generated by Kometa.
 - [Kometa-Team/ImageMaid](https://github.com/Kometa-Team/ImageMaid) - Python 3 Script for Cleaning Up Images in Plex
-- [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager
+- [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [mikenye/docker-striparr](https://github.com/mikenye/docker-striparr) - Strips metadata from files downloaded by Sonarr and Radarr. Triggered via WebHook.
@@ -1431,6 +1438,7 @@
 
 ## Shell 
 
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A collection of awesome Jellyfin Plugins, Themes. Guides and Companion Software (Not affiliated with Jellyfin)
 - [throwaway96/faultmanager-autoroot](https://github.com/throwaway96/faultmanager-autoroot) - Exploit to root webOS 4.0+ TVs and set up Homebrew Channel
 - [MajorPain007/homelab](https://github.com/MajorPain007/homelab) - 
 - [uroni/urbackup-server-docker](https://github.com/uroni/urbackup-server-docker) - A multiarch docker image for a UrBackup server
@@ -1513,6 +1521,7 @@
 
 ## Svelte 
 
+- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 system monitoring on steroids
 - [open-webui/extension](https://github.com/open-webui/extension) - WIP: Open WebUI Chrome Extension (Requires Open WebUI v0.2.0+)
 - [brunostjohn/perplexideez](https://github.com/brunostjohn/perplexideez) - Search the web and your self-hosted apps using local AI agents.
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
@@ -1520,7 +1529,7 @@
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
-- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Beautiful Status Page, batteries included
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [matt8707/ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard
 - [Pyxxilated-Studios/Moonarr](https://github.com/Pyxxilated-Studios/Moonarr) - An *arr for tidal
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
@@ -1541,11 +1550,13 @@
 
 ## TypeScript 
 
+- [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories.
+- [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Lanuage Model) that allows you to control your computer using natural language.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀
 - [kariudo/animetarr](https://github.com/kariudo/animetarr) - View scheduled anime releases with details and add them to Sonarr.
-- [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 - [anidl/multi-downloader-nx](https://github.com/anidl/multi-downloader-nx) - Downloader for Crunchyroll, Hidive, AnimeOnegai, and AnimationDigitalNetwork with CLI and GUI
 - [addyosmani/bg-remove](https://github.com/addyosmani/bg-remove) - Free image background removal - private, client-side and powered by Transformers.js
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Management Server with Identity and Access Control and Dashboard UI
