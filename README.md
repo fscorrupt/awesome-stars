@@ -318,6 +318,7 @@
 
 ## Go 
 
+- [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
 - [tiehfood/thrifty](https://github.com/tiehfood/thrifty) - A simple monthly income and expenses tracker
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [jrudio/go-plex-client](https://github.com/jrudio/go-plex-client) - A Plex.tv and Plex Media Server Go client
@@ -668,7 +669,6 @@
 
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [ahembree/ansible-hms-docker](https://github.com/ahembree/ansible-hms-docker) - Ansible playbook for automated home media server setup
-- [saltyorg/Saltbox](https://github.com/saltyorg/Saltbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 
 ## Jupyter Notebook 
 
@@ -1371,6 +1371,7 @@
 - [extrobe/plex_and_media_utilities](https://github.com/extrobe/plex_and_media_utilities) - Set of tools for managing Plex and Media Items
 - [CollinHeist/TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
 - [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies (w/ VPN)
+- [saltyorg/Saltbox](https://github.com/saltyorg/Saltbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [mlsmithjr/plex-watchlist-migration](https://github.com/mlsmithjr/plex-watchlist-migration) - Script to migrate your "watch" list of media to a new Plex server.
 - [Tkd-Alex/Twitch-Channel-Points-Miner-v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2) - A simple script that will watch a stream for you and earn the channel points.
 - [Casvt/Plex-scripts](https://github.com/Casvt/Plex-scripts) - Plex, the arr's and tautulli scripts coming from user requests
