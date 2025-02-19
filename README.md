@@ -102,7 +102,6 @@
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
-- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [ufrisk/pcileech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq : CPU monitoring and tuning software designed for 64-bit processors.
@@ -203,6 +202,7 @@
 
 ## C++ 
 
+- [lx-s/WinMute](https://github.com/lx-s/WinMute) - WinMute lets you automatically mute your PC volume on certain events (e. g. Screensaver, Workstation Lock, Shutdown, etc.).
 - [itm4n/Pentest-Windows](https://github.com/itm4n/Pentest-Windows) - Windows internals and exploitation tricks
 - [AaronMargosis/ZombieFinder](https://github.com/AaronMargosis/ZombieFinder) - 
 - [hacking-support/DVUEFI](https://github.com/hacking-support/DVUEFI) - Damn Vulnerable UEFI
@@ -221,6 +221,7 @@
 - [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [DarkflameUniverse/DarkflameServer](https://github.com/DarkflameUniverse/DarkflameServer) - The main repository for the Darkflame Universe Server Emulator project.
+- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [Alkl58/RcloneBrowser](https://github.com/Alkl58/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
@@ -554,7 +555,6 @@
 - [buxuku/VideoSubtitleGenerator](https://github.com/buxuku/VideoSubtitleGenerator) - 批量为本地视频生成字幕文件，并可将字幕文件翻译成其它语言， 跨平台支持 window, mac 系统
 - [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual's server
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
-- [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.
 - [brunosabot/streamline-card](https://github.com/brunosabot/streamline-card) - Streamline your Lovelace configuration with with a card template system.
 - [dockur/portainer-backup](https://github.com/dockur/portainer-backup) - Portainer Backup Utility
 - [mlamberts78/weather-chart-card](https://github.com/mlamberts78/weather-chart-card) - Custom weather card with charts.
@@ -685,7 +685,6 @@
 - [XiongjieDai/GPU-Benchmarks-on-LLM-Inference](https://github.com/XiongjieDai/GPU-Benchmarks-on-LLM-Inference) - Multiple NVIDIA GPUs or Apple Silicon for Large Language Model Inference?
 - [justLV/onju-voice](https://github.com/justLV/onju-voice) - A hackable AI home assistant platform
 - [braindotai/Watermark-Removal-Pytorch](https://github.com/braindotai/Watermark-Removal-Pytorch) - 🔥 CNN for Watermark Removal using Deep Image Prior with Pytorch 🔥.
-- [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Accepted as [NeurIPS 2024] Spotlight Presentation Paper
 - [Azure/MDTI-Solutions](https://github.com/Azure/MDTI-Solutions) - Repository to publish sample use cases, templates, solutions, automations for Microsoft Defender Threat Intelligence (MDTI) product
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
@@ -738,6 +737,7 @@
 
 ## Others 
 
+- [SkipToTheEndpoint/OpenIntuneBaseline](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline) - Community-driven baseline to accelerate Intune adoption and learning.
 - [steven-geo/jetkvm-shelfmount](https://github.com/steven-geo/jetkvm-shelfmount) - a 3D printable shelf mount for the JeyKVM to you can cable tie it to an existing rack shelf.
 - [fabriziosalmi/DevGPT](https://github.com/fabriziosalmi/DevGPT) - Code togheter, right now! GPT powered code assistant to build project in minutes
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
@@ -910,8 +910,8 @@
 
 ## PowerShell 
 
-- [itm4n/PrivescCheck](https://github.com/itm4n/PrivescCheck) - Privilege Escalation Enumeration Script for Windows
 - [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
+- [itm4n/PrivescCheck](https://github.com/itm4n/PrivescCheck) - Privilege Escalation Enumeration Script for Windows
 - [gamestailer94/farm-check](https://github.com/gamestailer94/farm-check) - 
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
 - [ugurkocde/IntuneAssignmentChecker](https://github.com/ugurkocde/IntuneAssignmentChecker) - This script enables IT administrators to analyze and audit Intune assignments. It checks assignments for specific users, groups, or devices, displays all policies and their assignments, identifies una
@@ -1103,6 +1103,7 @@
 
 ## Python 
 
+- [d3mystified/RetroReplay](https://github.com/d3mystified/RetroReplay) - Highlight your Plex media that originally aired in the past during the current week or month.
 - [TheWicklowWolf/Lidify](https://github.com/TheWicklowWolf/Lidify) - Music discovery tool that provides recommendations based on selected Lidarr artists, using Spotify or LastFM.
 - [sniff122/JetKVM-Custom-Boot-Splash](https://github.com/sniff122/JetKVM-Custom-Boot-Splash) - A Python script to change the boot splash screen on your JetKVM.
 - [Poshy163/HomeAssistant-JetKVM](https://github.com/Poshy163/HomeAssistant-JetKVM) - A HACS integration to allow controlling of your JetKVM device
@@ -1601,6 +1602,7 @@
 
 ## TypeScript 
 
+- [dotnetfactory/fluid-calendar](https://github.com/dotnetfactory/fluid-calendar) - 
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
 - [OpenHealthForAll/open-health](https://github.com/OpenHealthForAll/open-health) - OpenHealth, AI Health Assistant | Powered by Your Data, Running Locally
@@ -1626,6 +1628,7 @@
 - [raydak-labs/configarr](https://github.com/raydak-labs/configarr) - Sync TRaSH Guides + custom configs with Sonarr/Radarr
 - [arjanterheegde/InfinitePlexLibrary](https://github.com/arjanterheegde/InfinitePlexLibrary) - Create a truly infinite Plex library without overloading your debrid provider / indexers
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
+- [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.
 - [Gh61/lovelace-hue-like-light-card](https://github.com/Gh61/lovelace-hue-like-light-card) - This card provides a Hue-like way to control your lights in Home Assistant.
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
@@ -1650,6 +1653,7 @@
 - [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) - Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
+- [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [RaunoT/plex-rewind](https://github.com/RaunoT/plex-rewind) - Present Plex user statistics and habits in a beautiful and organized manner.
 - [arthurfiorette/steam-trader](https://github.com/arthurfiorette/steam-trader) - 📈 Trade items smartly with multiple automated steam accounts at the same time!
 - [step-security/harden-runner](https://github.com/step-security/harden-runner) - Harden-Runner is a CI/CD security agent that works like an EDR for GitHub Actions runners. It monitors network egress, file integrity, and process activity on those runners, detecting threats in real-
