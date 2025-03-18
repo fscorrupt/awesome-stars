@@ -923,6 +923,10 @@
 
 ## PowerShell 
 
+- [stevecapacity/IntunePowershell](https://github.com/stevecapacity/IntunePowershell) - Helpful PowerShell scripts for Microsoft Endpoint Manager deployment
+- [stevecapacity/intune-device-migration-8](https://github.com/stevecapacity/intune-device-migration-8) - 
+- [stevecapacity/Intune-Device-Migration-V6.2](https://github.com/stevecapacity/Intune-Device-Migration-V6.2) - 
+- [MHimken/toolbox](https://github.com/MHimken/toolbox) - This is my toolbox. Watch where you step.
 - [illsk1lls/PXEServer](https://github.com/illsk1lls/PXEServer) - A Powershell PXEServer [DHCP/ProxyDHCP/DNS/TFTP/HTTP]
 - [MG-Cloudflow/Intune-Toolkit](https://github.com/MG-Cloudflow/Intune-Toolkit) - The Intune-Toolkit offers a basic & user-friendly interface to connect to Microsoft Graph, manage policy assignments, and handle backup and restore operations
 - [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
@@ -1118,6 +1122,8 @@
 
 ## Python 
 
+- [RealOrangeOne/docker-db-auto-backup](https://github.com/RealOrangeOne/docker-db-auto-backup) - A script to automatically back up all databases running under docker on a host
+- [mikenobbs/Asset-Assistant](https://github.com/mikenobbs/Asset-Assistant) - A simple python script designed to categorise, move and rename artwork for your personal media server.
 - [nichtlegacy/PlexWatch](https://github.com/nichtlegacy/PlexWatch) - PlexWatch is a Discord bot that provides a real-time dashboard for your Plex media server, featuring active stream monitoring, SABnzbd download tracking, and server uptime stats.
 - [calibrain/calibre-web-automated-book-downloader](https://github.com/calibrain/calibre-web-automated-book-downloader) - 
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
