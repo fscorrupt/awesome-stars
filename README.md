@@ -750,6 +750,8 @@
 
 ## Others 
 
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
+- [charmbracelet/readme-scribe](https://github.com/charmbracelet/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
 - [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Win10XPE is a Complete Project Based on Win10, Win11 Recovery Environment With Many Windows Features Added...
 - [SkipToTheEndpoint/OpenIntuneBaseline](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline) - Community-driven baseline to accelerate Intune adoption and learning.
 - [steven-geo/jetkvm-shelfmount](https://github.com/steven-geo/jetkvm-shelfmount) - a 3D printable shelf mount for the JeyKVM to you can cable tie it to an existing rack shelf.
@@ -1554,7 +1556,6 @@
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [2nistechworld/yoc](https://github.com/2nistechworld/yoc) - Your Own Cloud - automatic install script
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
-- [l0westbob/crunchy-cli](https://github.com/l0westbob/crunchy-cli) - Docker compose for running crunchyroll-cli in a docker container
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [jfroment/seedbox](https://github.com/jfroment/seedbox) - A Docker-powered seedbox with persistent data and more cool stuff.
