@@ -328,6 +328,7 @@
 
 ## Go 
 
+- [AlexGustafsson/cupdate](https://github.com/AlexGustafsson/cupdate) - A service to keep container images up-to-date. Made for Kubernetes and Docker.
 - [Zibbp/ganymede](https://github.com/Zibbp/ganymede) - Twitch VOD and Live Stream archiving platform. Includes a rendered and real-time chat for each archive.
 - [flohoss/gocron](https://github.com/flohoss/gocron) - A go based task scheduler with GUI
 - [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
@@ -377,7 +378,7 @@
 - [micromdm/micromdm](https://github.com/micromdm/micromdm) - Mobile Device Management server
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens.
+- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 - [xM3U/xM3U](https://github.com/xM3U/xM3U) - M3U Proxy for Plex DVR and Emby Live TV. Based on xTeVe project.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [hrfee/jfa-go](https://github.com/hrfee/jfa-go) - a bit-of-everything user managament app for Jellyfin
