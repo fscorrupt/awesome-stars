@@ -124,6 +124,7 @@
 
 ## C# # 
 
+- [mdgrs-mei/WinUIShell](https://github.com/mdgrs-mei/WinUIShell) - Scripting WinUI 3 with PowerShell
 - [Akronae/windows_media_ocr_cli](https://github.com/Akronae/windows_media_ocr_cli) - 🔎 OCR CLI that outputs structured data with bounding rects using local Windows OCR API
 - [cschneegans/unattend-generator](https://github.com/cschneegans/unattend-generator) - .NET Core library to create highly customized autounattend.xml files
 - [slskd/slskd](https://github.com/slskd/slskd) - A modern client-server application for the Soulseek file sharing network.
@@ -752,6 +753,7 @@
 
 ## Others 
 
+- [nichtlegacy/kometa-config-images](https://github.com/nichtlegacy/kometa-config-images) - Config and custom images for Kometa and Plex
 - [qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy](https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy) - 
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
 - [charmbracelet/readme-scribe](https://github.com/charmbracelet/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
@@ -1130,6 +1132,7 @@
 
 ## Python 
 
+- [Woahai321/SeerrBridge](https://github.com/Woahai321/SeerrBridge) - SeerrBridge automates movie torrent fetching by integrating Jellyseer/Overseer with DebridMediaManager. It listens to OverSeerr movie requests via webhook and uses DMM / Real-Debrid for efficient down
 - [b0mbays/continuously_casting_dashboards](https://github.com/b0mbays/continuously_casting_dashboards) - HACS Integration for continuously casting a Home Assistant dashboard to your Google Chromecast Displays
 - [felixschndr/mealie-bring-api](https://github.com/felixschndr/mealie-bring-api) - A simple webserver that allows ingredients sent by mealie to be added to a bring shopping list
 - [MediaWolfOrg/MediaWolf](https://github.com/MediaWolfOrg/MediaWolf) - Media Discovery and Download Hub
@@ -1795,7 +1798,7 @@
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [LukeChannings/moviematch](https://github.com/LukeChannings/moviematch) - MovieMatch for Plex
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
+- [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
