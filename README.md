@@ -285,7 +285,7 @@
 - [phantomate/Untare](https://github.com/phantomate/Untare) - Flutter app for tandoor recipes
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [JideGuru/FlutterEbookApp](https://github.com/JideGuru/FlutterEbookApp) - A simple Flutter app to Read and Download eBooks.
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - Plays & manages your music library. Looks beautiful & juicy.
 - [lepras/Milkyway](https://github.com/lepras/Milkyway) - Blackhole 2.0, taking the flame a little forward.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [JellyBookOrg/JellyBook](https://github.com/JellyBookOrg/JellyBook) - A nice way to read books and comics from Jellyfin
@@ -299,6 +299,7 @@
 
 ## Dockerfile 
 
+- [borgmatic-collective/docker-borgmatic](https://github.com/borgmatic-collective/docker-borgmatic) - Borgmatic in Docker
 - [imagegenius/docker-immich](https://github.com/imagegenius/docker-immich) - Monolithic (Single) Docker Container for Immich
 - [linuxserver/docker-syncthing](https://github.com/linuxserver/docker-syncthing) - 
 - [div-opn/rtsp-to-mjpeg](https://github.com/div-opn/rtsp-to-mjpeg) - Simple container to provide access to a RTSP stream via MJPEG.
@@ -330,13 +331,13 @@
 
 ## Go 
 
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [AlexGustafsson/cupdate](https://github.com/AlexGustafsson/cupdate) - A service to keep container images up-to-date. Made for Kubernetes and Docker.
 - [Zibbp/ganymede](https://github.com/Zibbp/ganymede) - Twitch VOD and Live Stream archiving platform. Includes a rendered and real-time chat for each archive.
 - [flohoss/gocron](https://github.com/flohoss/gocron) - A go based task scheduler with GUI
 - [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
 - [umuterturk/email-verifier](https://github.com/umuterturk/email-verifier) - Privacy-first, Free, Open Source email verifier
 - [tutman96/jetkvm-plugin-tailscale](https://github.com/tutman96/jetkvm-plugin-tailscale) - Tailscale plugin for the JetKVM
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [fastenhealth/fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
 - [tiehfood/thrifty](https://github.com/tiehfood/thrifty) - A simple monthly income and expenses tracker
@@ -1047,7 +1048,7 @@
 - [microsoft/Documentarian](https://github.com/microsoft/Documentarian) - An open source toolkit for documentarians and community contributors to reduce friction and provide a delightful experience for contributing to and maintaining documentation.
 - [MSEndpointMgr/M365Apps](https://github.com/MSEndpointMgr/M365Apps) - Scripted option to install M365 Apps, Project, Visio and Proofing tools using ODT
 - [Azure/azure-blueprints](https://github.com/Azure/azure-blueprints) - A library of sample Blueprints that can be easily imported via API or PowerShell
-- [OndaCode/Just-A-Bunch-Of-Starr-Scripts](https://github.com/OndaCode/Just-A-Bunch-Of-Starr-Scripts) - Just a bunch of scripts for Starr apps
+- [angrycuban13/Just-A-Bunch-Of-Starr-Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts) - Just a bunch of scripts for Starr apps
 - [onpremcloudguy/WHfBChecks](https://github.com/onpremcloudguy/WHfBChecks) - A group of PowerShell scripts to check that your environment is ready for Windows Hello for Business - Hybrid Key Trust
 - [FriendsOfMDT/PSD](https://github.com/FriendsOfMDT/PSD) - PowerShell Deployment
 - [frugglehost/TautulliBatch2Trakt](https://github.com/frugglehost/TautulliBatch2Trakt) - Powershell script to send Tautulli notificaions to Trakt
@@ -1134,6 +1135,7 @@
 
 ## Python 
 
+- [jl94x4/ColleXions](https://github.com/jl94x4/ColleXions) - ColleXions automates the process of pinning collections to your Plex home screen, making it easier to showcase your favorite content. With customizable features, it enhances your Plex experience by dy
 - [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - Lets make video diffusion practical!
 - [Bothari/googlarr](https://github.com/Bothari/googlarr) - A Plex poster daemon that overlays googly eyes on your media library
 - [jordanlambrecht/calendarr](https://github.com/jordanlambrecht/calendarr) - A docker container that will publish Sonarr and Radarr's release calendar to Discord + Slack on a weekly/daily basis
@@ -1327,7 +1329,7 @@
 - [djdembeck/Audnexus.bundle](https://github.com/djdembeck/Audnexus.bundle) - An Audnexus client proof of concept for Plex, providing rich author and audiobook data. Developed in Python, offering enhanced user experiences via Plex's legacy plugin agent system.
 - [joxeankoret/diaphora](https://github.com/joxeankoret/diaphora) - Diaphora, the most advanced Free and Open Source program diffing tool.
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [macr0dev/Audiobooks.bundle](https://github.com/macr0dev/Audiobooks.bundle) - Plex metadata scraper for Audiobooks
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -1429,7 +1431,7 @@
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [jkirkcaldy/plex-utills](https://github.com/jkirkcaldy/plex-utills) - Manage your Plex library automatically
 - [dcragusa/HelloFreshRecipes](https://github.com/dcragusa/HelloFreshRecipes) - A project to download all of HelloFresh's recipes
-- [anubhavcodes/pyrecipes](https://github.com/anubhavcodes/pyrecipes) - An app to download recipes in usable formats like json, yaml etc.
+- [an00bhav/pyrecipes](https://github.com/an00bhav/pyrecipes) - An app to download recipes in usable formats like json, yaml etc.
 - [Chris230291/STB-Proxy](https://github.com/Chris230291/STB-Proxy) - 
 - [pymedusa/Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
 - [Iridocyclitis562/networking](https://github.com/Iridocyclitis562/networking) - All My Main Networking Programs
@@ -1532,6 +1534,7 @@
 
 ## Shell 
 
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [BrodyBuster/plex-sab-formula1](https://github.com/BrodyBuster/plex-sab-formula1) - 
 - [ugurkocde/IntuneBrew](https://github.com/ugurkocde/IntuneBrew) - IntuneBrew is a PowerShell-based tool that simplifies the process of uploading and managing macOS applications in Microsoft Intune. It automates the entire workflow from downloading apps to uploading 
 - [ninthwalker/androidtvbackground](https://github.com/ninthwalker/androidtvbackground) - Dockerized androidtvbackground - Create background wallpapers from Plex/Jellyfin/TMDB/Trakt
@@ -1654,6 +1657,7 @@
 
 ## TypeScript 
 
+- [pad-ws/pad.ws](https://github.com/pad-ws/pad.ws) - Whiteboard as an IDE, draw and code in your browser
 - [dermotduffy/advanced-camera-card](https://github.com/dermotduffy/advanced-camera-card) - A comprehensive camera card for Home Assistant
 - [fredrikburmester/streamystats](https://github.com/fredrikburmester/streamystats) - Streamystats is a statistics service for Jellyfin, providing analytics and data visualization.
 - [xBourner/area-card-plus](https://github.com/xBourner/area-card-plus) - An area card for home assistant dashboards
@@ -1733,6 +1737,7 @@
 - [Damian-Zuk/pollwizard](https://github.com/Damian-Zuk/pollwizard) - Web application for creating polls and voting made using FastAPI and React.js
 - [HashTalmiz/PromptPolls](https://github.com/HashTalmiz/PromptPolls) - A full stack app that allows you to create Polls without signing up and vote in them, but does not allow duplicate votes.
 - [boomboxik/Rankr-app](https://github.com/boomboxik/Rankr-app) - Rankr is an application that lets you create voting polls
+- [nuxt/movies](https://github.com/nuxt/movies) - 🍿 A TMDB client built with Nuxt 3
 - [Maurizio-F/movie-night](https://github.com/Maurizio-F/movie-night) - Movie night planner
 - [edwinsoftwaredev/movie-polls-fastify-nextjs](https://github.com/edwinsoftwaredev/movie-polls-fastify-nextjs) - 
 - [NickMarcha/Moobie-Poll](https://github.com/NickMarcha/Moobie-Poll) - Create a Straw Poll based on results from TMDB and Youtube
@@ -1842,7 +1847,6 @@
 
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible,
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-- [nuxt/movies](https://github.com/nuxt/movies) - 🍿 A TMDB client built with Nuxt 3
 - [emanuelchristo/movie-night](https://github.com/emanuelchristo/movie-night) - ⭐️ Sync play local video files with your friends
 - [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
