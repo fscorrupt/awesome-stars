@@ -53,6 +53,7 @@
 - [TeX](#tex)
 - [Text](#text)
 - [TypeScript](#typescript)
+- [Vim Script](#vim-script)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 - [Zig](#zig)
@@ -1136,6 +1137,7 @@
 
 ## Python 
 
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [jl94x4/ColleXions](https://github.com/jl94x4/ColleXions) - ColleXions automates the process of pinning collections to your Plex home screen, making it easier to showcase your favorite content. With customizable features, it enhances your Plex experience by dy
 - [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - Lets make video diffusion practical!
 - [Bothari/googlarr](https://github.com/Bothari/googlarr) - A Plex poster daemon that overlays googly eyes on your media library
@@ -1835,6 +1837,10 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [Eleven-am/frames](https://github.com/Eleven-am/frames) - Frames is a modern SVOD (Streaming Video on Demand) streaming service built with React and NestJS. It allows you to stream MP4 files from virtually any provider including local storage, S3, Dropbox, G
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
+
+## Vim Script 
+
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## Visual Basic .NET 
 
