@@ -92,6 +92,7 @@
 
 ## C 
 
+- [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project
 - [jetkvm/rv1106-system](https://github.com/jetkvm/rv1106-system) - 
 - [xCuri0/ReBarUEFI](https://github.com/xCuri0/ReBarUEFI) - Resizable BAR for (almost) any UEFI system
 - [uroni/urbackup_backend](https://github.com/uroni/urbackup_backend) - UrBackup - Client/Server Open Source Network Backup for Windows, MacOS and Linux
@@ -284,7 +285,7 @@
 - [inotia00/revanced-manager](https://github.com/inotia00/revanced-manager) - 💊 Application to use ReVanced on Android
 - [mirarr-app/mirarr](https://github.com/mirarr-app/mirarr) - Mirarr, FOSS Movie App
 - [phantomate/Untare](https://github.com/phantomate/Untare) - Flutter app for tandoor recipes
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [JideGuru/FlutterEbookApp](https://github.com/JideGuru/FlutterEbookApp) - A simple Flutter app to Read and Download eBooks.
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy.
 - [lepras/Milkyway](https://github.com/lepras/Milkyway) - Blackhole 2.0, taking the flame a little forward.
@@ -532,6 +533,7 @@
 
 ## Java 
 
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Advanced player for set-top boxes and tvs running Android OS
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [skarkkai/touch-mapper](https://github.com/skarkkai/touch-mapper) - Tactile map maker. Creates 3D or embosser printable files for requested OpenStreetMap areas.
 - [PaperMC/Velocity](https://github.com/PaperMC/Velocity) - The modern, next-generation Minecraft server proxy.
@@ -758,6 +760,7 @@
 
 ## Others 
 
+- [AnandChowdhary/chat](https://github.com/AnandChowdhary/chat) - 💬 Use your GitHub repo's Issues as your own ChatGPT (yes, really!)
 - [nichtlegacy/kometa-config-images](https://github.com/nichtlegacy/kometa-config-images) - Config and custom images for Kometa and Plex
 - [qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy](https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy) - 
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
@@ -938,9 +941,9 @@
 
 ## PowerShell 
 
+- [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 - [spaansba/PowerTree](https://github.com/spaansba/PowerTree) - A PowerShell directory tree visualization tool with endless configurations.
 - [admindroid-community/powershell-scripts](https://github.com/admindroid-community/powershell-scripts) - Office 365 Reporting PowerShell Scripts
-- [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 - [stevecapacity/IntunePowershell](https://github.com/stevecapacity/IntunePowershell) - Helpful PowerShell scripts for Microsoft Endpoint Manager deployment
 - [stevecapacity/intune-device-migration-8](https://github.com/stevecapacity/intune-device-migration-8) - 
 - [stevecapacity/Intune-Device-Migration-V6.2](https://github.com/stevecapacity/Intune-Device-Migration-V6.2) - 
@@ -1138,6 +1141,7 @@
 
 ## Python 
 
+- [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare - CloudFlare Tunnel Controller
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [jl94x4/ColleXions](https://github.com/jl94x4/ColleXions) - ColleXions automates the process of pinning collections to your Plex home screen, making it easier to showcase your favorite content. With customizable features, it enhances your Plex experience by dy
 - [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - Lets make video diffusion practical!
@@ -1173,7 +1177,7 @@
 - [allaboutduncan/comic-utils](https://github.com/allaboutduncan/comic-utils) - Stand alone utility to manage, edit, and update digital comic libraries of any size.
 - [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Clean, minimal, accessible reproduction of DeepSeek R1-Zero
 - [rdavydov/Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2) - [NEW] A simple script that will watch a stream for you and earn the channel points. A successor of Tkd-Alex's original repo.
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Cloud Security tool for AWS, Azure, GCP and Kubernetes. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening and forensics re
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Cloud Security Platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening 
 - [rallyspeed/Azure-CIS](https://github.com/rallyspeed/Azure-CIS) - Automate Azure subscription check against CIS Benchmark
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -1476,7 +1480,7 @@
 - [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hostable alternative to Google Location History (Google Maps Timeline)
 - [Eigenfocus/eigenfocus](https://github.com/Eigenfocus/eigenfocus) - All-in-One Self-Hosted  Project Management, Time Tracking and Focus App
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [TheOdinProject/theodinproject](https://github.com/TheOdinProject/theodinproject) - Main Website for The Odin Project
 - [Gueils/whales](https://github.com/Gueils/whales) - :whale: Tool to automatically dockerize your application.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
@@ -1487,6 +1491,7 @@
 
 ## Rust 
 
+- [ThijmenGThN/swaparr](https://github.com/ThijmenGThN/swaparr) - ✦ A robust solution addressing stalled downloads in Starr apps.
 - [e-tho/iwmenu](https://github.com/e-tho/iwmenu) - Launcher-driven Wi-Fi manager for Linux
 - [dan-online/autopulse](https://github.com/dan-online/autopulse) - 💫 automated lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr and Radarr
 - [vadimcn/codelldb](https://github.com/vadimcn/codelldb) - A native debugger extension for VSCode based on LLDB
