@@ -1665,6 +1665,7 @@
 
 ## TypeScript 
 
+- [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant) - Presence tracking and more for automation on the room-level
 - [pad-ws/pad.ws](https://github.com/pad-ws/pad.ws) - Whiteboard as an IDE, draw and code in your browser
 - [dermotduffy/advanced-camera-card](https://github.com/dermotduffy/advanced-camera-card) - A comprehensive camera card for Home Assistant
 - [fredrikburmester/streamystats](https://github.com/fredrikburmester/streamystats) - Streamystats is a statistics service for Jellyfin, providing analytics and data visualization.
@@ -1732,7 +1733,7 @@
 - [Koenkk/zigbee-OTA](https://github.com/Koenkk/zigbee-OTA) - A collection of Zigbee OTA files
 - [badgooooor/localai-vscode-plugin](https://github.com/badgooooor/localai-vscode-plugin) - 🤖👨‍💻 Extension for attaching LocalAI instance to VSCode, LabLab Open Source AI Hackathon Submission
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
-- [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client
+- [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra Launcher is an open-source gaming platform created to be the single tool that you need
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [FoxxMD/tautulli-notification-digest](https://github.com/FoxxMD/tautulli-notification-digest) - Consolidate Tautuilli Notification agent events for discord
 - [metoro-io/statusphere](https://github.com/metoro-io/statusphere) - Batteries included open-source api-first status page aggregator
