@@ -1151,6 +1151,7 @@
 
 ## Python 
 
+- [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0)
 - [jl94x4/ClearLogo-Updater](https://github.com/jl94x4/ClearLogo-Updater) - This tool allows you to update the Clear Logo for Plex, this logo is used on the new Plex Experience on Android Mobile and iOS. This script allows you to update them based on the show name and year, o
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Cloudflare Tunnel & Zero Trust manager for Docker/non-docker services
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
