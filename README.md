@@ -565,7 +565,6 @@
 - [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
 - [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 - [EmulatorJS/EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - A web-based frontend for RetroArch
-- [varthe/Redirecterr](https://github.com/varthe/Redirecterr) - Filter and redirect Overseerr/Jellyseerr requests based on requester, keywords, age ratings, and more. Supports routing to multiple instances simultaneously.
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
 - [TheBinaryNinja/tvapp2](https://github.com/TheBinaryNinja/tvapp2) - Automatic M3U playlist and XML guide updater for TheTvApp, TVPass, and MoveOnJoy utilized within your IPTV client.
 - [Vansmak/mediarr-card](https://github.com/Vansmak/mediarr-card) - custom home assistant card
@@ -724,7 +723,7 @@
 
 ## Kotlin 
 
-- [Sam42a/Jellyfin-Enhanced-Android-tv](https://github.com/Sam42a/Jellyfin-Enhanced-Android-tv) - All Jellyfin Enhanced fork related files and changes will be here
+- [Sam42a/DUNE](https://github.com/Sam42a/DUNE) - Dune is a Jellyfin Android tv Client  based on The Main Jellyfin android tv Client
 - [skjaere/DebriDav](https://github.com/skjaere/DebriDav) - An all-in-one solution for bridging the gap between the arrs and debrid.
 - [lhns/restic-android](https://github.com/lhns/restic-android) - Restic Backup Android App  (Unofficial)
 - [theothernt/AerialViews](https://github.com/theothernt/AerialViews) - A screensaver for Android TV devices including Google TV, Nvidia Shield, and Fire TV. Inspired by Apple TV's video screensaver.
@@ -954,9 +953,9 @@
 
 ## PowerShell 
 
+- [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 - [saint1415/powershell](https://github.com/saint1415/powershell) - 
 - [rbalsleyMSFT/IntuneScripts](https://github.com/rbalsleyMSFT/IntuneScripts) - 
-- [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 - [eskonr/MEMPowered](https://github.com/eskonr/MEMPowered) - This is repository of tools,scripts and reports that are created by Eswar and also collected from other sources to help community.
 - [spaansba/PowerTree](https://github.com/spaansba/PowerTree) - PowerShell module that displays directory contents in a tree format, showing file details and allowing you to filter results.
 - [admindroid-community/powershell-scripts](https://github.com/admindroid-community/powershell-scripts) - Office 365 Reporting PowerShell Scripts
@@ -1158,6 +1157,8 @@
 
 ## Python 
 
+- [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
+- [l4rm4nd/LinkedInDumper](https://github.com/l4rm4nd/LinkedInDumper) - Python 3 script to dump/scrape/extract company employees from LinkedIn API
 - [jackkerouac/aphrodite](https://github.com/jackkerouac/aphrodite) - 
 - [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa) - Self-hosted, multi-user API that drops bots into Google Meet for real-time transcripts.
 - [whitesmith/hawkpost](https://github.com/whitesmith/hawkpost) - Generate links that users can use to submit messages encrypted with your public key.
@@ -1696,6 +1697,7 @@
 - [Woahai321/SeerrBridge](https://github.com/Woahai321/SeerrBridge) - SeerrBridge automates movie torrent fetching by integrating Jellyseer/Overseer with DebridMediaManager. It listens to OverSeerr movie requests via webhook and uses DMM / Real-Debrid for efficient down
 - [xBourner/area-card-plus](https://github.com/xBourner/area-card-plus) - An area card for home assistant dashboards
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) - A cross-platform, free and open source music player for Jellyfin 🪼 Powered by React Native ⚛️
+- [varthe/Redirecterr](https://github.com/varthe/Redirecterr) - Filter and redirect Overseerr/Jellyseerr requests based on requester, keywords, age ratings, and more. Supports routing to multiple instances simultaneously.
 - [subnub/myDrive](https://github.com/subnub/myDrive) - Node.js and mongoDB Google Drive Clone
 - [opencloud-eu/web](https://github.com/opencloud-eu/web) - 🐻 Web UI for OpenCloud built with Vue.js and TypeScript
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
