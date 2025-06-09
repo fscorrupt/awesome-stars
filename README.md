@@ -161,7 +161,7 @@
 - [n00mkrad/text2image-gui](https://github.com/n00mkrad/text2image-gui) - Somewhat modular text2image GUI, initially just for Stable Diffusion
 - [vesoapp/veso](https://github.com/vesoapp/veso) - Open source media server.
 - [ryanries/ADReplStatus](https://github.com/ryanries/ADReplStatus) - AD Replication Status Tool
-- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [louislam/rdp-portal](https://github.com/louislam/rdp-portal) - A slightly smarter and simple Remote Desktop manager for Windows.
 - [microsoft/WinUI-Gallery](https://github.com/microsoft/WinUI-Gallery) - This app demonstrates the controls available in WinUI and the Fluent Design System.
@@ -668,7 +668,7 @@
 - [fmakawa/docker-web-ui](https://github.com/fmakawa/docker-web-ui) - A Docker UI to manage containers in a Web interface.
 - [cglatot/pasta](https://github.com/cglatot/pasta) - Audio & Subtitle Track Changer for Plex
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
-- [danrahn/MarkerEditorForPlex](https://github.com/danrahn/MarkerEditorForPlex) - View, edit, add, and delete intro and credit markers for your Plex media.
+- [danrahn/MarkerEditorForPlex](https://github.com/danrahn/MarkerEditorForPlex) - View, edit, add, and delete intro, credits, and commercial markers for your Plex media.
 - [schmm2/mem-gaa](https://github.com/schmm2/mem-gaa) - Microsoft Endpoint Manager - Group Assignment Analyzer
 - [omaha-consulting/winstall](https://github.com/omaha-consulting/winstall) - A web app for browsing and installing Windows Package Manager apps.
 - [RemiRigal/Overseerr-Assistant](https://github.com/RemiRigal/Overseerr-Assistant) - Browser extension for Overseerr that embeds buttons into IMDb and TMDB web pages to easily request movies and tv shows.
@@ -1682,7 +1682,7 @@
 
 ## Swift 
 
-- [rounak/PhoneAgent](https://github.com/rounak/PhoneAgent) - 
+- [rounak/PhoneAgent](https://github.com/rounak/PhoneAgent) - An AI agent that can get things done across iPhone apps.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
