@@ -21,6 +21,7 @@
 - [Elixir](#elixir)
 - [Go](#go)
 - [HCL](#hcl)
+- [HLSL](#hlsl)
 - [HTML](#html)
 - [JSON](#json)
 - [Java](#java)
@@ -71,7 +72,6 @@
 
 - [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-- [RetroBat-Official/retrobat-setup](https://github.com/RetroBat-Official/retrobat-setup) - Configure and build the RetroBat Setup
 - [dystopia2017/Obfuscated-Usenet-Posting-Script](https://github.com/dystopia2017/Obfuscated-Usenet-Posting-Script) - Obfuscated Usenet Posting Script
 - [joshuacline/packagecreator](https://github.com/joshuacline/packagecreator) - 
 - [joshuacline/imageconverter](https://github.com/joshuacline/imageconverter) - 
@@ -493,6 +493,10 @@
 
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
 
+## HLSL 
+
+- [RetroBat-Official/retrobat-setup](https://github.com/RetroBat-Official/retrobat-setup) - Configure and build the RetroBat Setup
+
 ## HTML 
 
 - [robiningelbrecht/statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your Strava data.
@@ -539,6 +543,7 @@
 
 ## Java 
 
+- [olistudent/FBEditor](https://github.com/olistudent/FBEditor) - Programm zum Editieren der Konfigurationsdatei einer Fritz!Box
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Advanced player for set-top boxes and tvs running Android OS
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [skarkkai/touch-mapper](https://github.com/skarkkai/touch-mapper) - Tactile map maker. Creates 3D or embosser printable files for requested OpenStreetMap areas.
@@ -599,7 +604,7 @@
 - [maddox/magic-cards](https://github.com/maddox/magic-cards) - 🎩 Queue music, play movies, or trigger events with RFID cards.
 - [Kibibit/hass-kibibit-theme](https://github.com/Kibibit/hass-kibibit-theme) - A milky glass theme for Home Assistant
 - [pabloromeo/clusterplex](https://github.com/pabloromeo/clusterplex) - ClusterPlex is an extended version of Plex, which supports distributed Workers across a cluster to handle transcoding requests.
-- [Drewpeifer/medialytics](https://github.com/Drewpeifer/medialytics) - A basic, free tool that shows information about Plex Media Server content
+- [Drewpeifer/medialytics](https://github.com/Drewpeifer/medialytics) - A free tool that shows information about Plex Media Server content
 - [Mariusthvdb/custom-ui](https://github.com/Mariusthvdb/custom-ui) - Add templates and icon_color to Home Assistant UI
 - [Deejayfool/hass-shutter-card](https://github.com/Deejayfool/hass-shutter-card) - Shutter card for Home Assistant Lovelace UI
 - [ThomasTavernier/Improve-Crunchyroll](https://github.com/ThomasTavernier/Improve-Crunchyroll) - 
@@ -771,6 +776,7 @@
 
 ## Others 
 
+- [blacktop/ipsw-diffs](https://github.com/blacktop/ipsw-diffs) - IPSW Diffs
 - [NicklasAhlberg/RockMyPrinters](https://github.com/NicklasAhlberg/RockMyPrinters) - 
 - [SpykerNZ/one-pace-for-plex](https://github.com/SpykerNZ/one-pace-for-plex) - This project helps adapt One Pace to a format plex can read.
 - [qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy](https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy) - 
@@ -789,7 +795,7 @@
 - [Hampelmen/Extensive-Usenet-Indexer-List](https://github.com/Hampelmen/Extensive-Usenet-Indexer-List) - 
 - [OfficeDev/FAVE](https://github.com/OfficeDev/FAVE) - Firewall & Antivirus Exclusions Migrator
 - [PaulWieland/ratgdo](https://github.com/PaulWieland/ratgdo) - 
-- [V33RU/IoTSecurity101](https://github.com/V33RU/IoTSecurity101) - A Curated list of IoT Security Resources
+- [V33RU/awesome-connected-things-sec](https://github.com/V33RU/awesome-connected-things-sec) - A Curated list of Security Resources for all connected things
 - [cyb3rmik3/KQL-threat-hunting-queries](https://github.com/cyb3rmik3/KQL-threat-hunting-queries) - A repository of KQL queries focused on threat hunting and threat detecting for Microsoft Sentinel & Microsoft XDR (Former Microsoft 365 Defender).
 - [navilg/media-stack](https://github.com/navilg/media-stack) - A self-hosted stack for media management and streaming, with AI-powered movie and show recommendations. Includes Sonarr, Radarr, qBitTorrent, Prowlarr, Jellyfin, Jellyseerr, Recommendarr, and VPN supp
 - [FalconForceTeam/FalconFriday](https://github.com/FalconForceTeam/FalconFriday) - Hunting queries and detections
@@ -1185,7 +1191,7 @@
 - [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - Lets make video diffusion practical!
 - [Bothari/googlarr](https://github.com/Bothari/googlarr) - A Plex poster daemon that overlays googly eyes on your media library
 - [jordanlambrecht/calendarr](https://github.com/jordanlambrecht/calendarr) - A docker container that will publish Sonarr and Radarr's release calendar to Discord + Slack on a weekly/daily basis
-- [clemcer/loggifly](https://github.com/clemcer/loggifly) - Monitor Docker Logs and send Notifications
+- [clemcer/loggifly](https://github.com/clemcer/loggifly) - Get Alerts from your Docker Container Logs
 - [b0mbays/continuously_casting_dashboards](https://github.com/b0mbays/continuously_casting_dashboards) - HACS Integration for continuously casting a Home Assistant dashboard to your Google Chromecast Displays
 - [felixschndr/mealie-bring-api](https://github.com/felixschndr/mealie-bring-api) - A simple webserver that allows ingredients sent by mealie to be added to a bring shopping list
 - [MediaWolfOrg/MediaWolf](https://github.com/MediaWolfOrg/MediaWolf) - Media Discovery and Download Hub
@@ -1530,6 +1536,7 @@
 
 ## Rust 
 
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [Virviil/oci2git](https://github.com/Virviil/oci2git) - Introspecting Docker images as easy as using Git
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [ThijmenGThN/swaparr](https://github.com/ThijmenGThN/swaparr) - ✦ A robust solution addressing stalled downloads in Starr apps.
@@ -1713,9 +1720,11 @@
 
 ## TypeScript 
 
+- [kyantech/Palmr](https://github.com/kyantech/Palmr) - 🌴 Palmr. is an open-source file-sharing platform focused on privacy and security. It enables users to upload, manage, and share files with features like password protection, custom links, and access c
 - [jamcalli/Pulsarr](https://github.com/jamcalli/Pulsarr) - Pulsarr: Real-time Plex watchlist monitoring and content acquisition tool. Seamlessly sync Plex watchlists with Sonarr and Radarr, featuring intelligent predicated content routing, multi-instance supp
 - [book000/youtube-live-recorder](https://github.com/book000/youtube-live-recorder) - Record and download YouTube live videos. Works with Docker (Docker Compose).
 - [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor) - Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
 - [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0)
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [Tensai75/NZBDonkey](https://github.com/Tensai75/NZBDonkey) - The ultimate NZB downloader extension for Chrome and Firefox
@@ -1812,7 +1821,7 @@
 - [KopyTKG/MovieDB](https://github.com/KopyTKG/MovieDB) - Database viewer of my plex library
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [KittyCAD/modeling-app](https://github.com/KittyCAD/modeling-app) - The Zoo Design Studio app.
-- [rush86999/atom](https://github.com/rush86999/atom) - Atom Agent, your personal assistant for time, meetings, email, tasks, notes and research
+- [rush86999/atom](https://github.com/rush86999/atom) - Atom Agent, superpowered Siri/Alexa for time, meetings, email, tasks, notes, search and research
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [oae/kaizoku](https://github.com/oae/kaizoku) - Self-hosted manga downloader
 - [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
