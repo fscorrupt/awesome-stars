@@ -582,6 +582,7 @@
 
 ## JavaScript 
 
+- [Drop-OSS/droplet](https://github.com/Drop-OSS/droplet) - Droplet is a high-performance util package for Drop.
 - [11notes/docker-traefik-labels](https://github.com/11notes/docker-traefik-labels) - Export Traefik labels from any Docker node to a central location
 - [11notes/docker-traefik](https://github.com/11notes/docker-traefik) - Run traefik rootless, distroless and secure by default!
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -807,6 +808,7 @@
 
 ## Others 
 
+- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-power
 - [11notes/RTFM](https://github.com/11notes/RTFM) - 
 - [Generator/Awesome-Android-TV-FOSS-Apps](https://github.com/Generator/Awesome-Android-TV-FOSS-Apps) - A curated list of FOSS Android TV apps
 - [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app) - A powerful WireGuard client for Windows with advanced split tunneling and an intuitive, user-friendly interface.
@@ -1232,7 +1234,7 @@
 - [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa) - Self-hosted, multi-user API that drops bots into Google Meet for real-time transcripts.
 - [whitesmith/hawkpost](https://github.com/whitesmith/hawkpost) - Generate links that users can use to submit messages encrypted with your public key.
 - [jl94x4/ClearLogo-Updater](https://github.com/jl94x4/ClearLogo-Updater) - This tool allows you to update the Clear Logo for Plex, this logo is used on the new Plex Experience on Android Mobile and iOS. This script allows you to update them based on the show name and year, o
-- [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Cloudflare Tunnel & Zero Trust manager
+- [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 - [jl94x4/ColleXions](https://github.com/jl94x4/ColleXions) - ColleXions automates the process of pinning collections to your Plex home screen, making it easier to showcase your favorite content. With customizable features, it enhances your Plex experience by dy
 - [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - Lets make video diffusion practical!
 - [Bothari/googlarr](https://github.com/Bothari/googlarr) - A Plex poster daemon that overlays googly eyes on your media library
@@ -1580,6 +1582,7 @@
 
 ## Rust 
 
+- [Drop-OSS/drop-app](https://github.com/Drop-OSS/drop-app) - The desktop companion app for Drop. It acts a download client, game launcher and game distribution endpoint for Drop.
 - [lostb1t/remux](https://github.com/lostb1t/remux) - A *VERY experimental* web and desktop client for Jellyfin written in Rust
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [Virviil/oci2git](https://github.com/Virviil/oci2git) - Introspecting Docker images as easy as using Git
@@ -1634,6 +1637,7 @@
 
 ## Shell 
 
+- [SubleXBle/Fail2Ban-Report](https://github.com/SubleXBle/Fail2Ban-Report) - Web-based dashboard for Fail2Ban log filtering and blocklist control
 - [Freetz-NG/freetz-ng](https://github.com/Freetz-NG/freetz-ng) - Freetz-NG firmware modification for ​AVM devices like FRITZ!Box
 - [bropat/hassio-eufy-security-ws](https://github.com/bropat/hassio-eufy-security-ws) - Official eufy-security-ws Home Assistant add-on repository
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) - Installer for a generic Linux system
@@ -1768,6 +1772,7 @@
 
 ## TypeScript 
 
+- [Drop-OSS/headscalez](https://github.com/Drop-OSS/headscalez) - Embedded Headscale library
 - [11notes/docker-immich-share-proxy](https://github.com/11notes/docker-immich-share-proxy) - Expose your Immich shares publicly without exposing Immich!
 - [gameyfin/gameyfin](https://github.com/gameyfin/gameyfin) - Manage your video games.
 - [r-renato/ha-card-weather-conditions](https://github.com/r-renato/ha-card-weather-conditions) - Weather condition card (Lovelace) for Home Assistant.
@@ -1876,7 +1881,7 @@
 - [KopyTKG/MovieDB](https://github.com/KopyTKG/MovieDB) - Database viewer of my plex library
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [KittyCAD/modeling-app](https://github.com/KittyCAD/modeling-app) - The Zoo Design Studio app.
-- [rush86999/atom](https://github.com/rush86999/atom) - Atom Agent, superpowered Siri/Alexa for time, meetings, email, tasks, finance, notes, search and research
+- [rush86999/atom](https://github.com/rush86999/atom) - Atom Agent, superpowered Siri/Alexa for time, meetings, email, tasks, finance, notes, search, shopify, marketing, and research
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [oae/kaizoku](https://github.com/oae/kaizoku) - Self-hosted manga downloader
 - [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
@@ -1979,6 +1984,7 @@
 
 ## Vue 
 
+- [Drop-OSS/drop](https://github.com/Drop-OSS/drop) - Drop is an open-source game distribution platform.
 - [chrisred/az-automation-gui-example](https://github.com/chrisred/az-automation-gui-example) - Build a custom interface to Azure Automation Runbooks.
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible,
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
