@@ -86,6 +86,7 @@
 
 ## C 
 
+- [amnezia-vpn/amneziawg-linux-kernel-module](https://github.com/amnezia-vpn/amneziawg-linux-kernel-module) - AmneziaWG Linux kernel module
 - [dexter-xD/NxLite](https://github.com/dexter-xD/NxLite) - Lightning-fast HTTP server built in C
 - [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project
 - [jetkvm/rv1106-system](https://github.com/jetkvm/rv1106-system) - 
@@ -95,7 +96,6 @@
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [ipxe/wimboot](https://github.com/ipxe/wimboot) - WIM bootloader
 - [RobSmithDev/DiskFlashback](https://github.com/RobSmithDev/DiskFlashback) - Windows package to mount disk images and real floppy drives for non standard windows file systems
-- [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
 - [toniebox-reverse-engineering/teddycloud](https://github.com/toniebox-reverse-engineering/teddycloud) - teddyCloud is an open source server replacement for the Boxine Cloud
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -121,10 +121,13 @@
 
 ## C# # 
 
+- [GermanCoding/SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / filesystem watcher / launcher for Syncthing (v2 continued)
+- [aelassas/servy](https://github.com/aelassas/servy) - Run Any App as a Windows Service — A Fully Managed NSSM Alternative
 - [wariv/DarkLnk](https://github.com/wariv/DarkLnk) - Build sneaky & malicious LNK files.
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [devinmcelheran/Printune](https://github.com/devinmcelheran/Printune) - A one-stop utility for creating Intune packages to deploy printers and printer drivers.
 - [lanedirt/AliasVault](https://github.com/lanedirt/AliasVault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
+- [s1t5/mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple IMAP accounts. Featuring folder sync, attachment support, mailbox migration  and a dashboard.
 - [tubearchivist/tubearchivist-jf-plugin](https://github.com/tubearchivist/tubearchivist-jf-plugin) - Metadata for your TubeArchivist library on Jellyfin.
 - [SMSAgentSoftware/QuietShell](https://github.com/SMSAgentSoftware/QuietShell) - Execute PowerShell scripts or commands silently with no console window
 - [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Cleanuparr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent, Deluge and Transmission.
@@ -225,6 +228,7 @@
 - [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [rt64/rt64](https://github.com/rt64/rt64) - RT64 is an N64 graphics renderer for playing with enhancements in emulators and native ports.
+- [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
 - [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
 - [moonlight-stream/Internet-Hosting-Tool](https://github.com/moonlight-stream/Internet-Hosting-Tool) - Enable Moonlight streaming from your PC over the Internet with no configuration required
 - [hackerhouse-opensource/WMIProcessWatcher](https://github.com/hackerhouse-opensource/WMIProcessWatcher) - A CIA tradecraft technique to asynchronously detect when a process is created using WMI.
@@ -342,6 +346,8 @@
 
 ## Go 
 
+- [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
+- [amnezia-vpn/amneziawg-go](https://github.com/amnezia-vpn/amneziawg-go) - AmneziaWG VPN protocol
 - [esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel) - Pingtunnel is a tool that send TCP/UDP traffic over ICMP
 - [11notes/docker-tinyauth](https://github.com/11notes/docker-tinyauth) - Run tinyauth rootless, distroless and truly tiny.
 - [11notes/docker-socket-proxy](https://github.com/11notes/docker-socket-proxy) - Access your docker socket safely as read-only, rootless and distroless
@@ -356,6 +362,7 @@
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [AlexGustafsson/cupdate](https://github.com/AlexGustafsson/cupdate) - A service to keep container images secure and up-to-date. Made for Kubernetes and Docker.
 - [Zibbp/ganymede](https://github.com/Zibbp/ganymede) - Twitch VOD and Live Stream archiving platform. Includes a rendered and real-time chat for each archive.
+- [flohoss/gocron](https://github.com/flohoss/gocron) - A go based task scheduler with GUI
 - [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
 - [umuterturk/email-verifier](https://github.com/umuterturk/email-verifier) - Privacy-first, Free, Open Source email verifier
 - [tutman96/jetkvm-plugin-tailscale](https://github.com/tutman96/jetkvm-plugin-tailscale) - Tailscale plugin for the JetKVM
@@ -512,9 +519,9 @@
 
 ## HTML 
 
+- [duplaja/kavita-reading-log](https://github.com/duplaja/kavita-reading-log) - Generates a static Kavita reading log one-page site
 - [11notes/docker-kms-gui](https://github.com/11notes/docker-kms-gui) - Activate any version of Windows and Office, forever
 - [n00bcodr/JellyfinTweaks](https://github.com/n00bcodr/JellyfinTweaks) - 
-- [s1t5/mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple IMAP accounts. Featuring folder sync, attachment support, mailbox migration  and a dashboard.
 - [robiningelbrecht/statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your Strava data.
 - [itm4n/Pentest-Tools](https://github.com/itm4n/Pentest-Tools) - Some random tools I use for penetration testing
 - [jon6fingrs/ghostboard](https://github.com/jon6fingrs/ghostboard) - a dead simple way to share text between computers via web or cli
@@ -587,8 +594,8 @@
 
 ## JavaScript 
 
+- [AmoebeLabs/swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card) - The versatile custom Swiss Army Knife card for Home Assistant allows you to create your unique visualization using several graphical tools, styling options and animations.
 - [LordBex/nzb-load](https://github.com/LordBex/nzb-load) - UserScript zum Laden von NZBLnk's
-- [Drop-OSS/droplet](https://github.com/Drop-OSS/droplet) - Droplet is a high-performance util package for Drop.
 - [11notes/docker-traefik-labels](https://github.com/11notes/docker-traefik-labels) - Export Traefik labels from any Docker node to a central location
 - [11notes/docker-traefik](https://github.com/11notes/docker-traefik) - Run traefik rootless, distroless and secure by default!
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -761,6 +768,7 @@
 
 ## Kotlin 
 
+- [Kareadita/tach-extension](https://github.com/Kareadita/tach-extension) - Kavita Extension for Mihon
 - [kibotu/geofencer](https://github.com/kibotu/geofencer) - Location tracking & geofencing the easy way. Supports background, killed app, rebooted device different update intervals.
 - [giejay/Immich-Android-TV](https://github.com/giejay/Immich-Android-TV) - An Android TV app for the self hosted photos and videos backup solution.
 - [wgtunnel/wgtunnel](https://github.com/wgtunnel/wgtunnel) - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling.
@@ -1007,6 +1015,7 @@
 
 ## PowerShell 
 
+- [ennnbeee/IntuneFirewallMigration](https://github.com/ennnbeee/IntuneFirewallMigration) - IntuneFirewallMigration is an updated version of the originally Microsoft provided tool to capture firewall rules from a target machine and upload them to Intune.
 - [cyrusirandoust/Intunus](https://github.com/cyrusirandoust/Intunus) - Welcome to Intunus, a collection of secret codes and scripts I’ve developed over the past six years to make life easier in the world of Intune. From taming unruly printers (yes, you’re still on my lis
 - [tabs-not-spaces/Intune.LogonScript.Helper](https://github.com/tabs-not-spaces/Intune.LogonScript.Helper) - Function App solution to help with getting on-prem file shares and printers into modern management.
 - [fadwen/Powershell-Copilot-Standards](https://github.com/fadwen/Powershell-Copilot-Standards) - Enterprise-grade PowerShell development standards and GitHub Copilot instructions for consistent, secure, and high-quality PowerShell code across teams and projects.
@@ -1218,12 +1227,16 @@
 
 ## Python 
 
+- [amcgready/Surge](https://github.com/amcgready/Surge) - Surge is an automated media server deployment and management toolkit that streamlines the setup, configuration, and orchestration of Plex, Jellyfin, Emby, and related services using Docker, with advan
+- [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
+- [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
+- [Ark1369/CBZ-Cover-Manager](https://github.com/Ark1369/CBZ-Cover-Manager) - A GUI utility to manage Covers and Images in a CBZ file.
+- [luccast/Runarr](https://github.com/luccast/Runarr) - A CLI tool to organize, convert, and collect metadata (Comic Vine) for your comic book runs.
 - [Maldev-Academy/ExecutePeFromPngViaLNK](https://github.com/Maldev-Academy/ExecutePeFromPngViaLNK) - Extract and execute a PE embedded within a PNG file using an LNK file.
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
 - [jaboll-ai/Lesarr](https://github.com/jaboll-ai/Lesarr) - 
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
-- [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
 - [ajb3932/immich-partner-sharing](https://github.com/ajb3932/immich-partner-sharing) - 
 - [oliverbravery/PrintGuard](https://github.com/oliverbravery/PrintGuard) - Local, real-time 3D printing failure detection and monitoring on edge devices.
@@ -1473,7 +1486,7 @@
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
 - [NiNiyas/Bettarr-Notifications](https://github.com/NiNiyas/Bettarr-Notifications) - Better Notifications for Sonarr, Radarr and Prowlarr. Supports Discord, Telegram, Slack, Pushover and ntfy.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
-- [casterbyte/Above](https://github.com/casterbyte/Above) - Network Security Sniffer
+- [caster0x00/Above](https://github.com/caster0x00/Above) - Network Security Sniffer
 - [BananaPukeh/plex-music-grabber](https://github.com/BananaPukeh/plex-music-grabber) - Automate grabbing missing Plex theme songs
 - [JvSomeren/tautulli-watched-sync](https://github.com/JvSomeren/tautulli-watched-sync) - Use this script to make Tautulli for plex synchronize watched TV Shows to Trakt.tv and movies to Letterboxd
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -1591,6 +1604,8 @@
 
 ## Rust 
 
+- [euzu/tuliprox](https://github.com/euzu/tuliprox) - Flexible IPTV playlist processor & proxy in Rust 🦀 - supports M3U, Xtream Codes, HDHomeRun, Plex, Emby & Jellyfin. Filtering, merging, scheduling & web delivery.
+- [Drop-OSS/droplet](https://github.com/Drop-OSS/droplet) - Droplet is a high-performance util package for Drop.
 - [Drop-OSS/drop-app](https://github.com/Drop-OSS/drop-app) - The desktop companion app for Drop. It acts a download client, game launcher and game distribution endpoint for Drop.
 - [lostb1t/remux](https://github.com/lostb1t/remux) - A *VERY experimental* web and desktop client for Jellyfin written in Rust
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
@@ -1642,6 +1657,7 @@
 
 ## SCSS 
 
+- [Moonlight-Panel/Moonlight](https://github.com/Moonlight-Panel/Moonlight) - The next generation hosting panel
 - [prayag17/JellySkin](https://github.com/prayag17/JellySkin) - Vibrante/minimal Jellyfin CSS using custom Icons and more!!, created for Jellyfin web :film_strip:, can be used by just one line.
 
 ## Shell 
@@ -1804,7 +1820,6 @@
 - [xBourner/area-card-plus](https://github.com/xBourner/area-card-plus) - An area card for home assistant dashboards
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) - A cross-platform, free and open source music player for Jellyfin 🪼 Powered by React Native ⚛️
 - [varthe/Redirecter](https://github.com/varthe/Redirecter) - Filter and redirect media requests based on requester, keywords, age ratings, and more. Supports routing to multiple instances simultaneously.
-- [flohoss/gocron](https://github.com/flohoss/gocron) - A go based task scheduler with GUI
 - [subnub/myDrive](https://github.com/subnub/myDrive) - Node.js and mongoDB Google Drive Clone
 - [opencloud-eu/web](https://github.com/opencloud-eu/web) - 🐻 Web UI for OpenCloud built with Vue.js and TypeScript
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
@@ -1858,7 +1873,7 @@
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [akuse-app/akuse](https://github.com/akuse-app/akuse) - 🌸 Simple and easy to use anime streaming desktop app without ads.
 - [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) - Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
 - [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [RaunoT/plex-rewind](https://github.com/RaunoT/plex-rewind) - Present Plex user statistics and habits in a beautiful and organized manner.
@@ -1873,7 +1888,7 @@
 - [FoxxMD/tautulli-notification-digest](https://github.com/FoxxMD/tautulli-notification-digest) - Consolidate Tautuilli Notification agent events for discord
 - [metoro-io/statusphere](https://github.com/metoro-io/statusphere) - Batteries included open-source api-first status page aggregator
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
-- [Ipmake/Nevu](https://github.com/Ipmake/Nevu) - Nevu is a complete redesign of Plex's UI using the plex media server API.
+- [Ipmake/NevuForPlex](https://github.com/Ipmake/NevuForPlex) - Nevu is a complete redesign of Plex's UI using the plex media server API.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [productiveops/dokemon](https://github.com/productiveops/dokemon) - Docker Container Management GUI
 - [kriziu/kripoll](https://github.com/kriziu/kripoll) - An app to create polls and vote.
