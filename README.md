@@ -87,6 +87,7 @@
 ## C 
 
 - [amnezia-vpn/amneziawg-linux-kernel-module](https://github.com/amnezia-vpn/amneziawg-linux-kernel-module) - AmneziaWG Linux kernel module
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [dexter-xD/NxLite](https://github.com/dexter-xD/NxLite) - Lightning-fast HTTP server built in C
 - [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project
 - [jetkvm/rv1106-system](https://github.com/jetkvm/rv1106-system) - 
@@ -122,14 +123,15 @@
 
 ## C# # 
 
+- [mutantmarine/UnofficialKometaGUI](https://github.com/mutantmarine/UnofficialKometaGUI) - 
 - [GermanCoding/SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / launcher for Syncthing (v2 continued)
-- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service - Open-Source Alternative to NSSM, WinSW & FireDaemon
+- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service - Modern Open-Source Alternative to NSSM, WinSW & FireDaemon
 - [wariv/DarkLnk](https://github.com/wariv/DarkLnk) - Build sneaky & malicious LNK files.
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [n00bcodr/JellyfinTweaks](https://github.com/n00bcodr/JellyfinTweaks) - A Jellyfin Plugin to force a few settings without modification of any web files.
 - [devinmcelheran/Printune](https://github.com/devinmcelheran/Printune) - A one-stop utility for creating Intune packages to deploy printers and printer drivers.
 - [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
-- [s1t5/mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple IMAP accounts. Featuring folder sync, attachment support, mailbox migration  and a dashboard.
+- [s1t5/mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration  and a dashboard.
 - [tubearchivist/tubearchivist-jf-plugin](https://github.com/tubearchivist/tubearchivist-jf-plugin) - Metadata for your TubeArchivist library on Jellyfin.
 - [SMSAgentSoftware/QuietShell](https://github.com/SMSAgentSoftware/QuietShell) - Execute PowerShell scripts or commands silently with no console window
 - [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Cleanuparr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent, Deluge and Transmission.
@@ -290,6 +292,8 @@
 
 ## Dart 
 
+- [dstark5/Openlib](https://github.com/dstark5/Openlib) - An Open source app to download and read books from shadow library (Anna’s Archive)
+- [Nandanrmenon/nahcon](https://github.com/Nandanrmenon/nahcon) - Jellyfin Client for watching Movies and TV Shows (Made with Flutter 💙)
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
 - [inotia00/revanced-manager](https://github.com/inotia00/revanced-manager) - 💊 Application to use ReVanced on Android
@@ -525,7 +529,7 @@
 
 ## HTML 
 
-- [Sloth-on-meth/DoorOpener](https://github.com/Sloth-on-meth/DoorOpener) - A sleek, single-button web portal for triggering any Home Assistant action (like opening a building door), protected by secure PIN authentication. Perfect for apartment buildings, offices, or any scen
+- [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
 - [jma1ice/newsletterr](https://github.com/jma1ice/newsletterr) - newsletterr is an email tool for Plex Servers. Reach your users with Tautulli information and recommendations from conjurr
 - [duplaja/kavita-reading-log](https://github.com/duplaja/kavita-reading-log) - Generates a static Kavita reading log one-page site
 - [11notes/docker-kms-gui](https://github.com/11notes/docker-kms-gui) - Activate any version of Windows and Office, forever
@@ -600,10 +604,11 @@
 
 ## JavaScript 
 
+- [Cloudable-dev/netgoat](https://github.com/Cloudable-dev/netgoat) - A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but for free!
 - [public-transport/db-vendo-client](https://github.com/public-transport/db-vendo-client) - JavaScript client for Deutsche Bahn public transport APIs.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [derekantrican/subarr](https://github.com/derekantrican/subarr) - "Sonarr for YouTube" - a tool to periodically check various YouTube playlists and take actions when new videos are posted
-- [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A jellyfin plugin to enhance your Jellyfin Web experience.
+- [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A Jellyfin Plugin to enhance your Jellyfin Web experience.
 - [AmoebeLabs/swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card) - The versatile custom Swiss Army Knife card for Home Assistant allows you to create your unique visualization using several graphical tools, styling options and animations.
 - [LordBex/nzb-load](https://github.com/LordBex/nzb-load) - UserScript zum Laden von NZBLnk's
 - [11notes/docker-traefik-labels](https://github.com/11notes/docker-traefik-labels) - Export Traefik labels from any Docker node to a central location
@@ -834,6 +839,7 @@
 
 ## Others 
 
+- [langgptai/LLM-Jailbreaks](https://github.com/langgptai/LLM-Jailbreaks) - LLM Jailbreaks, ChatGPT, Claude, Llama, DAN Prompts, Prompt Leaking
 - [hritwikjohri/Void-for-jellyfin](https://github.com/hritwikjohri/Void-for-jellyfin) - 
 - [MathiasFurenes/synology-arr-guide](https://github.com/MathiasFurenes/synology-arr-guide) - Full guide for all -arr apps inside synology on docker
 - [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-power
@@ -842,7 +848,6 @@
 - [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app) - A powerful WireGuard client for Windows with advanced split tunneling and an intuitive, user-friendly interface.
 - [blacktop/ipsw-diffs](https://github.com/blacktop/ipsw-diffs) - IPSW Diffs
 - [NicklasAhlberg/RockMyPrinters](https://github.com/NicklasAhlberg/RockMyPrinters) - 
-- [SpykerNZ/one-pace-for-plex](https://github.com/SpykerNZ/one-pace-for-plex) - This project helps adapt One Pace to a format plex can read.
 - [qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy](https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy) - 
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - https://fmhy.net/
 - [AnandChowdhary/chat](https://github.com/AnandChowdhary/chat) - 💬 Use your GitHub repo's Issues as your own ChatGPT (yes, really!)
@@ -1028,6 +1033,7 @@
 
 ## PowerShell 
 
+- [rdnsx/Uptime-Kuma-Client-WIN](https://github.com/rdnsx/Uptime-Kuma-Client-WIN) - 
 - [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 - [Kometa-Team/Defaults-Image-Creation](https://github.com/Kometa-Team/Defaults-Image-Creation) - Tools and scripts to create posters and artwork for default collections and overlays
 - [markkerry/Proactive-Remediations](https://github.com/markkerry/Proactive-Remediations) - Endpoint Analytics Proactive Remediations - Detection and Remediations scripts
@@ -1244,6 +1250,7 @@
 
 ## Python 
 
+- [Sloth-on-meth/DoorOpener](https://github.com/Sloth-on-meth/DoorOpener) - A sleek, single-button web portal for triggering any Home Assistant action (like opening a building door), protected by secure PIN authentication. Perfect for apartment buildings, offices, or any scen
 - [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting) - Adaptive Lighting custom component for Home Assistant
 - [iongpt/boxarr](https://github.com/iongpt/boxarr) - Boxarr is an automated box office tracking application that integrates with Radarr to monitor, add, and manage the latest theatrical releases. It provides a beautiful dashboard showing the current box
 - [yungsnuzzy/conjurr](https://github.com/yungsnuzzy/conjurr) - Conjurr is an AI recommendation tool that uses Tautulli watch data to recommend what users should watch next.
@@ -1276,6 +1283,7 @@
 - [l4rm4nd/LinkedInDumper](https://github.com/l4rm4nd/LinkedInDumper) - Python 3 script to dump/scrape/extract company employees from LinkedIn API
 - [jackkerouac/aphrodite](https://github.com/jackkerouac/aphrodite) - A Python-based application that adds badges and other visual elements to media posters. Aphrodite enhances your media library posters with quality indicators like resolution, audio codec, and review r
 - [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa) - Self-hosted, multi-user API that drops bots into Google Meet for real-time transcripts.
+- [SpykerNZ/one-pace-for-plex](https://github.com/SpykerNZ/one-pace-for-plex) - This project helps adapt One Pace to a format plex can read.
 - [whitesmith/hawkpost](https://github.com/whitesmith/hawkpost) - Generate links that users can use to submit messages encrypted with your public key.
 - [jl94x4/ClearLogo-Updater](https://github.com/jl94x4/ClearLogo-Updater) - This tool allows you to update the Clear Logo for Plex, this logo is used on the new Plex Experience on Android Mobile and iOS. This script allows you to update them based on the show name and year, o
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
@@ -1283,7 +1291,7 @@
 - [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - Lets make video diffusion practical!
 - [Bothari/googlarr](https://github.com/Bothari/googlarr) - A Plex poster daemon that overlays googly eyes on your media library
 - [jordanlambrecht/calendarr](https://github.com/jordanlambrecht/calendarr) - A docker container that will publish Sonarr and Radarr's release calendar to Discord + Slack on a weekly/daily basis
-- [clemcer/loggifly](https://github.com/clemcer/loggifly) - Get Alerts from your Docker Container Logs
+- [clemcer/LoggiFly](https://github.com/clemcer/LoggiFly) - Get Alerts from your Docker Container Logs
 - [b0mbays/continuously_casting_dashboards](https://github.com/b0mbays/continuously_casting_dashboards) - HACS Integration for continuously casting a Home Assistant dashboard to your Google Chromecast Displays
 - [felixschndr/mealie-bring-api](https://github.com/felixschndr/mealie-bring-api) - A simple webserver that allows ingredients sent by Mealie to be added to a bring shopping list
 - [MediaWolfOrg/MediaWolf](https://github.com/MediaWolfOrg/MediaWolf) - Media Discovery and Download Hub
@@ -1302,7 +1310,7 @@
 - [TheWicklowWolf/Lidify](https://github.com/TheWicklowWolf/Lidify) - Music discovery tool that provides recommendations based on selected Lidarr artists, using Spotify or LastFM.
 - [sniff122/JetKVM-Custom-Boot-Splash](https://github.com/sniff122/JetKVM-Custom-Boot-Splash) - A Python script to change the boot splash screen on your JetKVM.
 - [Poshy163/HomeAssistant-JetKVM](https://github.com/Poshy163/HomeAssistant-JetKVM) - A HACS integration to allow controlling of your JetKVM device
-- [barebaric/rayforge](https://github.com/barebaric/rayforge) - A software for laser cutters and encravers
+- [barebaric/rayforge](https://github.com/barebaric/rayforge) - A software for laser cutters and engravers
 - [fabriziosalmi/limits](https://github.com/fabriziosalmi/limits) - Automated rate limits implementation for web servers
 - [fabriziosalmi/websites-monitor](https://github.com/fabriziosalmi/websites-monitor) - Websites monitoring via GitHub Actions/API (expiration, security, performances, privacy, SEO)
 - [fabriziosalmi/patterns](https://github.com/fabriziosalmi/patterns) - Automated OWASP CRS and Bad Bot Detection for Nginx, Apache, Traefik and HaProxy
@@ -1426,7 +1434,7 @@
 - [RickDB/PlexAniSync](https://github.com/RickDB/PlexAniSync) - Sync Plex anime library to AniList
 - [Quinos2003/PollsApp](https://github.com/Quinos2003/PollsApp) - The "polls" application is a simple Django web app that allows users to create, vote on, and view the results of polls or surveys. It consists of models for questions and choices, views for handling u
 - [zablon-oigo/polls_app](https://github.com/zablon-oigo/polls_app) - a simple poll app where users can create polls, vote in polls, and view poll results.
-- [OperationFman/Plexensus](https://github.com/OperationFman/Plexensus) - Tinder for Plex Movies
+- [Franklin-V-Moon/Plexensus](https://github.com/Franklin-V-Moon/Plexensus) - Tinder for Plex Movies
 - [zakkarry/retraktarr](https://github.com/zakkarry/retraktarr) - retraktarr is a "reverse" Trakt.tv list implementation for Radarr/Sonarr that creates Trakt lists for your movies/series
 - [Hassassistant/openai_response](https://github.com/Hassassistant/openai_response) - Custom component to integrate OpenAI's ChatGPT into Home Assistant
 - [toniebox-reverse-engineering/toniebox](https://github.com/toniebox-reverse-engineering/toniebox) - Holds all gathered information. Join our telegram-channel Check out our Telegram Channel https://t.me/toniebox_reverse_engineering
@@ -1623,6 +1631,7 @@
 
 ## Rust 
 
+- [ranfdev/DistroShelf](https://github.com/ranfdev/DistroShelf) - gtk4 client for https://distrobox.it
 - [euzu/tuliprox](https://github.com/euzu/tuliprox) - Flexible IPTV playlist processor & proxy in Rust 🦀 - supports M3U, Xtream Codes, HDHomeRun, Plex, Emby & Jellyfin. Filtering, merging, scheduling & web delivery.
 - [Drop-OSS/droplet](https://github.com/Drop-OSS/droplet) - Droplet is a high-performance util package for Drop.
 - [Drop-OSS/drop-app](https://github.com/Drop-OSS/drop-app) - The desktop companion app for Drop. It acts a download client, game launcher and game distribution endpoint for Drop.
@@ -1771,7 +1780,7 @@
 - [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install
 - [Makeshift/Marauder-Containers](https://github.com/Makeshift/Marauder-Containers) - The containers used in Makeshift/Marauder
 - [Makeshift/Marauder](https://github.com/Makeshift/Marauder) - A fully dockerized Media downloading solution utilising Google Drive as an unlimited disk backend
-- [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
+- [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 - [ajkis/scripts](https://github.com/ajkis/scripts) - Ajki's scripts & guides
 - [PriamX/plexwho](https://github.com/PriamX/plexwho) - A Linux command-line shell script that lists current Plex media streams pulled from Tautulli's API.
 - [zvyn/pdf-decrypt](https://github.com/zvyn/pdf-decrypt) - Remove password-protection from a PDF-document permanently.
@@ -1799,7 +1808,6 @@
 
 ## Swift 
 
-- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [rounak/PhoneAgent](https://github.com/rounak/PhoneAgent) - An AI agent that can get things done across iPhone apps.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
@@ -1816,8 +1824,9 @@
 
 ## TypeScript 
 
-- [HydroshieldMKII/Guardian](https://github.com/HydroshieldMKII/Guardian) - A dashboard to manage devices access to your Plex server
-- [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - A secure, sovereign, and affordable open-source platform for email archiving and eDiscovery.
+- [kinghat/tabbed-card](https://github.com/kinghat/tabbed-card) - a custom card for home assistant that utilizes tabs to segregate individual cards.
+- [HydroshieldMKII/Guardian](https://github.com/HydroshieldMKII/Guardian) - A tool to manage devices access to your Plex server with a nice Dashboard
+- [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for email archiving and eDiscovery.
 - [agregarr/agregarr](https://github.com/agregarr/agregarr) - Home/Collection manager for Plex
 - [l2xu/betterbahn](https://github.com/l2xu/betterbahn) - 
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
@@ -1890,7 +1899,7 @@
 - [thomasloven/lovelace-more-info-card](https://github.com/thomasloven/lovelace-more-info-card) - 🔹 Display the more-info dialog of any entity as a lovelace card
 - [ducan-ne/remove-bg](https://github.com/ducan-ne/remove-bg) - Remove background directly in your browser, powered by WebGPU
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
-- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A Jellyfin client built with Expo
+- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo
 - [ciotlosm/lovelace-thermostat-dark-card](https://github.com/ciotlosm/lovelace-thermostat-dark-card) - 🌡 Thermostat card with a round and black feel to it
 - [Disane87/docudigger](https://github.com/Disane87/docudigger) - Website scraper for getting invoices automagically as pdf (useful for taxes or DMS)
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
