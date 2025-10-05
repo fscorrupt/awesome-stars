@@ -614,7 +614,7 @@
 ## JavaScript 
 
 - [Drewpeifer/medialytics](https://github.com/Drewpeifer/medialytics) - A free tool that shows information about Plex Media Server content
-- [Cloudable-dev/netgoat](https://github.com/Cloudable-dev/netgoat) - A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but for free!
+- [netgoat-xyz/netgoat](https://github.com/netgoat-xyz/netgoat) - A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but for free!
 - [public-transport/db-vendo-client](https://github.com/public-transport/db-vendo-client) - JavaScript client for Deutsche Bahn public transport APIs.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [derekantrican/subarr](https://github.com/derekantrican/subarr) - "Sonarr for YouTube" - a tool to periodically check various YouTube playlists and take actions when new videos are posted
@@ -2063,6 +2063,7 @@
 
 ## Vue 
 
+- [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app) - Mobile application for Audiobookshelf
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [Drop-OSS/drop](https://github.com/Drop-OSS/drop) - Drop is an open-source game distribution platform.
 - [chrisred/az-automation-gui-example](https://github.com/chrisred/az-automation-gui-example) - Build a custom interface to Azure Automation Runbooks.
