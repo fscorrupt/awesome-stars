@@ -542,7 +542,6 @@
 - [jma1ice/newsletterr](https://github.com/jma1ice/newsletterr) - newsletterr is an email tool for Plex Servers. Reach your users with Tautulli information and recommendations from conjurr
 - [duplaja/kavita-reading-log](https://github.com/duplaja/kavita-reading-log) - Generates a static Kavita reading log one-page site
 - [11notes/docker-kms-gui](https://github.com/11notes/docker-kms-gui) - Activate any version of Windows and Office, forever
-- [robiningelbrecht/statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your Strava data.
 - [itm4n/Pentest-Tools](https://github.com/itm4n/Pentest-Tools) - Some random tools I use for penetration testing
 - [jon6fingrs/ghostboard](https://github.com/jon6fingrs/ghostboard) - a dead simple way to share text between computers via web or cli
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
@@ -995,6 +994,7 @@
 - [Muetze42/hellofresh-database](https://github.com/Muetze42/hellofresh-database) - HelloFresh database for 17 countries including features like filtering by ingredients, allergens, tags, etc.
 - [jeremehancock/Posteria](https://github.com/jeremehancock/Posteria) - Plex Media Poster Management App
 - [pyrohost/pyrodactyl](https://github.com/pyrohost/pyrodactyl) - Pyrodactyl is the Pterodactyl-based game server panel that's faster, smaller, safer, and more accessible than Pelican.
+- [robiningelbrecht/statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your Strava data.
 - [altendorfme/alo](https://github.com/altendorfme/alo) - Alô is the open source alternative to OneSignal, PushNews, SendPulse, PushAlert, and others.
 - [manualdousuario/marreta](https://github.com/manualdousuario/marreta) - Uma ferramenta que quebra barreiras de acesso e elementos que atrapalham a leitura! / Marreta is a tool that removes access barriers and visual distractions!
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community
@@ -1855,7 +1855,7 @@
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [kinghat/tabbed-card](https://github.com/kinghat/tabbed-card) - a custom card for home assistant that utilizes tabs to segregate individual cards.
 - [HydroshieldMKII/Guardian](https://github.com/HydroshieldMKII/Guardian) - Guardian is a lightweight companion app for Plex that lets you monitor, approve or block devices in real time. It helps you enforce per-user or global policies, stop unwanted sessions automatically an
-- [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for email archiving and eDiscovery.
+- [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [agregarr/agregarr](https://github.com/agregarr/agregarr) - Agregarr is a Plex Collections manager that keeps your Home and Recommended fresh by frequently updating it with collections from various sources
 - [BetterBahnProject/betterbahn](https://github.com/BetterBahnProject/betterbahn) - 
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
