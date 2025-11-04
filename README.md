@@ -123,15 +123,15 @@
 
 ## C# # 
 
+- [Qolors/FeedCord](https://github.com/Qolors/FeedCord) - A dead simple RSS Feed with Discord Webhooks
 - [mrsilver76/shelfscan](https://github.com/mrsilver76/shelfscan) - A cross-platform command-line tool (Windows, Linux, macOS) for scanning a media library and reporting on Plex naming compliance.
 - [mutantmarine/UnofficialKometaGUI](https://github.com/mutantmarine/UnofficialKometaGUI) - 
 - [GermanCoding/SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / launcher for Syncthing (v2 continued)
-- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service — Modern Open-Source Alternative to NSSM & WinSW
+- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service — Open-Source Alternative to NSSM, WinSW & FireDaemon Pro
 - [wariv/DarkLnk](https://github.com/wariv/DarkLnk) - Build sneaky & malicious LNK files.
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [n00bcodr/JellyfinTweaks](https://github.com/n00bcodr/JellyfinTweaks) - A Jellyfin Plugin to force a few settings without modification of any web files.
 - [devinmcelheran/Printune](https://github.com/devinmcelheran/Printune) - A one-stop utility for creating Intune packages to deploy printers and printer drivers.
-- [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [s1t5/mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration  and a dashboard.
 - [tubearchivist/tubearchivist-jf-plugin](https://github.com/tubearchivist/tubearchivist-jf-plugin) - Metadata for your TubeArchivist library on Jellyfin.
 - [SMSAgentSoftware/QuietShell](https://github.com/SMSAgentSoftware/QuietShell) - Execute PowerShell scripts or commands silently with no console window
@@ -826,7 +826,6 @@
 ## Makefile 
 
 - [asdcorp/hwreqchk](https://github.com/asdcorp/hwreqchk) - Professional hardware requirements bypass for Windows 11 24H2
-- [rush86999/atom](https://github.com/rush86999/atom) - Atom Agent, superpowered Siri/Alexa for time, storage, meetings, email, tasks, finance, notes, search, shopify, marketing, design, web app and research
 - [instrumentisto/restic-docker-image](https://github.com/instrumentisto/restic-docker-image) - restic Docker image (backup utility)
 - [kubealex/k8s-mediaserver-operator](https://github.com/kubealex/k8s-mediaserver-operator) - Repository for k8s Mediaserver Operator project
 
@@ -991,7 +990,7 @@
 - [jeremehancock/Posteria](https://github.com/jeremehancock/Posteria) - Plex Media Poster Management App
 - [pyrohost/pyrodactyl](https://github.com/pyrohost/pyrodactyl) - Pyrodactyl is the Pterodactyl-based game server panel that's faster, smaller, safer, and more accessible than Pelican.
 - [robiningelbrecht/statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your Strava data.
-- [altendorfme/alo](https://github.com/altendorfme/alo) - Alô is the open source alternative to OneSignal, PushNews, SendPulse, PushAlert, and others.
+- [butialabs/alo](https://github.com/butialabs/alo) - Alô is the open source alternative to OneSignal, PushNews, SendPulse, PushAlert, and others.
 - [manualdousuario/marreta](https://github.com/manualdousuario/marreta) - Uma ferramenta que quebra barreiras de acesso e elementos que atrapalham a leitura! / Marreta is a tool that removes access barriers and visual distractions!
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community
 - [projectsend/projectsend](https://github.com/projectsend/projectsend) - ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple langua
@@ -1109,7 +1108,7 @@
 - [FabryB/New-KrbtgtKeys.ps1](https://github.com/FabryB/New-KrbtgtKeys.ps1) - This script will enable you to reset the krbtgt account password and related keys while minimizing the likelihood of Kerberos authentication issues being caused by the operation.
 - [byteben/Win32App-Migration-Tool](https://github.com/byteben/Win32App-Migration-Tool) - 
 - [boivinx7/Plex-PS-Module](https://github.com/boivinx7/Plex-PS-Module) - There was a Python Web Api for Plex, but I don't get Python at all so I made this
-- [joshuacline/windick](https://github.com/joshuacline/windick) - Windows Deployment Image Customization Kit
+- [joshuacline/windick](https://github.com/joshuacline/windick) - An engine in a world of fluffy hallways.
 - [dfinke/PSWeave](https://github.com/dfinke/PSWeave) - PSWeave: a PowerShell module bringing OpenAI's GPT to your fingertips, and simplified prompt engineering
 - [damienvanrobaeys/Learn-KQL-in-one-month](https://github.com/damienvanrobaeys/Learn-KQL-in-one-month) - 
 - [GhostPack/PSPKIAudit](https://github.com/GhostPack/PSPKIAudit) - PowerShell toolkit for AD CS auditing based on the PSPKI toolkit.
@@ -1262,6 +1261,7 @@
 
 ## Python 
 
+- [unmonitarr/unmonitarr](https://github.com/unmonitarr/unmonitarr) - Wait for real releases, skip the fakes. Intelligent monitoring automation for Sonarr & Radarr.
 - [danielmeppiel/apm](https://github.com/danielmeppiel/apm) - Agent Package Manager
 - [Quenary/tugtainer](https://github.com/Quenary/tugtainer) - An application for automating docker containers updates with a web ui
 - [netplexflix/Upcoming-Movies-TV-Shows-for-Kometa](https://github.com/netplexflix/Upcoming-Movies-TV-Shows-for-Kometa) - Create 'Coming Soon' collection and overlay .yml files to be used by Kometa for content being downloaded within x days by Radarr/Sonarr
@@ -1283,6 +1283,7 @@
 - [Maldev-Academy/ExecutePeFromPngViaLNK](https://github.com/Maldev-Academy/ExecutePeFromPngViaLNK) - Extract and execute a PE embedded within a PNG file using an LNK file.
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
+- [jaboll-ai/Uraniarr](https://github.com/jaboll-ai/Uraniarr) - 
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
 - [ajb3932/immich-partner-sharing](https://github.com/ajb3932/immich-partner-sharing) - 
@@ -1468,6 +1469,7 @@
 - [christophetd/CloudFlair](https://github.com/christophetd/CloudFlair) - 🔎 Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys.
 - [Shayne55434/Tautulli2Discord-python](https://github.com/Shayne55434/Tautulli2Discord-python) - 
 - [mtrogman/regrabarr](https://github.com/mtrogman/regrabarr) - A discord bot to delete and search for media
+- [rush86999/atom](https://github.com/rush86999/atom) - Atom Agent, superpowered Siri/Alexa for time, storage, meetings, email, tasks, finance, notes, search, shopify, marketing, design, web app and research
 - [mgrimace/claim_itch](https://github.com/mgrimace/claim_itch) - Automate claiming itch.io games
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 - [rfsbraz/deleterr](https://github.com/rfsbraz/deleterr) - Deleterr is a Python script designed to help you manage available disk space in your Plex media server.
@@ -1816,6 +1818,7 @@
 
 ## Svelte 
 
+- [arnolicious/jelly-clipper](https://github.com/arnolicious/jelly-clipper) - Companion Webapp to Jellyfin which enables the creation and sharing of clips from Jellyfin content
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [LekoArts/annum](https://github.com/LekoArts/annum) - Visualize Your Trakt.tv History
 - [ofkm/svelocker-ui](https://github.com/ofkm/svelocker-ui) - A Simple and Modern Docker Registry UI built with Typescript, and SvelteKit
@@ -1870,6 +1873,7 @@
 - [r-renato/ha-card-weather-conditions](https://github.com/r-renato/ha-card-weather-conditions) - Weather condition card (Lovelace) for Home Assistant.
 - [transistorsoft/capacitor-background-geolocation](https://github.com/transistorsoft/capacitor-background-geolocation) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
 - [Talisik/Downlodr](https://github.com/Talisik/Downlodr) - Downlodr is a powerful, user-friendly video downloading solution that supports over 1,800 platforms, including YouTube, Vimeo, and many more. Downlodr provides a seamless experience for managing your 
+- [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [kyantech/Palmr](https://github.com/kyantech/Palmr) - 🌴 Palmr. is an open-source file-sharing platform focused on privacy and security. It enables users to upload, manage, and share files with features like password protection, custom links, and access c
 - [jamcalli/Pulsarr](https://github.com/jamcalli/Pulsarr) - Pulsarr: Real-time Plex watchlist monitoring and content acquisition tool. Seamlessly sync Plex watchlists with Sonarr and Radarr, featuring intelligent predicated content routing, multi-instance supp
 - [book000/youtube-live-recorder](https://github.com/book000/youtube-live-recorder) - Record and download YouTube live videos. Works with Docker (Docker Compose).
@@ -1937,7 +1941,7 @@
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [akuse-app/akuse](https://github.com/akuse-app/akuse) - 🌸 Simple and easy to use anime streaming desktop app without ads.
 - [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) - Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. The future of coding isn't writing more code. It's delegating the boring parts, so you can build the interesting stuff
 - [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [RaunoT/plex-rewind](https://github.com/RaunoT/plex-rewind) - Present Plex user statistics and habits in a beautiful and organized manner.
@@ -2071,7 +2075,6 @@
 - [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app) - Mobile application for Audiobookshelf
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [Drop-OSS/drop](https://github.com/Drop-OSS/drop) - Drop is an open-source game distribution platform.
-- [jaboll-ai/Uraniarr](https://github.com/jaboll-ai/Uraniarr) - 
 - [chrisred/az-automation-gui-example](https://github.com/chrisred/az-automation-gui-example) - Build a custom interface to Azure Automation Runbooks.
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible,
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
