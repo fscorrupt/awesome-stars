@@ -123,6 +123,7 @@
 
 ## C# # 
 
+- [MusicMoveArr/MiniMediaPlaylists](https://github.com/MusicMoveArr/MiniMediaPlaylists) - Cross-Sync playlists between providers
 - [luall0/jellynext](https://github.com/luall0/jellynext) - A Jellyfin plugin that creates per-user virtual libraries for personalized Trakt recommendations and new seasons. Seamlessly integrates with Radarr and Sonarr to trigger one-click downloads directly f
 - [Qolors/FeedCord](https://github.com/Qolors/FeedCord) - A dead simple RSS Feed with Discord Webhooks
 - [mrsilver76/shelfscan](https://github.com/mrsilver76/shelfscan) - A cross-platform command-line tool (Windows, Linux, macOS) for scanning a media library and reporting on Plex naming compliance.
@@ -358,6 +359,7 @@
 
 ## Go 
 
+- [MGThePro/tidlarr-proxy](https://github.com/MGThePro/tidlarr-proxy) - 
 - [boldsoftware/sketch](https://github.com/boldsoftware/sketch) - autonomous software apprentice
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
@@ -1643,7 +1645,6 @@
 ## Ruby 
 
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
-- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hostable alternative to Google Timeline (Google Location History)
 - [Eigenfocus/eigenfocus](https://github.com/Eigenfocus/eigenfocus) - Self-Hosted - Project Management, Planning and Time Tracker
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
@@ -1719,6 +1720,7 @@
 
 ## Shell 
 
+- [djmaze/resticker](https://github.com/djmaze/resticker) - Run automatic restic backups via a Docker container.
 - [fabianishere/udm-iptv](https://github.com/fabianishere/udm-iptv) - Helper tool for configuring routed IPTV on the UniFi Dream Machine (Pro)
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [amcgready/Surge](https://github.com/amcgready/Surge) - Surge is an automated media server deployment and management toolkit that streamlines the setup, configuration, and orchestration of Plex, Jellyfin, Emby, and related services using Docker, with advan
@@ -1856,6 +1858,7 @@
 
 ## TypeScript 
 
+- [jjdenhertog/spotify-to-plex](https://github.com/jjdenhertog/spotify-to-plex) - Keep your Spotify playlists perfectly synced with Plex automatically, so you can enjoy your music library across both platforms without manual work. Matching tracks and downloading anything missing th
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [neozmmv/BlockGate](https://github.com/neozmmv/BlockGate) - BlockGate is a self-hosted web application to manage and monitor Minecraft servers running on Docker containers.
 - [Flixorui/flixor](https://github.com/Flixorui/flixor) - 
@@ -1895,6 +1898,7 @@
 - [subnub/myDrive](https://github.com/subnub/myDrive) - Node.js and mongoDB Google Drive Clone
 - [opencloud-eu/web](https://github.com/opencloud-eu/web) - 🐻 Web UI for OpenCloud built with Vue.js and TypeScript
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
+- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
 - [dotnetfactory/fluid-calendar](https://github.com/dotnetfactory/fluid-calendar) - 
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
