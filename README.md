@@ -71,7 +71,7 @@
 ## Batchfile 
 
 - [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [dystopia2017/Obfuscated-Usenet-Posting-Script](https://github.com/dystopia2017/Obfuscated-Usenet-Posting-Script) - Obfuscated Usenet Posting Script
 - [joshuacline/packagecreator](https://github.com/joshuacline/packagecreator) - 
 - [joshuacline/imageconverter](https://github.com/joshuacline/imageconverter) - 
@@ -84,6 +84,7 @@
 
 ## C 
 
+- [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
 - [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android
 - [amnezia-vpn/amneziawg-linux-kernel-module](https://github.com/amnezia-vpn/amneziawg-linux-kernel-module) - AmneziaWG Linux kernel module
@@ -165,7 +166,7 @@
 - [Mayyhem/SharpSCCM](https://github.com/Mayyhem/SharpSCCM) - A C# utility for interacting with SCCM
 - [oknorton/LethalCompanyScalingMaster](https://github.com/oknorton/LethalCompanyScalingMaster) - A mod that allows users to fully customize the scaling of the most player impacted values.
 - [susy-bakaa/LCSoundTool](https://github.com/susy-bakaa/LCSoundTool) - Simple Lethal Company sound tool and debugger.
-- [C9Glax/tranga](https://github.com/C9Glax/tranga) - Docker-Container to monitor (Manga) Scanlation-Sites for download new chapters.
+- [C9Glax/tranga](https://github.com/C9Glax/tranga) - Monitor and download Manga automatically in a Docker-Container.
 - [jellyfin/jellyfin-plugin-ldapauth](https://github.com/jellyfin/jellyfin-plugin-ldapauth) - LDAP Authentication for Jellyfin
 - [David-Moreira/JellyseerrSync](https://github.com/David-Moreira/JellyseerrSync) - 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
@@ -793,6 +794,7 @@
 
 ## Kotlin 
 
+- [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin
 - [vitormarcal/chatvault](https://github.com/vitormarcal/chatvault) - WhatsApp convo backups.. Features directory import, auto email backup, and a user-friendly frontend.  View messages effortlessly.
 - [hritwikjohri/Void-for-jellyfin](https://github.com/hritwikjohri/Void-for-jellyfin) - 
 - [Kareadita/tach-extension](https://github.com/Kareadita/tach-extension) - Kavita Extension for Mihon
@@ -1044,11 +1046,11 @@
 
 ## PowerShell 
 
+- [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 - [jdhitsolutions/MySQLite](https://github.com/jdhitsolutions/MySQLite) - A small set of PowerShell commands for working with SQLite database files.
 - [richardhicks/endpointmanager](https://github.com/richardhicks/endpointmanager) - PowerShell scripts for Microsoft Endpoint Manager/Intune Proactive Remediation
 - [ennnbeee/IntuneAppAssigner](https://github.com/ennnbeee/IntuneAppAssigner) - The IntuneAppAssigner PowerShell script allows for the bulk update or replacement of assignments for Android, iOS, macOS, and Windows apps in Intune.
 - [rdnsx/Uptime-Kuma-Client-WIN](https://github.com/rdnsx/Uptime-Kuma-Client-WIN) - 
-- [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 - [Kometa-Team/Defaults-Image-Creation](https://github.com/Kometa-Team/Defaults-Image-Creation) - Tools and scripts to create posters and artwork for default collections and overlays
 - [markkerry/Proactive-Remediations](https://github.com/markkerry/Proactive-Remediations) - Endpoint Analytics Proactive Remediations - Detection and Remediations scripts
 - [ennnbeee/AutopilotGroupTagger](https://github.com/ennnbeee/AutopilotGroupTagger) - AutoPilotGroupTagger is a PowerShell based utility that allows for bulk update and management of Windows Autopilot Device Group Tags, for those who are retrospectively updating Autopilot devices or ot
@@ -1858,6 +1860,7 @@
 
 ## TypeScript 
 
+- [hhftechnology/traefik-log-dashboard](https://github.com/hhftechnology/traefik-log-dashboard) - A real-time dashboard for analyzing Traefik logs with IP geolocation, status code analysis, and service metrics. Built with React (Shadcn UI) and Node.js.
 - [jjdenhertog/spotify-to-plex](https://github.com/jjdenhertog/spotify-to-plex) - Keep your Spotify playlists perfectly synced with Plex automatically, so you can enjoy your music library across both platforms without manual work. Matching tracks and downloading anything missing th
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [neozmmv/BlockGate](https://github.com/neozmmv/BlockGate) - BlockGate is a self-hosted web application to manage and monitor Minecraft servers running on Docker containers.
