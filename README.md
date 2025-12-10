@@ -387,7 +387,7 @@
 - [AlexGustafsson/cupdate](https://github.com/AlexGustafsson/cupdate) - A service to keep container images secure and up-to-date. Made for Kubernetes and Docker.
 - [Zibbp/ganymede](https://github.com/Zibbp/ganymede) - Twitch VOD and Live Stream archiving platform. Includes a rendered and real-time chat for each archive.
 - [flohoss/gocron](https://github.com/flohoss/gocron) - A task scheduler built with Go and Vue.js that allows users to specify recurring jobs via a simple YAML configuration file. The scheduler reads job definitions, executes commands at specified times us
-- [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
+- [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️ OpenCloud is the open-source platform for file management, sharing and collaboration. Simple and sovereign.
 - [umuterturk/email-verifier](https://github.com/umuterturk/email-verifier) - Privacy-first, Free, Open Source email verifier
 - [tutman96/jetkvm-plugin-tailscale](https://github.com/tutman96/jetkvm-plugin-tailscale) - Tailscale plugin for the JetKVM
 - [fastenhealth/fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
@@ -441,7 +441,7 @@
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [BetterCorp/cloudflarewarp](https://github.com/BetterCorp/cloudflarewarp) - 
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+- [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [lunarr-app/lunarr-go](https://github.com/lunarr-app/lunarr-go) - [WIP] Self-hosted media streaming server designed as an alternative to Plex, allowing you to monitor and manage your movie and TV show files on a headless server.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -1070,7 +1070,6 @@
 - [cyrusirandoust/Intunus](https://github.com/cyrusirandoust/Intunus) - Welcome to Intunus, a collection of secret codes and scripts I’ve developed over the past six years to make life easier in the world of Intune. From taming unruly printers (yes, you’re still on my lis
 - [tabs-not-spaces/Intune.LogonScript.Helper](https://github.com/tabs-not-spaces/Intune.LogonScript.Helper) - Function App solution to help with getting on-prem file shares and printers into modern management.
 - [fadwen/Powershell-Copilot-Standards](https://github.com/fadwen/Powershell-Copilot-Standards) - Enterprise-grade PowerShell development standards and GitHub Copilot instructions for consistent, secure, and high-quality PowerShell code across teams and projects.
-- [sargeschultz11/Azure-Runbooks](https://github.com/sargeschultz11/Azure-Runbooks) - My various Azure Automation runbooks used for Intune and other Microsoft 365 shenanigans
 - [dfinke/PowerShellAstSearch](https://github.com/dfinke/PowerShellAstSearch) - Find and analyze PowerShell functions, parameters, and variables by name or type using AST. Fast code navigation, refactoring, and auditing for your scripts.
 - [saint1415/powershell](https://github.com/saint1415/powershell) - 
 - [rbalsleyMSFT/IntuneScripts](https://github.com/rbalsleyMSFT/IntuneScripts) - 
@@ -1889,6 +1888,7 @@
 
 ## TypeScript 
 
+- [plexinc/tmdb-example-provider](https://github.com/plexinc/tmdb-example-provider) - 
 - [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker!
 - [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe 🐈‍⬛🔒
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
