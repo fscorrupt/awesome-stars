@@ -278,7 +278,6 @@
 
 ## CSS 
 
-- [MakD/Jellyfin-Media-Bar](https://github.com/MakD/Jellyfin-Media-Bar) - A Jellyfin Featured Content Bar to show off your media collection
 - [Druidblack/jellyfin-icon-metadata](https://github.com/Druidblack/jellyfin-icon-metadata) - Adds metadata provider icons to  jellyfin
 - [tedhinklater/finimalism](https://github.com/tedhinklater/finimalism) - Jellyfin Theme CSS
 - [stpnwf/ZestyTheme](https://github.com/stpnwf/ZestyTheme) - A minimal and elegant theme for Jellyfin
@@ -325,7 +324,7 @@
 ## Dockerfile 
 
 - [11notes/docker-prometheus](https://github.com/11notes/docker-prometheus) - Run prometheus rootless and distroless.
-- [11notes/docker-tinyauth](https://github.com/11notes/docker-tinyauth) - Run tinyauth rootless, distroless and truly tiny.
+- [11notes/docker-tinyauth](https://github.com/11notes/docker-tinyauth) - run tinyauth rootless and distroless.
 - [11notes/docker-windows-update-cache](https://github.com/11notes/docker-windows-update-cache) - Run a Microsoft Update Cache server based on Alpine Linux. Small, lightweight, secure and fast 🏔️
 - [11notes/docker-homeassistant](https://github.com/11notes/docker-homeassistant) - run home assistant rootless
 - [11notes/docker-kms](https://github.com/11notes/docker-kms) - Activate any version of Windows and Office, forever
@@ -387,7 +386,7 @@
 - [AlexGustafsson/cupdate](https://github.com/AlexGustafsson/cupdate) - A service to keep container images secure and up-to-date. Made for Kubernetes and Docker.
 - [Zibbp/ganymede](https://github.com/Zibbp/ganymede) - Twitch VOD and Live Stream archiving platform. Includes a rendered and real-time chat for each archive.
 - [flohoss/gocron](https://github.com/flohoss/gocron) - A task scheduler built with Go and Vue.js that allows users to specify recurring jobs via a simple YAML configuration file. The scheduler reads job definitions, executes commands at specified times us
-- [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️ OpenCloud is the open-source platform for file management, sharing and collaboration. Simple and sovereign.
+- [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️ OpenCloud is the open source platform for file management, sharing and collaboration. Simple and sovereign.
 - [umuterturk/email-verifier](https://github.com/umuterturk/email-verifier) - Privacy-first, Free, Open Source email verifier
 - [tutman96/jetkvm-plugin-tailscale](https://github.com/tutman96/jetkvm-plugin-tailscale) - Tailscale plugin for the JetKVM
 - [fastenhealth/fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
@@ -631,6 +630,7 @@
 - [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A Jellyfin Plugin to enhance your Jellyfin Web experience.
 - [AmoebeLabs/swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card) - The versatile custom Swiss Army Knife card for Home Assistant allows you to create your unique visualization using several graphical tools, styling options and animations.
 - [LordBex/nzb-load](https://github.com/LordBex/nzb-load) - UserScript zum Laden von NZBLnk's
+- [MakD/Jellyfin-Media-Bar](https://github.com/MakD/Jellyfin-Media-Bar) - A Jellyfin Featured Content Bar to show off your media collection
 - [Drop-OSS/droplet](https://github.com/Drop-OSS/droplet) - Droplet is a high-performance util package for Drop.
 - [11notes/docker-traefik-labels](https://github.com/11notes/docker-traefik-labels) - Export Traefik labels from any Docker node to a central location
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -722,7 +722,6 @@
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [DavidFW1960/bom-weather-card](https://github.com/DavidFW1960/bom-weather-card) - Custom Animated Weather Card for any weather provider
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [iprodanovbg/homeassistant-desktop](https://github.com/iprodanovbg/homeassistant-desktop) - 🎛 Desktop application (Windows / macOS / Linux) for Home Assistant built with Electron
 - [ndom91/briefkasten](https://github.com/ndom91/briefkasten) - 📮 Self hosted bookmarking app
@@ -1366,7 +1365,7 @@
 - [allaboutduncan/comic-utils](https://github.com/allaboutduncan/comic-utils) - Stand alone utility to manage, edit, and update digital comic libraries of any size.
 - [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Minimal reproduction of DeepSeek R1-Zero
 - [rdavydov/Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2) - [NEW] A simple script that will watch a stream for you and earn the channel points. A successor of Tkd-Alex's original repo.
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security for AWS, Azure, GCP, Kubernetes, M365 and more. As agent-less, it helps for continuous monitoring, security assessments & audits, incident response, compliance, hard
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 - [rallyspeed/Azure-CIS](https://github.com/rallyspeed/Azure-CIS) - Automate Azure subscription check against CIS Benchmark
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -1888,6 +1887,7 @@
 
 ## TypeScript 
 
+- [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Tracearr is a streaming access manager for Plex, Jellyfin and Emby servers. It   answers the question every server owner eventually asks: "Who's actually   using my server, and are they sharing their 
 - [plexinc/tmdb-example-provider](https://github.com/plexinc/tmdb-example-provider) - 
 - [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker!
 - [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe 🐈‍⬛🔒
@@ -1950,7 +1950,7 @@
 - [kariudo/animetarr](https://github.com/kariudo/animetarr) - View scheduled anime releases with details and add them to Sonarr.
 - [anidl/multi-downloader-nx](https://github.com/anidl/multi-downloader-nx) - Downloader for Crunchyroll, Hidive, and AnimationDigitalNetwork with CLI and GUI
 - [addyosmani/bg-remove](https://github.com/addyosmani/bg-remove) - Free image background removal - private, client-side and powered by Transformers.js
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based VPN and proxy for remote access to anything anywhere
 - [composecraft/composecraft](https://github.com/composecraft/composecraft) - 
 - [buxuku/SmartSub](https://github.com/buxuku/SmartSub) - 「妙幕」是一款跨平台客户端工具，可以批量为视频或者音频生成字幕文件，并支持对字幕进行翻译，支持百度、火山、openai、ollama、deepseek 等多家翻译
 - [ironsheep/lovelace-rpi-monitor-card](https://github.com/ironsheep/lovelace-rpi-monitor-card) - A Raspberry Pi status display Card for Home Assistant Lovelace
@@ -2037,6 +2037,7 @@
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [plugsy/core](https://github.com/plugsy/core) - A simple, pluggable dashboard and status page
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
 - [bacher09/pwgen-for-bios](https://github.com/bacher09/pwgen-for-bios) - Password generator for BIOS
