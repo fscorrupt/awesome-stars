@@ -222,6 +222,7 @@
 
 ## C++ 
 
+- [DoranekoSystems/DynaDbg](https://github.com/DoranekoSystems/DynaDbg) - Next-Generation Remote Analysis Suite for Reverse Engineering.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [TypesettingTools/Aegisub](https://github.com/TypesettingTools/Aegisub) - Cross-platform advanced subtitle editor
 - [hackerhouse-opensource/SetupHijack](https://github.com/hackerhouse-opensource/SetupHijack) - SetupHijack is a security research tool that exploits race conditions and insecure file handling in Windows applications installer and update processes.
@@ -860,8 +861,6 @@
 
 ## Others 
 
-- [DoranekoSystems/DynaDbg](https://github.com/DoranekoSystems/DynaDbg) - Next-Generation Remote Analysis Suite for Reverse Engineering.
-- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [Schischu/hello_fresh_gewuerze](https://github.com/Schischu/hello_fresh_gewuerze) - Hello Fresh Gewürze
 - [langgptai/LLM-Jailbreaks](https://github.com/langgptai/LLM-Jailbreaks) - LLM Jailbreaks, ChatGPT, Claude, Llama, DAN Prompts, Prompt Leaking
 - [MathiasFurenes/synology-arr-guide](https://github.com/MathiasFurenes/synology-arr-guide) - Full guide for all -arr apps inside synology on docker
@@ -1748,6 +1747,7 @@
 
 - [Prowlarr/Indexers](https://github.com/Prowlarr/Indexers) - Contains indexer definitions
 - [djmaze/resticker](https://github.com/djmaze/resticker) - Run automatic restic backups via a Docker container.
+- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [fabianishere/udm-iptv](https://github.com/fabianishere/udm-iptv) - Helper tool for configuring routed IPTV on the UniFi Dream Machine (Pro)
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [amcgready/Surge](https://github.com/amcgready/Surge) - Surge is an automated media server deployment and management toolkit that streamlines the setup, configuration, and orchestration of Plex, Jellyfin, Emby, and related services using Docker, with advan
@@ -1805,7 +1805,7 @@
 - [Zeioth/termux-docker](https://github.com/Zeioth/termux-docker) - Just a script that setups everything for you
 - [seanap/Plex-Audiobook-Guide](https://github.com/seanap/Plex-Audiobook-Guide) - A walkthrough for optimal Audiobook experience using Plex
 - [88lex/sa-gen](https://github.com/88lex/sa-gen) - Create projects, service accounts, jsons and a group list in csv using gcloud sdk
-- [mag37/dockcheck](https://github.com/mag37/dockcheck) - CLI tool to automate docker image updates. Selective, notifications, autoprune, no pre-pulling.
+- [mag37/dockcheck](https://github.com/mag37/dockcheck) - CLI tool to automate docker image updates. Interactive or unattended with notifications, image backups, autoprune, no pre-pulling and more.
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [ChuckPa/DBRepair](https://github.com/ChuckPa/DBRepair) - Database repair utility for Plex Media Server databases
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
@@ -1887,6 +1887,7 @@
 
 ## TypeScript 
 
+- [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Tracearr is a streaming access manager for Plex, Jellyfin and Emby servers. It   answers the question every server owner eventually asks: "Who's actually   using my server, and are they sharing their 
 - [plexinc/tmdb-example-provider](https://github.com/plexinc/tmdb-example-provider) - 
 - [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker!
@@ -2037,7 +2038,7 @@
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [plugsy/core](https://github.com/plugsy/core) - A simple, pluggable dashboard and status page
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
 - [bacher09/pwgen-for-bios](https://github.com/bacher09/pwgen-for-bios) - Password generator for BIOS
