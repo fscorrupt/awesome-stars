@@ -557,7 +557,6 @@
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [tedhinklater/Jellyfin-Featured-Content-Bar](https://github.com/tedhinklater/Jellyfin-Featured-Content-Bar) - Featured Content Bar for Jellyfin
 - [Celerium/Modern-PowerShell-HTML-Reports](https://github.com/Celerium/Modern-PowerShell-HTML-Reports) - Proof of concept to see if more modern HTML reports can be made with PowerShell
-- [blrchen/azure-speed-test](https://github.com/blrchen/azure-speed-test) - Azure Speed Test Tool: Measure network latency, download, and upload speeds to Azure datacenters worldwide.
 - [eddiechu/File-Smuggling](https://github.com/eddiechu/File-Smuggling) - HTML smuggling is not an evil, it can be useful
 - [TechBuckler/PlexGifMaker](https://github.com/TechBuckler/PlexGifMaker) - A quick way to use your Plex Library and Subtitles to make gifs
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
@@ -1904,7 +1903,7 @@
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Tracearr is a streaming access manager for Plex, Jellyfin and Emby servers. It   answers the question every server owner eventually asks: "Who's actually   using my server, and are they sharing their 
 - [plexinc/tmdb-example-provider](https://github.com/plexinc/tmdb-example-provider) - 
 - [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker!
-- [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe 🐈‍⬛🔒
+- [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [OrwellianEpilogue/ephemera](https://github.com/OrwellianEpilogue/ephemera) - 
@@ -1981,6 +1980,7 @@
 - [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card) - Vacuum cleaner card for Home Assistant Lovelace UI
 - [custom-cards/canvas-gauge-card](https://github.com/custom-cards/canvas-gauge-card) - The card makes it possible to use gauges from https://canvas-gauges.com/
 - [GeorgeSG/lovelace-time-picker-card](https://github.com/GeorgeSG/lovelace-time-picker-card) - 🕰️ Time Picker Card for Home Assistant's Lovelace UI
+- [blrchen/azure-speed-test](https://github.com/blrchen/azure-speed-test) - Azure Speed Test Tool: Measure network latency, download, and upload speeds to Azure datacenters worldwide.
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [iantrich/restriction-card](https://github.com/iantrich/restriction-card) - 🔒 Apply restrictions to Lovelace cards
 - [vwh/sqlite-online](https://github.com/vwh/sqlite-online) - Lightweight, secure, and WebAssembly-powered SQLite viewer and editor. works entirely in your browser
