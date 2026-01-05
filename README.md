@@ -212,6 +212,7 @@
 - [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 - [endpointmanager/wingetbridge-powershell](https://github.com/endpointmanager/wingetbridge-powershell) - An easy-to-use Powershell-Module that completes the ability to automatically provide and maintain applications in your software deployment tool by using the Windows Package Manager Repository.
+- [kimmknight/raweb](https://github.com/kimmknight/raweb) - A modern web interface for your RemoteApps hosted on Windows 10, 11 and Server.
 - [MicrosoftDocs/WDAC-Toolkit](https://github.com/MicrosoftDocs/WDAC-Toolkit) - Documentation and tools to access Windows Defender Application Control (WDAC) technology.
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [drkno/pfs](https://github.com/drkno/pfs) - Mount any remote Plex server including ones you do not own as a local filesystem
@@ -445,7 +446,7 @@
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [BetterCorp/cloudflarewarp](https://github.com/BetterCorp/cloudflarewarp) - 
-- [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
+- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [lunarr-app/lunarr-go](https://github.com/lunarr-app/lunarr-go) - [WIP] Self-hosted media streaming server designed as an alternative to Plex, allowing you to monitor and manage your movie and TV show files on a headless server.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -598,6 +599,7 @@
 
 ## Java 
 
+- [eddyizm/tempus](https://github.com/eddyizm/tempus) - An open source and lightweight music client for Subsonic, designed and built natively for Android.
 - [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [olistudent/FBEditor](https://github.com/olistudent/FBEditor) - Programm zum Editieren der Konfigurationsdatei einer Fritz!Box
@@ -1902,6 +1904,8 @@
 
 ## TypeScript 
 
+- [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
+- [Doezer/Questarr](https://github.com/Doezer/Questarr) - Video games manager for -arr users
 - [m3sserstudi0s/swiparr](https://github.com/m3sserstudi0s/swiparr) - Tinder for your Jellyfin media library.
 - [autobrr/netronome](https://github.com/autobrr/netronome) - Netronome is a modern network speed testing and monitoring tool built with Go and React.
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
@@ -2155,7 +2159,6 @@
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [sharkykh/tppm](https://github.com/sharkykh/tppm) - ▶ Manage playback progress items stored on Trakt.tv
 - [go-vikunja/frontend](https://github.com/go-vikunja/frontend) - Mirror of vikunja from https://code.vikunja.io/frontend
-- [kimmknight/raweb](https://github.com/kimmknight/raweb) - A modern web interface for your RemoteApps hosted on Windows 10, 11 and Server.
 - [AlexImb/pelicula](https://github.com/AlexImb/pelicula) - 🎞    A progressive web app for creating movie night polls.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
