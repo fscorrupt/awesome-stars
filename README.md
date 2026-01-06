@@ -1332,7 +1332,6 @@
 - [RazgrizHsu/immich-mediakit](https://github.com/RazgrizHsu/immich-mediakit) - An extension toolkit for Immich enabling advanced management capabilities through AI-powered similarity detection
 - [jsharkey13/iphone_backup_decrypt](https://github.com/jsharkey13/iphone_backup_decrypt) - Decrypt an encrypted local iOS backup on Windows or MacOS
 - [helallao/perplexity-ai](https://github.com/helallao/perplexity-ai) - Unofficial API Wrapper for Perplexity.ai + Account Generator with Web Interface
-- [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [silkyclouds/PMDA](https://github.com/silkyclouds/PMDA) - 🎶 It’s fun to de-dupe with P.M.D.A.! 🎶 🎵 It’s fun to de-dupe with P.M.D.A.! 🎵 📂 We scan your Plex and we make it neat, 🎧 One clean lib’, oh what a feat!
 - [elfhosted/fakearr](https://github.com/elfhosted/fakearr) - An API to return a "fake" torrent or nzb, used with debridav and easynews
 - [primetime43/plexLocationBlock](https://github.com/primetime43/plexLocationBlock) - Block Plex streams via location
@@ -1707,6 +1706,7 @@
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [Virviil/oci2git](https://github.com/Virviil/oci2git) - Introspecting Docker images as easy as using Git
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
+- [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [ThijmenGThN/swaparr](https://github.com/ThijmenGThN/swaparr) - ✦ A robust solution addressing stalled downloads in Starr apps.
 - [e-tho/iwmenu](https://github.com/e-tho/iwmenu) - Launcher-driven Wi-Fi manager for Linux
 - [dan-online/autopulse](https://github.com/dan-online/autopulse) - 💫 automated lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr and Radarr
@@ -1886,7 +1886,6 @@
 
 ## Swift 
 
-- [Flixorui/flixor](https://github.com/Flixorui/flixor) - 
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [rounak/PhoneAgent](https://github.com/rounak/PhoneAgent) - An AI agent that can get things done across iPhone apps.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
@@ -1924,6 +1923,7 @@
 - [hhftechnology/traefik-log-dashboard](https://github.com/hhftechnology/traefik-log-dashboard) - A real-time dashboard for analyzing Traefik logs with IP geolocation, status code analysis, and service metrics. Built with React (Shadcn UI) and Node.js.
 - [jjdenhertog/spotify-to-plex](https://github.com/jjdenhertog/spotify-to-plex) - Keep your Spotify playlists perfectly synced with Plex automatically, so you can enjoy your music library across both platforms without manual work. Matching tracks and downloading anything missing th
 - [neozmmv/BlockGate](https://github.com/neozmmv/BlockGate) - BlockGate is a self-hosted web application to manage and monitor Minecraft servers running on Docker containers.
+- [Flixorui/flixor](https://github.com/Flixorui/flixor) - 
 - [dopeytree/TVx](https://github.com/dopeytree/TVx) - 📺 TVx — the warmth of modern nostalgia  This is the way - television you remember feeling: present, unhurried, *analog*
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [Nyumat/NyumatFlix](https://github.com/Nyumat/NyumatFlix) - An open-source movie and television streaming platform.
@@ -1948,7 +1948,7 @@
 - [jamcalli/Pulsarr](https://github.com/jamcalli/Pulsarr) - Pulsarr: Real-time Plex watchlist monitoring and content acquisition tool. Seamlessly sync Plex watchlists with Sonarr and Radarr, featuring intelligent predicated content routing, multi-instance supp
 - [book000/youtube-live-recorder](https://github.com/book000/youtube-live-recorder) - Record and download YouTube live videos. Works with Docker (Docker Compose).
 - [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor) - Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, Discord, and 15+ more connectors.  Join our Discord: https://discord.gg/
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Connect any LLM to your internal knowledge sources and chat with it in real time alongside your team. OSS alternative to NotebookLM, Perplexity, and Glean. Join our Discord: https://discord.gg/ejRNvft
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [Tensai75/NZBDonkey](https://github.com/Tensai75/NZBDonkey) - The ultimate NZB downloader extension for Chrome and Firefox
 - [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant) - Presence tracking and more for automation on the room-level
@@ -2000,7 +2000,7 @@
 - [vwh/sqlite-online](https://github.com/vwh/sqlite-online) - Lightweight, secure, and WebAssembly-powered SQLite viewer and editor. works entirely in your browser
 - [sureshfizzy/CineSync](https://github.com/sureshfizzy/CineSync) - CineSync is a Python based library management tool designed to organize debrid & local libraries without the support of Sonarr & Radarr
 - [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
-- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [Mastermindzh/tidal-hifi](https://github.com/Mastermindzh/tidal-hifi) - The web version of Tidal running in electron with hifi support thanks to widevine.
 - [meltylabs/melty](https://github.com/meltylabs/melty) - Chat first code editor. To download the packaged app:
 - [thomasloven/lovelace-more-info-card](https://github.com/thomasloven/lovelace-more-info-card) - 🔹 Display the more-info dialog of any entity as a lovelace card
