@@ -602,6 +602,7 @@
 ## Java 
 
 - [eddyizm/tempus](https://github.com/eddyizm/tempus) - An open source and lightweight music client for Subsonic, designed and built natively for Android.
+- [flex36ty/elefin](https://github.com/flex36ty/elefin) - Elefin Jellyfin client for Android TV
 - [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [olistudent/FBEditor](https://github.com/olistudent/FBEditor) - Programm zum Editieren der Konfigurationsdatei einer Fritz!Box
@@ -813,7 +814,6 @@
 
 - [MakD/AFinity](https://github.com/MakD/AFinity) - A modern, native Android Jellyfin client built with Kotlin, Jetpack Compose, Material 3, and LibMPV.
 - [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) - A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune
-- [flex36ty/elefin](https://github.com/flex36ty/elefin) - Elefin Jellyfin client for Android TV
 - [alexmercerind/audire](https://github.com/alexmercerind/audire) - Identify music playing around you.
 - [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin
@@ -1909,6 +1909,7 @@
 
 ## TypeScript 
 
+- [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
 - [shamubernetes/siren](https://github.com/shamubernetes/siren) - A simple, clean AlertManager dashboard
 - [itskovacs/trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
 - [eftpmc/yuzic](https://github.com/eftpmc/yuzic) - A cross-platform, free and open source music player for Navidrome & Jellyfin
