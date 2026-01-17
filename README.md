@@ -44,7 +44,6 @@
 - [Python](#python)
 - [Rich Text Format](#rich-text-format)
 - [Riot](#riot)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -552,7 +551,7 @@
 - [PJGitHub9/Simposter](https://github.com/PJGitHub9/Simposter) - Simple Movie Poster Maker
 - [origamivault/origamivault](https://github.com/origamivault/origamivault) - Encrypted Paper Storage
 - [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
-- [jma1ice/newsletterr](https://github.com/jma1ice/newsletterr) - newsletterr is an email tool for Plex Servers. Reach your users with Tautulli information and recommendations from conjurr
+- [jma1ice/newsletterr](https://github.com/jma1ice/newsletterr) - newsletterr is an email tool for server admins. Reach your users with Tautulli information and recommendations from conjurr
 - [duplaja/kavita-reading-log](https://github.com/duplaja/kavita-reading-log) - Generates a static Kavita reading log one-page site
 - [11notes/docker-kms-gui](https://github.com/11notes/docker-kms-gui) - Activate any version of Windows and Office, forever
 - [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
@@ -626,6 +625,7 @@
 
 ## JavaScript 
 
+- [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [kmitchel/jellyfin-tuner](https://github.com/kmitchel/jellyfin-tuner) - 
 - [JoKerIsCraZy/HomeServerCompanion](https://github.com/JoKerIsCraZy/HomeServerCompanion) - A sleek, modern dashboard for managing your Home Server services directly from your browser toolbar.
@@ -640,6 +640,7 @@
 - [Drewpeifer/medialytics](https://github.com/Drewpeifer/medialytics) - A free tool that shows information about Plex Media Server content
 - [netgoat-xyz/netgoat](https://github.com/netgoat-xyz/netgoat) - A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but for free!
 - [public-transport/db-vendo-client](https://github.com/public-transport/db-vendo-client) - JavaScript client for Deutsche Bahn public transport APIs.
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [derekantrican/subarr](https://github.com/derekantrican/subarr) - "Sonarr for YouTube" - a tool to periodically check various YouTube playlists and take actions when new videos are posted
 - [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A Jellyfin Plugin to enhance your Jellyfin Web experience.
 - [AmoebeLabs/swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card) - The versatile custom Swiss Army Knife card for Home Assistant allows you to create your unique visualization using several graphical tools, styling options and animations.
@@ -1680,10 +1681,6 @@
 
 - [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private docker registry v2 and v3
 
-## Roff 
-
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-
 ## Ruby 
 
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
@@ -1891,7 +1888,6 @@
 ## Swift 
 
 - [wunax/strimr](https://github.com/wunax/strimr) - 
-- [Flixorui/flixor](https://github.com/Flixorui/flixor) - 
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [rounak/PhoneAgent](https://github.com/rounak/PhoneAgent) - An AI agent that can get things done across iPhone apps.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
@@ -1936,6 +1932,7 @@
 - [hhftechnology/traefik-log-dashboard](https://github.com/hhftechnology/traefik-log-dashboard) - A real-time dashboard for analyzing Traefik logs with IP geolocation, status code analysis, and service metrics. Built with React (Shadcn UI) and Node.js.
 - [jjdenhertog/spotify-to-plex](https://github.com/jjdenhertog/spotify-to-plex) - Keep your Spotify playlists perfectly synced with Plex automatically, so you can enjoy your music library across both platforms without manual work. Matching tracks and downloading anything missing th
 - [neozmmv/BlockGate](https://github.com/neozmmv/BlockGate) - BlockGate is a self-hosted web application to manage and monitor Minecraft servers running on Docker containers.
+- [Flixorui/flixor](https://github.com/Flixorui/flixor) - Modern cross-platform Plex client
 - [dopeytree/TVx](https://github.com/dopeytree/TVx) - 📺 TVx — the warmth of modern nostalgia  This is the way - television you remember feeling: present, unhurried, *analog*
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [Nyumat/NyumatFlix](https://github.com/Nyumat/NyumatFlix) - An open-source movie and television streaming platform.
