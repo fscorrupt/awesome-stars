@@ -365,6 +365,7 @@
 
 ## Go 
 
+- [grishy/any-sync-bundle](https://github.com/grishy/any-sync-bundle) - Anytype Bundle: Prepackaged All-in-One Self-Hosting
 - [autobrr/sfvbrr](https://github.com/autobrr/sfvbrr) - sfvbrr is a Golang tool to validate scene releases
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [MGThePro/tidlarr-proxy](https://github.com/MGThePro/tidlarr-proxy) - 
@@ -546,6 +547,8 @@
 
 ## HTML 
 
+- [l4rm4nd/MemeLord](https://github.com/l4rm4nd/MemeLord) - A taggable image meme board written in Python Django with OIDC SSO and S3 support.
+- [l4rm4nd/VoucherVault](https://github.com/l4rm4nd/VoucherVault) - Django web application to store and manage vouchers, coupons, loyalty and gift cards digitally. Supports expiry notifications, transaction histories, file uploads and OIDC SSO.
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [snodecoder/Intune-Settings-Catalog-Documentation](https://github.com/snodecoder/Intune-Settings-Catalog-Documentation) - Documentation for Intune's Settings Catalog: Describes all possible settings with description/explanation
 - [PJGitHub9/Simposter](https://github.com/PJGitHub9/Simposter) - Simple Movie Poster Maker
@@ -1264,7 +1267,7 @@
 - [microsoft/CSS-Exchange](https://github.com/microsoft/CSS-Exchange) - Exchange Server support tools and scripts
 - [paulwetter/DocumentConfigMgrCB](https://github.com/paulwetter/DocumentConfigMgrCB) - This script attempts to document your entire Configuration Manager (MEMCM/SCCM) environment
 - [12Knocksinna/Office365itpros](https://github.com/12Knocksinna/Office365itpros) - PowerShell examples for articles published on https://office365itpros.com and https://practical365.com. See https://o365itpros.gumroad.com/l/M365PS for the Automating Microsoft 365 with PowerShell eBo
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker for fine-tuning Windows on GitHub
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
 - [T3los/mRemoteNGOpenVPN](https://github.com/T3los/mRemoteNGOpenVPN) - 
 - [realslacker/PSmRemoteNG](https://github.com/realslacker/PSmRemoteNG) - A module to create mRemoteNG connection files from PowerShell. You can install this module from the PSGallery!
 - [NicklasAhlberg/Microsoft-Endpoint-Manager](https://github.com/NicklasAhlberg/Microsoft-Endpoint-Manager) - 
@@ -1290,6 +1293,10 @@
 
 ## Python 
 
+- [migueldemoura/myazo](https://github.com/migueldemoura/myazo) - Self-hosted, cross-platform Gyazo alternative
+- [rubensbraz/LogicPaper](https://github.com/rubensbraz/LogicPaper) - Batch document generation engine. Transforms raw Excel data into high-fidelity PDF, Word, and PowerPoint reports using Jinja2 templates and Headless LibreOffice. Features robust logic strategies, priv
+- [bookcard-io/bookcard](https://github.com/bookcard-io/bookcard) - Self-hosted ebook/comics management and reading application
+- [laggykiller/sticker-convert](https://github.com/laggykiller/sticker-convert) - Convert (animated) stickers to/from WhatsApp, Telegram, Signal, Line, Kakao, Naver Band, OGQ, Viber, Discord, iMessage. Written in Python.
 - [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself!
 - [ohmzi/Tautulli_Curated_Plex_Collection](https://github.com/ohmzi/Tautulli_Curated_Plex_Collection) - Automated Plex collection curator with AI-powered recommendations, Radarr/Sonarr integration, duplicate cleanup, and dynamic collection management based on viewing habits.
 - [Dodelidoo-Labs/sonobarr](https://github.com/Dodelidoo-Labs/sonobarr) - Music discovery tool that integrates with Lidarr and provides recommendations using Last.fm
