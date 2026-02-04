@@ -618,7 +618,6 @@
 - [olistudent/FBEditor](https://github.com/olistudent/FBEditor) - Programm zum Editieren der Konfigurationsdatei einer Fritz!Box
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
-- [skarkkai/touch-mapper](https://github.com/skarkkai/touch-mapper) - Tactile map maker. Creates 3D or embosser printable files for requested OpenStreetMap areas.
 - [PaperMC/Velocity](https://github.com/PaperMC/Velocity) - The modern, next-generation Minecraft server proxy.
 - [RoastSlav/quickdrop](https://github.com/RoastSlav/quickdrop) - QuickDrop is an easy-to-use file sharing application that allows users to upload files without an account, generate download links, and manage file availability, file encryption and optional password 
 - [bilde2910/Hauk](https://github.com/bilde2910/Hauk) - Open-source realtime location sharing
@@ -636,6 +635,7 @@
 
 ## JavaScript 
 
+- [Kamoba/jellyfin-plugin-thedwarfshammer](https://github.com/Kamoba/jellyfin-plugin-thedwarfshammer) - 
 - [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Sonarr & Radarr Media Library Insights
 - [shanselman/cert-inspector](https://github.com/shanselman/cert-inspector) - 🔒 Web tool to inspect SSL certificates and DNS for all domains in a webpage's request tree. Captures full network footprint via headless browser.
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
@@ -678,6 +678,7 @@
 - [TheBinaryNinja/tvapp2](https://github.com/TheBinaryNinja/tvapp2) - Automatic M3U playlist and XML guide updater for IPTV clients.
 - [Vansmak/mediarr-card](https://github.com/Vansmak/mediarr-card) - custom home assistant card
 - [BobHasNoSoul/jellyfin-featured](https://github.com/BobHasNoSoul/jellyfin-featured) - add a featured content bar to the top of the jellyfin homepage with very little setup required.. you can also add custom lists for specific seasons etc.
+- [skarkkai/touch-mapper](https://github.com/skarkkai/touch-mapper) - Tactile map maker. Creates 3D or embosser printable files for requested OpenStreetMap areas.
 - [DumbWareio/DumbPad](https://github.com/DumbWareio/DumbPad) - A Dumb Pad with collaborative editing, fuzzy search, & markdown preview functionality
 - [DumbWareio/DumbDrop](https://github.com/DumbWareio/DumbDrop) - dumb file dropper
 - [tsaridas/stremio-docker](https://github.com/tsaridas/stremio-docker) - Docker files for easy stremio server and client. Images pushed to Dockerhub
@@ -1302,9 +1303,10 @@
 
 ## Python 
 
+- [BYTEDz/PCLink](https://github.com/BYTEDz/PCLink) - Cross-platform desktop app for secure remote PC control and management, featuring a lightweight built-in WebUI and API for local or remote access.
+- [Pukabyte/autosync](https://github.com/Pukabyte/autosync) - Autoscan meets Syncarr.
 - [daya0576/nightwatcher](https://github.com/daya0576/nightwatcher) - Web-based IP camera viewer for fast, simple streaming in any browser 🦇
 - [maxxfly/extrarrfin](https://github.com/maxxfly/extrarrfin) - ExtrarrFin - download extra episodes (featurette, etc)
-- [maziggy/bambuddy](https://github.com/maziggy/bambuddy) - A self-hosted print archive and management system for Bambu Lab 3D printers
 - [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) - "Paper2Slides: From Paper to Presentation in One Click"
 - [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
 - [migueldemoura/myazo](https://github.com/migueldemoura/myazo) - Self-hosted, cross-platform Gyazo alternative
@@ -1362,7 +1364,6 @@
 - [RazgrizHsu/immich-deduper](https://github.com/RazgrizHsu/immich-deduper) - duplicate photo finder for Immich - find and remove similar images
 - [jsharkey13/iphone_backup_decrypt](https://github.com/jsharkey13/iphone_backup_decrypt) - Decrypt an encrypted local iOS backup on Windows or MacOS
 - [helallao/perplexity-ai](https://github.com/helallao/perplexity-ai) - Unofficial API Wrapper for Perplexity.ai + Account Generator with Web Interface
-- [silkyclouds/PMDA](https://github.com/silkyclouds/PMDA) - 🎶 It’s fun to de-dupe with P.M.D.A.! 🎶 🎵 It’s fun to de-dupe with P.M.D.A.! 🎵 📂 We scan your Plex and we make it neat, 🎧 One clean lib’, oh what a feat!
 - [elfhosted/fakearr](https://github.com/elfhosted/fakearr) - An API to return a "fake" torrent or nzb, used with debridav and easynews
 - [primetime43/plexLocationBlock](https://github.com/primetime43/plexLocationBlock) - Block Plex streams via location
 - [better-ecosystem/better-control](https://github.com/better-ecosystem/better-control) - A simple control panel for linux based on the GTK framework
@@ -1483,7 +1484,7 @@
 - [croneter/PlexKodiConnect](https://github.com/croneter/PlexKodiConnect) - Plex integration in Kodi done right
 - [fe80Grau/ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM) - A little script to serve Youtube / Twitch / Crunchyroll videos without storage it.  Uses yt-dlp HTTP data throught Flask and dynamic URLs. We can use this dynamic URLs to set STRM files.
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
-- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
+- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-o 4.5: A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Mulitmodal Live Streaminig on Your Phone
 - [fu/fass](https://github.com/fu/fass) - This simple server enables scraping of website with dynamic content.
 - [josStorer/selfhostedAI](https://github.com/josStorer/selfhostedAI) - A collection of one-click self-hosted AI
 - [rivenmedia/riven](https://github.com/rivenmedia/riven) - Handle your Media Library with ease!
@@ -1940,6 +1941,7 @@
 ## TypeScript 
 
 - [parcoil/sparkle](https://github.com/parcoil/sparkle) - A Windows app to debloat and optimize your PC
+- [maziggy/bambuddy](https://github.com/maziggy/bambuddy) - A self-hosted print archive and management system for Bambu Lab 3D printers
 - [rundfunkarr/rundfunkarr](https://github.com/rundfunkarr/rundfunkarr) - 
 - [ohmzi/Immaculaterr](https://github.com/ohmzi/Immaculaterr) - Plex autopilot: curated recommendations, collections, and library cleanup (optional Radarr/Sonarr integration).
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
@@ -1994,6 +1996,7 @@
 - [book000/youtube-live-recorder](https://github.com/book000/youtube-live-recorder) - Record and download YouTube live videos. Works with Docker (Docker Compose).
 - [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr
 - [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor) - Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
+- [silkyclouds/PMDA](https://github.com/silkyclouds/PMDA) - 🎶 It’s fun to de-dupe with P.M.D.A.! 🎶 🎵 It’s fun to de-dupe with P.M.D.A.! 🎵 📂 We scan your Plex and we make it neat, 🎧 One clean lib’, oh what a feat!
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [Tensai75/NZBDonkey](https://github.com/Tensai75/NZBDonkey) - The ultimate NZB downloader extension for Chrome and Firefox
 - [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant) - Presence tracking and more for automation on the room-level
@@ -2190,6 +2193,7 @@
 
 ## Vue 
 
+- [nicocapalbo/dmbdb](https://github.com/nicocapalbo/dmbdb) - 
 - [WGDashboard/WGDashboard](https://github.com/WGDashboard/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
 - [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app) - Mobile application for Audiobookshelf
 - [Drop-OSS/drop](https://github.com/Drop-OSS/drop) - Drop is an open-source game distribution platform.
