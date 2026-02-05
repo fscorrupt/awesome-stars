@@ -1484,7 +1484,7 @@
 - [croneter/PlexKodiConnect](https://github.com/croneter/PlexKodiConnect) - Plex integration in Kodi done right
 - [fe80Grau/ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM) - A little script to serve Youtube / Twitch / Crunchyroll videos without storage it.  Uses yt-dlp HTTP data throught Flask and dynamic URLs. We can use this dynamic URLs to set STRM files.
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
-- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-o 4.5: A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Mulitmodal Live Streaminig on Your Phone
+- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-o 4.5: A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Mulitmodal Live Streaming on Your Phone
 - [fu/fass](https://github.com/fu/fass) - This simple server enables scraping of website with dynamic content.
 - [josStorer/selfhostedAI](https://github.com/josStorer/selfhostedAI) - A collection of one-click self-hosted AI
 - [rivenmedia/riven](https://github.com/rivenmedia/riven) - Handle your Media Library with ease!
