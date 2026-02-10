@@ -79,6 +79,7 @@
 - [joshuacline/imageconverter](https://github.com/joshuacline/imageconverter) - 
 - [joshuacline/windick](https://github.com/joshuacline/windick) - Eat a plate at the Deployment Cuisine Buffet 🍽🍖🍿
 - [shirooo39/Windows-11-Bypass](https://github.com/shirooo39/Windows-11-Bypass) - Bypass Windows 11's system requirements in a simple and easy way.
+- [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 - [Kometa-Team/Community-Configs](https://github.com/Kometa-Team/Community-Configs) - Config files for Kometa
 
 ## Bicep 
@@ -332,7 +333,7 @@
 
 ## Dockerfile 
 
-- [11notes/docker-prometheus](https://github.com/11notes/docker-prometheus) - Run prometheus rootless and distroless.
+- [11notes/docker-prometheus](https://github.com/11notes/docker-prometheus) - run prometheus rootless and distroless
 - [11notes/docker-tinyauth](https://github.com/11notes/docker-tinyauth) - run tinyauth rootless and distroless.
 - [11notes/docker-windows-update-cache](https://github.com/11notes/docker-windows-update-cache) - Run a Microsoft Update Cache server based on Alpine Linux. Small, lightweight, secure and fast 🏔️
 - [11notes/docker-homeassistant](https://github.com/11notes/docker-homeassistant) - run home assistant rootless
@@ -635,6 +636,7 @@
 
 ## JavaScript 
 
+- [selkies-project/sealskin](https://github.com/selkies-project/sealskin) - A self-hosted platform for streaming containerized desktop applications to your browser, providing secure workload isolation and remote file handling.
 - [Kamoba/jellyfin-plugin-thedwarfshammer](https://github.com/Kamoba/jellyfin-plugin-thedwarfshammer) - 
 - [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Sonarr & Radarr Media Library Insights
 - [shanselman/cert-inspector](https://github.com/shanselman/cert-inspector) - 🔒 Web tool to inspect SSL certificates and DNS for all domains in a webpage's request tree. Captures full network footprint via headless browser.
@@ -762,7 +764,7 @@
 - [eraseyourknees/msdl](https://github.com/eraseyourknees/msdl) - Microsoft Software Download Listing
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
+- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [SixDigitCode/AirBridge](https://github.com/SixDigitCode/AirBridge) - AirMessage Bridge for SMServer!
 - [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller.
@@ -1053,7 +1055,7 @@
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [Dachande663/Plex-Export](https://github.com/Dachande663/Plex-Export) - Export your Plex Library as an interactive HTML page for others to browse.
-- [jamjnsn/cartridge-legacy](https://github.com/jamjnsn/cartridge-legacy) - Self-hosted game library.
+- [siliconApricot/cartridge-legacy](https://github.com/siliconApricot/cartridge-legacy) - Self-hosted game library.
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
 - [arabcoders/watchstate](https://github.com/arabcoders/watchstate) - Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.
@@ -1227,7 +1229,6 @@
 - [JayRHa/Intune-App-Creator](https://github.com/JayRHa/Intune-App-Creator) - 
 - [microsoft/Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC) - Manages, configures, extracts and monitors Microsoft 365 tenant configurations
 - [ThomasKur/ModernWorkplaceClientCenter](https://github.com/ThomasKur/ModernWorkplaceClientCenter) - This repository will be the home of a PowerShell Module, which helps to simplify tasks on MDM managed Windows clients. In a second step there will be a UI, which leverages these PowerShell functions f
-- [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 - [EvotecIT/ADEssentials](https://github.com/EvotecIT/ADEssentials) - PowerShell Active Directory helper functions to manage healthy Active Directory
 - [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 600+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
 - [EvotecIT/PSWriteHTML](https://github.com/EvotecIT/PSWriteHTML) - PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
@@ -1412,7 +1413,7 @@
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [aaPanel/aaPanel](https://github.com/aaPanel/aaPanel) - Simple but Powerful web-based Control Panel
 - [gorgarp/Recommender](https://github.com/gorgarp/Recommender) - A standalone AI-powered application designed to learn your viewing preferences on your Plex server and provide personalized recommendations on what to watch.
-- [Benzauber/convert-commander](https://github.com/Benzauber/convert-commander) - The free software for converting files!
+- [Convert-Commander/convert-commander](https://github.com/Convert-Commander/convert-commander) - The free software for converting files!
 - [X1Plus/X1Plus](https://github.com/X1Plus/X1Plus) - Custom firmware for Bambu Lab X1 and X1 Carbon 3D printers
 - [netplexflix/Missing-Trailer-Downloader-For-Plex](https://github.com/netplexflix/Missing-Trailer-Downloader-For-Plex) - Checks your Plex library for missing (Plex Pass) trailers and downloads them.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -1935,6 +1936,7 @@
 
 ## TypeScript 
 
+- [ada-bee/jellyfin-iina](https://github.com/ada-bee/jellyfin-iina) - IINA plugin for browsing and watching content from your Jellyfin server.
 - [84ck3r/ephemera](https://github.com/84ck3r/ephemera) - 
 - [kikootwo/ReadMeABook](https://github.com/kikootwo/ReadMeABook) - Fully Featured audiobook request and downloading engine to bring audiobooks up to speed with the modern automation standards
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
