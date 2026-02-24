@@ -1301,6 +1301,7 @@
 
 ## Python 
 
+- [sahara101/Dakosys](https://github.com/sahara101/Dakosys) - A collection of automated Kometa overlays and Trakt lists.
 - [ace-step/ACE-Step](https://github.com/ace-step/ACE-Step) - ACE-Step: A Step Towards Music Generation Foundation Model
 - [calibrain/shelfmark](https://github.com/calibrain/shelfmark) - 
 - [BYTEDz/PCLink](https://github.com/BYTEDz/PCLink) - Cross-platform desktop app for secure remote PC control and management, featuring a lightweight built-in WebUI and API for local or remote access.
@@ -1329,7 +1330,6 @@
 - [bogus-me/m.a.r.i](https://github.com/bogus-me/m.a.r.i) - M.A.R.I. – Metadata Auto Refresh Interface for Plex. Smart. Silent. Always fresh.
 - [sahara101/Movie-Roulette](https://github.com/sahara101/Movie-Roulette) - Docker App which chooses a random movie from your movie library.
 - [mustbeperfect/definitive-opensource](https://github.com/mustbeperfect/definitive-opensource) - The definitive list of the best of (consumer facing) open source.
-- [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
 - [NeoHuncho/vikunja-voice-assistant](https://github.com/NeoHuncho/vikunja-voice-assistant) - Simplify your Vikunja task creation using Home voice assistant
 - [AlexxIT/StreamAssist](https://github.com/AlexxIT/StreamAssist) - Home Assistant custom component that allows you to turn almost any camera and almost any speaker into a local voice assistant
 - [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
@@ -1392,7 +1392,6 @@
 - [RealOrangeOne/docker-db-auto-backup](https://github.com/RealOrangeOne/docker-db-auto-backup) - A script to automatically back up all databases running under docker on a host
 - [mikenobbs/Asset-Assistant](https://github.com/mikenobbs/Asset-Assistant) - A simple python script designed to categorise, move and rename artwork for your personal media server.
 - [nichtlegacy/PlexWatch](https://github.com/nichtlegacy/PlexWatch) - PlexWatch is a Discord bot that provides a real-time dashboard for your Plex media server, featuring active stream monitoring, SABnzbd download tracking, and server uptime stats.
-- [sahara101/Dakosys](https://github.com/sahara101/Dakosys) - A collection of automated Kometa overlays and Trakt lists.
 - [S1N4X/SmithForge](https://github.com/S1N4X/SmithForge) - A tool for combining two 3MF models by overlaying a Hueforge model onto a base model with automatic scaling, positioning, and proper model intersection.
 - [browser-use/web-ui](https://github.com/browser-use/web-ui) - 🖥️ Run AI Agent in your browser.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -1416,7 +1415,6 @@
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [aaPanel/aaPanel](https://github.com/aaPanel/aaPanel) - Simple but Powerful web-based Control Panel
-- [gorgarp/Recommender](https://github.com/gorgarp/Recommender) - A standalone AI-powered application designed to learn your viewing preferences on your Plex server and provide personalized recommendations on what to watch.
 - [Convert-Commander/convert-commander](https://github.com/Convert-Commander/convert-commander) - The free software for converting files!
 - [X1Plus/X1Plus](https://github.com/X1Plus/X1Plus) - Custom firmware for Bambu Lab X1 and X1 Carbon 3D printers
 - [netplexflix/Missing-Trailer-Downloader-For-Plex](https://github.com/netplexflix/Missing-Trailer-Downloader-For-Plex) - Checks your Plex library for missing (Plex Pass) trailers and downloads them.
@@ -1458,7 +1456,6 @@
 - [mozilla/fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.
 - [hannob/snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
-- [plexguide/HuntarrOS.com](https://github.com/plexguide/HuntarrOS.com) - Self-hosted server management platform, originally launched in 2016 and rebuilt for 2026. One-line Docker install on Ubuntu & Debian. Built-in app store, Cloudflare Tunnel & Traefik reverse proxy supp
 - [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
 - [Entree3k/Edition-Manager](https://github.com/Entree3k/Edition-Manager) - Edition Manager - Movie Edition Management Tool for Plex
 - [I-am-PUID-0/DMB](https://github.com/I-am-PUID-0/DMB) - Debrid Media Bridge
@@ -1827,7 +1824,6 @@
 - [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
 - [PeterPawn/YourFritz](https://github.com/PeterPawn/YourFritz) - dynamic package management for AVM routers
 - [geekau/mediastack](https://github.com/geekau/mediastack) - The ultimate Docker Compose files and configs to build your desired media stack, quickly and easily, with secure outbound network traffic and secure remote access using multifactor authentication.
-- [plexguide/Apps](https://github.com/plexguide/Apps) - 
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
