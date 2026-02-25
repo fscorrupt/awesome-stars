@@ -129,6 +129,7 @@
 
 ## C# # 
 
+- [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer
 - [Jellyfin2Samsung/Samsung-Jellyfin-Installer](https://github.com/Jellyfin2Samsung/Samsung-Jellyfin-Installer) - One-click install of Jellyfin on your Samsung TV — fully compatible with all Tizen versions!
 - [enoch85/bazarr-jellyfin](https://github.com/enoch85/bazarr-jellyfin) - Search and download subtitles directly from Jellyfin using your Bazarr instance.
 - [Iceshadow1404/TmdbMultiLanguage](https://github.com/Iceshadow1404/TmdbMultiLanguage) - 
@@ -562,7 +563,6 @@
 - [l4rm4nd/VoucherVault](https://github.com/l4rm4nd/VoucherVault) - Django web application to store and manage vouchers, coupons, loyalty and gift cards digitally. Supports PWA, offline caching, expiry notifications, transaction histories, file uploads and OIDC SSO.
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [snodecoder/Intune-Settings-Catalog-Documentation](https://github.com/snodecoder/Intune-Settings-Catalog-Documentation) - Documentation for Intune's Settings Catalog: Describes all possible settings with description/explanation
-- [PJGitHub9/Simposter](https://github.com/PJGitHub9/Simposter) - Simple Movie Poster Maker
 - [origamivault/origamivault](https://github.com/origamivault/origamivault) - Encrypted Paper Storage
 - [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
 - [jma1ice/newsletterr](https://github.com/jma1ice/newsletterr) - newsletterr is an email tool for server admins. Reach your users with Tautulli information and recommendations from conjurr
@@ -587,7 +587,7 @@
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
 - [iptv-org/epg](https://github.com/iptv-org/epg) - Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [petersem/posterr](https://github.com/petersem/posterr) - A digital poster app for Plex, Sonarr, Radarr, and Readarr
@@ -2200,6 +2200,7 @@
 
 - [nicocapalbo/dmbdb](https://github.com/nicocapalbo/dmbdb) - 
 - [WGDashboard/WGDashboard](https://github.com/WGDashboard/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
+- [PJGitHub9/Simposter](https://github.com/PJGitHub9/Simposter) - Simple Movie Poster Maker
 - [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app) - Mobile application for Audiobookshelf
 - [Drop-OSS/drop](https://github.com/Drop-OSS/drop) - Drop is an open-source game distribution platform.
 - [chrisred/az-automation-gui-example](https://github.com/chrisred/az-automation-gui-example) - Build a custom interface to Azure Automation Runbooks.
