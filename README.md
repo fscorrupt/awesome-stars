@@ -642,6 +642,7 @@
 
 ## JavaScript 
 
+- [Sir-Scuzza/gluetun-webui](https://github.com/Sir-Scuzza/gluetun-webui) - 
 - [lklynet/aurral](https://github.com/lklynet/aurral) - Artist Discovery and Request Manager for Lidarr
 - [selkies-project/sealskin](https://github.com/selkies-project/sealskin) - A self-hosted platform for streaming containerized desktop applications to your browser, providing secure workload isolation and remote file handling.
 - [Kamoba/jellyfin-plugin-thedwarfshammer](https://github.com/Kamoba/jellyfin-plugin-thedwarfshammer) - 
@@ -1344,7 +1345,7 @@
 - [CravateRouge/bloodyAD](https://github.com/CravateRouge/bloodyAD) - BloodyAD is an Active Directory Privilege Escalation Framework
 - [CravateRouge/autobloody](https://github.com/CravateRouge/autobloody) - Tool to automatically exploit Active Directory privilege escalation paths shown by BloodHound
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
-- [anibridge/anibridge](https://github.com/anibridge/anibridge) - The smart way to keep your AniList profile perfectly synchronized with your Plex library.
+- [anibridge/anibridge](https://github.com/anibridge/anibridge) - The smart way to keep your anime lists perfectly synchronized.
 - [cvele/imgc](https://github.com/cvele/imgc) - Cross-platform file system watcher with extensible plugin system. Excels at automatic image compression (JPEG, PNG, WebP, AVIF) but can process any file type through custom plugins. Real-time monitori
 - [Sloth-on-meth/DoorOpener](https://github.com/Sloth-on-meth/DoorOpener) - A sleek, single-button web portal for triggering any Home Assistant action (like opening a building door), protected by secure PIN authentication. Perfect for apartment buildings, offices, or any scen
 - [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting) - Adaptive Lighting custom component for Home Assistant
@@ -1370,7 +1371,7 @@
 - [elfhosted/fakearr](https://github.com/elfhosted/fakearr) - An API to return a "fake" torrent or nzb, used with debridav and easynews
 - [primetime43/plexLocationBlock](https://github.com/primetime43/plexLocationBlock) - Block Plex streams via location
 - [better-ecosystem/better-control](https://github.com/better-ecosystem/better-control) - A simple control panel for linux based on the GTK framework
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Connect any LLM to your internal knowledge sources and chat with it in real time alongside your team. OSS alternative to NotebookLM, Perplexity, and Glean. Join our Discord: https://discord.gg/ejRNvft
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM for teams. Join our Discord: https://discord.gg/ejRNvftDp9
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [l4rm4nd/LinkedInDumper](https://github.com/l4rm4nd/LinkedInDumper) - Python 3 script to dump/scrape/extract company employees from LinkedIn API
@@ -1390,7 +1391,6 @@
 - [Woahai321/SeerrBridge](https://github.com/Woahai321/SeerrBridge) - SeerrBridge automates movie torrent fetching by integrating Jellyseer/Overseer with DebridMediaManager. It listens to OverSeerr movie requests via webhook and uses DMM / Real-Debrid for efficient down
 - [b0mbays/continuously_casting_dashboards](https://github.com/b0mbays/continuously_casting_dashboards) - HACS Integration for continuously casting a Home Assistant dashboard to your Google Chromecast Displays
 - [felixschndr/mealie-bring-api](https://github.com/felixschndr/mealie-bring-api) - A simple webserver that allows ingredients sent by Mealie to be added to a bring shopping list
-- [MediaWolfOrg/MediaWolf](https://github.com/MediaWolfOrg/MediaWolf) - Media Discovery and Download Hub
 - [RealOrangeOne/docker-db-auto-backup](https://github.com/RealOrangeOne/docker-db-auto-backup) - A script to automatically back up all databases running under docker on a host
 - [mikenobbs/Asset-Assistant](https://github.com/mikenobbs/Asset-Assistant) - A simple python script designed to categorise, move and rename artwork for your personal media server.
 - [nichtlegacy/PlexWatch](https://github.com/nichtlegacy/PlexWatch) - PlexWatch is a Discord bot that provides a real-time dashboard for your Plex media server, featuring active stream monitoring, SABnzbd download tracking, and server uptime stats.
@@ -1731,7 +1731,7 @@
 - [ranfdev/DistroShelf](https://github.com/ranfdev/DistroShelf) - gtk4 client for https://distrobox.it
 - [euzu/tuliprox](https://github.com/euzu/tuliprox) - Flexible IPTV playlist processor & proxy in Rust 🦀 - supports M3U, Xtream Codes, HDHomeRun, Plex, Emby & Jellyfin. Filtering, merging, scheduling & web delivery.
 - [Drop-OSS/drop-app](https://github.com/Drop-OSS/drop-app) - The desktop companion app for Drop. It acts a download client, game launcher and game distribution endpoint for Drop.
-- [lostb1t/remux](https://github.com/lostb1t/remux) - A *VERY experimental* web and desktop client for Jellyfin written in Rust
+- [lostb1t/remux-web](https://github.com/lostb1t/remux-web) - A *VERY experimental* web and desktop client for Jellyfin written in Rust
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [Virviil/oci2git](https://github.com/Virviil/oci2git) - Introspecting Docker images as easy as using Git
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
@@ -1937,6 +1937,7 @@
 
 ## TypeScript 
 
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities.
 - [Framerrr/Framerr](https://github.com/Framerrr/Framerr) - Self-hosted homelab dashboard. Drag-and-drop widgets, easy integration with Plex/Sonarr/Radarr and more, dashboard templates, mobile support. Multi-user support with easy widget sharing.
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier) - automatically verify your age on discord, twitch, kick, quora and more (k-id)
