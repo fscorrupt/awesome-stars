@@ -901,7 +901,7 @@
 - [langgptai/LLM-Jailbreaks](https://github.com/langgptai/LLM-Jailbreaks) - LLM Jailbreaks, ChatGPT, Claude, Llama, DAN Prompts, Prompt Leaking
 - [MathiasFurenes/synology-arr-guide](https://github.com/MathiasFurenes/synology-arr-guide) - Full guide for all -arr apps inside synology on docker
 - [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-power
-- [11notes/RTFM](https://github.com/11notes/RTFM) - 
+- [11notes/RTFM](https://github.com/11notes/RTFM) - read the fucking manual!
 - [Generator/Awesome-Android-TV-FOSS-Apps](https://github.com/Generator/Awesome-Android-TV-FOSS-Apps) - A curated list of FOSS Android TV apps
 - [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app) - A powerful WireGuard client for Windows with advanced split tunneling and an intuitive, user-friendly interface.
 - [blacktop/ipsw-diffs](https://github.com/blacktop/ipsw-diffs) - IPSW Diffs
@@ -1304,6 +1304,7 @@
 
 ## Python 
 
+- [ganhammar/hass-oidc-auth](https://github.com/ganhammar/hass-oidc-auth) - A Home Assistant custom component that turns your Home Assistant instance into a fully functional OpenID Connect (OIDC) provider
 - [V33RU/CommandInWiFi-Zeroclick](https://github.com/V33RU/CommandInWiFi-Zeroclick) - CommandInWiFi: Exploiting SSID Storage in WiFi Scanning for Command Injection
 - [sahara101/Dakosys](https://github.com/sahara101/Dakosys) - A collection of automated Kometa overlays and Trakt lists.
 - [ace-step/ACE-Step](https://github.com/ace-step/ACE-Step) - ACE-Step: A Step Towards Music Generation Foundation Model
@@ -1727,6 +1728,8 @@
 
 ## Rust 
 
+- [ruvnet/ruvector](https://github.com/ruvnet/ruvector) - RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [lordaimer/iris](https://github.com/lordaimer/iris) - A fast, minimal, config-driven file management engine built in Rust
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [LLukas22/Jellyswarrm](https://github.com/LLukas22/Jellyswarrm) - Bring all your Jellyfin servers together
