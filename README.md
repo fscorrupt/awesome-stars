@@ -562,6 +562,7 @@
 
 ## HTML 
 
+- [MorganKryze/JellyFlare](https://github.com/MorganKryze/JellyFlare) - Put announcements where your users will actually see them — a customisable banner at the top of Jellyfin, with rotating messages, scheduling, and link support.
 - [l4rm4nd/MemeLord](https://github.com/l4rm4nd/MemeLord) - A taggable image meme board written in Python Django with OIDC SSO and S3 support.
 - [l4rm4nd/VoucherVault](https://github.com/l4rm4nd/VoucherVault) - Django web application to store and manage vouchers, coupons, loyalty and gift cards digitally. Supports PWA, offline caching, expiry notifications, transaction histories, file uploads and OIDC SSO.
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
@@ -1973,7 +1974,6 @@
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
 - [plexinc/tmdb-example-provider](https://github.com/plexinc/tmdb-example-provider) - 
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
-- [DoranekoSystems/DynaDbg](https://github.com/DoranekoSystems/DynaDbg) - Next-Generation Remote Analysis Suite for Reverse Engineering.
 - [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker!
 - [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
