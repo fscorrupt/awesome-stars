@@ -658,7 +658,7 @@
 - [code-arman/Cleanify](https://github.com/code-arman/Cleanify) - Convert your Explicit Spotify playlists into Clean playlists in the click of a button
 - [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus) - This is a custom fork of the original gethomepage/homepage project, with additional functionality extending beyond the scope of the original project.
 - [ranaldsgift/KefinTweaks](https://github.com/ranaldsgift/KefinTweaks) - An essential collection of Jellyfin Tweaks that you always knew you needed
-- [nairdahh/Anchorr](https://github.com/nairdahh/Anchorr) - Discord bot for requesting movies/TV and receiving notifications when items are added to your media server.
+- [openVESSL/Anchorr](https://github.com/openVESSL/Anchorr) - Discord bot for requesting movies/TV and receiving notifications when items are added to your media server.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [thomasloven/lovelace-card-tools](https://github.com/thomasloven/lovelace-card-tools) - 🔹A collection of tools for other lovelace plugins to use
 - [Drewpeifer/medialytics](https://github.com/Drewpeifer/medialytics) - A free tool that shows information about Plex Media Server content
@@ -1306,7 +1306,7 @@
 ## Python 
 
 - [sahara101/Movie-Roulette](https://github.com/sahara101/Movie-Roulette) - Docker App which chooses a random movie from your movie library.
-- [ganhammar/hass-oidc-auth](https://github.com/ganhammar/hass-oidc-auth) - A Home Assistant custom component that turns your Home Assistant instance into a fully functional OpenID Connect (OIDC) provider
+- [ganhammar/hass-oidc-server](https://github.com/ganhammar/hass-oidc-server) - A Home Assistant custom component that turns your Home Assistant instance into a fully functional OpenID Connect (OIDC) server
 - [V33RU/CommandInWiFi-Zeroclick](https://github.com/V33RU/CommandInWiFi-Zeroclick) - CommandInWiFi: Exploiting SSID Storage in WiFi Scanning for Command Injection
 - [sahara101/Dakosys](https://github.com/sahara101/Dakosys) - A collection of automated Kometa overlays and Trakt lists.
 - [ace-step/ACE-Step](https://github.com/ace-step/ACE-Step) - ACE-Step: A Step Towards Music Generation Foundation Model
