@@ -1346,7 +1346,7 @@
 - [Tencent-Hunyuan/HY-Motion-1.0](https://github.com/Tencent-Hunyuan/HY-Motion-1.0) - HY-Motion model for 3D human motion or 3D character animation generation.
 - [JoKerIsCraZy/MediaTrend-Scraper](https://github.com/JoKerIsCraZy/MediaTrend-Scraper) - The MediaTrend Scraper is an intelligent companion script designed to automate and enhance your Sonarr and Radarr media management workflow.
 - [justin025/onthespot](https://github.com/justin025/onthespot) - A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More
-- [soggy8/music-downloader](https://github.com/soggy8/music-downloader) - 🎵 Search Spotify and download music from YouTube to your Navidrome server with automatic metadata tagging
+- [soggy8/musikat](https://github.com/soggy8/musikat) - 🎵 Search Spotify and download music from YouTube to your Navidrome server with automatic metadata tagging
 - [the-useless-one/pywerview](https://github.com/the-useless-one/pywerview) - A (partial) Python rewriting of PowerSploit's PowerView
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) - Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  AniList, TMDb, MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
@@ -1468,7 +1468,6 @@
 - [cgtobi/netatmo_custom](https://github.com/cgtobi/netatmo_custom) - This repo is a custom component from the beta version of the official HA netatmo component
 - [xcp-ng/xcp](https://github.com/xcp-ng/xcp) - Entry point for issues and wiki. Also contains some scripts and sources.
 - [biemster/FindMy](https://github.com/biemster/FindMy) - Query Apple's Find My network
-- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [asdcorp/psfextract](https://github.com/asdcorp/psfextract) - Microsoft PSTREAM File Extractor
 - [hg1337/homeassistant-dwd](https://github.com/hg1337/homeassistant-dwd) - Custom component for Home Assistant that integrates weather data (measurements and forecasts) of Deutscher Wetterdienst (DWD).
 - [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd) - SABnzbd - The automated Usenet download tool
@@ -1656,7 +1655,6 @@
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [karimhabush/cyberowl](https://github.com/karimhabush/cyberowl) - A daily updated summary of the most frequent types of security advisories currently being reported from different sources.
 - [RPiList/specials](https://github.com/RPiList/specials) - Schutz vor Fakeshops, Werbung, Tracking und anderen Angriffen aus dem Internet
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [jarulsamy/Plex-Bot](https://github.com/jarulsamy/Plex-Bot) - A Plex discord music bot.
 - [ShokoAnime/ShokoOnPlex](https://github.com/ShokoAnime/ShokoOnPlex) - Repository for Shoko On Plex, a Plex channel plugin.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -1743,7 +1741,7 @@
 ## Rust 
 
 - [FlyinPancake/yoink](https://github.com/FlyinPancake/yoink) - yoink is a self-hosted music library manager that supports multiple metadata sources
-- [ruvnet/RuVector](https://github.com/ruvnet/RuVector) - RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.
+- [ruvnet/RuVector](https://github.com/ruvnet/RuVector) - RuVector is a High Performance, Real-Time, Self-Learning, Vector GNN, Memory DB built in Rust.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [ereinaimer/iris](https://github.com/ereinaimer/iris) - A fast, minimal, config-driven file management engine built in Rust
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
@@ -1967,7 +1965,7 @@
 - [christt105/jellytags](https://github.com/christt105/jellytags) - Website to batch edit tags in Jellyfin
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
 - [Framerrr/Framerr](https://github.com/Framerrr/Framerr) - Self-hosted homelab dashboard. Drag-and-drop widgets, easy integration with Plex/Sonarr/Radarr and more, dashboard templates, mobile support. Multi-user support with easy widget sharing.
-- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier) - automatically verify your age on discord, twitch, kick, quora and more (k-id)
 - [ObsidianIRC/ObsidianIRC](https://github.com/ObsidianIRC/ObsidianIRC) - Modern IRC Client for the web, desktop and mobile.
 - [ada-bee/jellyfin-iina](https://github.com/ada-bee/jellyfin-iina) - IINA plugin for browsing and watching content from your Jellyfin server.
@@ -2175,6 +2173,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
