@@ -333,7 +333,6 @@
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [JellyBookOrg/JellyBook](https://github.com/JellyBookOrg/JellyBook) - A nice way to read books and comics from Jellyfin
 - [Clon1998/mobileraker](https://github.com/Clon1998/mobileraker) - A Flutter mobile app for Klipper/Moonraker
-- [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) - The Ultimate Open-Source VPN, Ad-blocker and DNS resolver :llama::shield:
 - [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 - [jagandeepbrar/lunasea](https://github.com/jagandeepbrar/lunasea) - Self-hosted software controller built using Flutter
@@ -658,6 +657,7 @@
 ## JavaScript 
 
 - [bushrangerlabs/zigbee2hass](https://github.com/bushrangerlabs/zigbee2hass) - 
+- [microsoft/agent-academy](https://github.com/microsoft/agent-academy) - Curated lessons on getting started building agents with Copilot Studio
 - [Sir-Scuzza/gluetun-webui](https://github.com/Sir-Scuzza/gluetun-webui) - 
 - [lklynet/aurral](https://github.com/lklynet/aurral) - Artist Discovery and Request Manager for Lidarr
 - [selkies-project/sealskin](https://github.com/selkies-project/sealskin) - A self-hosted platform for streaming containerized desktop applications to your browser, providing secure workload isolation and remote file handling.
@@ -802,7 +802,6 @@
 - [go-vikunja/desktop](https://github.com/go-vikunja/desktop) - Mirror of vikunja desktop from https://code.vikunja.io/desktop
 - [bchiang7/spotify-profile](https://github.com/bchiang7/spotify-profile) - A web app for visualizing personalized Spotify data built with React, Express, and the Spotify API
 - [CTK-WARRIOR/Auto-Translator-For-Discord](https://github.com/CTK-WARRIOR/Auto-Translator-For-Discord) - This bot will auto translate your message as soon as it identify your langauge.
-- [nullabork/talkbot](https://github.com/nullabork/talkbot) - Text-to-speech and translation bot for Discord
 - [saiteja-madha/discord-js-bot](https://github.com/saiteja-madha/discord-js-bot) - 🤖 Multipurpose discord bot built using discord.js v14 with moderation, music, ticketing, translation, and much more
 - [moom0o/GoogleEarthDownloader](https://github.com/moom0o/GoogleEarthDownloader) - Download the entirety of Google Earth!
 - [Fmstrat/plex-cluster](https://github.com/Fmstrat/plex-cluster) - Synchronizes the watched and timeline status between any number of Plex servers all using standard Plex APIs.
@@ -1105,7 +1104,6 @@
 
 ## PowerShell 
 
-- [microsoft/agent-academy](https://github.com/microsoft/agent-academy) - Curated lessons on getting started building agents with Copilot Studio
 - [fscorrupt/Toolbox](https://github.com/fscorrupt/Toolbox) - Just bunch of scripts i created, feel free to use them!
 - [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 - [jorgeasaurus/IntuneHydrationKit](https://github.com/jorgeasaurus/IntuneHydrationKit) - Quick way to import starter configs into Intune
@@ -1322,6 +1320,8 @@
 
 ## Python 
 
+- [stevezau/plex_generate_vid_previews](https://github.com/stevezau/plex_generate_vid_previews) - GPU-accelerated video preview thumbnail (BIF) generation for Plex Media Server. Docker-ready with NVIDIA/AMD/Intel support, web UI, scheduling, and Radarr/Sonarr webhooks.
+- [sdblepas/CinePlete](https://github.com/sdblepas/CinePlete) - plex-audit
 - [analytix-energy-solutions/ticker](https://github.com/analytix-energy-solutions/ticker) - Smart notification management for Home Assistant. Centralized routing, user subscriptions, smart delivery.
 - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
 - [FLOCK4H/Freeway](https://github.com/FLOCK4H/Freeway) - WiFi Penetration Testing & Auditing Tool
@@ -1339,7 +1339,7 @@
 - [daya0576/nightwatcher](https://github.com/daya0576/nightwatcher) - Web-based IP camera viewer for fast, simple streaming in any browser 🦇
 - [maxxfly/extrarrfin](https://github.com/maxxfly/extrarrfin) - ExtrarrFin - download extra episodes (featurette, etc)
 - [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) - "Paper2Slides: From Paper to Presentation in One Click"
-- [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Sonarr & Radarr Media Library Insights
+- [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Media Library Insights
 - [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
 - [migueldemoura/myazo](https://github.com/migueldemoura/myazo) - Self-hosted, cross-platform Gyazo alternative
 - [rubensbraz/LogicPaper](https://github.com/rubensbraz/LogicPaper) - Batch document generation engine. Transforms raw Excel data into high-fidelity PDF, Word, and PowerPoint reports using Jinja2 templates and Headless LibreOffice. Features robust logic strategies, priv
@@ -1586,7 +1586,6 @@
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
 - [nautobot/nautobot](https://github.com/nautobot/nautobot) - Network Source of Truth & Network Automation Platform
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
-- [TomBursch/kitchenowl-backend](https://github.com/TomBursch/kitchenowl-backend) - Backend for the KitchenOwl app.
 - [sabeechen/hassio-google-drive-backup](https://github.com/sabeechen/hassio-google-drive-backup) - Automatically create and sync Home Assistant backups into Google Drive
 - [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader) - A command-line tool to download manga from MangaDex, written in Python.
 - [aelfa/Mr.Holmes](https://github.com/aelfa/Mr.Holmes) - :mag: A Complete Osint Tool
@@ -1967,6 +1966,7 @@
 
 ## TypeScript 
 
+- [stirling-image/stirling-image](https://github.com/stirling-image/stirling-image) - Stirling-PDF but for images. 30+ tools and local AI in a single Docker container - resize, compress, remove backgrounds, upscale, OCR, and more. No cloud, no telemetry. Your images never leave your ma
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
@@ -2202,6 +2202,7 @@
 - [fr3fou/discord-mutual-friends](https://github.com/fr3fou/discord-mutual-friends) - visualising discord mutual friends in 3d space
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
+- [nullabork/talkbot](https://github.com/nullabork/talkbot) - Text-to-speech and translation bot for Discord
 - [LukeChannings/moviematch](https://github.com/LukeChannings/moviematch) - MovieMatch for Plex
 - [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
