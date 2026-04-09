@@ -1321,6 +1321,7 @@
 
 ## Python 
 
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [stevezau/plex_generate_vid_previews](https://github.com/stevezau/plex_generate_vid_previews) - GPU-accelerated video preview thumbnail (BIF) generation for Plex Media Server. Docker-ready with NVIDIA/AMD/Intel support, web UI, scheduling, and Radarr/Sonarr webhooks.
 - [sdblepas/CinePlete](https://github.com/sdblepas/CinePlete) - plex-audit
 - [analytix-energy-solutions/ticker](https://github.com/analytix-energy-solutions/ticker) - Smart notification management for Home Assistant. Centralized routing, user subscriptions, smart delivery.
@@ -1507,7 +1508,6 @@
 - [x1ao4/edition-manager-for-plex](https://github.com/x1ao4/edition-manager-for-plex) - Plex 电影版本（Edition）管理工具 - Movie Edition Management Tool for Plex
 - [Py-KMS-Organization/py-kms](https://github.com/Py-KMS-Organization/py-kms) - KMS Server Emulator written in Python
 - [s-allius/tsun-gen3-proxy](https://github.com/s-allius/tsun-gen3-proxy) - This proxy enables a reliable connection between TSUN inverters (eg. TSOL MS800, MS2000, MS3000), batteries (TSOL DC1000) and an MQTT broker in order to integrate them into typical home automation sys
-- [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) - This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC's activity snapshots.
 - [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Agent Framework For Fintech and Banks
 - [Doubiiu/ToonCrafter](https://github.com/Doubiiu/ToonCrafter) - [SIGGRAPH Asia 2024, Journal Track] ToonCrafter: Generative Cartoon Interpolation
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
