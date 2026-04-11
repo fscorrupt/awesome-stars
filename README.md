@@ -911,6 +911,7 @@
 
 ## Others 
 
+- [rusty4444/coming-soon-card](https://github.com/rusty4444/coming-soon-card) - A cinematic Home Assistant card showing upcoming movies and TV episodes from Radarr and Sonarr
 - [olli991/Kometa-overlay](https://github.com/olli991/Kometa-overlay) - Customized fork of jmxd overlays
 - [skibidirizzi/TindarrLegacy](https://github.com/skibidirizzi/TindarrLegacy) - WebUI program to allow collaboration between users to decide on movies to add to radarr.
 - [SgtBatten/HA_blueprints](https://github.com/SgtBatten/HA_blueprints) - Somewhere to store automation blueprints
@@ -1934,7 +1935,7 @@
 - [LekoArts/annum](https://github.com/LekoArts/annum) - Visualize Your Trakt.tv History
 - [ofkm/svelocker-ui](https://github.com/ofkm/svelocker-ui) - A Simple and Modern Docker Registry UI built with Typescript, and SvelteKit
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
-- [open-webui/extension](https://github.com/open-webui/extension) - WIP: Open WebUI Chrome Extension (Requires Open WebUI v0.2.0+)
+- [open-webui/extension](https://github.com/open-webui/extension) - Deprecated; Please use https://github.com/open-webui/desktop instead
 - [brunostjohn/perplexideez](https://github.com/brunostjohn/perplexideez) - Search the web and your self-hosted apps using local AI agents.
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 - [Alia5/lovelace-expander-card](https://github.com/Alia5/lovelace-expander-card) - Expander card for HomeAssistant
