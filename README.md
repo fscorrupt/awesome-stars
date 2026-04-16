@@ -1323,6 +1323,7 @@
 
 ## Python 
 
+- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin and/or Plex to analyze and manage your content. Functions similarly to Seerr (in reverse), providin
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [stevezau/plex_generate_vid_previews](https://github.com/stevezau/plex_generate_vid_previews) - GPU-accelerated video preview thumbnail (BIF) generation for Plex Media Server. Docker-ready with NVIDIA/AMD/Intel support, web UI, scheduling, and Radarr/Sonarr webhooks.
 - [sdblepas/CinePlete](https://github.com/sdblepas/CinePlete) - plex-audit
@@ -1509,7 +1510,7 @@
 - [x1ao4/edition-manager-for-plex](https://github.com/x1ao4/edition-manager-for-plex) - Plex 电影版本（Edition）管理工具 - Movie Edition Management Tool for Plex
 - [Py-KMS-Organization/py-kms](https://github.com/Py-KMS-Organization/py-kms) - KMS Server Emulator written in Python
 - [s-allius/tsun-gen3-proxy](https://github.com/s-allius/tsun-gen3-proxy) - This proxy enables a reliable connection between TSUN inverters (eg. TSOL MS800, MS2000, MS3000), batteries (TSOL DC1000) and an MQTT broker in order to integrate them into typical home automation sys
-- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Agent Framework For Fintech and Banks
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Build autonomous AI agents in Python.
 - [Doubiiu/ToonCrafter](https://github.com/Doubiiu/ToonCrafter) - [SIGGRAPH Asia 2024, Journal Track] ToonCrafter: Generative Cartoon Interpolation
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [croneter/PlexKodiConnect](https://github.com/croneter/PlexKodiConnect) - Plex integration in Kodi done right
@@ -1741,7 +1742,7 @@
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
 - [Eigenfocus/eigenfocus](https://github.com/Eigenfocus/eigenfocus) - Eigenfocus - Project Management tool without the clutter.
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
-- [TheOdinProject/theodinproject](https://github.com/TheOdinProject/theodinproject) - Main Website for The Odin Project
+- [TheOdinProject/theodinproject](https://github.com/TheOdinProject/theodinproject) - Main website for The Odin Project
 - [Gueils/whales](https://github.com/Gueils/whales) - :whale: Tool to automatically dockerize your application.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.
@@ -1969,6 +1970,7 @@
 
 ## TypeScript 
 
+- [2GT-Media-Group-LLC/mikrotik-manager](https://github.com/2GT-Media-Group-LLC/mikrotik-manager) - A self-hosted, full-stack network management platform for MikroTik devices. Monitor, configure, and manage your entire MikroTik infrastructure — routers, switches, and wireless access points — from a 
 - [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [ashim-hq/ashim](https://github.com/ashim-hq/ashim) - Stirling-PDF but for images. 30+ tools and local AI in a single Docker container - resize, compress, remove backgrounds, upscale, OCR, and more. No cloud, no telemetry. Your images never leave your ma
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
