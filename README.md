@@ -125,7 +125,6 @@
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [samyk/pwnat](https://github.com/samyk/pwnat) - The only tool/technique to punch holes through firewalls/NATs where multiple clients & server can be behind separate NATs without any 3rd party involvement. Pwnat is a newly developed technique, explo
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
-- [wirow-io/wirow-server](https://github.com/wirow-io/wirow-server) - A full featured self-hosted video web-conferencing platform.
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [ipxe/ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
@@ -751,6 +750,7 @@
 - [openappsec/open-appsec-npm](https://github.com/openappsec/open-appsec-npm) - Docker container for managing Nginx proxy hosts with a simple, powerful interface including open-appsec support
 - [Stirling-Tools/Stirling-Tools.github.io](https://github.com/Stirling-Tools/Stirling-Tools.github.io) - Documentation for Stirling-PDF
 - [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
+- [awattar-backtesting/awattar-backtesting.github.io](https://github.com/awattar-backtesting/awattar-backtesting.github.io) - A tool to visualize your electricity usage with aWATTar
 - [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
 - [ShaneIsrael/fireshare](https://github.com/ShaneIsrael/fireshare) - Self host your media and share with unique links
 - [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
@@ -1114,6 +1114,7 @@
 
 ## PowerShell 
 
+- [fscorrupt/IntuneInspector](https://github.com/fscorrupt/IntuneInspector) - A fast, read-only PowerShell UI tool for deep-searching, auditing, and navigating Microsoft Intune policies and group assignments via the Graph API.
 - [CDRT/Library](https://github.com/CDRT/Library) - Scripts and files to share
 - [fscorrupt/Toolbox](https://github.com/fscorrupt/Toolbox) - Just bunch of scripts i created, feel free to use them!
 - [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
@@ -1331,6 +1332,7 @@
 
 ## Python 
 
+- [wuwentao/midea_ac_lan](https://github.com/wuwentao/midea_ac_lan) - Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.
 - [boludo00/bookkeep](https://github.com/boludo00/bookkeep) - 
 - [krissen/polleninformation](https://github.com/krissen/polleninformation) - Integration for homeassistant, creating sensors based on polleninformation.eu
 - [fscorrupt/AniMetaFill](https://github.com/fscorrupt/AniMetaFill) - Generates YAML configuration files for Kometa to automatically add filler and canon overlays to your Plex Anime library.
@@ -1546,7 +1548,6 @@
 - [GetWVKeys/getwvkeys](https://github.com/GetWVKeys/getwvkeys) - Official repository for getwvkeys.cc
 - [I-am-PUID-0/pd_zurg](https://github.com/I-am-PUID-0/pd_zurg) - A combined docker image for the unified deployment of itsToggle's, yowmamasita's, and ncw's projects -- plex_debrid, zurg, and rclone
 - [bibanon/tubeup](https://github.com/bibanon/tubeup) - Use yt-dlp to download video/metadata and upload to the Internet Archive.
-- [awattar-backtesting/awattar-backtesting.github.io](https://github.com/awattar-backtesting/awattar-backtesting.github.io) - A tool to visualize your electricity usage with aWATTar
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
 - [meeb/tubesync](https://github.com/meeb/tubesync) - Syncs YouTube channels and playlists to a locally hosted media server
@@ -1983,10 +1984,13 @@
 
 ## TypeScript 
 
+- [WJDDesigns/Ultra-Card](https://github.com/WJDDesigns/Ultra-Card) - A powerful modular card builder for Home Assistant that lets you create custom layouts with a professional page-builder interface.
+- [MelleD/lovelace-expander-card](https://github.com/MelleD/lovelace-expander-card) - Expander card for HomeAssistant
+- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - A graphical server OS optimized for self-hosting
 - [iuliandita/digarr](https://github.com/iuliandita/digarr) - AI-powered music discovery for your *arr stack. Analyzes listening history, discovers artists through a 7-stage AI pipeline, scores and ranks them, and learns from your feedback. Supports Lidarr, Spot
 - [2GT-Media-Group-LLC/mikrotik-manager](https://github.com/2GT-Media-Group-LLC/mikrotik-manager) - A self-hosted, full-stack network management platform for MikroTik devices. Monitor, configure, and manage your entire MikroTik infrastructure — routers, switches, and wireless access points — from a 
 - [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - A Self Hosted Image Manipulator - 45+ tools, local AI, and pipelines in a single Docker container. No cloud, no telemetry. Your images never leave your machine.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - A Self Hosted Image Manipulator - 45+ tools, local AI, and pipelines in a single Docker container. No cloud, 100% Local. Your images never leave your machine.
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
