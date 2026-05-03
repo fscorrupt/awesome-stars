@@ -153,7 +153,7 @@
 - [s1t5/mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration  and a dashboard.
 - [tubearchivist/tubearchivist-jf-plugin](https://github.com/tubearchivist/tubearchivist-jf-plugin) - Metadata for your TubeArchivist library on Jellyfin.
 - [SMSAgentSoftware/QuietShell](https://github.com/SMSAgentSoftware/QuietShell) - Execute PowerShell scripts or commands silently with no console window
-- [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Cleanuparr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent, Deluge and Transmission.
+- [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Advanced download manager for the Servarr ecosystem
 - [seerge/g-helper](https://github.com/seerge/g-helper) - G-Helper is a fast, native tool for tuning performance, fans, GPU, battery, and RGB on any Asus laptop or handheld - ROG Zephyrus, Flow, Strix, TUF, Vivobook, Zenbook, ProArt, Ally, and beyond.
 - [mdgrs-mei/WinUIShell](https://github.com/mdgrs-mei/WinUIShell) - Scripting WinUI 3 with PowerShell
 - [Akronae/windows_media_ocr_cli](https://github.com/Akronae/windows_media_ocr_cli) - 🔎 OCR CLI that outputs structured data with bounding rects using local Windows OCR API
