@@ -154,7 +154,7 @@
 - [tubearchivist/tubearchivist-jf-plugin](https://github.com/tubearchivist/tubearchivist-jf-plugin) - Metadata for your TubeArchivist library on Jellyfin.
 - [SMSAgentSoftware/QuietShell](https://github.com/SMSAgentSoftware/QuietShell) - Execute PowerShell scripts or commands silently with no console window
 - [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Advanced download manager for the Servarr ecosystem
-- [seerge/g-helper](https://github.com/seerge/g-helper) - G-Helper is a fast, native tool for tuning performance, fans, GPU, battery, and RGB on any Asus laptop or handheld - ROG Zephyrus, Flow, Strix, TUF, Vivobook, Zenbook, ProArt, Ally, and beyond.
+- [seerge/g-helper](https://github.com/seerge/g-helper) - Fast, native tool for tuning performance, fans, GPU, battery, and RGB on any Asus laptop or handheld - ROG Zephyrus, Flow, Strix, TUF, Vivobook, Zenbook, ProArt, Ally, and beyond.
 - [mdgrs-mei/WinUIShell](https://github.com/mdgrs-mei/WinUIShell) - Scripting WinUI 3 with PowerShell
 - [Akronae/windows_media_ocr_cli](https://github.com/Akronae/windows_media_ocr_cli) - 🔎 OCR CLI that outputs structured data with bounding rects using local Windows OCR API
 - [cschneegans/unattend-generator](https://github.com/cschneegans/unattend-generator) - .NET Core library to create highly customized autounattend.xml files
@@ -439,7 +439,7 @@
 - [autobrr/dashbrr](https://github.com/autobrr/dashbrr) - A sleek, modern dashboard for monitoring and managing your media stack services.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
-- [sirrobot01/decypharr](https://github.com/sirrobot01/decypharr) - A Qbittorent Mock with Debrid Support
+- [sirrobot01/decypharr](https://github.com/sirrobot01/decypharr) - Media gateway for Debrid & Usenet.
 - [apache/casbin-gateway](https://github.com/apache/casbin-gateway) - Casbin AI & MCP security gateway for HTTP, online demo: https://door.caswaf.com
 - [autobrr/omegabrr](https://github.com/autobrr/omegabrr) - Omegabrr transforms monitored shows, movies, books and music from arrs into autobrr filters. It also supports adding titles from custom lists to autobrr filters.
 - [5rahim/seanime](https://github.com/5rahim/seanime) - Open-source media server with a web interface and desktop app for anime and manga.
@@ -1345,6 +1345,7 @@
 - [FLOCK4H/Freeway](https://github.com/FLOCK4H/Freeway) - WiFi Penetration Testing & Auditing Tool
 - [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+- [frederikemmer/MediaLyze](https://github.com/frederikemmer/MediaLyze) - Self-hosted media library analysis for large video collections
 - [sahara101/Movie-Roulette](https://github.com/sahara101/Movie-Roulette) - Docker App which chooses a random movie from your movie library.
 - [ganhammar/hass-oidc-server](https://github.com/ganhammar/hass-oidc-server) - A Home Assistant custom component that turns your Home Assistant instance into a fully functional OpenID Connect (OIDC) server
 - [V33RU/CommandInWiFi-Zeroclick](https://github.com/V33RU/CommandInWiFi-Zeroclick) - CommandInWiFi: Exploiting SSID Storage in WiFi Scanning for Command Injection
@@ -1768,7 +1769,7 @@
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 - [FlyinPancake/yoink](https://github.com/FlyinPancake/yoink) - yoink is a self-hosted music library manager that supports multiple metadata sources
 - [ruvnet/RuVector](https://github.com/ruvnet/RuVector) - RuVector is a High Performance, Real-Time, Self-Learning Ai, Vector GNN, Memory DB built in Rust.
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [ereinaimer/iris](https://github.com/ereinaimer/iris) - A fast, minimal, config-driven file management engine built in Rust
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [LLukas22/Jellyswarrm](https://github.com/LLukas22/Jellyswarrm) - Bring all your Jellyfin servers together
@@ -1998,7 +1999,6 @@
 - [zbejas/orbiscast](https://github.com/zbejas/orbiscast) - A Discord IPTV streaming bot.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-- [frederikemmer/MediaLyze](https://github.com/frederikemmer/MediaLyze) - Self-hosted media library analysis for large video collections
 - [Oghamark/Authentication](https://github.com/Oghamark/Authentication) - Authentication microservice written with NestJS
 - [Oghamark/homebranch-web](https://github.com/Oghamark/homebranch-web) - A self-hosted e-book management platform
 - [Oghamark/homebranch](https://github.com/Oghamark/homebranch) - A self-hosted e-book management platform
