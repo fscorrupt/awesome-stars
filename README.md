@@ -373,6 +373,7 @@
 
 ## Elixir 
 
+- [getmydia/mydia](https://github.com/getmydia/mydia) - Your personal media companion, built with Phoenix LiveView
 - [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager
 - [ClaperCo/Claper](https://github.com/ClaperCo/Claper) - 👋 The ultimate tool to interact with your audience
 - [midarrlabs/midarr-server](https://github.com/midarrlabs/midarr-server) - 🔥Midarr, the minimal lightweight media server.
@@ -571,6 +572,7 @@
 
 ## HTML 
 
+- [chr0nzz/traefik-manager](https://github.com/chr0nzz/traefik-manager) - A clean, self-hosted web UI for managing your Traefik reverse proxy.
 - [MorganKryze/JellyFlare](https://github.com/MorganKryze/JellyFlare) - Put announcements where your users will actually see them; a customisable banner at the top of Jellyfin, with rotating messages, scheduling, and link support.
 - [l4rm4nd/MemeLord](https://github.com/l4rm4nd/MemeLord) - A taggable image meme board written in Python Django with OIDC SSO and S3 support.
 - [l4rm4nd/VoucherVault](https://github.com/l4rm4nd/VoucherVault) - Django web application to store and manage vouchers, coupons, loyalty and gift cards digitally. Supports PWA, offline caching, expiry notifications, transaction histories, file uploads and OIDC SSO.
@@ -635,6 +637,7 @@
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [eddyizm/tempus](https://github.com/eddyizm/tempus) - An open source and lightweight music client for Subsonic, designed and built natively for Android.
 - [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
+- [transistorsoft/cordova-background-geolocation-lt](https://github.com/transistorsoft/cordova-background-geolocation-lt) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
 - [olistudent/FBEditor](https://github.com/olistudent/FBEditor) - Programm zum Editieren der Konfigurationsdatei einer Fritz!Box
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [PaperMC/Velocity](https://github.com/PaperMC/Velocity) - The modern, next-generation Minecraft server proxy.
@@ -654,6 +657,7 @@
 
 ## JavaScript 
 
+- [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas) - Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.
 - [cbulock/lovelace-battery-entity](https://github.com/cbulock/lovelace-battery-entity) - A custom Lovelace component for displaying battery levels for battery entities
 - [onceuponatime78/ha-travelroute-card](https://github.com/onceuponatime78/ha-travelroute-card) - Custom Lovelace card for Home Assistant: visualise vehicle GPS travel history on an interactive map with road-accurate OSRM routing and park stop detection
 - [cataseven/Google-Map-Card](https://github.com/cataseven/Google-Map-Card) - Google Maps Card for Home Assistant
@@ -909,7 +913,6 @@
 
 ## Objective-C 
 
-- [transistorsoft/cordova-background-geolocation-lt](https://github.com/transistorsoft/cordova-background-geolocation-lt) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 
 ## Others 
@@ -1076,7 +1079,6 @@
 - [HaschekSolutions/pictshare](https://github.com/HaschekSolutions/pictshare) - :camera: PictShare is an open source image, mp4, pastebin hosting service with a simple resizing and upload API that you can host yourself. :rice_scene:
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies
 - [karlomikus/bar-assistant](https://github.com/karlomikus/bar-assistant) - Bar assistant is a all-in-one solution for managing your home bar
-- [farisc0de/Uploady](https://github.com/farisc0de/Uploady) - Simple File Uploading Software
 - [fr0tt/benotes](https://github.com/fr0tt/benotes) - An open source self hosted notes and bookmarks taking web app.
 - [proconsule/nspindexer](https://github.com/proconsule/nspindexer) - PHP Indexer for Switch NSP
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
@@ -1328,6 +1330,7 @@
 
 ## Python 
 
+- [totaldebug/armadarr](https://github.com/totaldebug/armadarr) - A home assistant integration for managing all Arr platforms
 - [thecfu/scraparr](https://github.com/thecfu/scraparr) - Scraparr is a Prometheus Exporter for various components of the *arr Suite
 - [wuwentao/midea_ac_lan](https://github.com/wuwentao/midea_ac_lan) - Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.
 - [boludo00/bookkeep](https://github.com/boludo00/bookkeep) - 
@@ -1982,6 +1985,7 @@
 
 ## TypeScript 
 
+- [totaldebug/armadarr-card](https://github.com/totaldebug/armadarr-card) - A Home Assistant Lovelace card to display Armadarr upcoming and wanted media
 - [WJDDesigns/Ultra-Card](https://github.com/WJDDesigns/Ultra-Card) - A powerful modular card builder for Home Assistant that lets you create custom layouts with a professional page-builder interface.
 - [MelleD/lovelace-expander-card](https://github.com/MelleD/lovelace-expander-card) - Expander card for HomeAssistant
 - [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - A graphical server OS optimized for self-hosting
