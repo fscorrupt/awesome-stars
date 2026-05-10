@@ -142,7 +142,7 @@
 - [mrsilver76/shelfscan](https://github.com/mrsilver76/shelfscan) - A cross-platform command-line tool (Windows, Linux, macOS) for scanning a media library and reporting on Plex naming compliance.
 - [mutantmarine/UnofficialKometaGUI](https://github.com/mutantmarine/UnofficialKometaGUI) - 
 - [GermanCoding/SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / launcher for Syncthing (v2 continued)
-- [aelassas/servy](https://github.com/aelassas/servy) - Run Any App as a Native Windows Service - Modern Alternative to NSSM, WinSW & FireDaemon Pro
+- [aelassas/servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Deep Observability - Modern Alternative to NSSM, WinSW & FireDaemon Pro
 - [wariv/DarkLnk](https://github.com/wariv/DarkLnk) - Build sneaky & malicious LNK files.
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [n00bcodr/JellyfinTweaks](https://github.com/n00bcodr/JellyfinTweaks) - A Jellyfin Plugin to force a few settings without modification of any web files.
@@ -1985,13 +1985,14 @@
 
 ## TypeScript 
 
+- [LukeSteward/JayQuery](https://github.com/LukeSteward/JayQuery) - 
 - [totaldebug/armadarr-card](https://github.com/totaldebug/armadarr-card) - A Home Assistant Lovelace card to display Armadarr upcoming and wanted media
 - [WJDDesigns/Ultra-Card](https://github.com/WJDDesigns/Ultra-Card) - A powerful modular card builder for Home Assistant that lets you create custom layouts with a professional page-builder interface.
 - [MelleD/lovelace-expander-card](https://github.com/MelleD/lovelace-expander-card) - Expander card for HomeAssistant
 - [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - A graphical server OS optimized for self-hosting
 - [iuliandita/digarr](https://github.com/iuliandita/digarr) - AI-powered music discovery for your *arr stack. Analyzes listening history, discovers artists through a 7-stage AI pipeline, scores and ranks them, and learns from your feedback. Supports Lidarr, Spot
 - [2GT-Media-Group-LLC/mikrotik-manager](https://github.com/2GT-Media-Group-LLC/mikrotik-manager) - A self-hosted, full-stack network management platform for MikroTik devices. Monitor, configure, and manage your entire MikroTik infrastructure — routers, switches, and wireless access points — from a 
-- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
+- [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - A Self Hosted Image Manipulator - 45+ tools, local AI, and pipelines in a single Docker container. No cloud, 100% Local. Your images never leave your home.
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
