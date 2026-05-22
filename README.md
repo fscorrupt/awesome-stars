@@ -584,7 +584,6 @@
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [snodecoder/Intune-Settings-Catalog-Documentation](https://github.com/snodecoder/Intune-Settings-Catalog-Documentation) - Documentation for Intune's Settings Catalog: Describes all possible settings with description/explanation
 - [origamivault/origamivault](https://github.com/origamivault/origamivault) - Encrypted Paper Storage
-- [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
 - [jma1ice/newsletterr](https://github.com/jma1ice/newsletterr) - newsletterr is an email tool for server admins. Reach your users with Tautulli information and recommendations from conjurr
 - [duplaja/kavita-reading-log](https://github.com/duplaja/kavita-reading-log) - Generates a static Kavita reading log one-page site
 - [11notes/docker-kms-gui](https://github.com/11notes/docker-kms-gui) - Activate any version of Windows and Office, forever
@@ -931,7 +930,7 @@
 - [SgtBatten/HA_blueprints](https://github.com/SgtBatten/HA_blueprints) - Somewhere to store automation blueprints
 - [Schischu/hello_fresh_gewuerze](https://github.com/Schischu/hello_fresh_gewuerze) - Hello Fresh Gewürze
 - [langgptai/LLM-Jailbreaks](https://github.com/langgptai/LLM-Jailbreaks) - LLM Jailbreaks, ChatGPT, Claude, Llama, DAN Prompts, Prompt Leaking
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [MathiasFurenes/synology-arr-guide](https://github.com/MathiasFurenes/synology-arr-guide) - Full guide for all -arr apps inside synology on docker
 - [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social m
 - [11notes/RTFM](https://github.com/11notes/RTFM) - read the fucking manual!
