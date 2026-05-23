@@ -1294,7 +1294,7 @@
 - [OSDeploy/OSD](https://github.com/OSDeploy/OSD) - PowerShell Module OSD
 - [AdamGrossTX/Intune.Reporting](https://github.com/AdamGrossTX/Intune.Reporting) - Create shiny reports for your boss - with PowerShell!
 - [tabs-not-spaces/Intune.Reporting](https://github.com/tabs-not-spaces/Intune.Reporting) - Create shiny reports for your boss - with PowerShell!
-- [PhrozenIO/PowerRemoteDesktop](https://github.com/PhrozenIO/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
+- [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
 - [mmelkersen/EndpointManager](https://github.com/mmelkersen/EndpointManager) - 
 - [1-chris/Powershell-Discord-Bot](https://github.com/1-chris/Powershell-Discord-Bot) - 100% powershell discord gateway websocket bot
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
@@ -1422,7 +1422,7 @@
 - [RazgrizHsu/immich-deduper](https://github.com/RazgrizHsu/immich-deduper) - duplicate photo finder for Immich - find and remove similar images
 - [jsharkey13/iphone_backup_decrypt](https://github.com/jsharkey13/iphone_backup_decrypt) - Decrypt an encrypted local iOS backup on Windows or MacOS
 - [helallao/perplexity-ai](https://github.com/helallao/perplexity-ai) - Unofficial API Wrapper for Perplexity.ai + Account Generator with Web Interface
-- [silkyclouds/PMDA](https://github.com/silkyclouds/PMDA) - AI-assisted music library matching, cleanup, playback, and discovery for large self-hosted collections.
+- [silkyclouds/PMDA](https://github.com/silkyclouds/PMDA) - PMDA (pronounced pimda) is a self-hosted music library app for matching, cleanup, playback, discovery, trusted imports, exports, and optional dedupe at scale.
 - [elfhosted/fakearr](https://github.com/elfhosted/fakearr) - An API to return a "fake" torrent or nzb, used with debridav and easynews
 - [primetime43/plexLocationBlock](https://github.com/primetime43/plexLocationBlock) - Block Plex streams via location
 - [better-ecosystem/better-control](https://github.com/better-ecosystem/better-control) - A simple control panel for linux based on the GTK framework
