@@ -66,7 +66,6 @@
 
 ## Astro 
 
-- [ellite/scrob](https://github.com/ellite/scrob) - Scrob - Self-hosted media tracking app. It syncs your libraries from Jellyfin, Plex, and Emby, tracks your watch history, ratings, and personal lists - Your own private Letterboxd + Trakt
 - [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
 ## AutoIt 
@@ -746,7 +745,6 @@
 - [ThomasTavernier/Improve-Crunchyroll](https://github.com/ThomasTavernier/Improve-Crunchyroll) - 
 - [remorses/docker-phobia](https://github.com/remorses/docker-phobia) - Analyze Docker images size
 - [nervetattoo/banner-card](https://github.com/nervetattoo/banner-card) - A fluffy banner card for Home Assistant 🥰
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [iantrich/list-card](https://github.com/iantrich/list-card) - 📰 Display sensor list data in a table
 - [dteviot/WebToEpub](https://github.com/dteviot/WebToEpub) - A simple Chrome (and Firefox) Extension that converts Web Novels (and other web pages) into an EPUB.
 - [benct/lovelace-xiaomi-vacuum-card](https://github.com/benct/lovelace-xiaomi-vacuum-card) - Simple card for various robot vacuums in Home Assistant's Lovelace UI
@@ -1349,6 +1347,7 @@
 - [valentinfrlch/ha-llmvision](https://github.com/valentinfrlch/ha-llmvision) - Visual intelligence for your home.
 - [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to
 - [ttlequals0/MinusPod](https://github.com/ttlequals0/MinusPod) - MinusPod is a self-hosted server that removes ads before you ever hit play
+- [ellite/scrob](https://github.com/ellite/scrob) - Scrob - Self-hosted media tracking app. It syncs your libraries from Jellyfin, Plex, and Emby, tracks your watch history, ratings, and personal lists - Your own private Letterboxd + Trakt
 - [totaldebug/armadarr](https://github.com/totaldebug/armadarr) - A home assistant integration for managing all Arr platforms
 - [thecfu/scraparr](https://github.com/thecfu/scraparr) - Scraparr is a Prometheus Exporter for various components of the *arr Suite
 - [wuwentao/midea_ac_lan](https://github.com/wuwentao/midea_ac_lan) - Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.
@@ -2173,6 +2172,7 @@
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra Launcher is an open-source gaming platform created to be the single tool that you need
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [FoxxMD/tautulli-notification-digest](https://github.com/FoxxMD/tautulli-notification-digest) - Consolidate Tautuilli Notification agent events for discord
 - [metoro-io/statusphere](https://github.com/metoro-io/statusphere) - Batteries included open-source api-first status page aggregator
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
