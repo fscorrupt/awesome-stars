@@ -66,6 +66,7 @@
 
 ## Astro 
 
+- [ellite/scrob](https://github.com/ellite/scrob) - Scrob - Self-hosted media tracking app. It syncs your libraries from Jellyfin, Plex, and Emby, tracks your watch history, ratings, and personal lists - Your own private Letterboxd + Trakt
 - [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
 ## AutoIt 
@@ -130,6 +131,7 @@
 
 ## C# # 
 
+- [TheIntroDB/emby-plugin](https://github.com/TheIntroDB/emby-plugin) - An Emby plugin to skip intros, recaps, and credits with TheIntroDB
 - [ZL154/JellyfinSecurity](https://github.com/ZL154/JellyfinSecurity) - A Jellyfin plugin that adds native two-factor authentication (TOTP, email OTP) with trusted device tokens, TV device pairing, LAN bypass, and API key bypass. Server-side enforcement — works with all c
 - [maxpiva/Kaizoku.NET](https://github.com/maxpiva/Kaizoku.NET) - Series Manager and Downloader, fork of the original Kaizoku
 - [CatNoir2006/jellyfin-plugin-MediathekViewDL](https://github.com/CatNoir2006/jellyfin-plugin-MediathekViewDL) - Ein Plugin mit dem Sendungen von den Mediatheken der Öffentlich Rechtlichen heruntergladen werden können.
@@ -321,6 +323,7 @@
 
 ## Dart 
 
+- [matthw-labs/seekarr](https://github.com/matthw-labs/seekarr) - 
 - [dddevid/Musly](https://github.com/dddevid/Musly) - A beautiful Flutter music streaming client for Subsonic-compatible servers with a modern Apple Music-inspired UI.
 - [rodonisi/kover](https://github.com/rodonisi/kover) - An unofficial cross-platform Kavita client
 - [7-USH/TeVe](https://github.com/7-USH/TeVe) - A cross platform free IPTv player developed for Android/IOS
@@ -662,6 +665,7 @@
 
 ## JavaScript 
 
+- [DumbWareio/DumbPad](https://github.com/DumbWareio/DumbPad) - A Dumb Pad with collaborative editing, fuzzy search, & markdown preview functionality
 - [sassanix/Warracker](https://github.com/sassanix/Warracker) - 🛡️ Warracker is an open source, self-hostable warranty tracker to monitor expirations, store receipts, files. You own the data, your rules!
 - [aspenmayer/bypass-paywalls-chrome-clean-magnolia1234](https://github.com/aspenmayer/bypass-paywalls-chrome-clean-magnolia1234) - Bypass Paywalls Clean for Chrome (no Google Analytics, lot of updates/bug-fixes and custom sites)
 - [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas) - Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.
@@ -717,7 +721,6 @@
 - [BobHasNoSoul/jellyfin-featured](https://github.com/BobHasNoSoul/jellyfin-featured) - add a featured content bar to the top of the jellyfin homepage with very little setup required.. you can also add custom lists for specific seasons etc.
 - [skarkkai/touch-mapper](https://github.com/skarkkai/touch-mapper) - Tactile map maker. Creates 3D or embosser printable files for requested OpenStreetMap areas.
 - [aaPanel/aaPanel](https://github.com/aaPanel/aaPanel) - Simple but Powerful web-based Control Panel
-- [DumbWareio/DumbPad](https://github.com/DumbWareio/DumbPad) - A Dumb Pad with collaborative editing, fuzzy search, & markdown preview functionality
 - [DumbWareio/DumbDrop](https://github.com/DumbWareio/DumbDrop) - dumb file dropper
 - [tsaridas/stremio-docker](https://github.com/tsaridas/stremio-docker) - Docker files for easy stremio server and client. Images pushed to Dockerhub
 - [Sanjeet990/Astroluma](https://github.com/Sanjeet990/Astroluma) - Astroluma is a feature-rich, user-friendly dashboard designed to help you manage multiple aspects of your daily tasks and services.
@@ -927,6 +930,7 @@
 
 ## Others 
 
+- [slimani-dev/muraqib](https://github.com/slimani-dev/muraqib) - A unified, developer-first homelab dashboard. Monitor and orchestrate your infrastructure, containers, and media from a single pane of glass.
 - [awiradilaga/lenovo-commercial-vantage-for-ltsc](https://github.com/awiradilaga/lenovo-commercial-vantage-for-ltsc) - Install Lenovo Commercial Vantage on Windows 11 IoT LTSC (No Microsoft Store)
 - [maxfok/nimbus-weather-card](https://github.com/maxfok/nimbus-weather-card) - Glassmorphic ethereal weather card - apple ios style
 - [rusty4444/coming-soon-card](https://github.com/rusty4444/coming-soon-card) - A cinematic Home Assistant card showing upcoming movies and TV episodes from Radarr and Sonarr
@@ -1347,7 +1351,6 @@
 - [valentinfrlch/ha-llmvision](https://github.com/valentinfrlch/ha-llmvision) - Visual intelligence for your home.
 - [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to
 - [ttlequals0/MinusPod](https://github.com/ttlequals0/MinusPod) - MinusPod is a self-hosted server that removes ads before you ever hit play
-- [ellite/scrob](https://github.com/ellite/scrob) - Scrob - Self-hosted media tracking app. It syncs your libraries from Jellyfin, Plex, and Emby, tracks your watch history, ratings, and personal lists - Your own private Letterboxd + Trakt
 - [totaldebug/armadarr](https://github.com/totaldebug/armadarr) - A home assistant integration for managing all Arr platforms
 - [thecfu/scraparr](https://github.com/thecfu/scraparr) - Scraparr is a Prometheus Exporter for various components of the *arr Suite
 - [wuwentao/midea_ac_lan](https://github.com/wuwentao/midea_ac_lan) - Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.
