@@ -136,7 +136,7 @@
 - [CatNoir2006/jellyfin-plugin-MediathekViewDL](https://github.com/CatNoir2006/jellyfin-plugin-MediathekViewDL) - Ein Plugin mit dem Sendungen von den Mediatheken der Öffentlich Rechtlichen heruntergladen werden können.
 - [mdgrs-mei/GliderUI](https://github.com/mdgrs-mei/GliderUI) - Cross-platform Desktop GUI framework for PowerShell powered by Avalonia
 - [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer
-- [Jellyfin2Samsung/Samsung-Jellyfin-Installer](https://github.com/Jellyfin2Samsung/Samsung-Jellyfin-Installer) - One-click install of Jellyfin on your Samsung TV — fully compatible with all Tizen versions!
+- [Apps2Samsung/Apps2Samsung](https://github.com/Apps2Samsung/Apps2Samsung) - One-click app installer for Samsung TVs, projectors and smart monitors (Tizen) — Jellyfin, Moonlight, and the whole community catalog.
 - [enoch85/bazarr-jellyfin](https://github.com/enoch85/bazarr-jellyfin) - Search and download subtitles directly from Jellyfin using your Bazarr instance.
 - [Iceshadow1404/TmdbMultiLanguage](https://github.com/Iceshadow1404/TmdbMultiLanguage) - 
 - [Listenarrs/Listenarr](https://github.com/Listenarrs/Listenarr) - Listenarr automates audiobook collection management similar to Sonarr or Radarr, but for audiobooks. It can search, download, and organize your library automatically using metadata from Audible and ot
@@ -229,7 +229,7 @@
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [drkno/pfs](https://github.com/drkno/pfs) - Mount any remote Plex server including ones you do not own as a local filesystem
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
-- [Macro-Deck-App/Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck) - Macro Deck transforms your phone, tablet, or any device equipped with a modern internet browser into an efficient remote macro pad. With this tool, you can execute single or multi-step actions seamles
+- [Macro-Deck-App/Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck) - Macro Deck is the open-source, customizable macro pad for your PC and mobile devices. Ideal for streamers, gamers, developers and power users!
 - [okieselbach/SyncMLViewer](https://github.com/okieselbach/SyncMLViewer) - A small real time SyncML protocol Viewer
 - [saltydk/SARotate](https://github.com/saltydk/SARotate) - 
 - [xfouloux/TraktToPlex](https://github.com/xfouloux/TraktToPlex) - Sync watched status from Trakt to Plex Media Server
@@ -2030,7 +2030,7 @@
 - [iuliandita/digarr](https://github.com/iuliandita/digarr) - AI-powered music discovery for your *arr stack. Analyzes listening history, discovers artists through a 7-stage AI pipeline, scores and ranks them, and learns from your feedback. Supports Lidarr, Spot
 - [2GT-Media-Group-LLC/mikrotik-manager](https://github.com/2GT-Media-Group-LLC/mikrotik-manager) - A self-hosted, full-stack network management platform for MikroTik devices. Monitor, configure, and manage your entire MikroTik infrastructure — routers, switches, and wireless access points — from a 
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - 🦦The open-source image toolkit that makes paid tools nervous. Every image tool you need. Your images stay yours.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - #1 Swiss army knife for images. Every image tool you'll ever need. Fully offline, 50+ tools, open source. Your images stay yours.
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
