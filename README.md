@@ -130,6 +130,7 @@
 
 ## C# # 
 
+- [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Saves Discord chat logs to a file
 - [TheIntroDB/emby-plugin](https://github.com/TheIntroDB/emby-plugin) - An Emby plugin to skip intros, recaps, and credits with TheIntroDB
 - [ZL154/JellyfinSecurity](https://github.com/ZL154/JellyfinSecurity) - A Jellyfin plugin that adds native two-factor authentication (TOTP, email OTP) with trusted device tokens, TV device pairing, LAN bypass, and API key bypass. Server-side enforcement — works with all c
 - [maxpiva/Kaizoku.NET](https://github.com/maxpiva/Kaizoku.NET) - Series Manager and Downloader, fork of the original Kaizoku
