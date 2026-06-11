@@ -321,6 +321,7 @@
 
 ## Dart 
 
+- [itsarjunsinh/elder_launcher](https://github.com/itsarjunsinh/elder_launcher) - A Launcher focused on simplicity and legibility. [04/2026: The project is active. A native Android version will be out this month.]
 - [matthw-labs/seekarr](https://github.com/matthw-labs/seekarr) - 
 - [dddevid/Musly](https://github.com/dddevid/Musly) - A beautiful Flutter music streaming client for Subsonic-compatible servers with a modern Apple Music-inspired UI.
 - [rodonisi/kover](https://github.com/rodonisi/kover) - An unofficial cross-platform Kavita client
@@ -663,6 +664,7 @@
 
 ## JavaScript 
 
+- [ytnrvdf/wha-spell-simulator](https://github.com/ytnrvdf/wha-spell-simulator) - A fan-made browser-based Witch Hat Atelier spell simulator.
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [0belous/Jellyfin-Universal-Plugin-Repo](https://github.com/0belous/Jellyfin-Universal-Plugin-Repo) - The Jellyfin universal plugin repository
 - [DumbWareio/DumbPad](https://github.com/DumbWareio/DumbPad) - A Dumb Pad with collaborative editing, fuzzy search, & markdown preview functionality
@@ -1078,7 +1080,7 @@
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [jeremehancock/Posteria](https://github.com/jeremehancock/Posteria) - Plex Media Poster Management App
 - [pyrohost/pyrodactyl](https://github.com/pyrohost/pyrodactyl) - Pyrodactyl is the Pterodactyl-based game server panel that's faster, smaller, safer, and more accessible than Pelican.
-- [robiningelbrecht/statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your Strava data.
+- [robiningelbrecht/statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your sports and fitness data
 - [butialabs/alo](https://github.com/butialabs/alo) - Alô is the open source alternative to OneSignal, PushNews, SendPulse, PushAlert, and others.
 - [manualdousuario/marreta](https://github.com/manualdousuario/marreta) - Uma ferramenta que quebra barreiras de acesso e elementos que atrapalham a leitura! / Marreta is a tool that removes access barriers and visual distractions!
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community
@@ -1129,6 +1131,7 @@
 
 ## PowerShell 
 
+- [microsoft/Windows365-PSScripts](https://github.com/microsoft/Windows365-PSScripts) - This repo holds Windows 365 related scripts to help IT Pros with workflows, add functionality, and provide examples.
 - [MHimken/IntuneNetworkRequirements](https://github.com/MHimken/IntuneNetworkRequirements) - This tool provides a way to verify Intune network requirements automatically
 - [fscorrupt/IntuneInspector](https://github.com/fscorrupt/IntuneInspector) - A fast, read-only PowerShell UI tool for deep-searching, auditing, and navigating Microsoft Intune policies and group assignments via the Graph API.
 - [CDRT/Library](https://github.com/CDRT/Library) - Scripts and files to share
@@ -1348,6 +1351,7 @@
 
 ## Python 
 
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 - [hvorragend/ha-blueprints](https://github.com/hvorragend/ha-blueprints) - Cover Control Automation is a comprehensive Home Assistant blueprint that automatically manages window coverings (roller shutters, blinds, awnings) based on time, sun position, weather conditions, and
 - [valentinfrlch/ha-llmvision](https://github.com/valentinfrlch/ha-llmvision) - Visual intelligence for your home.
@@ -2207,7 +2211,7 @@
 - [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex and Jellyfin.
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [debridmediamanager/debrid-media-manager](https://github.com/debridmediamanager/debrid-media-manager) - Curate an inifinite media library
-- [lunarr-app/lunarr-go](https://github.com/lunarr-app/lunarr-go) - [WIP] Self-hosted media streaming server designed as an alternative to Plex, allowing you to monitor and manage your movie and TV show files on a headless server.
+- [lunarr-app/lunarr-go](https://github.com/lunarr-app/lunarr-go) - Self-hosted media streaming server designed as an alternative to Plex, allowing you to monitor and manage your movie and TV show files on a headless server.
 - [kekst/socialnuke](https://github.com/kekst/socialnuke) - best discord msg nuker is back / sponsored by uncle cheng
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu) - A free open source IT asset / Equipment / management and scheduling system.
