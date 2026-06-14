@@ -128,6 +128,7 @@
 
 ## C# # 
 
+- [Cyprien-png/jellyfin-binge-buddy](https://github.com/Cyprien-png/jellyfin-binge-buddy) - Keep track of your buddies' viewing progress in Jellyfin. Designed to sync up and resume watching together for your next IRL session.
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Saves Discord chat logs to a file
 - [TheIntroDB/emby-plugin](https://github.com/TheIntroDB/emby-plugin) - An Emby plugin to skip intros, recaps, and credits with TheIntroDB
 - [ZL154/JellyfinSecurity](https://github.com/ZL154/JellyfinSecurity) - A Jellyfin plugin that adds native two-factor authentication (TOTP, email OTP) with trusted device tokens, TV device pairing, LAN bypass, and API key bypass. Server-side enforcement — works with all c
@@ -1082,7 +1083,7 @@
 - [jeremehancock/Posteria](https://github.com/jeremehancock/Posteria) - Plex Media Poster Management App
 - [pyrohost/pyrodactyl](https://github.com/pyrohost/pyrodactyl) - Pyrodactyl is the Pterodactyl-based game server panel that's faster, smaller, safer, and more accessible than Pelican.
 - [robiningelbrecht/statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your sports and fitness data
-- [butialabs/alo](https://github.com/butialabs/alo) - Alô is the open source alternative to OneSignal, PushNews, SendPulse, PushAlert, and others.
+- [altendorfme/alo](https://github.com/altendorfme/alo) - Alô is the open source alternative to OneSignal, PushNews, SendPulse, PushAlert, and others.
 - [manualdousuario/marreta](https://github.com/manualdousuario/marreta) - Uma ferramenta que quebra barreiras de acesso e elementos que atrapalham a leitura! / Marreta is a tool that removes access barriers and visual distractions!
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community
 - [projectsend/projectsend](https://github.com/projectsend/projectsend) - ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple langua
