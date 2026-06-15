@@ -393,6 +393,7 @@
 
 ## Go 
 
+- [gabehf/Koito](https://github.com/gabehf/Koito) - Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to a custom ListenBrainz URL
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [mmcdole/kino](https://github.com/mmcdole/kino) - A terminal client for browsing and playing Plex or Jellyfin media.
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
@@ -2023,6 +2024,7 @@
 
 ## TypeScript 
 
+- [Lillifee/findarr](https://github.com/Lillifee/findarr) - Self-hosted discovery engine for movies and TV that learns your taste and avoids showing already rated content
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
 - [hieunc229/mailflare](https://github.com/hieunc229/mailflare) - Email client with custom domain based on Cloudflare
 - [JoeKarlsson/streamroll](https://github.com/JoeKarlsson/streamroll) - AI-generated custom streaming intros for Plex - chains Runway gen4_image + gen4_turbo
