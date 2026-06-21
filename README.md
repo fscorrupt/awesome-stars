@@ -945,6 +945,7 @@
 
 ## Others 
 
+- [derFrisson/plezy-apks](https://github.com/derFrisson/plezy-apks) - Standalone .apk files automatically extracted from edde746/plezy releases — ready to install or use with Obtainium.
 - [slimani-dev/muraqib](https://github.com/slimani-dev/muraqib) - A unified, developer-first homelab dashboard. Monitor and orchestrate your infrastructure, containers, and media from a single pane of glass.
 - [awiradilaga/lenovo-commercial-vantage-for-ltsc](https://github.com/awiradilaga/lenovo-commercial-vantage-for-ltsc) - Install Lenovo Commercial Vantage on Windows 11 IoT LTSC (No Microsoft Store)
 - [maxfok/nimbus-weather-card](https://github.com/maxfok/nimbus-weather-card) - Glassmorphic ethereal weather card - apple ios style
@@ -1407,7 +1408,7 @@
 - [TheWicklowWolf/Lidify](https://github.com/TheWicklowWolf/Lidify) - Music discovery tool that provides recommendations based on selected Lidarr artists, using Spotify or LastFM.
 - [Tencent-Hunyuan/HY-Motion-1.0](https://github.com/Tencent-Hunyuan/HY-Motion-1.0) - HY-Motion model for 3D human motion or 3D character animation generation.
 - [JoKerIsCraZy/MediaTrend-Scraper](https://github.com/JoKerIsCraZy/MediaTrend-Scraper) - The MediaTrend Scraper is an intelligent companion script designed to automate and enhance your Sonarr and Radarr media management workflow.
-- [justin025/onthespot](https://github.com/justin025/onthespot) - A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More
+- [ots-downloader/onthespot](https://github.com/ots-downloader/onthespot) - A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More
 - [soggy8/musikat](https://github.com/soggy8/musikat) - 🎵 Search Spotify and download music from YouTube to your Navidrome server with automatic metadata tagging
 - [the-useless-one/pywerview](https://github.com/the-useless-one/pywerview) - A (partial) Python rewriting of PowerSploit's PowerView
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) - Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  PublicMetaDB, AniList, TMDb, MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
@@ -2218,7 +2219,7 @@
 - [KittyCAD/modeling-app](https://github.com/KittyCAD/modeling-app) - The Zoo Design Studio app.
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [oae/kaizoku](https://github.com/oae/kaizoku) - Self-hosted manga downloader
-- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex and Jellyfin.
+- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex, Jellyfin and Emby..
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [debridmediamanager/debrid-media-manager](https://github.com/debridmediamanager/debrid-media-manager) - Curate an inifinite media library
 - [lunarr-app/lunarr-go](https://github.com/lunarr-app/lunarr-go) - Self-hosted media streaming server designed as an alternative to Plex, allowing you to monitor and manage your movie and TV show files on a headless server.
