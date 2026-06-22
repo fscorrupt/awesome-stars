@@ -129,6 +129,7 @@
 
 ## C# # 
 
+- [8bit2qubit/XboxFullScreenExperienceTool](https://github.com/8bit2qubit/XboxFullScreenExperienceTool) - A one-click GUI tool to safely enable the hidden Xbox full screen gaming experience on Windows 11.
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [IDisposable/jellyfin-plugin-justwatch](https://github.com/IDisposable/jellyfin-plugin-justwatch) - Jellyfin plugin that adds JustWatch external IDs and clickable deep-links to movies, series, seasons, and episodes - plus an opt-in task to auto-resolve them via JustWatch's API.
 - [Cyprien-png/jellyfin-binge-buddy](https://github.com/Cyprien-png/jellyfin-binge-buddy) - Keep track of your buddies' viewing progress in Jellyfin. Designed to sync up and resume watching together for your next IRL session.
@@ -1362,6 +1363,7 @@
 
 ## Python 
 
+- [DmesgNoise/mediasync](https://github.com/DmesgNoise/mediasync) - Immediate movie scans, queue-aware TV sync, and live media automation visibility.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 - [hvorragend/ha-blueprints](https://github.com/hvorragend/ha-blueprints) - Cover Control Automation is a comprehensive Home Assistant blueprint that automatically manages window coverings (roller shutters, blinds, awnings) based on time, sun position, weather conditions, and
@@ -2219,7 +2221,7 @@
 - [KittyCAD/modeling-app](https://github.com/KittyCAD/modeling-app) - The Zoo Design Studio app.
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [oae/kaizoku](https://github.com/oae/kaizoku) - Self-hosted manga downloader
-- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex, Jellyfin and Emby..
+- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex, Jellyfin and Emby.
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [debridmediamanager/debrid-media-manager](https://github.com/debridmediamanager/debrid-media-manager) - Curate an inifinite media library
 - [lunarr-app/lunarr-go](https://github.com/lunarr-app/lunarr-go) - Self-hosted media streaming server designed as an alternative to Plex, allowing you to monitor and manage your movie and TV show files on a headless server.
