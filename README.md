@@ -396,6 +396,7 @@
 
 ## Go 
 
+- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.
 - [Silo-Server/silo-server](https://github.com/Silo-Server/silo-server) - Self-hosted media streaming server with a Go backend, React web UI, Docker deployment, transcoding, and Jellyfin-compatible APIs.
 - [gabehf/Koito](https://github.com/gabehf/Koito) - Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to a custom ListenBrainz URL
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
@@ -671,6 +672,7 @@
 
 ## JavaScript 
 
+- [marrobHD/tv-card](https://github.com/marrobHD/tv-card) - 📺 TV Remote Card
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [AHouseOfBards/Bonfire-JellyProfiles](https://github.com/AHouseOfBards/Bonfire-JellyProfiles) - Bonfire is a Jellyfin plugin that adds profiles on a per user basis to Jellyfin. Built with Gemini Flash. Designed to work with any Jellyfin client that is a web client or a wrapper for a web client. 
 - [ytnrvdf/wha-spell-simulator](https://github.com/ytnrvdf/wha-spell-simulator) - A fan-made browser-based Witch Hat Atelier spell simulator.
@@ -2044,10 +2046,10 @@
 - [WJDDesigns/Ultra-Card](https://github.com/WJDDesigns/Ultra-Card) - A powerful modular card builder for Home Assistant that lets you create custom layouts with a professional page-builder interface.
 - [MelleD/lovelace-expander-card](https://github.com/MelleD/lovelace-expander-card) - Expander card for HomeAssistant
 - [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - A graphical server OS optimized for self-hosting
-- [iuliandita/digarr](https://github.com/iuliandita/digarr) - AI-powered music discovery for your *arr stack. Analyzes listening history, discovers artists through a 7-stage AI pipeline, scores and ranks them, and learns from your feedback. Supports Lidarr, Spot
+- [iuliandita/digarr](https://github.com/iuliandita/digarr) - AI-powered music discovery for your *arr stack. Recommends artists and individual albums through a 7-stage AI pipeline, scores and ranks them, and learns from your feedback -- approve a single album w
 - [2GT-Media-Group-LLC/mikrotik-manager](https://github.com/2GT-Media-Group-LLC/mikrotik-manager) - A self-hosted, full-stack network management platform for MikroTik devices. Monitor, configure, and manage your entire MikroTik infrastructure — routers, switches, and wireless access points — from a 
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 150+ tools for images, video, audio, and documents. AI-powered, open source, fully offline. Your files stay yours.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 150+ tools for Image, PDF, Video, Audio, and Files. AI-powered, open source, fully offline. Your files stay yours.
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
@@ -2153,7 +2155,7 @@
 - [addyosmani/bg-remove](https://github.com/addyosmani/bg-remove) - Free image background removal - private, client-side and powered by Transformers.js
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [composecraft/composecraft](https://github.com/composecraft/composecraft) - 
-- [buxuku/SmartSub](https://github.com/buxuku/SmartSub) - 「妙幕」是一款跨平台客户端工具，可以批量为视频或者音频生成字幕文件，并支持对字幕进行翻译，支持百度、火山、openai、ollama、deepseek 等多家翻译
+- [buxuku/SmartSub](https://github.com/buxuku/SmartSub) - 本地优先的一站式桌面字幕工具，内置 6 种 ASR 引擎与全平台 GPU 加速及 17+ 翻译服务商，覆盖音视频转写、翻译、校对、字幕烧录封装全流程，跨 Windows/macOS/Linux 运行
 - [ironsheep/lovelace-rpi-monitor-card](https://github.com/ironsheep/lovelace-rpi-monitor-card) - A Raspberry Pi status display Card for Home Assistant Lovelace
 - [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder) - Stay on top of trending topics on social media and the web with AI
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
