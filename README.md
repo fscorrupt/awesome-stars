@@ -478,7 +478,7 @@
 - [micromdm/nanomdm](https://github.com/micromdm/nanomdm) - NanoMDM is a minimalist Apple MDM server and library heavily inspired by MicroMDM
 - [micromdm/micromdm](https://github.com/micromdm/micromdm) - Mobile Device Management server
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 - [xM3U/xM3U](https://github.com/xM3U/xM3U) - M3U Proxy for Plex DVR and Emby Live TV. Based on xTeVe project.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -1146,6 +1146,7 @@
 
 ## PowerShell 
 
+- [ntriver-org/PKeyMaster](https://github.com/ntriver-org/PKeyMaster) - An open-source toolkit for Microsoft product key validation, CID retrieval, and advanced key scanning.
 - [microsoft/Windows365-PSScripts](https://github.com/microsoft/Windows365-PSScripts) - This repo holds Windows 365 related scripts to help IT Pros with workflows, add functionality, and provide examples.
 - [MHimken/IntuneNetworkRequirements](https://github.com/MHimken/IntuneNetworkRequirements) - This tool provides a way to verify Intune network requirements automatically
 - [fscorrupt/IntuneInspector](https://github.com/fscorrupt/IntuneInspector) - A fast, read-only PowerShell UI tool for deep-searching, auditing, and navigating Microsoft Intune policies and group assignments via the Graph API.
