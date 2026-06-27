@@ -890,7 +890,7 @@
 - [gameyfin/gameyfin](https://github.com/gameyfin/gameyfin) - Manage your video games.
 - [kibotu/geofencer](https://github.com/kibotu/geofencer) - Location tracking & geofencing the easy way. Supports background, killed app, rebooted device different update intervals.
 - [giejay/Immich-Android-TV](https://github.com/giejay/Immich-Android-TV) - An Android TV app for the self hosted photos and videos backup solution.
-- [wgtunnel/android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.
+- [wgtunnel/android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & local proxying.
 - [ligi/PassAndroid](https://github.com/ligi/PassAndroid) - Android App to view passes
 - [Snd-R/komf](https://github.com/Snd-R/komf) - Komga and Kavita metadata fetcher
 - [grote/Transportr](https://github.com/grote/Transportr) - Free Public Transport Assistant without Ads or Tracking
@@ -1146,6 +1146,8 @@
 
 ## PowerShell 
 
+- [ThomasKur/IntuneWin32App](https://github.com/ThomasKur/IntuneWin32App) - Provides a set of functions to manage all aspects of Win32 apps in Microsoft Intune.
+- [MSEndpointMgr/IntuneWin32App](https://github.com/MSEndpointMgr/IntuneWin32App) - Provides a set of functions to manage all aspects of Win32 apps in Microsoft Intune.
 - [ntriver-org/PKeyMaster](https://github.com/ntriver-org/PKeyMaster) - An open-source toolkit for Microsoft product key validation, CID retrieval, and advanced key scanning.
 - [microsoft/Windows365-PSScripts](https://github.com/microsoft/Windows365-PSScripts) - This repo holds Windows 365 related scripts to help IT Pros with workflows, add functionality, and provide examples.
 - [MHimken/IntuneNetworkRequirements](https://github.com/MHimken/IntuneNetworkRequirements) - This tool provides a way to verify Intune network requirements automatically
@@ -1366,6 +1368,7 @@
 
 ## Python 
 
+- [alibaizhanov/mengram](https://github.com/alibaizhanov/mengram) - Human-like memory for AI agents — semantic, episodic & procedural. Experience-driven procedures that learn from failures. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw integrations.
 - [DmesgNoise/mediasync](https://github.com/DmesgNoise/mediasync) - Immediate movie scans, queue-aware TV sync, and live media automation visibility.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
