@@ -672,6 +672,7 @@
 
 ## JavaScript 
 
+- [adamjthompson/Gaming-Status-Cards](https://github.com/adamjthompson/Gaming-Status-Cards) - A collection of beautiful, highly customizable dashboard cards designed specifically to work with the Gaming Status Integration.
 - [marrobHD/tv-card](https://github.com/marrobHD/tv-card) - 📺 TV Remote Card
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [AHouseOfBards/Bonfire-JellyProfiles](https://github.com/AHouseOfBards/Bonfire-JellyProfiles) - Bonfire is a Jellyfin plugin that adds profiles on a per user basis to Jellyfin. Built with Gemini Flash. Designed to work with any Jellyfin client that is a web client or a wrapper for a web client. 
@@ -2017,6 +2018,7 @@
 
 ## Swift 
 
+- [LiveFin/LiveFin](https://github.com/LiveFin/LiveFin) - A Live TV client for Jellyfin
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
 - [JohnnWi/homelab-project](https://github.com/JohnnWi/homelab-project) - Homelab App ios android
 - [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
