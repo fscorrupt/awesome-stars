@@ -1424,7 +1424,7 @@
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) - Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  PublicMetaDB, AniList, TMDb, MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [sqrlmstr5000/discovarr](https://github.com/sqrlmstr5000/discovarr) - AI Powered Media Recommendations
-- [withoutbg/withoutbg](https://github.com/withoutbg/withoutbg) - Image Background Removal Toolkit - Open Source and API Models
+- [withoutbg/withoutbg-python](https://github.com/withoutbg/withoutbg-python) - Python SDK for local and cloud background removal (pip install withoutbg)
 - [bogus-me/m.a.r.i](https://github.com/bogus-me/m.a.r.i) - M.A.R.I. – Metadata Auto Refresh Interface for Plex. Smart. Silent. Always fresh.
 - [mustbeperfect/definitive-opensource](https://github.com/mustbeperfect/definitive-opensource) - The definitive list of the best of (consumer facing) open source.
 - [NeoHuncho/vikunja-voice-assistant](https://github.com/NeoHuncho/vikunja-voice-assistant) - Simplify your Vikunja task creation using Home voice assistant
@@ -2045,6 +2045,7 @@
 
 ## TypeScript 
 
+- [parallaxtv/ParallaxTV](https://github.com/parallaxtv/ParallaxTV) - A premium native Jellyfin desktop client built with Tauri, React, TypeScript and MPV.
 - [germondai/trawl](https://github.com/germondai/trawl) - Self-hosted scraping engine — bypasses any JS challenge & captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr & Byparr alternative and drop-in replacement for your *arr stack.
 - [Lillifee/findarr](https://github.com/Lillifee/findarr) - Self-hosted discovery engine for movies and TV that learns your taste and avoids showing already rated content
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
@@ -2124,7 +2125,7 @@
 - [Drop-OSS/headscalez](https://github.com/Drop-OSS/headscalez) - Embedded Headscale library
 - [11notes/docker-immich-share-proxy](https://github.com/11notes/docker-immich-share-proxy) - Expose your Immich shares publicly without exposing Immich!
 - [r-renato/ha-card-weather-conditions](https://github.com/r-renato/ha-card-weather-conditions) - Weather condition card (Lovelace) for Home Assistant.
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.
 - [Talisik/Downlodr](https://github.com/Talisik/Downlodr) - Downlodr is a powerful, user-friendly video downloading solution that supports over 1,800 platforms, including YouTube, Vimeo, and many more. Downlodr provides a seamless experience for managing your 
 - [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [kyantech/Palmr](https://github.com/kyantech/Palmr) - 🌴 Palmr. is an open-source file-sharing platform focused on privacy and security. It enables users to upload, manage, and share files with features like password protection, custom links, and access c
