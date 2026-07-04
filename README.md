@@ -548,7 +548,7 @@
 - [jeffwillette/docker-alertd](https://github.com/jeffwillette/docker-alertd) - Monitor docker stats and send alerts
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [wiredlush/easy-gate](https://github.com/wiredlush/easy-gate) - A gate to your self hosted infrastructure
-- [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
+- [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The task manager you actually own.
 - [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) - Dockerized Signal Messenger REST API
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
