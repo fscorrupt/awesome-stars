@@ -133,7 +133,6 @@
 - [8bit2qubit/XboxFullScreenExperienceTool](https://github.com/8bit2qubit/XboxFullScreenExperienceTool) - A one-click GUI tool to safely enable the hidden Xbox full screen gaming experience on Windows 11.
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [IDisposable/jellyfin-plugin-justwatch](https://github.com/IDisposable/jellyfin-plugin-justwatch) - Jellyfin plugin that adds JustWatch external IDs and clickable deep-links to movies, series, seasons, and episodes - plus an opt-in task to auto-resolve them via JustWatch's API.
-- [Cyprien-png/jellyfin-binge-buddy](https://github.com/Cyprien-png/jellyfin-binge-buddy) - Keep track of your buddies' viewing progress in Jellyfin. Designed to sync up and resume watching together for your next IRL session.
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Saves Discord chat logs to a file
 - [TheIntroDB/emby-plugin](https://github.com/TheIntroDB/emby-plugin) - An Emby plugin to skip intros, recaps, and credits with TheIntroDB
 - [ZL154/JellyfinSecurity](https://github.com/ZL154/JellyfinSecurity) - A Jellyfin plugin that adds native two-factor authentication (TOTP, email OTP) with trusted device tokens, TV device pairing, LAN bypass, and API key bypass. Server-side enforcement — works with all c
@@ -676,6 +675,7 @@
 - [adamjthompson/Gaming-Status-Cards](https://github.com/adamjthompson/Gaming-Status-Cards) - A collection of beautiful, highly customizable dashboard cards designed specifically to work with the Gaming Status Integration.
 - [marrobHD/tv-card](https://github.com/marrobHD/tv-card) - 📺 TV Remote Card
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- [Cyprien-png/jellyfin-binge-buddy](https://github.com/Cyprien-png/jellyfin-binge-buddy) - Keep track of your buddies' viewing progress in Jellyfin. Designed to sync up and resume watching together for your next IRL session.
 - [AHouseOfBards/Bonfire-JellyProfiles](https://github.com/AHouseOfBards/Bonfire-JellyProfiles) - Bonfire is a Jellyfin plugin that adds profiles on a per user basis to Jellyfin. Built with Gemini Flash. Designed to work with any Jellyfin client that is a web client or a wrapper for a web client. 
 - [ytnrvdf/wha-spell-simulator](https://github.com/ytnrvdf/wha-spell-simulator) - A fan-made browser-based Witch Hat Atelier spell simulator.
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
@@ -1973,7 +1973,7 @@
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image
 - [lux4rd0/grafana-loki-syslog-aio](https://github.com/lux4rd0/grafana-loki-syslog-aio) - Grafana Loki Syslog All In One Syslog Deployable Stack
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy containerized Foundry Virtual Tabletop server.
-- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1200+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [blacklabelops/volumerize](https://github.com/blacklabelops/volumerize) - Docker Volume Backups Multiple Backends
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [axlecrusher/plex_download_urls](https://github.com/axlecrusher/plex_download_urls) - Archive of Plex mediaserver download URLs
@@ -2091,7 +2091,7 @@
 - [akhilmulpurii/aperture](https://github.com/akhilmulpurii/aperture) - A Modern Jellyfin Client built w/ Next.js
 - [PelagicaApp/pelagica](https://github.com/PelagicaApp/pelagica) - An alternative, modern and configurable web frontend for Jellyfin
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
-- [Doezer/Questarr](https://github.com/Doezer/Questarr) - Video games manager for -arr users
+- [Doezer/Questarr](https://github.com/Doezer/Questarr) - Questarr is an *Arr-inspired game manager that helps you discover, track, and automatically download the games you want.
 - [m3sserstudi0s/swiparr](https://github.com/m3sserstudi0s/swiparr) - Swipe on what to watch next.
 - [autobrr/netronome](https://github.com/autobrr/netronome) - Netronome is a modern network speed testing and monitoring tool built with Go and React.
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
