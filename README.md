@@ -333,7 +333,7 @@
 - [edde746/plezy](https://github.com/edde746/plezy) - Modern cross-platform Plex & Jellyfin client built with Flutter
 - [dstark5/Openlib](https://github.com/dstark5/Openlib) - An Open source app to download and read books from shadow library (Anna’s Archive)
 - [Nandanrmenon/nahcon](https://github.com/Nandanrmenon/nahcon) - Jellyfin Client for watching Movies and TV Shows (Made with Flutter 💙)
-- [finamp-app/finamp](https://github.com/finamp-app/finamp) - A Jellyfin music client for mobile
+- [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source Jellyfin music player
 - [inotia00/revanced-manager](https://github.com/inotia00/revanced-manager) - 💊 Application to use ReVanced on Android
 - [mirarr-app/mirarr](https://github.com/mirarr-app/mirarr) - Mirarr, FOSS Movie App
 - [phantomate/Untare](https://github.com/phantomate/Untare) - Flutter app for tandoor recipes
@@ -707,7 +707,7 @@
 - [thomasloven/lovelace-card-tools](https://github.com/thomasloven/lovelace-card-tools) - 🔹A collection of tools for other lovelace plugins to use
 - [Drewpeifer/medialytics](https://github.com/Drewpeifer/medialytics) - A free tool that shows information about Plex Media Server content
 - [public-transport/db-vendo-client](https://github.com/public-transport/db-vendo-client) - JavaScript client for Deutsche Bahn public transport APIs.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -
 - [derekantrican/subarr](https://github.com/derekantrican/subarr) - "Sonarr for YouTube" - a tool to periodically check various YouTube playlists and take actions when new videos are posted
 - [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A comprehensive enhancement layer for the Jellyfin web UI with keyboard shortcuts, subtitle styling, TMDB and User reviews, Seerr integration with auto-request, a media calendar and download monitor v
 - [AmoebeLabs/swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card) - The versatile custom Swiss Army Knife card for Home Assistant allows you to create your unique visualization using several graphical tools, styling options and animations.
@@ -1455,7 +1455,7 @@
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
 - [ajb3932/immich-partner-sharing](https://github.com/ajb3932/immich-partner-sharing) - 
-- [oliverbravery/PrintGuard](https://github.com/oliverbravery/PrintGuard) - Free, on-device 3D print failure detection. Runs in your browser with zero install, or as a Docker hub on a Pi. Open-source, no cloud, no subscription.
+- [oliverbravery/PrintGuard](https://github.com/oliverbravery/PrintGuard) - Free, on-device 3D‑print failure detection that pauses the printer and pushes a snapshot alert. Runs install‑free in your browser, as a Docker hub, or a native macOS/Windows app. Open‑source, no cloud
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [baervers23/still-Membarr](https://github.com/baervers23/still-Membarr) - Yoruio's Discord Bot to invite a user to a Plex or Jellyfin server - with small modifications
 - [RazgrizHsu/immich-deduper](https://github.com/RazgrizHsu/immich-deduper) - duplicate photo finder for Immich - find and remove similar images
@@ -1464,7 +1464,7 @@
 - [elfhosted/fakearr](https://github.com/elfhosted/fakearr) - An API to return a "fake" torrent or nzb, used with debridav and easynews
 - [primetime43/plexLocationBlock](https://github.com/primetime43/plexLocationBlock) - Block Plex streams via location
 - [better-ecosystem/better-control](https://github.com/better-ecosystem/better-control) - A simple control panel for linux based on the GTK framework
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [l4rm4nd/LinkedInDumper](https://github.com/l4rm4nd/LinkedInDumper) - Python 3 script to dump/scrape/extract company employees from LinkedIn API
@@ -2060,7 +2060,7 @@
 - [iuliandita/digarr](https://github.com/iuliandita/digarr) - AI-powered music discovery for your *arr stack. Recommends artists and individual albums through a 7-stage AI pipeline, scores and ranks them, and learns from your feedback -- approve a single album w
 - [2GT-Media-Group-LLC/mikrotik-manager](https://github.com/2GT-Media-Group-LLC/mikrotik-manager) - A self-hosted, full-stack network management platform for MikroTik devices. Monitor, configure, and manage your entire MikroTik infrastructure — routers, switches, and wireless access points — from a 
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - File processing for privacy-focussed use. 200+ tools for Image, Video, Audio, PDF, and Files. AI-powered, open source, airgap ready. Your files stay yours.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing infrastructure. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never l
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
