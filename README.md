@@ -420,7 +420,7 @@
 - [esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel) - Pingtunnel is a tool that send TCP/UDP traffic over ICMP
 - [11notes/docker-socket-proxy](https://github.com/11notes/docker-socket-proxy) - Access your docker socket safely as read-only, rootless and distroless
 - [rfwatson/octoplex](https://github.com/rfwatson/octoplex) - 🐙 Octoplex is a Docker-native live video restreamer.
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OAuth 2.0 and OpenID Connect provider that lets users sign in to your services with their passkeys.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
 - [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
@@ -1371,6 +1371,7 @@
 
 ## Python 
 
+- [birdnet-team/BirdNET-Analyzer](https://github.com/birdnet-team/BirdNET-Analyzer) - BirdNET analyzer for scientific audio data processing.
 - [alibaizhanov/mengram](https://github.com/alibaizhanov/mengram) - Human-like memory for AI agents — semantic, episodic & procedural. Experience-driven procedures that learn from failures. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw integrations.
 - [DmesgNoise/mediasync](https://github.com/DmesgNoise/mediasync) - Immediate movie scans, queue-aware TV sync, and live media automation visibility.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
@@ -2047,6 +2048,7 @@
 
 ## TypeScript 
 
+- [spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
 - [parallaxtv/ParallaxTV](https://github.com/parallaxtv/ParallaxTV) - A premium native Jellyfin desktop client built with Tauri, React, TypeScript and MPV.
 - [germondai/trawl](https://github.com/germondai/trawl) - Self-hosted scraping engine — bypasses any JS challenge & captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr & Byparr alternative and drop-in replacement for your *arr stack.
 - [Lillifee/findarr](https://github.com/Lillifee/findarr) - Self-hosted discovery engine for movies and TV that learns your taste and avoids showing already rated content
