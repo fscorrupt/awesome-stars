@@ -395,6 +395,7 @@
 
 ## Go 
 
+- [dbeg/tautulli-yamtrack-exporter](https://github.com/dbeg/tautulli-yamtrack-exporter) - A Go script that exports Plex watch history from Tautulli into a Yamtrack compatible CSV.
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.
 - [Silo-Server/silo-server](https://github.com/Silo-Server/silo-server) - Self-hosted media streaming server with a Go backend, React web UI, Docker deployment, transcoding, and Jellyfin-compatible APIs.
@@ -585,6 +586,7 @@
 
 ## HTML 
 
+- [maester365/maester](https://github.com/maester365/maester) - Maester is a test automation framework to help you stay in control of your Microsoft security configuration.
 - [chr0nzz/traefik-manager](https://github.com/chr0nzz/traefik-manager) - A clean, self-hosted web UI for managing your Traefik reverse proxy.
 - [MorganKryze/JellyFlare](https://github.com/MorganKryze/JellyFlare) - Put announcements where your users will actually see them; a customisable banner at the top of Jellyfin, with rotating messages, scheduling, and link support.
 - [l4rm4nd/MemeLord](https://github.com/l4rm4nd/MemeLord) - A taggable image meme board written in Python Django with OIDC SSO and S3 support.
@@ -951,6 +953,8 @@
 
 ## Others 
 
+- [DRM-Lab/Widevine-L1](https://github.com/DRM-Lab/Widevine-L1) - Widevine L1 – Extracting Keybox from eMMC Dump (MSTAR Devices)
+- [DRM-Lab/KEYS](https://github.com/DRM-Lab/KEYS) - 
 - [ElementZoom/Flux-UI-Home-Assistant-Dashboard](https://github.com/ElementZoom/Flux-UI-Home-Assistant-Dashboard) - A unified YAML-powered dashboard for weather, automation, security, climate, and environmental monitoring.
 - [derFrisson/plezy-apks](https://github.com/derFrisson/plezy-apks) - Standalone .apk files automatically extracted from edde746/plezy releases — ready to install or use with Obtainium.
 - [slimani-dev/muraqib](https://github.com/slimani-dev/muraqib) - A unified, developer-first homelab dashboard. Monitor and orchestrate your infrastructure, containers, and media from a single pane of glass.
@@ -1370,6 +1374,10 @@
 
 ## Python 
 
+- [widevineleak/pyplayready](https://github.com/widevineleak/pyplayready) - Python implementation of Microsoft's Playready DRM CDM (Content Decryption Module)
+- [widevineleak/Vinetrimmer-Playready-V1.0](https://github.com/widevineleak/Vinetrimmer-Playready-V1.0) - DRM Tool to download DRM Videos
+- [n0stal6ic/MStarToKeybox](https://github.com/n0stal6ic/MStarToKeybox) - Extracts MStar/MediaTek Widevine L1 keyboxes and PlayReady passphrases from raw eMMC dumps and firmware images.
+- [n0stal6ic/PlayVine](https://github.com/n0stal6ic/PlayVine) - A tool for archiving content from streaming services.
 - [birdnet-team/BirdNET-Analyzer](https://github.com/birdnet-team/BirdNET-Analyzer) - BirdNET analyzer for scientific audio data processing.
 - [alibaizhanov/mengram](https://github.com/alibaizhanov/mengram) - Human-like memory for AI agents — semantic, episodic & procedural. Experience-driven procedures that learn from failures. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw integrations.
 - [DmesgNoise/mediasync](https://github.com/DmesgNoise/mediasync) - Immediate movie scans, queue-aware TV sync, and live media automation visibility.
@@ -1465,7 +1473,7 @@
 - [elfhosted/fakearr](https://github.com/elfhosted/fakearr) - An API to return a "fake" torrent or nzb, used with debridav and easynews
 - [primetime43/plexLocationBlock](https://github.com/primetime43/plexLocationBlock) - Block Plex streams via location
 - [better-ecosystem/better-control](https://github.com/better-ecosystem/better-control) - A simple control panel for linux based on the GTK framework
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://d
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [l4rm4nd/LinkedInDumper](https://github.com/l4rm4nd/LinkedInDumper) - Python 3 script to dump/scrape/extract company employees from LinkedIn API
@@ -1498,6 +1506,7 @@
 - [netalertx/NetAlertX](https://github.com/netalertx/NetAlertX) - Centralized network visibility and continuous asset discovery.  Monitor devices, detect change, and stay aware across distributed networks.
 - [sniff122/JetKVM-Custom-Boot-Splash](https://github.com/sniff122/JetKVM-Custom-Boot-Splash) - A Python script to change the boot splash screen on your JetKVM.
 - [Poshy163/HomeAssistant-JetKVM](https://github.com/Poshy163/HomeAssistant-JetKVM) - A HACS integration to allow controlling of your JetKVM device
+- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.
 - [barebaric/rayforge](https://github.com/barebaric/rayforge) - A software for laser cutters and engravers
 - [fabriziosalmi/limits](https://github.com/fabriziosalmi/limits) - Automated rate limits implementation for web servers
 - [fabriziosalmi/websites-monitor](https://github.com/fabriziosalmi/websites-monitor) - Websites monitoring via GitHub Actions/API (expiration, security, performances, privacy, SEO)
@@ -1820,6 +1829,7 @@
 
 ## Rust 
 
+- [Kopuz-org/cdm-host](https://github.com/Kopuz-org/cdm-host) - Native host for the system Widevine CDM (libwidevinecdm.so) — license challenges + CENC decrypt via the official interface, no key extraction.
 - [bryanroscoe/shield_optimizer](https://github.com/bryanroscoe/shield_optimizer) - 
 - [isama92/isamedia](https://github.com/isama92/isamedia) - A terminal client for your media stack
 - [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) - A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
@@ -2050,6 +2060,7 @@
 
 ## TypeScript 
 
+- [eltharynd/OnePacerr](https://github.com/eltharynd/OnePacerr) - Automated One Pace downloads and metadata for Plex, Jellyfin, and Emby. Built to complement your Sonarr stack.
 - [spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
 - [parallaxtv/ParallaxTV](https://github.com/parallaxtv/ParallaxTV) - A premium native Jellyfin desktop client built with Tauri, React, TypeScript and MPV.
 - [germondai/trawl](https://github.com/germondai/trawl) - Self-hosted scraping engine — bypasses any JS challenge & captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr & Byparr alternative and drop-in replacement for your *arr stack.
@@ -2150,10 +2161,9 @@
 - [varthe/Redirecterr](https://github.com/varthe/Redirecterr) - Filter and redirect media requests based on requester, keywords, age ratings, and more. Supports routing to multiple instances simultaneously.
 - [subnub/myDrive](https://github.com/subnub/myDrive) - Node.js and mongoDB Google Drive Clone
 - [opencloud-eu/web](https://github.com/opencloud-eu/web) - 🐻 Web UI for OpenCloud built with Vue.js and TypeScript
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [dotnetfactory/fluid-calendar](https://github.com/dotnetfactory/fluid-calendar) - 
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
-- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible,
 - [OpenHealthForAll/open-health](https://github.com/OpenHealthForAll/open-health) - OpenHealth, AI Health Assistant | Powered by Your Data
 - [Arthi-chaud/Meelo](https://github.com/Arthi-chaud/Meelo) - Self-hosted Music Server. Focused on metadata integration & UI
