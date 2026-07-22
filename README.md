@@ -604,6 +604,7 @@
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [tedhinklater/Jellyfin-Featured-Content-Bar](https://github.com/tedhinklater/Jellyfin-Featured-Content-Bar) - Featured Content Bar for Jellyfin
 - [Celerium/Modern-PowerShell-HTML-Reports](https://github.com/Celerium/Modern-PowerShell-HTML-Reports) - Proof of concept to see if more modern HTML reports can be made with PowerShell
+- [blrchen/azure-speed-test](https://github.com/blrchen/azure-speed-test) - Azure Speed Test Tool: Measure network latency, download, and upload speeds to Azure datacenters worldwide.
 - [brunosabot/streamline-card](https://github.com/brunosabot/streamline-card) - Streamline your Lovelace configuration with with a card template system.
 - [eddiechu/File-Smuggling](https://github.com/eddiechu/File-Smuggling) - HTML smuggling is not an evil, it can be useful
 - [TechBuckler/PlexGifMaker](https://github.com/TechBuckler/PlexGifMaker) - A quick way to use your Plex Library and Subtitles to make gifs
@@ -688,7 +689,7 @@
 - [onceuponatime78/ha-travelroute-card](https://github.com/onceuponatime78/ha-travelroute-card) - Custom Lovelace card for Home Assistant: visualise vehicle GPS travel history on an interactive map with road-accurate OSRM routing and park stop detection
 - [cataseven/Google-Map-Card](https://github.com/cataseven/Google-Map-Card) - Google Maps Card for Home Assistant
 - [nehirakbass/anime-filler-checker](https://github.com/nehirakbass/anime-filler-checker) - Browser extension that auto-detects anime filler episodes on any streaming site. Shows FILLER/CANON/MIXED badge directly on the page.
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)
+- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [microsoft/agent-academy](https://github.com/microsoft/agent-academy) - Curated lessons on getting started building agents with Copilot Studio
 - [Sir-Scuzza/gluetun-webui](https://github.com/Sir-Scuzza/gluetun-webui) - 
 - [lklynet/aurral](https://github.com/lklynet/aurral) - The best in open-source music discovery.
@@ -2199,7 +2200,6 @@
 - [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card) - Vacuum cleaner card for Home Assistant Lovelace UI
 - [custom-cards/canvas-gauge-card](https://github.com/custom-cards/canvas-gauge-card) - The card makes it possible to use gauges from https://canvas-gauges.com/
 - [GeorgeSG/lovelace-time-picker-card](https://github.com/GeorgeSG/lovelace-time-picker-card) - 🕰️ Time Picker Card for Home Assistant's Lovelace UI
-- [blrchen/azure-speed-test](https://github.com/blrchen/azure-speed-test) - Azure Speed Test Tool: Measure network latency, download, and upload speeds to Azure datacenters worldwide.
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [iantrich/restriction-card](https://github.com/iantrich/restriction-card) - 🔒 Apply restrictions to Lovelace cards
 - [yzua/sqlite-online](https://github.com/yzua/sqlite-online) - Lightweight WebAssembly-powered SQLite viewer and editor. works entirely in your browser
