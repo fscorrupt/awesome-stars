@@ -129,7 +129,7 @@
 
 ## C# # 
 
-- [pauljoda/Prismedia](https://github.com/pauljoda/Prismedia) - All in one self hosted, private media library
+- [pauljoda/Prismedia](https://github.com/pauljoda/Prismedia) - Your whole media life in one private, self-hosted library—watch, read, listen, request, and manage across web, iPhone, iPad, and Apple TV.
 - [8bit2qubit/XboxFullScreenExperienceTool](https://github.com/8bit2qubit/XboxFullScreenExperienceTool) - A one-click GUI tool to safely enable the hidden Xbox full screen gaming experience on Windows 11.
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [IDisposable/jellyfin-plugin-justwatch](https://github.com/IDisposable/jellyfin-plugin-justwatch) - Jellyfin plugin that adds JustWatch external IDs and clickable deep-links to movies, series, seasons, and episodes - plus an opt-in task to auto-resolve them via JustWatch's API.
@@ -592,7 +592,6 @@
 - [MorganKryze/JellyFlare](https://github.com/MorganKryze/JellyFlare) - Put announcements where your users will actually see them; a customisable banner at the top of Jellyfin, with rotating messages, scheduling, and link support.
 - [l4rm4nd/MemeLord](https://github.com/l4rm4nd/MemeLord) - A taggable image meme board written in Python Django with OIDC SSO and S3 support.
 - [l4rm4nd/VoucherVault](https://github.com/l4rm4nd/VoucherVault) - Django web application to store and manage vouchers, coupons, loyalty and gift cards digitally. Supports PWA, offline caching, expiry notifications, transaction histories, file uploads and OIDC SSO.
-- [itskovacs/trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [snodecoder/Intune-Settings-Catalog-Documentation](https://github.com/snodecoder/Intune-Settings-Catalog-Documentation) - Documentation for Intune's Settings Catalog: Describes all possible settings with description/explanation
 - [origamivault/origamivault](https://github.com/origamivault/origamivault) - Encrypted Paper Storage
@@ -1435,7 +1434,7 @@
 - [ots-downloader/onthespot](https://github.com/ots-downloader/onthespot) - A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More
 - [soggy8/musikat](https://github.com/soggy8/musikat) - 🎵 Search Spotify and download music from YouTube to your Navidrome server with automatic metadata tagging
 - [the-useless-one/pywerview](https://github.com/the-useless-one/pywerview) - A (partial) Python rewriting of PowerSploit's PowerView
-- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) - Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  PublicMetaDB, AniList, TMDb, MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
+- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) - Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  PublicMetaDB, AniList, TMDb, MDBlist, Nuvio and more. Keep your movies and shows in sync, no matter where you watch.
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [sqrlmstr5000/discovarr](https://github.com/sqrlmstr5000/discovarr) - AI Powered Media Recommendations
 - [withoutbg/withoutbg-python](https://github.com/withoutbg/withoutbg-python) - Python SDK for local and cloud background removal (pip install withoutbg)
@@ -1443,7 +1442,7 @@
 - [mustbeperfect/definitive-opensource](https://github.com/mustbeperfect/definitive-opensource) - The definitive list of the best of (consumer facing) open source.
 - [NeoHuncho/vikunja-voice-assistant](https://github.com/NeoHuncho/vikunja-voice-assistant) - Simplify your Vikunja task creation using Home voice assistant
 - [AlexxIT/StreamAssist](https://github.com/AlexxIT/StreamAssist) - Home Assistant custom component that allows you to turn almost any camera and almost any speaker into a local voice assistant
-- [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
+- [francescopace/espectre](https://github.com/francescopace/espectre) - ESPectre - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 - [unmonitarr/unmonitarr](https://github.com/unmonitarr/unmonitarr) - Wait for real releases, skip the fakes. Intelligent monitoring automation for Sonarr & Radarr.
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [Quenary/tugtainer](https://github.com/Quenary/tugtainer) - An application for automated Docker container updates with a web UI
@@ -1478,7 +1477,7 @@
 - [elfhosted/fakearr](https://github.com/elfhosted/fakearr) - An API to return a "fake" torrent or nzb, used with debridav and easynews
 - [primetime43/plexLocationBlock](https://github.com/primetime43/plexLocationBlock) - Block Plex streams via location
 - [better-ecosystem/better-control](https://github.com/better-ecosystem/better-control) - A simple control panel for linux based on the GTK framework
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [l4rm4nd/LinkedInDumper](https://github.com/l4rm4nd/LinkedInDumper) - Python 3 script to dump/scrape/extract company employees from LinkedIn API
@@ -2107,6 +2106,7 @@
 - [ohmzi/Immaculaterr](https://github.com/ohmzi/Immaculaterr) - Plex autopilot: curated recommendations, collections, and library cleanup (optional Radarr/Sonarr integration).
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
 - [shamubernetes/siren](https://github.com/shamubernetes/siren) - A simple, clean AlertManager dashboard
+- [itskovacs/trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
 - [eftpmc/yuzic](https://github.com/eftpmc/yuzic) - A cross-platform, free and open source music player for Navidrome & Jellyfin
 - [AyaanZaveri/finetic](https://github.com/AyaanZaveri/finetic) - A Modern Jellyfin Client built w/ Next.js
 - [akhilmulpurii/aperture](https://github.com/akhilmulpurii/aperture) - A Modern Jellyfin Client built w/ Next.js
