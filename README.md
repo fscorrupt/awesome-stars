@@ -129,6 +129,7 @@
 
 ## C# # 
 
+- [devbrian/Mangarr](https://github.com/devbrian/Mangarr) - Sonarr fork for Manga/Manwha/Manhua
 - [pauljoda/Prismedia](https://github.com/pauljoda/Prismedia) - Your whole media life in one private, self-hosted library—watch, read, listen, request, and manage across web, iPhone, iPad, and Apple TV.
 - [8bit2qubit/XboxFullScreenExperienceTool](https://github.com/8bit2qubit/XboxFullScreenExperienceTool) - A one-click GUI tool to safely enable the hidden Xbox full screen gaming experience on Windows 11.
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
@@ -708,7 +709,7 @@
 - [thomasloven/lovelace-card-tools](https://github.com/thomasloven/lovelace-card-tools) - 🔹A collection of tools for other lovelace plugins to use
 - [Drewpeifer/medialytics](https://github.com/Drewpeifer/medialytics) - A free tool that shows information about Plex Media Server content
 - [public-transport/db-vendo-client](https://github.com/public-transport/db-vendo-client) - JavaScript client for Deutsche Bahn public transport APIs.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, 
 - [derekantrican/subarr](https://github.com/derekantrican/subarr) - "Sonarr for YouTube" - a tool to periodically check various YouTube playlists and take actions when new videos are posted
 - [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A comprehensive enhancement layer for the Jellyfin web UI with keyboard shortcuts, subtitle styling, TMDB and User reviews, Seerr integration with auto-request, a media calendar and download monitor v
 - [AmoebeLabs/swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card) - The versatile custom Swiss Army Knife card for Home Assistant allows you to create your unique visualization using several graphical tools, styling options and animations.
@@ -2017,6 +2018,7 @@
 
 ## Svelte 
 
+- [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
 - [bobbydd021-code/Lantern](https://github.com/bobbydd021-code/Lantern) - 
 - [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
 - [c4lyp5o/jnfo](https://github.com/c4lyp5o/jnfo) - 
@@ -2042,7 +2044,7 @@
 - [JohnnWi/homelab-project](https://github.com/JohnnWi/homelab-project) - Homelab App ios android
 - [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [benjaminRoberts01375/Stingray](https://github.com/benjaminRoberts01375/Stingray) - A Jellyfin client for the Apple TV. Attempts to use as many of the native APIs as possible.
-- [wunax/strimr](https://github.com/wunax/strimr) - Native SwiftUI Plex client for iPhone, iPad, and Apple TV
+- [wunax/strimr](https://github.com/wunax/strimr) - Native SwiftUI Plex client for iPhone, iPad, Mac and Apple TV
 - [Flixorui/flixor](https://github.com/Flixorui/flixor) - Modern cross-platform Plex client
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [rounak/PhoneAgent](https://github.com/rounak/PhoneAgent) - An AI agent that can get things done across iPhone apps.
