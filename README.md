@@ -90,6 +90,7 @@
 
 ## C 
 
+- [manoharc07/DigiFrame](https://github.com/manoharc07/DigiFrame) - A wall frame for a 64×64 HUB75 LED matrix, turning it into a smart clock. It shows an NTP clock, live weather, a living ambient scene, looping GIFs, scrolling messages, and themed celebrations on your
 - [romangrigorii/SamsungGear360](https://github.com/romangrigorii/SamsungGear360) - code for streaming + calibrating Gear 360 video
 - [Hades2001/AMSPlusCore](https://github.com/Hades2001/AMSPlusCore) - an AMS core board
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
@@ -587,6 +588,7 @@
 
 ## HTML 
 
+- [Jstudner/jcorp-nomad](https://github.com/Jstudner/jcorp-nomad) - An extremely compact offline media server for Movies, Shows, Books, and Music.
 - [passkeydeveloper/passkeys.dev](https://github.com/passkeydeveloper/passkeys.dev) - source for the passkeys.dev developer site
 - [maester365/maester](https://github.com/maester365/maester) - Maester is a test automation framework to help you stay in control of your Microsoft security configuration.
 - [chr0nzz/traefik-manager](https://github.com/chr0nzz/traefik-manager) - A clean, self-hosted web UI for managing your Traefik reverse proxy.
