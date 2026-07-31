@@ -397,6 +397,7 @@
 
 ## Go 
 
+- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [291-Group/LAN-Orangutan](https://github.com/291-Group/LAN-Orangutan) - LAN Orangutan is a lightweight network scanner with persistent device labeling, multi-network support, and Tailscale integration. Built by 291 Group.
 - [dbeg/tautulli-yamtrack-exporter](https://github.com/dbeg/tautulli-yamtrack-exporter) - A Go script that exports Plex watch history from Tautulli into a Yamtrack compatible CSV.
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
@@ -1396,7 +1397,7 @@
 - [ttlequals0/MinusPod](https://github.com/ttlequals0/MinusPod) - MinusPod is a self-hosted server that removes ads before you ever hit play
 - [ellite/scrob](https://github.com/ellite/scrob) - Scrob - Self-hosted media tracking app. It syncs your libraries from Jellyfin, Plex, and Emby, tracks your watch history, ratings, and personal lists - Your own private Letterboxd + Trakt
 - [totaldebug/armadarr](https://github.com/totaldebug/armadarr) - A home assistant integration for managing all Arr platforms
-- [thecfu/scraparr](https://github.com/thecfu/scraparr) - Scraparr is a Prometheus Exporter for various components of the *arr Suite
+- [thecfu/scraparr](https://github.com/thecfu/scraparr) - Codeberg mirror --- Scraparr is a Prometheus Exporter for various components of the *arr Suite
 - [wuwentao/midea_ac_lan](https://github.com/wuwentao/midea_ac_lan) - Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.
 - [boludo00/bookkeep](https://github.com/boludo00/bookkeep) - 
 - [krissen/polleninformation](https://github.com/krissen/polleninformation) - Integration for homeassistant, creating sensors based on polleninformation.eu
