@@ -33,7 +33,6 @@
 - [Kotlin](#kotlin)
 - [Logos](#logos)
 - [Lua](#lua)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
@@ -929,10 +928,6 @@
 - [docker-archive-public/docker.dockercraft](https://github.com/docker-archive-public/docker.dockercraft) - Docker + Minecraft = Dockercraft
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 
-## MDX 
-
-- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
-
 ## Makefile 
 
 - [asdcorp/hwreqchk](https://github.com/asdcorp/hwreqchk) - Professional hardware requirements bypass for Windows 11 24H2
@@ -1580,7 +1575,7 @@
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [westsurname/scripts](https://github.com/westsurname/scripts) - 
-- [g0ldyy/comet](https://github.com/g0ldyy/comet) - Stremio's fastest torrent/debrid search add-on.
+- [g0ldyy/comet](https://github.com/g0ldyy/comet) - Stremio's fastest torrent/debrid/usenet search add-on.
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait) - Bring portraits to life!
 - [danieldotnl/ha-multiscrape](https://github.com/danieldotnl/ha-multiscrape) - Home Assistant custom component for scraping (html, xml or json) multiple values (from a single HTTP request) with a separate sensor/attribute for each value. Support for (login) form-submit functiona
@@ -2262,6 +2257,7 @@
 - [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex, Jellyfin and Emby.
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [debridmediamanager/debrid-media-manager](https://github.com/debridmediamanager/debrid-media-manager) - Curate an inifinite media library
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [lunarr-app/lunarr-go](https://github.com/lunarr-app/lunarr-go) - Self-hosted media streaming server designed as an alternative to Plex, allowing you to monitor and manage your movie and TV show files on a headless server.
 - [kekst/socialnuke](https://github.com/kekst/socialnuke) - best discord msg nuker is back / sponsored by uncle cheng
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
