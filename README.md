@@ -1436,7 +1436,7 @@
 - [ots-downloader/onthespot](https://github.com/ots-downloader/onthespot) - A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More
 - [soggy8/musikat](https://github.com/soggy8/musikat) - 🎵 Search Spotify and download music from YouTube to your Navidrome server with automatic metadata tagging
 - [the-useless-one/pywerview](https://github.com/the-useless-one/pywerview) - A (partial) Python rewriting of PowerSploit's PowerView
-- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) - Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  PublicMetaDB, AniList, TMDb, MDBlist, Nuvio, Kodi and more. Keep your movies and shows in sync, no matter where you watch.
+- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) - Synchronize your data across media servers, media agents and trackers. Keep your movies and shows in sync, no matter where you watch.
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [sqrlmstr5000/discovarr](https://github.com/sqrlmstr5000/discovarr) - AI Powered Media Recommendations
 - [withoutbg/withoutbg-python](https://github.com/withoutbg/withoutbg-python) - Python SDK for local and cloud background removal (pip install withoutbg)
@@ -1568,7 +1568,7 @@
 - [feizc/FluxMusic](https://github.com/feizc/FluxMusic) - Text-to-Music Generation with Rectified Flow Transformers
 - [mozilla/fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.
 - [hannob/snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Open source AI job application bot in Python: auto apply to jobs, with a tailored resume and cover letter for each posting.
 - [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
 - [Entree3k/Edition-Manager](https://github.com/Entree3k/Edition-Manager) - Edition Manager - Movie Edition Management Tool for Plex
 - [I-am-PUID-0/DMB](https://github.com/I-am-PUID-0/DMB) - Debrid Media Bridge
@@ -1794,7 +1794,7 @@
 - [chenjj/espoofer](https://github.com/chenjj/espoofer) - An email spoofing testing tool that aims to bypass SPF/DKIM/DMARC and forge DKIM signatures.🍻
 - [Cornishman/Plex-Trakt-Scrobbler](https://github.com/Cornishman/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to trakt.tv
 - [extrobe/plex_and_media_utilities](https://github.com/extrobe/plex_and_media_utilities) - Set of tools for managing Plex and Media Items
-- [CollinHeist/TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
+- [TitleCardMaker/TitleCardMaker](https://github.com/TitleCardMaker/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
 - [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies (w/ VPN)
 - [saltyorg/Saltbox](https://github.com/saltyorg/Saltbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [mlsmithjr/plex-watchlist-migration](https://github.com/mlsmithjr/plex-watchlist-migration) - Script to migrate your "watch" list of media to a new Plex server.
@@ -2289,7 +2289,7 @@
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [Christopher-Hayes/image-optimizer](https://github.com/Christopher-Hayes/image-optimizer) - A free and open source tool for optimizing images and vector graphics.
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
