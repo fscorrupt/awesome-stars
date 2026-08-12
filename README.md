@@ -1151,6 +1151,7 @@
 
 ## PowerShell 
 
+- [mikerr/360MultiStretch](https://github.com/mikerr/360MultiStretch) - Stitching script for samsung gear360 cameras
 - [nickydewestelinck/MicrosoftIntune](https://github.com/nickydewestelinck/MicrosoftIntune) - 
 - [V33RU/tcpk](https://github.com/V33RU/tcpk) - Portable Windows toolkit for pentesting thick-client applications, including .NET, MSIX, and native binaries.
 - [NotMedic/NetNTLMtoSilverTicket](https://github.com/NotMedic/NetNTLMtoSilverTicket) - SpoolSample -&gt; Responder w/NetNTLM Downgrade -&gt; NetNTLMv1 -&gt; NTLM -&gt; Kerberos Silver Ticket
@@ -1914,6 +1915,7 @@
 
 ## Shell 
 
+- [lansysart/gear360-telnet.usbshell-mod](https://github.com/lansysart/gear360-telnet.usbshell-mod) - 
 - [TheCaptain989/radarr-striptracks](https://github.com/TheCaptain989/radarr-striptracks) - A Docker Mod to Radarr/Sonarr to automatically remove unwanted audio and subtitle tracks
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 - [Prowlarr/Indexers](https://github.com/Prowlarr/Indexers) - Contains indexer definitions
