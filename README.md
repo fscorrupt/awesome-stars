@@ -54,6 +54,7 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
+- [Text](#text)
 - [Twig](#twig)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
@@ -150,7 +151,7 @@
 - [mrsilver76/shelfscan](https://github.com/mrsilver76/shelfscan) - A cross-platform command-line tool (Windows, Linux, macOS) for scanning a media library and reporting on Plex naming compliance.
 - [mutantmarine/UnofficialKometaGUI](https://github.com/mutantmarine/UnofficialKometaGUI) - 
 - [GermanCoding/SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / launcher for Syncthing (v2 continued)
-- [aelassas/servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Real-Time Monitoring
+- [aelassas/servy](https://github.com/aelassas/servy) - Run Any App as a Native Windows Service with Real-Time Monitoring
 - [wariv/DarkLnk](https://github.com/wariv/DarkLnk) - Build sneaky & malicious LNK files.
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [n00bcodr/JellyfinTweaks](https://github.com/n00bcodr/JellyfinTweaks) - A Jellyfin Plugin to force a few settings without modification of any web files.
@@ -674,6 +675,7 @@
 
 ## JavaScript 
 
+- [tomer8007/whatsapp-web-incognito](https://github.com/tomer8007/whatsapp-web-incognito) - A Chrome extension that disables read receipts and presence updates on WhatsApp Web
 - [NathanLenias/Home-Assistant-Tablet-Dashboard](https://github.com/NathanLenias/Home-Assistant-Tablet-Dashboard) - A wall tablet dashboard for Home Assistant built as one plain web page. No Lovelace, no cards, no build step.
 - [adamjthompson/Gaming-Status-Cards](https://github.com/adamjthompson/Gaming-Status-Cards) - A collection of beautiful, highly customizable dashboard cards designed specifically to work with the Gaming Status Integration.
 - [marrobHD/tv-card](https://github.com/marrobHD/tv-card) - 📺 TV Remote Card
@@ -1854,7 +1856,7 @@
 - [euzu/tuliprox](https://github.com/euzu/tuliprox) - Flexible IPTV playlist processor & proxy in Rust 🦀 - supports M3U, Xtream Codes, HDHomeRun, Plex, Emby & Jellyfin. Filtering, merging, scheduling & web delivery.
 - [Drop-OSS/drop-app](https://github.com/Drop-OSS/drop-app) - Moved to a monorepo at https://github.com/Drop-OSS/drop
 - [lostb1t/remux-client](https://github.com/lostb1t/remux-client) - A *VERY experimental* web and desktop client for Jellyfin written in Rust
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn't need additional client-side software
 - [Virviil/oci2git](https://github.com/Virviil/oci2git) - Introspecting Docker images as easy as using Git
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
@@ -2056,6 +2058,10 @@
 ## TeX 
 
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
+
+## Text 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## Twig 
 
