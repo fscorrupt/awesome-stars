@@ -151,7 +151,7 @@
 - [mrsilver76/shelfscan](https://github.com/mrsilver76/shelfscan) - A cross-platform command-line tool (Windows, Linux, macOS) for scanning a media library and reporting on Plex naming compliance.
 - [mutantmarine/UnofficialKometaGUI](https://github.com/mutantmarine/UnofficialKometaGUI) - 
 - [GermanCoding/SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / launcher for Syncthing (v2 continued)
-- [aelassas/servy](https://github.com/aelassas/servy) - Run Any App as a Native Windows Service with Real-Time Monitoring
+- [aelassas/servy](https://github.com/aelassas/servy) - Enterprise-Grade Windows Service Wrapper with Real-Time Monitoring
 - [wariv/DarkLnk](https://github.com/wariv/DarkLnk) - Build sneaky & malicious LNK files.
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [n00bcodr/JellyfinTweaks](https://github.com/n00bcodr/JellyfinTweaks) - A Jellyfin Plugin to force a few settings without modification of any web files.
@@ -731,6 +731,7 @@
 - [wwebjs/whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [Jackywine/Bella](https://github.com/Jackywine/Bella) - Bella is best
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
+- [book000/youtube-live-recorder](https://github.com/book000/youtube-live-recorder) - Record and download YouTube live videos. Works with Docker (Docker Compose).
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [HariSekhon/TamperMonkey](https://github.com/HariSekhon/TamperMonkey) - TamperMonkey Scripts - convert phone number +tel links to WhatsApp links, Jira auto-fill ticket description field to meet Agile requirements
 - [sapondanaisriwan/youtube-row-fixer](https://github.com/sapondanaisriwan/youtube-row-fixer) - A browser extension for customizing the videos per row and Make YouTube Great Again!
@@ -1155,7 +1156,7 @@
 
 - [mikerr/360MultiStretch](https://github.com/mikerr/360MultiStretch) - Stitching script for samsung gear360 cameras
 - [nickydewestelinck/MicrosoftIntune](https://github.com/nickydewestelinck/MicrosoftIntune) - 
-- [V33RU/tcpk](https://github.com/V33RU/tcpk) - Portable Windows toolkit for pentesting thick-client applications, including .NET, MSIX, and native binaries.
+- [V33RU/tcpk](https://github.com/V33RU/tcpk) - Thick client penetration testing and MSIX security audit toolkit for Windows. Audits .NET, Electron and native binaries: static and runtime checks, IL-verified findings, computed CVSS v4.0, CWE/ATT&CK
 - [NotMedic/NetNTLMtoSilverTicket](https://github.com/NotMedic/NetNTLMtoSilverTicket) - SpoolSample -&gt; Responder w/NetNTLM Downgrade -&gt; NetNTLMv1 -&gt; NTLM -&gt; Kerberos Silver Ticket
 - [ThomasKur/IntuneWin32App](https://github.com/ThomasKur/IntuneWin32App) - Provides a set of functions to manage all aspects of Win32 apps in Microsoft Intune.
 - [MSEndpointMgr/IntuneWin32App](https://github.com/MSEndpointMgr/IntuneWin32App) - Provides a set of functions to manage all aspects of Win32 apps in Microsoft Intune.
@@ -1473,7 +1474,7 @@
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
 - [ajb3932/immich-partner-sharing](https://github.com/ajb3932/immich-partner-sharing) - 
-- [oliverbravery/PrintGuard](https://github.com/oliverbravery/PrintGuard) - Free, on-device 3D‑print failure detection that pauses the printer and pushes a snapshot alert. Runs install‑free in your browser, as a Docker hub, or a native macOS/Windows app. Open‑source, no cloud
+- [oliverbravery/PrintGuard](https://github.com/oliverbravery/PrintGuard) - Catches failed 3D prints on your own hardware, pauses the printer and sends you a snapshot alert. Runs in your browser with nothing to install, in Docker, or as a macOS or Windows app. Free and open s
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [baervers23/still-Membarr](https://github.com/baervers23/still-Membarr) - Yoruio's Discord Bot to invite a user to a Plex or Jellyfin server - with small modifications
 - [RazgrizHsu/immich-deduper](https://github.com/RazgrizHsu/immich-deduper) - duplicate photo finder for Immich - find and remove similar images
@@ -1525,7 +1526,7 @@
 - [allaboutduncan/clu-comics](https://github.com/allaboutduncan/clu-comics) - Digital comic curation app to read, manage, edit, and update libraries of any size.
 - [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Minimal reproduction of DeepSeek R1-Zero
 - [rdavydov/Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2) - [NEW] A simple script that will watch a stream for you and earn the channel points. A successor of Tkd-Alex's original repo.
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment. Connect your agents now and build on the Agentic Cloud 
 - [rallyspeed/Azure-CIS](https://github.com/rallyspeed/Azure-CIS) - Automate Azure subscription check against CIS Benchmark
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -2021,7 +2022,6 @@
 
 ## Svelte 
 
-- [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
 - [bobbydd021-code/Lantern](https://github.com/bobbydd021-code/Lantern) - 
 - [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
 - [c4lyp5o/jnfo](https://github.com/c4lyp5o/jnfo) - 
@@ -2070,6 +2070,7 @@
 ## TypeScript 
 
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction
+- [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
 - [OpenAdminOS/OpenAdminOS](https://github.com/OpenAdminOS/OpenAdminOS) - 
 - [eltharynd/OnePacerr](https://github.com/eltharynd/OnePacerr) - Automated One Pace downloads and metadata for Plex, Jellyfin, and Emby. Built to complement your Sonarr stack.
 - [spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
@@ -2116,7 +2117,7 @@
 - [eftpmc/yuzic](https://github.com/eftpmc/yuzic) - A cross-platform, free and open source music player for Navidrome & Jellyfin
 - [AyaanZaveri/finetic](https://github.com/AyaanZaveri/finetic) - A Modern Jellyfin Client built w/ Next.js
 - [akhilmulpurii/aperture](https://github.com/akhilmulpurii/aperture) - A Modern Jellyfin Client built w/ Next.js
-- [PelagicaApp/pelagica](https://github.com/PelagicaApp/pelagica) - An alternative, modern and configurable web frontend for Jellyfin
+- [PelagicaApp/pelagica](https://github.com/PelagicaApp/pelagica) - A mdern web, desktop and TV client for Jellyfin
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [Doezer/Questarr](https://github.com/Doezer/Questarr) - Questarr is an *Arr-inspired game manager that helps you discover, track, and automatically download the games you want.
 - [m3sserstudi0s/swiparr](https://github.com/m3sserstudi0s/swiparr) - Swipe on what to watch next.
@@ -2159,7 +2160,6 @@
 - [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [kyantech/Palmr](https://github.com/kyantech/Palmr) - 🌴 Palmr. is an open-source file-sharing platform focused on privacy and security. It enables users to upload, manage, and share files with features like password protection, custom links, and access c
 - [jamcalli/Pulsarr](https://github.com/jamcalli/Pulsarr) - Pulsarr: Real-time Plex watchlist monitoring and content acquisition tool. Seamlessly sync Plex watchlists with Sonarr and Radarr, featuring intelligent predicated content routing, multi-instance supp
-- [book000/youtube-live-recorder](https://github.com/book000/youtube-live-recorder) - Record and download YouTube live videos. Works with Docker (Docker Compose).
 - [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr
 - [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor) - Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
