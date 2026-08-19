@@ -1096,6 +1096,7 @@
 
 ## PHP 
 
+- [arabcoders/watchstate](https://github.com/arabcoders/watchstate) - Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.
 - [m3ue/m3u-editor](https://github.com/m3ue/m3u-editor) - A full-featured IPTV editor, including features similar to xteve or threadfin. With full EPG management, Xtream API output, ability to store and sync .strm files, post processing with ability to call 
 - [SubleXBle/Fail2Ban-Report](https://github.com/SubleXBle/Fail2Ban-Report) - Web-based dashboard for Fail2Ban log filtering and blocklist control
 - [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo) - A powerful, self-hosted file-sharing platform built with PHP and Laravel with a Vue.js frontend. It offers secure, customizable file-transfer capabilities through an elegant user interface, giving you
@@ -1130,9 +1131,8 @@
 - [siliconApricot/cartridge-legacy](https://github.com/siliconApricot/cartridge-legacy) - Self-hosted game library.
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
-- [arabcoders/watchstate](https://github.com/arabcoders/watchstate) - Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.
 - [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) - FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server that supports 457 file formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server that supports 488 file formats in 26 languages.
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
@@ -1380,6 +1380,7 @@
 
 ## Python 
 
+- [dannyvfilms/Floppy](https://github.com/dannyvfilms/Floppy) - Self-hosted all-in-one media tracker and Trakt alternative for movies, TV, anime, books, games, music, and podcasts.
 - [Pfuenzle/AnisearchKomga](https://github.com/Pfuenzle/AnisearchKomga) - A Metadata Provider for Komga using AniSearch
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 - [matteyeux/binja-diff](https://github.com/matteyeux/binja-diff) - Binary Ninja diffing tool
@@ -1523,7 +1524,7 @@
 - [fabriziosalmi/patterns](https://github.com/fabriziosalmi/patterns) - Automated OWASP CRS and Bad Bot Detection for Nginx, Apache, Traefik and HaProxy
 - [fabriziosalmi/UglyFeed](https://github.com/fabriziosalmi/UglyFeed) - Retrieve, aggregate, filter, evaluate, rewrite and serve RSS feeds using Large Language Models for fun, research and learning purposes
 - [sbordeyne/crunchyroll_calendar](https://github.com/sbordeyne/crunchyroll_calendar) - Script to automate transcribing french crunchyroll anime releases into a google calendar
-- [allaboutduncan/clu-comics](https://github.com/allaboutduncan/clu-comics) - Digital comic curation app to read, manage, edit, and update libraries of any size.
+- [allaboutduncan/clu-comics](https://github.com/allaboutduncan/clu-comics) - Self-hosted comic library manager — bulk CBR to CBZ conversion, CBZ editing, ComicInfo.xml metadata, download automation, track your reading, and user accounts to share with others. Runs in Docker.
 - [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Minimal reproduction of DeepSeek R1-Zero
 - [rdavydov/Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2) - [NEW] A simple script that will watch a stream for you and earn the channel points. A successor of Tkd-Alex's original repo.
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment. Connect your agents now and build on the Agentic Cloud 
@@ -1804,6 +1805,7 @@
 - [Tkd-Alex/Twitch-Channel-Points-Miner-v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2) - A simple script that will watch a stream for you and earn the channel points.
 - [Casvt/Plex-scripts](https://github.com/Casvt/Plex-scripts) - Plex, the arr's and tautulli scripts coming from user requests
 - [m0rtem/CloudFail](https://github.com/m0rtem/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [Kometa-Team/Kometa](https://github.com/Kometa-Team/Kometa) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.
 - [ShaneIsrael/plex-auto-genres](https://github.com/ShaneIsrael/plex-auto-genres) - Automatically creates genre collections for your Plex media
@@ -1898,14 +1900,13 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
-- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman
 
 ## SCSS 
@@ -2117,7 +2118,7 @@
 - [eftpmc/yuzic](https://github.com/eftpmc/yuzic) - A cross-platform, free and open source music player for Navidrome & Jellyfin
 - [AyaanZaveri/finetic](https://github.com/AyaanZaveri/finetic) - A Modern Jellyfin Client built w/ Next.js
 - [akhilmulpurii/aperture](https://github.com/akhilmulpurii/aperture) - A Modern Jellyfin Client built w/ Next.js
-- [PelagicaApp/pelagica](https://github.com/PelagicaApp/pelagica) - A mdern web, desktop and TV client for Jellyfin
+- [PelagicaApp/pelagica](https://github.com/PelagicaApp/pelagica) - A modern web, desktop and TV client for Jellyfin
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [Doezer/Questarr](https://github.com/Doezer/Questarr) - Questarr is an *Arr-inspired game manager that helps you discover, track, and automatically download the games you want.
 - [m3sserstudi0s/swiparr](https://github.com/m3sserstudi0s/swiparr) - Swipe on what to watch next.
