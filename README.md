@@ -689,7 +689,6 @@
 - [DumbWareio/DumbPad](https://github.com/DumbWareio/DumbPad) - A Dumb Pad with collaborative editing, fuzzy search, & markdown preview functionality
 - [sassanix/Warracker](https://github.com/sassanix/Warracker) - 🛡️ Warracker is an open source, self-hostable warranty tracker to monitor expirations, store receipts, files. You own the data, your rules!
 - [aspenmayer/bypass-paywalls-chrome-clean-magnolia1234](https://github.com/aspenmayer/bypass-paywalls-chrome-clean-magnolia1234) - Bypass Paywalls Clean for Chrome (no Google Analytics, lot of updates/bug-fixes and custom sites)
-- [chr0nzz/traefik-manager](https://github.com/chr0nzz/traefik-manager) - A clean, self-hosted web UI for managing your Traefik reverse proxy.
 - [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas) - Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.
 - [cbulock/lovelace-battery-entity](https://github.com/cbulock/lovelace-battery-entity) - A custom Lovelace component for displaying battery levels for battery entities
 - [onceuponatime78/ha-travelroute-card](https://github.com/onceuponatime78/ha-travelroute-card) - Custom Lovelace card for Home Assistant: visualise vehicle GPS travel history on an interactive map with road-accurate OSRM routing and park stop detection
@@ -849,6 +848,7 @@
 - [nsano-rururu/docker-compose-ui](https://github.com/nsano-rururu/docker-compose-ui) - web interface for Docker Compose
 - [revenz/Fenrus](https://github.com/revenz/Fenrus) - A personal home page for quick access to all your personal apps/sites.
 - [marklagendijk/node-toogoodtogo-watcher](https://github.com/marklagendijk/node-toogoodtogo-watcher) - Node.js cli tool for monitoring your favorite TooGoodToGo businesses. Docker image and HomeAssistant addon available.
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [linuxserver/budge](https://github.com/linuxserver/budge) - 
 - [petio-team/petio](https://github.com/petio-team/petio) - Petio Request, Discover, Review
 - [petersem/monocker](https://github.com/petersem/monocker) - 
@@ -1133,7 +1133,7 @@
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
 - [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) - FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server that supports 488 file formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, respource aware file conversion server supporting 488 formats in 26 languages.
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
@@ -1400,6 +1400,7 @@
 - [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to
 - [ttlequals0/MinusPod](https://github.com/ttlequals0/MinusPod) - MinusPod is a self-hosted server that removes ads before you ever hit play
 - [ellite/scrob](https://github.com/ellite/scrob) - Scrob - Self-hosted media tracking app. It syncs your libraries from Jellyfin, Plex, and Emby, tracks your watch history, ratings, and personal lists - Your own private Letterboxd + Trakt
+- [chr0nzz/traefik-manager](https://github.com/chr0nzz/traefik-manager) - A clean, self-hosted web UI for managing your Traefik reverse proxy.
 - [totaldebug/armadarr](https://github.com/totaldebug/armadarr) - A home assistant integration for managing all Arr platforms
 - [thecfu/scraparr](https://github.com/thecfu/scraparr) - Codeberg mirror --- Scraparr is a Prometheus Exporter for various components of the *arr Suite
 - [wuwentao/midea_ac_lan](https://github.com/wuwentao/midea_ac_lan) - Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.
@@ -1528,7 +1529,7 @@
 - [allaboutduncan/clu-comics](https://github.com/allaboutduncan/clu-comics) - Self-hosted comic library manager — bulk CBR to CBZ conversion, CBZ editing, ComicInfo.xml metadata, download automation, track your reading, and user accounts to share with others. Runs in Docker.
 - [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Minimal reproduction of DeepSeek R1-Zero
 - [rdavydov/Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2) - [NEW] A simple script that will watch a stream for you and earn the channel points. A successor of Tkd-Alex's original repo.
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment. Connect your agents now and build on the Agentic Cloud 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 - [rallyspeed/Azure-CIS](https://github.com/rallyspeed/Azure-CIS) - Automate Azure subscription check against CIS Benchmark
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -1655,7 +1656,7 @@
 - [christophetd/CloudFlair](https://github.com/christophetd/CloudFlair) - 🔎 Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys.
 - [Shayne55434/Tautulli2Discord-python](https://github.com/Shayne55434/Tautulli2Discord-python) - 
 - [mtrogman/regrabarr](https://github.com/mtrogman/regrabarr) - A discord bot to delete and search for media
-- [rush86999/atom](https://github.com/rush86999/atom) - Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation
+- [rush86999/atom](https://github.com/rush86999/atom) - Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation
 - [mgrimace/claim_itch](https://github.com/mgrimace/claim_itch) - Automate claiming itch.io games
 - [rfsbraz/deleterr](https://github.com/rfsbraz/deleterr) - Automated Plex media cleanup with watch-based rules, smart exclusions, and "Leaving Soon" notifications via Radarr, Sonarr & Tautulli.
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
@@ -2094,7 +2095,7 @@
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
-- [addev808/F1ReplayTiming](https://github.com/addev808/F1ReplayTiming) - Visualisation of real-time track data and telemetry synced to F1 replays.
+- [adn8naiagent/F1ReplayTiming](https://github.com/adn8naiagent/F1ReplayTiming) - Visualisation of real-time track data and telemetry synced to F1 replays.
 - [zbejas/orbiscast](https://github.com/zbejas/orbiscast) - A Discord IPTV streaming bot.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
@@ -2336,7 +2337,6 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [se1exin/Cleanarr](https://github.com/se1exin/Cleanarr) - A simple UI to help find and delete duplicate and sample files from your Plex server
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [MarcusOtter/discord-needle](https://github.com/MarcusOtter/discord-needle) - Needle is a Discord bot that creates Discord threads automatically.
 - [sct/discord-support-threads](https://github.com/sct/discord-support-threads) - 
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
