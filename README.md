@@ -1382,7 +1382,7 @@
 - [pullboxapp/pullbox](https://github.com/pullboxapp/pullbox) - Modern comic book management and acquisition platform for self-hosted environments
 - [dannyvfilms/Floppy](https://github.com/dannyvfilms/Floppy) - Self-hosted all-in-one media tracker and Trakt alternative for movies, TV, anime, books, games, music, and podcasts.
 - [Pfuenzle/AnisearchKomga](https://github.com/Pfuenzle/AnisearchKomga) - A Metadata Provider for Komga using AniSearch
-- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
+- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
 - [matteyeux/binja-diff](https://github.com/matteyeux/binja-diff) - Binary Ninja diffing tool
 - [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner
 - [widevineleak/pyplayready](https://github.com/widevineleak/pyplayready) - Python implementation of Microsoft's Playready DRM CDM (Content Decryption Module)
