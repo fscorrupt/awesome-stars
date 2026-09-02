@@ -94,6 +94,7 @@
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [MobinYengejehi/Artemis](https://github.com/MobinYengejehi/Artemis) - GameStream client for Android
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
+- [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android
 - [amnezia-vpn/amneziawg-linux-kernel-module](https://github.com/amnezia-vpn/amneziawg-linux-kernel-module) - AmneziaWG Linux kernel module
 - [TrisH0x2A/NxLite](https://github.com/TrisH0x2A/NxLite) - Lightning-fast HTTP server built in C
 - [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project
@@ -656,7 +657,6 @@
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [eddyizm/tempus](https://github.com/eddyizm/tempus) - An open source and lightweight music client for Subsonic, designed and built natively for Android.
-- [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android
 - [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
 - [olistudent/FBEditor](https://github.com/olistudent/FBEditor) - Programm zum Editieren der Konfigurationsdatei einer Fritz!Box
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
@@ -684,7 +684,7 @@
 - [marrobHD/tv-card](https://github.com/marrobHD/tv-card) - 📺 TV Remote Card
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [Cyprien-png/jellyfin-binge-buddy](https://github.com/Cyprien-png/jellyfin-binge-buddy) - Keep track of your buddies' viewing progress in Jellyfin. Designed to sync up and resume watching together for your next IRL session.
-- [AHouseOfBards/Bonfire-JellyProfiles](https://github.com/AHouseOfBards/Bonfire-JellyProfiles) - Bonfire is a Jellyfin plugin that adds profiles on a per user basis to Jellyfin. Built with Gemini Flash. Designed to work with any Jellyfin client that is a web client or a wrapper for a web client. 
+- [AHouseOfBards/Bonfire-JellyProfiles](https://github.com/AHouseOfBards/Bonfire-JellyProfiles) - Bonfire is a Jellyfin plugin that adds profiles on a per user basis to Jellyfin. Built with AI Assistance. Designed to work with any Jellyfin client that is a web client or a wrapper for a web client.
 - [ytnrvdf/wha-spell-simulator](https://github.com/ytnrvdf/wha-spell-simulator) - A fan-made browser-based Witch Hat Atelier spell simulator.
 - [0belous/Jellyfin-Universal-Plugin-Repo](https://github.com/0belous/Jellyfin-Universal-Plugin-Repo) - The Jellyfin universal plugin repository
 - [DumbWareio/DumbPad](https://github.com/DumbWareio/DumbPad) - A Dumb Pad with collaborative editing, fuzzy search, & markdown preview functionality
@@ -695,7 +695,7 @@
 - [onceuponatime78/ha-travelroute-card](https://github.com/onceuponatime78/ha-travelroute-card) - Custom Lovelace card for Home Assistant: visualise vehicle GPS travel history on an interactive map with road-accurate OSRM routing and park stop detection
 - [cataseven/Google-Map-Card](https://github.com/cataseven/Google-Map-Card) - Google Maps Card for Home Assistant
 - [nehirakbass/anime-filler-checker](https://github.com/nehirakbass/anime-filler-checker) - Browser extension that auto-detects anime filler episodes on any streaming site. Shows FILLER/CANON/MIXED badge directly on the page.
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 - [microsoft/agent-academy](https://github.com/microsoft/agent-academy) - Curated lessons on getting started building agents with Copilot Studio
 - [Sir-Scuzza/gluetun-webui](https://github.com/Sir-Scuzza/gluetun-webui) - 
 - [lklynet/aurral](https://github.com/lklynet/aurral) - The best in open-source music discovery.
@@ -991,6 +991,7 @@
 - [cyb3rmik3/KQL-threat-hunting-queries](https://github.com/cyb3rmik3/KQL-threat-hunting-queries) - A repository of KQL queries focused on threat hunting and threat detecting for Microsoft Sentinel & Microsoft XDR (Former Microsoft 365 Defender).
 - [navilg/media-stack](https://github.com/navilg/media-stack) - A self-hosted stack for media management and streaming, with AI-powered movie and show recommendations. Includes Sonarr, Radarr, qBitTorrent, Prowlarr, Jellyfin, Seerr, Recommendarr, and VPN support.
 - [FalconForceTeam/FalconFriday](https://github.com/FalconForceTeam/FalconFriday) - Hunting queries and detections
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Open source AI job application toolkit in Python: generate a resume and cover letter tailored to each job posting, and drive a stealth browser from any AI client over MCP.
 - [yackermann/awesome-webauthn](https://github.com/yackermann/awesome-webauthn) - 🔐 A curated list of awesome WebAuthn and Passkey resources
 - [DRMStuff/CDM](https://github.com/DRMStuff/CDM) - CDM Collections
 - [debridmediamanager/awesome-debrid](https://github.com/debridmediamanager/awesome-debrid) - 🆓 Download and stream in an instant
@@ -1575,7 +1576,6 @@
 - [feizc/FluxMusic](https://github.com/feizc/FluxMusic) - Text-to-Music Generation with Rectified Flow Transformers
 - [mozilla/fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.
 - [hannob/snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Open source AI job application bot in Python: browser automation and web scraping to read job postings, then auto-apply with a tailored resume and cover letter for each posting.
 - [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
 - [Entree3k/Edition-Manager](https://github.com/Entree3k/Edition-Manager) - Edition Manager - Movie Edition Management Tool for Plex
 - [I-am-PUID-0/DMB](https://github.com/I-am-PUID-0/DMB) - Debrid Media Bridge
@@ -1668,7 +1668,7 @@
 - [jeanslack/Videomass](https://github.com/jeanslack/Videomass) - Videomass is a free, open source and cross-platform GUI for FFmpeg
 - [PiotrMachowski/Xiaomi-cloud-tokens-extractor](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor) - This tool retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices.
 - [SickChill/sickchill](https://github.com/SickChill/sickchill) - Less rage, more chill.
-- [The-Vibe-Company/Quivr](https://github.com/The-Vibe-Company/Quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [hurlenko/mloader](https://github.com/hurlenko/mloader) - Download manga from mangaplus.shueisha.co.jp
 - [simplymemes/Crunchyroll.bundle](https://github.com/simplymemes/Crunchyroll.bundle) - Crunchyroll.bundle is a Plex Media Server plugin that provides access to the content available at Crunchyroll.com.
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
@@ -1826,7 +1826,7 @@
 ## Ruby 
 
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
-- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
+- [meme-search/meme-search](https://github.com/meme-search/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
 - [Eigenfocus/eigenfocus](https://github.com/Eigenfocus/eigenfocus) - Eigenfocus - Project Management tool without the clutter.
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
@@ -2072,6 +2072,7 @@
 
 ## TypeScript 
 
+- [jeremiaa/magic-frame](https://github.com/jeremiaa/magic-frame) - Self-hosted home display — part photo frame, part family board, part Home Assistant dashboard. Drag-&-drop, live sync, Immich wallpapers. No cloud.
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction
 - [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
