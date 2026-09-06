@@ -494,7 +494,7 @@
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [zer-far/spurt](https://github.com/zer-far/spurt) - HTTP stress testing tool that can overload web servers.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
@@ -706,6 +706,7 @@
 - [kmitchel/jellyfin-tuner](https://github.com/kmitchel/jellyfin-tuner) - 
 - [JoKerIsCraZy/HomeServerCompanion](https://github.com/JoKerIsCraZy/HomeServerCompanion) - A sleek, modern dashboard for managing your Home Server services directly from your browser toolbar.
 - [hoangvu12/subgrid](https://github.com/hoangvu12/subgrid) - 
+- [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated asset maker for Plex/Jellyfin/Emby.
 - [code-arman/Cleanify](https://github.com/code-arman/Cleanify) - Convert your Explicit Spotify playlists into Clean playlists in the click of a button
 - [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus) - This is a custom fork of the original gethomepage/homepage project, with additional functionality extending beyond the scope of the original project.
 - [ranaldsgift/KefinTweaks](https://github.com/ranaldsgift/KefinTweaks) - An essential collection of Jellyfin Tweaks that you always knew you needed
@@ -1165,7 +1166,6 @@
 - [fscorrupt/IntuneInspector](https://github.com/fscorrupt/IntuneInspector) - A fast, read-only PowerShell UI tool for deep-searching, auditing, and navigating Microsoft Intune policies and group assignments via the Graph API.
 - [CDRT/Library](https://github.com/CDRT/Library) - Scripts and files to share
 - [fscorrupt/Toolbox](https://github.com/fscorrupt/Toolbox) - Just bunch of scripts i created, feel free to use them!
-- [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated asset maker for Plex/Jellyfin/Emby.
 - [jorgeasaurus/IntuneHydrationKit](https://github.com/jorgeasaurus/IntuneHydrationKit) - Quick way to import starter configs into Intune
 - [jdhitsolutions/MySQLite](https://github.com/jdhitsolutions/MySQLite) - A small set of PowerShell commands for working with SQLite database files.
 - [richardhicks/endpointmanager](https://github.com/richardhicks/endpointmanager) - PowerShell scripts for Microsoft Endpoint Manager/Intune Proactive Remediation
@@ -1451,7 +1451,7 @@
 - [mustbeperfect/definitive-opensource](https://github.com/mustbeperfect/definitive-opensource) - The definitive list of the best of (consumer facing) open source.
 - [NeoHuncho/vikunja-voice-assistant](https://github.com/NeoHuncho/vikunja-voice-assistant) - Simplify your Vikunja task creation using Home voice assistant
 - [AlexxIT/StreamAssist](https://github.com/AlexxIT/StreamAssist) - Home Assistant custom component that allows you to turn almost any camera and almost any speaker into a local voice assistant
-- [francescopace/espectre](https://github.com/francescopace/espectre) - ESPectre - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
+- [francescopace/espectre](https://github.com/francescopace/espectre) - Wi-Fi CSI motion sensing for ESP32. C++ SDK, ESPHome, Native, and Matter frontends, browser tools, and a CLI for the full device lifecycle. GPLv3 and commercial licensing.
 - [unmonitarr/unmonitarr](https://github.com/unmonitarr/unmonitarr) - Wait for real releases, skip the fakes. Intelligent monitoring automation for Sonarr & Radarr.
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [Quenary/tugtainer](https://github.com/Quenary/tugtainer) - An application for automated Docker container updates with a web UI
