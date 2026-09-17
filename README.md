@@ -685,7 +685,7 @@
 - [Cyprien-png/jellyfin-binge-buddy](https://github.com/Cyprien-png/jellyfin-binge-buddy) - Keep track of your buddies' viewing progress in Jellyfin. Designed to sync up and resume watching together for your next IRL session.
 - [AHouseOfBards/Bonfire-JellyProfiles](https://github.com/AHouseOfBards/Bonfire-JellyProfiles) - Bonfire is a Jellyfin plugin that adds profiles on a per user basis to Jellyfin. Built with AI Assistance. Designed to work with any Jellyfin client that is a web client or a wrapper for a web client.
 - [ytnrvdf/wha-spell-simulator](https://github.com/ytnrvdf/wha-spell-simulator) - A fan-made browser-based Witch Hat Atelier spell simulator.
-- [0belous/Jellyfin-Universal-Plugin-Repo](https://github.com/0belous/Jellyfin-Universal-Plugin-Repo) - The Jellyfin universal plugin repository
+- [0belous/Jellyfin-Universal-Plugin-Repo](https://github.com/0belous/Jellyfin-Universal-Plugin-Repo) - The universal Jellyfin plugin aggregator
 - [DumbWareio/DumbPad](https://github.com/DumbWareio/DumbPad) - A Dumb Pad with collaborative editing, fuzzy search, & markdown preview functionality
 - [sassanix/Warracker](https://github.com/sassanix/Warracker) - 🛡️ Warracker is an open source, self-hostable warranty tracker to monitor expirations, store receipts, files. You own the data, your rules!
 - [aspenmayer/bypass-paywalls-chrome-clean-magnolia1234](https://github.com/aspenmayer/bypass-paywalls-chrome-clean-magnolia1234) - Bypass Paywalls Clean for Chrome (no Google Analytics, lot of updates/bug-fixes and custom sites)
@@ -899,7 +899,7 @@
 - [gameyfin/gameyfin](https://github.com/gameyfin/gameyfin) - Manage your video games.
 - [kibotu/geofencer](https://github.com/kibotu/geofencer) - Location tracking & geofencing the easy way. Supports background, killed app, rebooted device different update intervals.
 - [giejay/Immich-Android-TV](https://github.com/giejay/Immich-Android-TV) - An Android TV app for the self hosted photos and videos backup solution.
-- [wgtunnel/android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & local proxying.
+- [wgtunnel/android](https://github.com/wgtunnel/android) - An advanced, open-source client for WireGuard and AmneziaWG on Android.
 - [ligi/PassAndroid](https://github.com/ligi/PassAndroid) - Android App to view passes
 - [Snd-R/komf](https://github.com/Snd-R/komf) - Komga and Kavita metadata fetcher
 - [grote/Transportr](https://github.com/grote/Transportr) - Free Public Transport Assistant without Ads or Tracking
@@ -997,6 +997,7 @@
 - [debridmediamanager/awesome-debrid](https://github.com/debridmediamanager/awesome-debrid) - 🆓 Download and stream in an instant
 - [andyblac/UI-Minimalist-Custom-Cards](https://github.com/andyblac/UI-Minimalist-Custom-Cards) - A modified version of Minimalist Room Card.
 - [ricasanbr/360MultiStretch.ps1](https://github.com/ricasanbr/360MultiStretch.ps1) - 
+- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Coming soon.
 - [TheJJ/ceph-cheatsheet](https://github.com/TheJJ/ceph-cheatsheet) - All™ you ever wanted to know about operating a Ceph cluster!
 - [DedBash/WireGuard-VPN-on-Fritz-Box](https://github.com/DedBash/WireGuard-VPN-on-Fritz-Box) - Setup WireGuard VPN on Fritz!Boxes
 - [Locatarr/locatarr.github.io](https://github.com/Locatarr/locatarr.github.io) - Locating *Arr services and aggregating them into a single list. Thus, Locatarr.
@@ -1378,6 +1379,7 @@
 
 ## Python 
 
+- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) - Synchronize your data across media servers, media agents and trackers. Keep your movies and shows in sync, no matter where you watch.
 - [wilbowes/EchoMuse](https://github.com/wilbowes/EchoMuse) - Alexa replacement and controller for Echo Dot 2nd Generation device.
 - [wolffcatskyy/crowdsec-blocklist-import](https://github.com/wolffcatskyy/crowdsec-blocklist-import) - 10-20x more blocks for your CrowdSec bouncers — 120k+ IPs from 36 free threat feeds
 - [cporcellijr/bookbridge](https://github.com/cporcellijr/bookbridge) - The missing link between your ears and your eyes.  Seamlessly sync your reading progress between Audiobookshelf (Audiobooks) and KOReader/KoSync (Ebooks). Start listening in the car, and pick up exact
@@ -1446,7 +1448,6 @@
 - [ots-downloader/onthespot](https://github.com/ots-downloader/onthespot) - A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More
 - [soggy8/musikat](https://github.com/soggy8/musikat) - 🎵 Search Spotify and download music from YouTube to your Navidrome server with automatic metadata tagging
 - [the-useless-one/pywerview](https://github.com/the-useless-one/pywerview) - A (partial) Python rewriting of PowerSploit's PowerView
-- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) - Synchronize your data across media servers, media agents and trackers. Keep your movies and shows in sync, no matter where you watch.
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [sqrlmstr5000/discovarr](https://github.com/sqrlmstr5000/discovarr) - AI Powered Media Recommendations
 - [withoutbg/withoutbg-python](https://github.com/withoutbg/withoutbg-python) - Python SDK for local and cloud background removal (pip install withoutbg)
@@ -1847,6 +1848,7 @@
 
 - [nzbfast/nzbfast](https://github.com/nzbfast/nzbfast) - The fast Usenet downloader. One self-contained executable: line-rate downloads, one-pass verify and extract, poster wall, built-in indexer. Speaks the SABnzbd and NZBGet APIs, so Sonarr, Radarr, nzb36
 - [Kopuz-org/cdm-host](https://github.com/Kopuz-org/cdm-host) - Native host for the system Widevine CDM (libwidevinecdm.so) — license challenges + CENC decrypt via the official interface, no key extraction.
+- [bryanroscoe/shield_optimizer](https://github.com/bryanroscoe/shield_optimizer) - 
 - [isama92/isamedia](https://github.com/isama92/isamedia) - A terminal client for your media stack
 - [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) - A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
 - [scryer-media/weaver](https://github.com/scryer-media/weaver) - 
@@ -1881,7 +1883,6 @@
 - [mackenly/kavita-import-tool](https://github.com/mackenly/kavita-import-tool) - Drag and drop to put eBook files for Kavita in the correct folder structure
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI.
-- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🦀 Rust based dynamic DNS (DDNS) updater for Cloudflare
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
@@ -2029,7 +2030,6 @@
 
 ## Svelte 
 
-- [bryanroscoe/shield_optimizer](https://github.com/bryanroscoe/shield_optimizer) - 
 - [bobbydd021-code/Lantern](https://github.com/bobbydd021-code/Lantern) - 
 - [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
 - [c4lyp5o/jnfo](https://github.com/c4lyp5o/jnfo) - 
