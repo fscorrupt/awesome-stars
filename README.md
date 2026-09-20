@@ -1701,7 +1701,7 @@
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
 - [irodimus/Plex-scripts](https://github.com/irodimus/Plex-scripts) - Scripts that I made regarding Plex and the whole media stuff around it
 - [hansratzinger/smartmeter-docker](https://github.com/hansratzinger/smartmeter-docker) - Smartmeter für EVN-Kunden auf Docker
-- [shaunkleyn/Series-Collection-Status-for-Kometa](https://github.com/shaunkleyn/Series-Collection-Status-for-Kometa) - Configs for Plex Meta Manager
+- [sklndev/Series-Collection-Status-for-Kometa](https://github.com/sklndev/Series-Collection-Status-for-Kometa) - Configs for Plex Meta Manager
 - [lupohan44/GamesHub](https://github.com/lupohan44/GamesHub) - 
 - [majikat768/HuntStatsLogger](https://github.com/majikat768/HuntStatsLogger) - stats logger for Hunt: Showdown
 - [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
@@ -2092,7 +2092,7 @@
 - [totaldebug/armadarr-card](https://github.com/totaldebug/armadarr-card) - A Home Assistant Lovelace card to display Armadarr upcoming and wanted media
 - [WJDDesigns/Ultra-Card](https://github.com/WJDDesigns/Ultra-Card) - A powerful modular card builder for Home Assistant that lets you create custom layouts with a professional page-builder interface.
 - [MelleD/lovelace-expander-card](https://github.com/MelleD/lovelace-expander-card) - Expander card for HomeAssistant
-- [iuliandita/digarr](https://github.com/iuliandita/digarr) - AI-powered music discovery for your *arr stack. Recommends artists and individual albums through a 7-stage AI pipeline, scores and ranks them, and learns from your feedback -- approve a single album w
+- [iuliandita/digarr](https://github.com/iuliandita/digarr) - Self-hosted music discovery for your library. Find artists and albums, review recommendations, and send them to Lidarr, slskd, or playlists. Bring your own AI provider or local model. Works without Li
 - [2GT-Media-Group-LLC/mikrotik-manager](https://github.com/2GT-Media-Group-LLC/mikrotik-manager) - A self-hosted, full-stack network management platform for MikroTik devices. Monitor, configure, and manage your entire MikroTik infrastructure — routers, switches, and wireless access points — from a 
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your 
