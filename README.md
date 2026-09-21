@@ -88,6 +88,7 @@
 
 ## C 
 
+- [wr/featherframe](https://github.com/wr/featherframe) - Wall-mounted e-paper frame that renders BirdNET-Pi backyard detections as Audubon lithograph plates
 - [manoharc07/DigiFrame](https://github.com/manoharc07/DigiFrame) - A wall frame for a 64×64 HUB75 LED matrix, turning it into a smart clock. It shows an NTP clock, live weather, a living ambient scene, looping GIFs, scrolling messages, and themed celebrations on your
 - [romangrigorii/SamsungGear360](https://github.com/romangrigorii/SamsungGear360) - code for streaming + calibrating Gear 360 video
 - [Hades2001/AMSPlusCore](https://github.com/Hades2001/AMSPlusCore) - an AMS core board
@@ -414,7 +415,7 @@
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [boldsoftware/sketch](https://github.com/boldsoftware/sketch) - autonomous software apprentice
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [FrenchGithubUser/Dasharr](https://github.com/FrenchGithubUser/Dasharr) - Dashboard of your indexers' usage
 - [netgoat-xyz/netgoat](https://github.com/netgoat-xyz/netgoat) - A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but for free!
@@ -1154,6 +1155,7 @@
 
 ## PowerShell 
 
+- [angrycuban13/PSStarr](https://github.com/angrycuban13/PSStarr) - A PowerShell module to interact with Starr applications
 - [mikerr/360MultiStretch](https://github.com/mikerr/360MultiStretch) - Stitching script for samsung gear360 cameras
 - [nickydewestelinck/MicrosoftIntune](https://github.com/nickydewestelinck/MicrosoftIntune) - 
 - [V33RU/tcpk](https://github.com/V33RU/tcpk) - Thick client penetration testing and MSIX security audit toolkit for Windows. Audits .NET, Electron and native binaries: static and runtime checks, IL-verified findings, computed CVSS v4.0, CWE/ATT&CK
@@ -1491,7 +1493,7 @@
 - [elfhosted/fakearr](https://github.com/elfhosted/fakearr) - An API to return a "fake" torrent or nzb, used with debridav and easynews
 - [primetime43/plexLocationBlock](https://github.com/primetime43/plexLocationBlock) - Block Plex streams via location
 - [better-ecosystem/better-control](https://github.com/better-ecosystem/better-control) - A simple control panel for linux based on the GTK framework
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air gapped, open source NotebookLM alternative. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air gapped, privacy focused open source NotebookLM alternative. Join our Discord: https://discord.gg/ejRNvftDp9
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [l4rm4nd/LinkedInDumper](https://github.com/l4rm4nd/LinkedInDumper) - Python 3 script to dump/scrape/extract company employees from LinkedIn API
@@ -2075,6 +2077,7 @@
 
 ## TypeScript 
 
+- [PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card) - This card can show and hide a specific card on current device while not affecting other windows. It does not require any integration to run.
 - [jeremiaa/magic-frame](https://github.com/jeremiaa/magic-frame) - Self-hosted home display — part photo frame, part family board, part Home Assistant dashboard. Drag-&-drop, live sync, Immich wallpapers. No cloud.
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction
