@@ -92,7 +92,6 @@
 - [manoharc07/DigiFrame](https://github.com/manoharc07/DigiFrame) - A wall frame for a 64×64 HUB75 LED matrix, turning it into a smart clock. It shows an NTP clock, live weather, a living ambient scene, looping GIFs, scrolling messages, and themed celebrations on your
 - [romangrigorii/SamsungGear360](https://github.com/romangrigorii/SamsungGear360) - code for streaming + calibrating Gear 360 video
 - [Hades2001/AMSPlusCore](https://github.com/Hades2001/AMSPlusCore) - an AMS core board
-- [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [MobinYengejehi/Artemis](https://github.com/MobinYengejehi/Artemis) - GameStream client for Android
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
 - [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android
@@ -327,6 +326,7 @@
 
 ## Dart 
 
+- [jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite) - Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.
 - [itsarjunsinh/elder_launcher](https://github.com/itsarjunsinh/elder_launcher) - A Launcher focused on simplicity and legibility. [07/2026: The project is active. A native Android version will be out in few days.]
 - [matthw-labs/seekarr](https://github.com/matthw-labs/seekarr) - 
 - [dddevid/Musly](https://github.com/dddevid/Musly) - A beautiful Flutter music streaming client for Subsonic-compatible servers with a modern Apple Music-inspired UI.
@@ -671,7 +671,6 @@
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [Fribb/anime-lists-generator](https://github.com/Fribb/anime-lists-generator) - generator for the anime-lists project
 - [newhinton/Round-Sync](https://github.com/newhinton/Round-Sync) - An android cloud file manager, powered by rclone. Visit https://roundsync.com for more information!
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [BrunoReX/jmkvpropedit](https://github.com/BrunoReX/jmkvpropedit) - Batch GUI for mkvpropedit
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [paukiatwee/budgetapp](https://github.com/paukiatwee/budgetapp) - Open source personal budgeting application
@@ -1381,6 +1380,8 @@
 
 ## Python 
 
+- [Mincka/spotcast](https://github.com/Mincka/spotcast) - Maintained fork. Start and transfer Spotify playback on idle Chromecast and Connect devices, on top of the official Home Assistant Spotify integration.
+- [jxlarrea/voice-satellite-card-llm-tools](https://github.com/jxlarrea/voice-satellite-card-llm-tools) - LLM tools for Home Assistant that extends Voice Satellite with weather, financial, image and video search capabilities. Provides tools that conversation agents (OpenAI, Google Generative AI, Anthropic
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) - Synchronize your data across media servers, media agents and trackers. Keep your movies and shows in sync, no matter where you watch.
 - [wilbowes/EchoMuse](https://github.com/wilbowes/EchoMuse) - Alexa replacement and controller for Echo Dot 2nd Generation device.
 - [wolffcatskyy/crowdsec-blocklist-import](https://github.com/wolffcatskyy/crowdsec-blocklist-import) - 10-20x more blocks for your CrowdSec bouncers — 120k+ IPs from 36 free threat feeds
@@ -1449,6 +1450,7 @@
 - [JoKerIsCraZy/MediaTrend-Scraper](https://github.com/JoKerIsCraZy/MediaTrend-Scraper) - The MediaTrend Scraper is an intelligent companion script designed to automate and enhance your Sonarr and Radarr media management workflow.
 - [ots-downloader/onthespot](https://github.com/ots-downloader/onthespot) - A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More
 - [soggy8/musikat](https://github.com/soggy8/musikat) - 🎵 Search Spotify and download music from YouTube to your Navidrome server with automatic metadata tagging
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [the-useless-one/pywerview](https://github.com/the-useless-one/pywerview) - A (partial) Python rewriting of PowerSploit's PowerView
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [sqrlmstr5000/discovarr](https://github.com/sqrlmstr5000/discovarr) - AI Powered Media Recommendations
@@ -1483,7 +1485,7 @@
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
 - [ajb3932/immich-partner-sharing](https://github.com/ajb3932/immich-partner-sharing) - 
-- [oliverbravery/PrintGuard](https://github.com/oliverbravery/PrintGuard) - Catches failed 3D prints on your own hardware, pauses the printer and sends you a snapshot alert. Runs in your browser with nothing to install, in Docker, or as a macOS or Windows app. Free and open s
+- [oliverbravery/PrintGuard](https://github.com/oliverbravery/PrintGuard) - Catches failed 3D prints on your own hardware, pauses the printer and sends you a snapshot alert. Runs in Docker, or as a macOS or Windows app. Free and open source, and no frame ever leaves your netw
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [blacktop/ipsw-diffs](https://github.com/blacktop/ipsw-diffs) - IPSW Diffs
 - [baervers23/still-Membarr](https://github.com/baervers23/still-Membarr) - Yoruio's Discord Bot to invite a user to a Plex or Jellyfin server - with small modifications
@@ -1581,7 +1583,7 @@
 - [feizc/FluxMusic](https://github.com/feizc/FluxMusic) - Text-to-Music Generation with Rectified Flow Transformers
 - [mozilla/fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.
 - [hannob/snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers
-- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and computer use agents. No captchas.
+- [feder-cr/aihawk_mcp_server](https://github.com/feder-cr/aihawk_mcp_server) - Anti-detect agentic browser: undetected browsing, browser automation, MCP server, AI web browsing agent, computer use, scraping, lead generation. No captchas.
 - [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
 - [Entree3k/Edition-Manager](https://github.com/Entree3k/Edition-Manager) - Edition Manager - Movie Edition Management Tool for Plex
 - [I-am-PUID-0/DMB](https://github.com/I-am-PUID-0/DMB) - Debrid Media Bridge
@@ -2077,6 +2079,7 @@
 
 ## TypeScript 
 
+- [Noble-Effeciency13/EntraExtensionManager](https://github.com/Noble-Effeciency13/EntraExtensionManager) - EntraExtensionManager is a project designed to simplify the management of Microsoft Entra extension attributes and related configuration tasks. It provides a structured, maintainable approach for admi
 - [PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card) - This card can show and hide a specific card on current device while not affecting other windows. It does not require any integration to run.
 - [jeremiaa/magic-frame](https://github.com/jeremiaa/magic-frame) - Self-hosted home display — part photo frame, part family board, part Home Assistant dashboard. Drag-&-drop, live sync, Immich wallpapers. No cloud.
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space
@@ -2115,6 +2118,7 @@
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier) - automatically verify your age on discord, twitch, kick, quora and more (k-id)
 - [obbyworld/obby](https://github.com/obbyworld/obby) - Modern IRC Client for the web, desktop and mobile.
+- [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [ada-bee/jellyfin-iina](https://github.com/ada-bee/jellyfin-iina) - IINA plugin for browsing and watching content from your Jellyfin server.
 - [kikootwo/ReadMeABook](https://github.com/kikootwo/ReadMeABook) - Fully Featured audiobook request and downloading engine to bring audiobooks up to speed with the modern automation standards
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
@@ -2133,7 +2137,6 @@
 - [m3sserstudi0s/swiparr](https://github.com/m3sserstudi0s/swiparr) - Swipe on what to watch next.
 - [autobrr/netronome](https://github.com/autobrr/netronome) - Netronome is a modern network speed testing and monitoring tool built with Go and React.
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby/NFO
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
@@ -2296,6 +2299,7 @@
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
 - [bacher09/pwgen-for-bios](https://github.com/bacher09/pwgen-for-bios) - Password generator for BIOS
 - [pixelomer/discord-fs](https://github.com/pixelomer/discord-fs) - Discord as a filesystem
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever y
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [PreMiD/Activities](https://github.com/PreMiD/Activities) - 🛒 Storage for Activities located at our Activity Library.
