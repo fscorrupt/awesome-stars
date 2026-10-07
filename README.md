@@ -400,6 +400,8 @@
 
 ## Go 
 
+- [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
+- [Syntax3rror404/kubedactyl](https://github.com/Syntax3rror404/kubedactyl) - The missing game server web management interface for Kubernetes. Runs Pterodactyl and Pelican eggs as pods, one container, no database. Go + React.
 - [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
 - [garybowers/bootimus](https://github.com/garybowers/bootimus) - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
@@ -606,7 +608,6 @@
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [snodecoder/Intune-Settings-Catalog-Documentation](https://github.com/snodecoder/Intune-Settings-Catalog-Documentation) - Documentation for Intune's Settings Catalog: Describes all possible settings with description/explanation
 - [origamivault/origamivault](https://github.com/origamivault/origamivault) - Encrypted Paper Storage
-- [Sloth-on-meth/DoorOpener](https://github.com/Sloth-on-meth/DoorOpener) - A sleek web portal for triggering any Home Assistant action (like opening a building door), protected by secure PIN authentication. Perfect for apartment buildings, offices, or any scenario where you 
 - [duplaja/kavita-reading-log](https://github.com/duplaja/kavita-reading-log) - Generates a static Kavita reading log one-page site
 - [11notes/docker-kms-gui](https://github.com/11notes/docker-kms-gui) - Activate any version of Windows and Office, forever
 - [n00bcodr/JellyfinTweaks](https://github.com/n00bcodr/JellyfinTweaks) - A Jellyfin Plugin to force a few settings without modification of any web files.
@@ -723,7 +724,6 @@
 - [derekantrican/subarr](https://github.com/derekantrican/subarr) - "Sonarr for YouTube" - a tool to periodically check various YouTube playlists and take actions when new videos are posted
 - [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A comprehensive enhancement layer for the Jellyfin web UI with keyboard shortcuts, subtitle styling, TMDB and User reviews, Seerr integration with auto-request, a media calendar and download monitor v
 - [AmoebeLabs/swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card) - The versatile custom Swiss Army Knife card for Home Assistant allows you to create your unique visualization using several graphical tools, styling options and animations.
-- [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - Your Ultimate IPTV & Stream Management Companion
 - [LordBex/nzb-load](https://github.com/LordBex/nzb-load) - UserScript zum Laden von NZBLnk's
 - [MakD/Jellyfin-Media-Bar](https://github.com/MakD/Jellyfin-Media-Bar) - A Jellyfin Featured Content Bar to show off your media collection
 - [Drop-OSS/droplet](https://github.com/Drop-OSS/droplet) - Droplet is a high-performance util package for Drop.
@@ -1439,6 +1439,7 @@
 - [FLOCK4H/Freeway](https://github.com/FLOCK4H/Freeway) - WiFi Penetration Testing & Auditing Tool
 - [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+- [frederikemmer/MediaLyze](https://github.com/frederikemmer/MediaLyze) - Self-hosted media library analysis for large media collections
 - [sahara101/Movie-Roulette](https://github.com/sahara101/Movie-Roulette) - Docker App which chooses a random movie from your movie library.
 - [ganhammar/hass-oidc-server](https://github.com/ganhammar/hass-oidc-server) - A Home Assistant custom component that turns your Home Assistant instance into a fully functional OpenID Connect (OIDC) server
 - [V33RU/CommandInWiFi-Zeroclick](https://github.com/V33RU/CommandInWiFi-Zeroclick) - CommandInWiFi: Exploiting SSID Storage in WiFi Scanning for Command Injection
@@ -1486,11 +1487,13 @@
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [anibridge/anibridge](https://github.com/anibridge/anibridge) - The smart way to keep your anime lists perfectly synchronized
 - [cvele/imgc](https://github.com/cvele/imgc) - Cross-platform file system watcher with extensible plugin system. Excels at automatic image compression (JPEG, PNG, WebP, AVIF) but can process any file type through custom plugins. Real-time monitori
+- [Sloth-on-meth/DoorOpener](https://github.com/Sloth-on-meth/DoorOpener) - A sleek web portal for triggering any Home Assistant action (like opening a building door), protected by secure PIN authentication. Perfect for apartment buildings, offices, or any scenario where you 
 - [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting) - Adaptive Lighting custom component for Home Assistant
 - [iongpt/boxarr](https://github.com/iongpt/boxarr) - Boxarr is an automated box office tracking application that integrates with Radarr to monitor, add, and manage the latest theatrical releases. It provides a beautiful dashboard showing the current box
 - [yungsnuzzy/conjurr](https://github.com/yungsnuzzy/conjurr) - Conjurr is an AI recommendation tool that uses Tautulli watch data to recommend what users should watch next.
 - [jma1ice/newsletterr](https://github.com/jma1ice/newsletterr) - newsletterr is an email tool for server admins. Reach your users with Tautulli information and recommendations from conjurr
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
+- [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - Your Ultimate IPTV & Stream Management Companion
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [Ark1369/CBZ-Cover-Manager](https://github.com/Ark1369/CBZ-Cover-Manager) - A GUI utility to manage Covers and Images in a CBZ file.
 - [luccast/Runarr](https://github.com/luccast/Runarr) - A CLI tool to organize, convert, and collect metadata (Comic Vine) for your comic book runs.
@@ -1948,6 +1951,7 @@
 
 ## Shell 
 
+- [Suwayomi/Suwayomi-Server-docker](https://github.com/Suwayomi/Suwayomi-Server-docker) - Run Suwayomi-Server in a docker container
 - [lansysart/gear360-telnet.usbshell-mod](https://github.com/lansysart/gear360-telnet.usbshell-mod) - 
 - [TheCaptain989/radarr-striptracks](https://github.com/TheCaptain989/radarr-striptracks) - A Docker Mod to Radarr/Sonarr to automatically remove unwanted audio and subtitle tracks
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
@@ -2094,6 +2098,7 @@
 
 ## TypeScript 
 
+- [Studio-Saelix/sencho](https://github.com/Studio-Saelix/sencho) - Self-hosted Docker Compose management platform. For single or multi-host compose-first workflow.
 - [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr) - A “what's new” newsletter for your media server. It collects everything added recently and emails your users a clean, branded digest on a schedule you choose.
 - [Lewis-Barry/IntuneSettingsCatalogViewer](https://github.com/Lewis-Barry/IntuneSettingsCatalogViewer) - Browse the Intune Settings Catalog without using Intune
 - [thomasloven/lovelace-state-switch](https://github.com/thomasloven/lovelace-state-switch) - 🔹Dynamically replace lovelace cards depending on occasion
@@ -2126,9 +2131,8 @@
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
 - [adn8naiagent/F1ReplayTiming](https://github.com/adn8naiagent/F1ReplayTiming) - Visualisation of real-time track data and telemetry synced to F1 replays.
 - [zbejas/orbiscast](https://github.com/zbejas/orbiscast) - A Discord IPTV streaming bot.
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-- [frederikemmer/MediaLyze](https://github.com/frederikemmer/MediaLyze) - Self-hosted media library analysis for large media collections
 - [Oghamark/Authentication](https://github.com/Oghamark/Authentication) - Authentication microservice written with NestJS
 - [Oghamark/homebranch-web](https://github.com/Oghamark/homebranch-web) - A self-hosted e-book management platform
 - [Oghamark/homebranch](https://github.com/Oghamark/homebranch) - A self-hosted e-book management platform
