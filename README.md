@@ -133,7 +133,7 @@
 ## C# # 
 
 - [Rinn/jellyfin-plugin-hwprobe](https://github.com/Rinn/jellyfin-plugin-hwprobe) - Device-verified hardware transcode detection for Jellyfin
-- [GeiserX/quality-gate](https://github.com/GeiserX/quality-gate) - Jellyfin plugin to restrict users to specific media versions based on path-based policies
+- [GeiserX/quality-gate](https://github.com/GeiserX/quality-gate) - Jellyfin plugin that caps the video resolution each user can be served, from 480p to 4K, measured on the file's real video stream
 - [shanselman/CredentialExplorer](https://github.com/shanselman/CredentialExplorer) - A modern WinUI 3 metadata-only explorer for Windows credentials and Credential Locker.
 - [devbrian/Mangarr](https://github.com/devbrian/Mangarr) - Sonarr fork for Manga/Manwha/Manhua
 - [pauljoda/Prismedia](https://github.com/pauljoda/Prismedia) - Your whole media life in one private, self-hosted library—watch, read, listen, request, and manage across web, iPhone, iPad, and Apple TV.
@@ -1519,7 +1519,7 @@
 - [elfhosted/fakearr](https://github.com/elfhosted/fakearr) - An API to return a "fake" torrent or nzb, used with debridav and easynews
 - [primetime43/plexLocationBlock](https://github.com/primetime43/plexLocationBlock) - Block Plex streams via location
 - [better-ecosystem/better-control](https://github.com/better-ecosystem/better-control) - A simple control panel for linux based on the GTK framework
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your documents (PDF, DOCX, XLSX, PPTX, etc.). Join our Discord: https://discord.gg/ejRN
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your documents. Join our Discord: https://discord.gg/ejRNvftDp9
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [l4rm4nd/LinkedInDumper](https://github.com/l4rm4nd/LinkedInDumper) - Python 3 script to dump/scrape/extract company employees from LinkedIn API
