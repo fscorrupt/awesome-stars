@@ -80,7 +80,7 @@
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [dystopia2017/Obfuscated-Usenet-Posting-Script](https://github.com/dystopia2017/Obfuscated-Usenet-Posting-Script) - Obfuscated Usenet Posting Script
 - [dockur/windows-arm](https://github.com/dockur/windows-arm) - Windows for ARM in a Docker container.
-- [joshuacline/windick](https://github.com/joshuacline/windick) - A comprehensive Windows deployment tool featuring MenuScript technology. Five years in the making. Made with one hundred percent authentic human ingenuity, without a debugger or an IDE, by an engineer
+- [joshuacline/windick](https://github.com/joshuacline/windick) - A comprehensive Windows deployment tool featuring MenuScript technology. Made with 100% authentic human ingenuity, no debugger or IDE, by an engineer minded developer.
 - [shirooo39/Windows-11-Bypass](https://github.com/shirooo39/Windows-11-Bypass) - Bypass Windows 11's system requirements in a simple and easy way.
 - [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 - [Kometa-Team/Community-Configs](https://github.com/Kometa-Team/Community-Configs) - Config files for Kometa
@@ -307,6 +307,7 @@
 
 ## CSS 
 
+- [MakD/zombie-release](https://github.com/MakD/zombie-release) - Resurrected for v12
 - [AumGupta/abyss-jellyfin](https://github.com/AumGupta/abyss-jellyfin) - Minimal Dark Theme for Jellyfin [Customisable]
 - [Druidblack/jellyfin-icon-metadata](https://github.com/Druidblack/jellyfin-icon-metadata) - Adds metadata provider icons to  jellyfin
 - [tedhinklater/finimalism](https://github.com/tedhinklater/finimalism) - Jellyfin Theme CSS
@@ -2079,6 +2080,7 @@
 - [LiveFin/LiveFin](https://github.com/LiveFin/LiveFin) - A Live TV client for Jellyfin
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
 - [JohnnWi/homelab-project](https://github.com/JohnnWi/homelab-project) - Homelab App ios android
+- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [benjaminRoberts01375/Stingray](https://github.com/benjaminRoberts01375/Stingray) - A Jellyfin client for the Apple TV. Attempts to use as many of the native APIs as possible.
 - [wunax/strimr](https://github.com/wunax/strimr) - Native SwiftUI Plex and Jellyfin client for iPhone, iPad, Mac, and Apple TV.
 - [Flixorui/flixor](https://github.com/Flixorui/flixor) - Modern cross-platform Plex client
@@ -2360,7 +2362,7 @@
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
+- [fonoster/fonoster](https://github.com/fonoster/fonoster) - The AI that answers the phone.
 - [anandbaburajan/samay](https://github.com/anandbaburajan/samay) - Find a time which works for everyone
 - [TetrisBlack/Kukkee](https://github.com/TetrisBlack/Kukkee) - The free, open source and self-hostable Doodle alternative
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
