@@ -9,6 +9,7 @@
 - [AutoIt](#autoit)
 - [Batchfile](#batchfile)
 - [Bicep](#bicep)
+- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -88,6 +89,10 @@
 ## Bicep 
 
 - [Azure/avdaccelerator](https://github.com/Azure/avdaccelerator) - AVD Accelerator deployment automation to simplify the setup of AVD (Azure Virtual Desktop) based on best practices
+
+## Blade 
+
+- [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
 
 ## C 
 
@@ -339,7 +344,7 @@
 - [dddevid/Musly](https://github.com/dddevid/Musly) - A beautiful Flutter music streaming client for Subsonic-compatible servers with a modern Apple Music-inspired UI.
 - [rodonisi/kover](https://github.com/rodonisi/kover) - An unofficial cross-platform Kavita client
 - [7-USH/TeVe](https://github.com/7-USH/TeVe) - A cross platform free IPTv player developed for Android/IOS
-- [edde746/plezy](https://github.com/edde746/plezy) - Modern cross-platform Plex & Jellyfin client built with Flutter
+- [edde746/plezy](https://github.com/edde746/plezy) - Modern cross-platform media server client built with Flutter
 - [dstark5/Openlib](https://github.com/dstark5/Openlib) - An Open source app to download and read books from shadow library (Anna’s Archive)
 - [Nandanrmenon/nahcon](https://github.com/Nandanrmenon/nahcon) - Jellyfin Client for watching Movies and TV Shows (Made with Flutter 💙)
 - [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source music player made for Jellyfin
@@ -424,7 +429,7 @@
 - [autobrr/sfvbrr](https://github.com/autobrr/sfvbrr) - sfvbrr is a Golang tool to validate scene releases
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [boldsoftware/sketch](https://github.com/boldsoftware/sketch) - autonomous software apprentice
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [FrenchGithubUser/Dasharr](https://github.com/FrenchGithubUser/Dasharr) - Dashboard of your indexers' usage
@@ -665,6 +670,7 @@
 
 ## Java 
 
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [mamiiblt/instafel](https://github.com/mamiiblt/instafel) - Instafel provides fast & up-to-date Instagram Alpha experience for everyone!
 - [traccar/traccar](https://github.com/traccar/traccar) - Open source GPS tracking platform - self-hosted or managed, 200+ device protocols
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
@@ -713,7 +719,6 @@
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job appli
 - [microsoft/agent-academy](https://github.com/microsoft/agent-academy) - Curated lessons on getting started building agents with Copilot Studio
 - [Sir-Scuzza/gluetun-webui](https://github.com/Sir-Scuzza/gluetun-webui) - 
-- [lklynet/aurral](https://github.com/lklynet/aurral) - The best in open-source music discovery.
 - [Kamoba/jellyfin-plugin-thedwarfshammer](https://github.com/Kamoba/jellyfin-plugin-thedwarfshammer) - 
 - [shanselman/cert-inspector](https://github.com/shanselman/cert-inspector) - 🔒 Web tool to inspect SSL certificates and DNS for all domains in a webpage's request tree. Captures full network footprint via headless browser.
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
@@ -1152,7 +1157,6 @@
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
-- [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
 
 ## PLSQL 
 
@@ -1900,7 +1904,6 @@
 - [ranfdev/DistroShelf](https://github.com/ranfdev/DistroShelf) - gtk4 client for https://distrobox.it
 - [euzu/tuliprox](https://github.com/euzu/tuliprox) - tuliprox:  Self-Hosted Media Gateway & Playlist Processor in Rust 🦀 - supports M3U, Xtream Codes, HDHomeRun, Plex, Emby & Jellyfin. Filtering, merging, scheduling & web delivery.
 - [Drop-OSS/drop-app](https://github.com/Drop-OSS/drop-app) - Moved to a monorepo at https://github.com/Drop-OSS/drop
-- [lostb1t/remux-client](https://github.com/lostb1t/remux-client) - A *VERY experimental* web and desktop client for Jellyfin written in Rust
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn't need additional client-side software
 - [Virviil/oci2git](https://github.com/Virviil/oci2git) - Introspecting Docker images as easy as using Git
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
@@ -2150,6 +2153,7 @@
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.
 - [flick9000/winscript](https://github.com/flick9000/winscript) - Open-source tool to build your Windows script from scratch. It includes debloat, privacy, performance & app installing scripts.
 - [Framerrr/Framerr](https://github.com/Framerrr/Framerr) - Self-hosted homelab dashboard. Drag-and-drop widgets, easy integration with Plex/Sonarr/Radarr and more, dashboard templates, mobile support. Multi-user support with easy widget sharing.
+- [lklynet/aurral](https://github.com/lklynet/aurral) - The best in open-source music discovery.
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier) - automatically verify your age on discord, twitch, kick, quora and more (k-id)
 - [obbyworld/obby](https://github.com/obbyworld/obby) - Modern IRC Client for the web, desktop and mobile.
