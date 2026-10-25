@@ -96,6 +96,8 @@
 
 ## C 
 
+- [iranl/harmony-ng](https://github.com/iranl/harmony-ng) - Harmony Hub & Elite next generation
+- [schlambos/harmony-hub-control](https://github.com/schlambos/harmony-hub-control) - 
 - [wr/featherframe](https://github.com/wr/featherframe) - ESP32 e-paper frame that renders human-made 1800's art prints for the birds detected in your backyard with BirdNET or BirdWeather
 - [manoharc07/DigiFrame](https://github.com/manoharc07/DigiFrame) - A wall frame for a 64×64 HUB75 LED matrix, turning it into a smart clock. It shows an NTP clock, live weather, a living ambient scene, looping GIFs, scrolling messages, and themed celebrations on your
 - [romangrigorii/SamsungGear360](https://github.com/romangrigorii/SamsungGear360) - code for streaming + calibrating Gear 360 video
@@ -251,6 +253,7 @@
 
 ## C++ 
 
+- [jaymzh/concordance](https://github.com/jaymzh/concordance) - Program Harmony remote controls from Linux, Windows, or Mac!
 - [isledecomp/racers](https://github.com/isledecomp/racers) - A decompilation of LEGO Racers (1999)
 - [FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) - 
 - [dalathegreat/Battery-Emulator](https://github.com/dalathegreat/Battery-Emulator) - This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters
@@ -802,7 +805,6 @@
 - [awattar-backtesting/awattar-backtesting.github.io](https://github.com/awattar-backtesting/awattar-backtesting.github.io) - A tool to visualize your electricity usage with aWATTar
 - [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist and customizable card collection for Home Assistant, featuring modern pop-ups and an integrated Module Store with over 100 community-made modules.
 - [fireshare-app/fireshare](https://github.com/fireshare-app/fireshare) - Self host your media and share with unique links
-- [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [VedankPande/polling-app](https://github.com/VedankPande/polling-app) - A real-time polling/voting application that allows users to create and participate in polls
 - [morikeli/Fast-Polls](https://github.com/morikeli/Fast-Polls) - This is a polling website that allows users to create, edit or delete polls they published. Other users can vote and view poll results.
@@ -1406,6 +1408,7 @@
 
 ## Python 
 
+- [Ripthulhu/harmony-hub-root](https://github.com/Ripthulhu/harmony-hub-root) - Gets root access on a harmony hub and installs dropbear
 - [frenck/spook](https://github.com/frenck/spook) - A scary 👻 powerful toolbox 🧰 for Home Assistant 🏡
 - [mad2xlc/ha-orf-sound](https://github.com/mad2xlc/ha-orf-sound) - 
 - [Bergasha/kino-swipe](https://github.com/Bergasha/kino-swipe) - KinoSwipe — A Tinder-style movie picker for Plex and Jellyfin. Host a session, swipe right on movies you want to watch, and get matched with your partner when you both swipe right on the same film. Su
@@ -1683,6 +1686,7 @@
 - [RickDB/PlexAniSync-Custom-Mappings](https://github.com/RickDB/PlexAniSync-Custom-Mappings) - Repository for community driven custom anime mappings
 - [RickDB/PlexAniSync](https://github.com/RickDB/PlexAniSync) - Sync Plex anime library to AniList
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
+- [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
 - [Quinos2003/PollsApp](https://github.com/Quinos2003/PollsApp) - The "polls" application is a simple Django web app that allows users to create, vote on, and view the results of polls or surveys. It consists of models for questions and choices, views for handling u
 - [zablon-oigo/polls_app](https://github.com/zablon-oigo/polls_app) - a simple poll app where users can create polls, vote in polls, and view poll results.
 - [Franklin-V-Moon/Plexensus](https://github.com/Franklin-V-Moon/Plexensus) - Tinder for Plex Movies
@@ -1993,7 +1997,6 @@
 - [throwaway96/faultmanager-autoroot](https://github.com/throwaway96/faultmanager-autoroot) - Exploit to root webOS 4.0+ TVs and set up Homebrew Channel
 - [uroni/urbackup-server-docker](https://github.com/uroni/urbackup-server-docker) - A multiarch docker image for a UrBackup server
 - [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
-- [KleinRiese/ha_cmdline_netatmo](https://github.com/KleinRiese/ha_cmdline_netatmo) - Get weather data from your favourite netatmo station
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
 - [PeterPawn/YourFritz](https://github.com/PeterPawn/YourFritz) - dynamic package management for AVM routers
