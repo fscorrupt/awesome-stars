@@ -22,6 +22,7 @@
 - [Elixir](#elixir)
 - [Fluent](#fluent)
 - [Go](#go)
+- [Go Template](#go-template)
 - [HLSL](#hlsl)
 - [HTML](#html)
 - [Hack](#hack)
@@ -139,7 +140,7 @@
 
 ## C# # 
 
-- [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) - Free, open-source file converter. Convert 255 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.
+- [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) - Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.
 - [Rinn/jellyfin-plugin-hwprobe](https://github.com/Rinn/jellyfin-plugin-hwprobe) - Device-verified hardware transcode detection for Jellyfin
 - [GeiserX/quality-gate](https://github.com/GeiserX/quality-gate) - Jellyfin plugin that caps the video resolution each user can be served, from 480p to 4K, measured on the file's real video stream
 - [shanselman/CredentialExplorer](https://github.com/shanselman/CredentialExplorer) - A modern WinUI 3 metadata-only explorer for Windows credentials and Credential Locker.
@@ -607,6 +608,10 @@
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 
+## Go Template 
+
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
+
 ## HLSL 
 
 - [RetroBat-Official/retrobat-setup](https://github.com/RetroBat-Official/retrobat-setup) - Configure and build the RetroBat Setup
@@ -673,7 +678,6 @@
 
 ## Java 
 
-- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [mamiiblt/instafel](https://github.com/mamiiblt/instafel) - Instafel provides fast & up-to-date Instagram Alpha experience for everyone!
 - [traccar/traccar](https://github.com/traccar/traccar) - Open source GPS tracking platform - self-hosted or managed, 200+ device protocols
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
@@ -1005,7 +1009,6 @@
 - [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Win10XPE is a Complete Project Based on Win10, Win11 Recovery Environment With Many Windows Features Added...
 - [steven-geo/jetkvm-shelfmount](https://github.com/steven-geo/jetkvm-shelfmount) - a 3D printable shelf mount for the JeyKVM to you can cable tie it to an existing rack shelf.
 - [fabriziosalmi/DevGPT](https://github.com/fabriziosalmi/DevGPT) - Code together, right now! GPT powered code assistant to build project in minutes
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [UnderwaterOverground/Plex-Concierge](https://github.com/UnderwaterOverground/Plex-Concierge) - A demonstration of the connection between a Custom GPT and Overseerr
 - [RedSquirrel87/jam](https://github.com/RedSquirrel87/jam) - A simple Java-based application that allows you to download and archive chapters from a wide range of supported manga websites and sources.
@@ -1181,6 +1184,7 @@
 
 ## PowerShell 
 
+- [Kevin-Robertson/Invoke-TheHash](https://github.com/Kevin-Robertson/Invoke-TheHash) - PowerShell Pass The Hash Utils
 - [angrycuban13/PSStarr](https://github.com/angrycuban13/PSStarr) - A PowerShell module to interact with Starr applications
 - [mikerr/360MultiStretch](https://github.com/mikerr/360MultiStretch) - Stitching script for samsung gear360 cameras
 - [nickydewestelinck/MicrosoftIntune](https://github.com/nickydewestelinck/MicrosoftIntune) - 
@@ -1409,6 +1413,7 @@
 ## Python 
 
 - [Ripthulhu/harmony-hub-root](https://github.com/Ripthulhu/harmony-hub-root) - Gets root access on a harmony hub and installs dropbear
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [frenck/spook](https://github.com/frenck/spook) - A scary 👻 powerful toolbox 🧰 for Home Assistant 🏡
 - [mad2xlc/ha-orf-sound](https://github.com/mad2xlc/ha-orf-sound) - 
 - [Bergasha/kino-swipe](https://github.com/Bergasha/kino-swipe) - KinoSwipe — A Tinder-style movie picker for Plex and Jellyfin. Host a session, swipe right on movies you want to watch, and get matched with your partner when you both swipe right on the same film. Su
