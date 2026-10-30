@@ -343,6 +343,7 @@
 
 ## Dart 
 
+- [collectarr/collectarr-app](https://github.com/collectarr/collectarr-app) - Local-first Flutter collection manager for comics, manga, books, games, movies, TV, music, and more.
 - [pounat/absorb](https://github.com/pounat/absorb) - A cross platform Audiobookshelf client for Android and iOS
 - [jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite) - Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.
 - [itsarjunsinh/elder_launcher](https://github.com/itsarjunsinh/elder_launcher) - A Launcher focused on simplicity and legibility. [10/2026: The project is active. A native Android version will be out soon.]
@@ -1415,6 +1416,7 @@
 
 ## Python 
 
+- [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp) - MCP servers & Graph API for the UniFi suite of applications, Network, Protect, and Access
 - [Ripthulhu/harmony-hub-root](https://github.com/Ripthulhu/harmony-hub-root) - Gets root access on a harmony hub and installs dropbear
 - [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [frenck/spook](https://github.com/frenck/spook) - A scary 👻 powerful toolbox 🧰 for Home Assistant 🏡
@@ -2133,7 +2135,7 @@
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space
 - [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar) - 🕵️Track prices of the Hetzner dedicated server auction
 - [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
-- [OpenAdminOS/OpenAdminOS](https://github.com/OpenAdminOS/OpenAdminOS) - 
+- [OpenAdminOS/OpenAdminOS](https://github.com/OpenAdminOS/OpenAdminOS) - OpenAdminOS is an open-source desktop app for Intune and Entra admins. Ask your tenant questions, run agents from an open registry, and approve every change before it reaches Microsoft Graph.
 - [eltharynd/OnePacerr](https://github.com/eltharynd/OnePacerr) - Automated One Pace downloads and metadata for Plex, Jellyfin, and Emby. Built to complement your Sonarr stack.
 - [parallaxtv/ParallaxTV](https://github.com/parallaxtv/ParallaxTV) - A premium native Jellyfin desktop client built with Tauri, React, TypeScript and MPV.
 - [germondai/trawl](https://github.com/germondai/trawl) - Self-hosted scraping engine — bypasses any JS challenge & captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr & Byparr alternative and drop-in replacement for your *arr stack.
