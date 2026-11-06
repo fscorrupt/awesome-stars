@@ -23,6 +23,7 @@
 - [Fluent](#fluent)
 - [Go](#go)
 - [Go Template](#go-template)
+- [HCL](#hcl)
 - [HLSL](#hlsl)
 - [HTML](#html)
 - [Hack](#hack)
@@ -98,7 +99,7 @@
 
 ## C 
 
-- [CroqueMr/libreelec-x86-DV](https://github.com/CroqueMr/libreelec-x86-DV) - LibreELEC x86_64 with Dolby Vision support for Intel, AMD, and Nvidia
+- [CroqueMr/libreelec-x86-DV](https://github.com/CroqueMr/libreelec-x86-DV) - LibreELEC x86_64 with Dolby Vision support for Intel, AMD, and Nvidia. I REBASE MY REPO UNTIL THE STABLE RELEASE
 - [lchmagKekse/PS5-NZB-Downloader](https://github.com/lchmagKekse/PS5-NZB-Downloader) - A homebrew payload that turns your jailbroken PS5 into a Usenet downloader
 - [iranl/harmony-ng](https://github.com/iranl/harmony-ng) - Harmony Hub & Elite next generation
 - [schlambos/harmony-hub-control](https://github.com/schlambos/harmony-hub-control) - 
@@ -142,6 +143,7 @@
 
 ## C# # 
 
+- [1RedOne/FoxDeploy-Trace](https://github.com/1RedOne/FoxDeploy-Trace) - A reimplementation of CM Trace, made to be SUPER fast at huge log files
 - [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) - Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.
 - [Rinn/jellyfin-plugin-hwprobe](https://github.com/Rinn/jellyfin-plugin-hwprobe) - Device-verified hardware transcode detection for Jellyfin
 - [GeiserX/quality-gate](https://github.com/GeiserX/quality-gate) - Jellyfin plugin that caps the video resolution each user can be served, from 480p to 4K, measured on the file's real video stream
@@ -158,7 +160,7 @@
 - [CatNoir2006/jellyfin-plugin-MediathekViewDL](https://github.com/CatNoir2006/jellyfin-plugin-MediathekViewDL) - Ein Plugin mit dem Sendungen von den Mediatheken der Öffentlich Rechtlichen heruntergladen werden können.
 - [mdgrs-mei/GliderUI](https://github.com/mdgrs-mei/GliderUI) - Cross-platform Desktop GUI framework for PowerShell powered by Avalonia
 - [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer
-- [Apps2Samsung/Apps2Samsung](https://github.com/Apps2Samsung/Apps2Samsung) - One-click app installer for Samsung TVs, projectors and smart monitors (Tizen) — Jellyfin, Moonlight, and the whole community catalog.
+- [Apps2Samsung/Apps2Samsung](https://github.com/Apps2Samsung/Apps2Samsung) - One-click app installer for Samsung TVs, projectors and smart monitors (Tizen) -Jellyfin, Moonlight, and the whole community catalog.
 - [enoch85/bazarr-jellyfin](https://github.com/enoch85/bazarr-jellyfin) - Search and download subtitles directly from Jellyfin using your Bazarr instance.
 - [Iceshadow1404/TmdbMultiLanguage](https://github.com/Iceshadow1404/TmdbMultiLanguage) - 
 - [Listenarrs/Listenarr](https://github.com/Listenarrs/Listenarr) - Listenarr automates audiobook collection management similar to Sonarr or Radarr, but for audiobooks. It can search, download, and organize your library automatically using metadata from Audible and ot
@@ -512,6 +514,7 @@
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 - [xM3U/xM3U](https://github.com/xM3U/xM3U) - M3U Proxy for Plex DVR and Emby Live TV. Based on xTeVe project.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [hrfee/jfa-go](https://github.com/hrfee/jfa-go) - a bit-of-everything user management app for Jellyfin
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
@@ -616,6 +619,10 @@
 
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 
+## HCL 
+
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
+
 ## HLSL 
 
 - [RetroBat-Official/retrobat-setup](https://github.com/RetroBat-Official/retrobat-setup) - Configure and build the RetroBat Setup
@@ -708,6 +715,7 @@
 
 ## JavaScript 
 
+- [gittrahan/support-fins](https://github.com/gittrahan/support-fins) - 
 - [leukipp/touchkio](https://github.com/leukipp/touchkio) - Home Assistant Touch Panel Kiosk application for a Linux device (e.g. Raspberry Pi) with Touch Display.
 - [ranaldsgift/KefinTweaks](https://github.com/ranaldsgift/KefinTweaks) - An essential collection of Jellyfin Tweaks that you always knew you needed
 - [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated asset maker for Plex, Jellyfin & Emby.
@@ -884,7 +892,6 @@
 - [linuxserver/budge](https://github.com/linuxserver/budge) - 
 - [petio-team/petio](https://github.com/petio-team/petio) - Petio Request, Discover, Review
 - [petersem/monocker](https://github.com/petersem/monocker) - 
-- [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [JasonHHouse/gaps](https://github.com/JasonHHouse/gaps) - Find the missing movies in your Plex Server
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
@@ -918,6 +925,7 @@
 
 ## Kotlin 
 
+- [kota-zo/myspoti](https://github.com/kota-zo/myspoti) - Native Android client for Spotify, built with Jetpack Compose
 - [Trooped/QuickBars](https://github.com/Trooped/QuickBars) - The Official QuickBars for Home Assistant Repository
 - [sureshfizzy/JellyCine](https://github.com/sureshfizzy/JellyCine) - A Jellyfin + Emby Client App with modern UI
 - [dom-53/Inkita](https://github.com/dom-53/Inkita) - Inkita is a lightweight Android reader for Kavita: fast browsing, offline downloads, and reliable progress sync. It caches metadata, pages, and thumbnails so you can read on the go and resume exactly 
@@ -1144,7 +1152,6 @@
 - [jeremehancock/Posteria](https://github.com/jeremehancock/Posteria) - Plex Media Poster Management App
 - [pyrohost/pyrodactyl](https://github.com/pyrohost/pyrodactyl) - Pyrodactyl is the Pterodactyl-based game server panel that's faster, smaller, safer, and more accessible than Pelican.
 - [dreeveapp/dreeve](https://github.com/dreeveapp/dreeve) - Dreeve is a self-hosted, open-source dashboard for your sports and fitness data
-- [altendorfme/alo](https://github.com/altendorfme/alo) - Alô is the open source alternative to OneSignal, PushNews, SendPulse, PushAlert, and others.
 - [manualdousuario/marreta](https://github.com/manualdousuario/marreta) - Uma ferramenta que quebra barreiras de acesso e elementos que atrapalham a leitura! / Marreta is a tool that removes access barriers and visual distractions!
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community
 - [projectsend/projectsend](https://github.com/projectsend/projectsend) - Share files with your clients, from your own server. Free, open source (GPLv2), self-hosted — or use ProjectSend Cloud, the official hosted version run by the same team.
@@ -1171,8 +1178,9 @@
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
 - [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) - FreeScout — Free self-hosted omnichannel AI-powered helpdesk & shared mailbox
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, respource aware file conversion server supporting 488 formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, resource aware file conversion server supporting 490+ formats in 26 languages.
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
+- [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 
@@ -1601,13 +1609,12 @@
 - [Convert-Commander/convert-commander](https://github.com/Convert-Commander/convert-commander) - The free software for converting files!
 - [X1Plus/X1Plus](https://github.com/X1Plus/X1Plus) - Custom firmware for Bambu Lab X1 and X1 Carbon 3D printers
 - [netplexflix/Missing-Trailer-Downloader-For-Plex](https://github.com/netplexflix/Missing-Trailer-Downloader-For-Plex) - Checks your Plex library for missing (Plex Pass) trailers and downloads them.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [th3jesta/ha-lcars](https://github.com/th3jesta/ha-lcars) - LCARS theme for Home Assistant
 - [JourneyDocker/Plex-Auto-Languages](https://github.com/JourneyDocker/Plex-Auto-Languages) - Automated language selection for Plex TV Shows !
 - [CmdrShepard/Skyhook](https://github.com/CmdrShepard/Skyhook) - Wrapper for the Sonarr Skyhook (TVDB API Wrapper)
 - [eitchtee/WYGIWYH](https://github.com/eitchtee/WYGIWYH) - A simple but powerful self-hosted finance tracker
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8m
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powe
 - [baxtree/subaligner](https://github.com/baxtree/subaligner) - Automatically synchronize and translate subtitles, or create new ones by transcribing, using pre-trained DNNs, Forced Alignments and Transformers. https://subaligner.readthedocs.io/
 - [eggplants/subt](https://github.com/eggplants/subt) - Translate a subtitle file
 - [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and then uses AI voice services to create a new dubbed & translated audio track where the speech is synced using the subtitle's t
@@ -1640,6 +1647,7 @@
 - [feizc/FluxMusic](https://github.com/feizc/FluxMusic) - Text-to-Music Generation with Rectified Flow Transformers
 - [mozilla/fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.
 - [hannob/snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers
+- [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - An AI web agent that applies to jobs for you while you sleep.
 - [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
 - [Entree3k/Edition-Manager](https://github.com/Entree3k/Edition-Manager) - Edition Manager - Movie Edition Management Tool for Plex
 - [I-am-PUID-0/DMB](https://github.com/I-am-PUID-0/DMB) - Debrid Media Bridge
@@ -1859,7 +1867,6 @@
 - [pritunl/pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [zekroTJA/stargrab](https://github.com/zekroTJA/stargrab) - Securely mirror your starred repositories.
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
 - [chenjj/espoofer](https://github.com/chenjj/espoofer) - An email spoofing testing tool that aims to bypass SPF/DKIM/DMARC and forge DKIM signatures.🍻
 - [Cornishman/Plex-Trakt-Scrobbler](https://github.com/Cornishman/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to trakt.tv
@@ -2094,6 +2101,7 @@
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [open-webui/extension](https://github.com/open-webui/extension) - Deprecated; Please use https://github.com/open-webui/desktop instead
 - [brunostjohn/perplexideez](https://github.com/brunostjohn/perplexideez) - Search the web and your self-hosted apps using local AI agents.
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 - [Alia5/lovelace-expander-card](https://github.com/Alia5/lovelace-expander-card) - Expander card for HomeAssistant
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
@@ -2132,6 +2140,7 @@
 
 ## TypeScript 
 
+- [letsid/gameerr](https://github.com/letsid/gameerr) - Open-source game request and discovery manager
 - [osolmaz/switch](https://github.com/osolmaz/switch) - A framework for building decision-model harnesses for any kind of task. Your program offers the model a short list of next steps, and the model picks one at a time until it can answer.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Studio-Saelix/sencho](https://github.com/Studio-Saelix/sencho) - Self-hosted Docker Compose management platform. For single or multi-host compose-first workflow.
@@ -2267,7 +2276,7 @@
 - [buxuku/SmartSub](https://github.com/buxuku/SmartSub) - 视频转字幕、字幕翻译、AI 配音与声音克隆、字幕烧录——免费开源的一站式桌面工具。基于 Whisper / FunASR 等本地模型离线语音转文字，批量处理 + 全平台 GPU 加速，跨 Windows / macOS / Linux。Free, open-source desktop app to generate, translate, dub & burn video subtitles —
 - [ironsheep/lovelace-rpi-monitor-card](https://github.com/ironsheep/lovelace-rpi-monitor-card) - A Raspberry Pi status display Card for Home Assistant Lovelace
 - [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder) - Stay on top of trending topics on social media and the web with AI
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run AI agents, store your files, backup your photos, and do more with over 300 apps in the Umbrel App Store.
 - [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
 - [raydak-labs/configarr](https://github.com/raydak-labs/configarr) - Sync TRaSH Guides + custom configs with Sonarr/Radarr
 - [arjanterheegde/InfinitePlexLibrary](https://github.com/arjanterheegde/InfinitePlexLibrary) - Create a truly infinite Plex library without overloading your debrid provider / indexers
@@ -2275,7 +2284,7 @@
 - [Hampelmen/nzb-sources](https://github.com/Hampelmen/nzb-sources) - 
 - [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.
 - [Gh61/lovelace-hue-like-light-card](https://github.com/Gh61/lovelace-hue-like-light-card) - This card provides a Hue-like way to control your lights in Home Assistant.
-- [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - A clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
+- [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Selfhosted Netflix
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card) - Vacuum cleaner card for Home Assistant Lovelace UI
 - [custom-cards/canvas-gauge-card](https://github.com/custom-cards/canvas-gauge-card) - The card makes it possible to use gauges from https://canvas-gauges.com/
@@ -2292,7 +2301,6 @@
 - [meltylabs/melty](https://github.com/meltylabs/melty) - Chat first code editor. To download the packaged app:
 - [thomasloven/lovelace-more-info-card](https://github.com/thomasloven/lovelace-more-info-card) - 🔹 Display the more-info dialog of any entity as a lovelace card
 - [ducan-ne/remove-bg](https://github.com/ducan-ne/remove-bg) - Remove background directly in your browser, powered by WebGPU
-- [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots) - Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo
 - [ciotlosm/lovelace-thermostat-dark-card](https://github.com/ciotlosm/lovelace-thermostat-dark-card) - 🌡 Thermostat card with a round and black feel to it
@@ -2333,7 +2341,6 @@
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [KittyCAD/modeling-app](https://github.com/KittyCAD/modeling-app) - The Zoo Design Studio app.
-- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [oae/kaizoku](https://github.com/oae/kaizoku) - Self-hosted manga downloader
 - [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex, Jellyfin and Emby.
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
