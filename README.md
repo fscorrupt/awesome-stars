@@ -100,10 +100,9 @@
 ## C 
 
 - [Gamer92000/echo-dot-assist](https://github.com/Gamer92000/echo-dot-assist) - Turn Amazon Echos (Echo Dot 3, Echo Dot 2, Echo 2) into local Home Assistant voice satellites. Keeps Amazon's mic processing and wake word engine, replaces Alexa with a small C daemon speaking ESPHome
-- [CroqueMr/libreelec-x86-DV](https://github.com/CroqueMr/libreelec-x86-DV) - LibreELEC x86_64 with Dolby Vision support for Intel, AMD, and Nvidia. I REBASE MY REPO UNTIL THE STABLE RELEASE
+- [CroqueMr/libreelec-x86-DV](https://github.com/CroqueMr/libreelec-x86-DV) - LibreELEC with High Quality Dolby Vision and HDR10+ support for Intel, AMD, and Nvidia, and more
 - [lchmagKekse/PS5-NZB-Downloader](https://github.com/lchmagKekse/PS5-NZB-Downloader) - A homebrew payload that turns your jailbroken PS5 into a Usenet downloader
 - [iranl/harmony-ng](https://github.com/iranl/harmony-ng) - Harmony Hub & Remotes next generation
-- [schlambos/harmony-hub-control](https://github.com/schlambos/harmony-hub-control) - Local control for the Logitech Harmony Hub and its remotes, connected to Home Assistant in both directions. No Logitech app, account or cloud.
 - [wr/featherframe](https://github.com/wr/featherframe) - ESP32 e-paper frame that renders human-made 1800's art prints for the birds detected in your backyard with BirdNET or BirdWeather
 - [manoharc07/DigiFrame](https://github.com/manoharc07/DigiFrame) - A wall frame for a 64×64 HUB75 LED matrix, turning it into a smart clock. It shows an NTP clock, live weather, a living ambient scene, looping GIFs, scrolling messages, and themed celebrations on your
 - [romangrigorii/SamsungGear360](https://github.com/romangrigorii/SamsungGear360) - code for streaming + calibrating Gear 360 video
@@ -154,7 +153,7 @@
 - [8bit2qubit/XboxFullScreenExperienceTool](https://github.com/8bit2qubit/XboxFullScreenExperienceTool) - A one-click GUI tool to safely enable the hidden Xbox full screen gaming experience on Windows 11.
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [IDisposable/jellyfin-plugin-justwatch](https://github.com/IDisposable/jellyfin-plugin-justwatch) - Jellyfin plugin that adds JustWatch external IDs and clickable deep-links to movies, series, seasons, and episodes - plus an opt-in task to auto-resolve them via JustWatch's API.
-- [AHouseOfBards/Bonfire-JellyProfiles](https://github.com/AHouseOfBards/Bonfire-JellyProfiles) - Bonfire is a Jellyfin plugin that adds profiles on a per user basis to Jellyfin. Built with AI Assistance. Designed to work with any Jellyfin client that is a web client or a wrapper for a web client.
+- [AHouseOfBards/Bonfire](https://github.com/AHouseOfBards/Bonfire) - Profiles for Jellyfin. One account holds several people, each with their own watch history, library access and parental controls.
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Saves Discord chat logs to a file
 - [TheIntroDB/emby-plugin](https://github.com/TheIntroDB/emby-plugin) - An Emby plugin to skip intros, recaps, and credits with TheIntroDB
 - [ZL154/JellyfinSecurity](https://github.com/ZL154/JellyfinSecurity) - A Jellyfin plugin that adds native two-factor authentication (TOTP, email OTP) with trusted device tokens, TV device pairing, LAN bypass, and API key bypass. Server-side enforcement — works with all c
@@ -631,6 +630,7 @@
 
 ## HTML 
 
+- [pickysysadmin/logitech-harmony-ir-archive](https://github.com/pickysysadmin/logitech-harmony-ir-archive) - An archive of every IR code and protocol format used by Logitech Harmony Remotes/Hubs
 - [bierzelt-kind/dashstream](https://github.com/bierzelt-kind/dashstream) - Ein optimiertes Jellyfin-Frontend für den Tesla-Browser – mit Audiobookshelf-Integration, AAC-Fix und TeslaMate-Live-Status.
 - [Jstudner/jcorp-nomad](https://github.com/Jstudner/jcorp-nomad) - An extremely compact offline media server for Movies, Shows, Books, and Music.
 - [passkeydeveloper/passkeys.dev](https://github.com/passkeydeveloper/passkeys.dev) - source for the passkeys.dev developer site
@@ -719,6 +719,7 @@
 - [gittrahan/support-fins](https://github.com/gittrahan/support-fins) - 
 - [leukipp/touchkio](https://github.com/leukipp/touchkio) - Home Assistant Touch Panel Kiosk application for a Linux device (e.g. Raspberry Pi) with Touch Display.
 - [ranaldsgift/KefinTweaks](https://github.com/ranaldsgift/KefinTweaks) - An essential collection of Jellyfin Tweaks that you always knew you needed
+- [schlambos/harmony-hub-control](https://github.com/schlambos/harmony-hub-control) - Local control for the Logitech Harmony Hub and its remotes, connected to Home Assistant in both directions. No Logitech app, account or cloud.
 - [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated asset maker for Plex, Jellyfin & Emby.
 - [lewlew-glitch/qm_companion](https://github.com/lewlew-glitch/qm_companion) - Self-hosted companion for Quartermaster, with Docker management, service discovery and secure mobile pairing.
 - [tomer8007/whatsapp-web-incognito](https://github.com/tomer8007/whatsapp-web-incognito) - A Chrome extension that disables read receipts and presence updates on WhatsApp Web
@@ -811,7 +812,6 @@
 - [ThomasTavernier/Improve-Crunchyroll](https://github.com/ThomasTavernier/Improve-Crunchyroll) - 
 - [remorses/docker-phobia](https://github.com/remorses/docker-phobia) - Analyze Docker images size
 - [nervetattoo/banner-card](https://github.com/nervetattoo/banner-card) - A fluffy banner card for Home Assistant 🥰
-- [iantrich/list-card](https://github.com/iantrich/list-card) - 📰 Display sensor list data in a table
 - [dteviot/WebToEpub](https://github.com/dteviot/WebToEpub) - A simple Chrome (and Firefox) Extension that converts Web Novels (and other web pages) into an EPUB.
 - [benct/lovelace-xiaomi-vacuum-card](https://github.com/benct/lovelace-xiaomi-vacuum-card) - Simple card for various robot vacuums in Home Assistant's Lovelace UI
 - [custom-cards/dual-gauge-card](https://github.com/custom-cards/dual-gauge-card) - Dual gauge custom card for Lovelace in Home Assistant
@@ -1204,6 +1204,7 @@
 
 ## PowerShell 
 
+- [Euro-Office/DesktopEditors](https://github.com/Euro-Office/DesktopEditors) - 
 - [Kevin-Robertson/Invoke-TheHash](https://github.com/Kevin-Robertson/Invoke-TheHash) - PowerShell Pass The Hash Utils
 - [angrycuban13/PSStarr](https://github.com/angrycuban13/PSStarr) - A PowerShell module to interact with Starr applications
 - [mikerr/360MultiStretch](https://github.com/mikerr/360MultiStretch) - Stitching script for samsung gear360 cameras
@@ -1431,6 +1432,7 @@
 
 ## Python 
 
+- [nortakales/flipper-zero-tonies](https://github.com/nortakales/flipper-zero-tonies) - 
 - [AlexSantini10/ventwise](https://github.com/AlexSantini10/ventwise) - Weather-aware window ventilation and indoor-comfort recommendations for Home Assistant.
 - [toniebox-reverse-engineering/tonies-json](https://github.com/toniebox-reverse-engineering/tonies-json) - Database of (all) Tonies and its metadata to identify it
 - [bkerler/mtkclient](https://github.com/bkerler/mtkclient) - Mediatek Flash and Repair Utility
@@ -1781,7 +1783,6 @@
 - [google/glazier](https://github.com/google/glazier) - A tool for automating the installation of the Microsoft Windows operating system on various device platforms.
 - [cyphar/orca-build](https://github.com/cyphar/orca-build) - Build OCI images from Dockerfiles.
 - [RogerSelwyn/O365-HomeAssistant](https://github.com/RogerSelwyn/O365-HomeAssistant) - Office 365 integration for Home Assistant
-- [troinine/hass-config](https://github.com/troinine/hass-config) - 🏠 My Home Assistant configuration
 - [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
 - [greenMikeEU/SmartMeterEVNKaifaMA309](https://github.com/greenMikeEU/SmartMeterEVNKaifaMA309) - Dieses Projekt ermöglicht es den Smartmeter der EVN (Netz Niederösterreich) über die Kundenschnittstelle auszulesen.
 - [greenMikeEU/SmartMeterEVNSagemcom-T210-D](https://github.com/greenMikeEU/SmartMeterEVNSagemcom-T210-D) - Dieses Projekt ermöglicht es den Smartmeter der EVN (Netz Niederösterreich) über die Kundenschnittstelle auszulesen.
@@ -1916,9 +1917,11 @@
 
 ## Rust 
 
+- [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
+- [rleeon/hoard](https://github.com/rleeon/hoard) - Free Automatic, versioned game save backup and sync for Windows, Linux, macOS, SteamOS, Brazzite.... Auto-detects 22,000+ games and any emulator. Use Hoard Cloud, or self-host with no Hoard One accoun
 - [jessfraz/ha-mail](https://github.com/jessfraz/ha-mail) - Physical mail for Home Assistant, backed by Stable.
 - [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own.
-- [GLinnik21/plx-native](https://github.com/GLinnik21/plx-native) - Fast, unofficial Plex client for LG webOS TVs — native 60 fps UI, 4K HEVC/Dolby Vision, no Chromium or WebView.
+- [plxnative/plx-native](https://github.com/plxnative/plx-native) - Fast, unofficial Plex client for LG webOS TVs — native 60 fps UI, 4K HEVC/Dolby Vision, no Chromium or WebView.
 - [nzbfast/nzbfast](https://github.com/nzbfast/nzbfast) - The fast Usenet downloader. One self-contained executable: line-rate downloads, one-pass verify and extract, poster wall, built-in indexer. Speaks the SABnzbd and NZBGet APIs, so Sonarr, Radarr, nzb36
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [Kopuz-org/cdm-host](https://github.com/Kopuz-org/cdm-host) - Native host for the system Widevine CDM (libwidevinecdm.so) — license challenges + CENC decrypt via the official interface, no key extraction.
@@ -2270,7 +2273,7 @@
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible,
 - [OpenHealthForAll/open-health](https://github.com/OpenHealthForAll/open-health) - OpenHealth, AI Health Assistant | Powered by Your Data
 - [Arthi-chaud/Meelo](https://github.com/Arthi-chaud/Meelo) - Self-hosted Music Server. Focused on metadata integration & UI
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories.
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - Control any computer remotely
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
@@ -2336,6 +2339,7 @@
 - [metoro-io/statusphere](https://github.com/metoro-io/statusphere) - Batteries included open-source api-first status page aggregator
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [Ipmake/NevuForPlex](https://github.com/Ipmake/NevuForPlex) - Nevu is a complete redesign of Plex's UI using the plex media server API.
+- [iantrich/list-card](https://github.com/iantrich/list-card) - 📰 Display sensor list data in a table
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [productiveops/dokemon](https://github.com/productiveops/dokemon) - Docker Container Management GUI
 - [kriziu/kripoll](https://github.com/kriziu/kripoll) - An app to create polls and vote.
@@ -2467,7 +2471,7 @@
 - [Mawthuq-Software/Wireguard-Manager-GUI](https://github.com/Mawthuq-Software/Wireguard-Manager-GUI) - The front-end GUI for the wireguard manager and API.
 - [cmd430/vue-dashboard](https://github.com/cmd430/vue-dashboard) - A Dashboard for showing information about a Plex, Tautulli, Sonarr and Radarr Media server
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
-- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+- [homer-dashboard/homer](https://github.com/homer-dashboard/homer) - A very simple static homepage for your server.
 - [sharkykh/tppm](https://github.com/sharkykh/tppm) - ▶ Manage playback progress items stored on Trakt.tv
 - [go-vikunja/frontend](https://github.com/go-vikunja/frontend) - Mirror of vikunja from https://code.vikunja.io/frontend
 - [AlexImb/pelicula](https://github.com/AlexImb/pelicula) - 🎞    A progressive web app for creating movie night polls.
