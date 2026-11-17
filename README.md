@@ -100,7 +100,7 @@
 ## C 
 
 - [Gamer92000/echo-dot-assist](https://github.com/Gamer92000/echo-dot-assist) - Turn Amazon Echos (Echo Dot 3, Echo Dot 2, Echo 2) into local Home Assistant voice satellites. Keeps Amazon's mic processing and wake word engine, replaces Alexa with a small C daemon speaking ESPHome
-- [CroqueMr/libreelec-x86-DV](https://github.com/CroqueMr/libreelec-x86-DV) - LibreELEC with High Quality Dolby Vision and HDR10+ support for Intel, AMD, and Nvidia, and more
+- [CroqueMr/libreelec-CB1](https://github.com/CroqueMr/libreelec-CB1) - LibreELEC with High Quality Dolby Vision & HDR10+ support for Intel, AMD, Nvidia, and more
 - [lchmagKekse/PS5-NZB-Downloader](https://github.com/lchmagKekse/PS5-NZB-Downloader) - A homebrew payload that turns your jailbroken PS5 into a Usenet downloader
 - [iranl/harmony-ng](https://github.com/iranl/harmony-ng) - Harmony Hub & Remotes next generation
 - [wr/featherframe](https://github.com/wr/featherframe) - ESP32 e-paper frame that renders human-made 1800's art prints for the birds detected in your backyard with BirdNET or BirdWeather
@@ -199,7 +199,6 @@
 - [rogerfar/rdt-client](https://github.com/rogerfar/rdt-client) - Real-Debrid Client Proxy
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer.
 - [iPromKnight/zilean](https://github.com/iPromKnight/zilean) - 
-- [donderjoekel/Mangarr](https://github.com/donderjoekel/Mangarr) - An *arr inspired approach to downloading manga using individual sources
 - [PCJones/UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages
 - [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature
 - [Mayyhem/SharpSCCM](https://github.com/Mayyhem/SharpSCCM) - A C# utility for interacting with SCCM
@@ -349,7 +348,6 @@
 ## Dart 
 
 - [ZhFahim/anchor](https://github.com/ZhFahim/anchor) - Offline first, self hostable note taking application
-- [collectarr/collectarr-app](https://github.com/collectarr/collectarr-app) - Local-first Flutter collection manager for comics, manga, books, games, movies, TV, music, and more.
 - [pounat/absorb](https://github.com/pounat/absorb) - A cross platform Audiobookshelf client for Android and iOS
 - [jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite) - Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.
 - [itsarjunsinh/elder_launcher](https://github.com/itsarjunsinh/elder_launcher) - A Launcher focused on simplicity and legibility. [10/2026: The project is active. A native Android version will be out soon.]
@@ -1178,7 +1176,7 @@
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
 - [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) - FreeScout — Free self-hosted omnichannel AI-powered helpdesk & shared mailbox
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, resource aware file conversion server supporting 490+ formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, resource aware file conversion server supporting 520+ formats in 26 languages.
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
@@ -1917,6 +1915,7 @@
 
 ## Rust 
 
+- [JakubWawrzola/deskmate](https://github.com/JakubWawrzola/deskmate) - Your computers in Home Assistant: a desktop app for Windows and Linux, a Windows service, a Linux daemon and a Stream Deck plugin, over its own encrypted integration (no MQTT broker needed). x64 and A
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [rleeon/hoard](https://github.com/rleeon/hoard) - Free Automatic, versioned game save backup and sync for Windows, Linux, macOS, SteamOS, Brazzite.... Auto-detects 22,000+ games and any emulator. Use Hoard Cloud, or self-host with no Hoard One accoun
 - [jessfraz/ha-mail](https://github.com/jessfraz/ha-mail) - Physical mail for Home Assistant, backed by Stable.
