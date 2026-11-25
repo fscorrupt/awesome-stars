@@ -371,7 +371,7 @@
 - [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) - The Ultimate Open-Source VPN, Ad-blocker and DNS resolver :llama::shield:
 - [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 - [jagandeepbrar/lunasea](https://github.com/jagandeepbrar/lunasea) - Self-hosted software controller built using Flutter
-- [go-vikunja/app](https://github.com/go-vikunja/app) - Cross-Platform app for Vikunja
+- [go-vikunja/app-legacy](https://github.com/go-vikunja/app-legacy) - 🚧 will be archived soon! New app: https://github.com/go-vikunja/app
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
 ## Dockerfile 
@@ -417,7 +417,7 @@
 
 ## Go 
 
-- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)
+- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.
 - [HuskerMinion/techo5](https://github.com/HuskerMinion/techo5) - Open firmware for the Echo Show 5, 1st and 2nd gen: Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-t
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [Syntax3rror404/kubedactyl](https://github.com/Syntax3rror404/kubedactyl) - The missing game server web management interface for Kubernetes. Runs Pterodactyl and Pelican eggs as pods, one container, no database. Go + React + Vite.
@@ -604,6 +604,7 @@
 - [l3uddz/movearr](https://github.com/l3uddz/movearr) - Simple CLI tool to perform various Radarr/Sonarr move functions.
 - [l3uddz/nabarr](https://github.com/l3uddz/nabarr) - Monitor newznab/torznab rss and add new media to sonarr/radarr
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [wader/fq](https://github.com/wader/fq) - fq - jq for binary formats. Tool, language and decoders for working with binary formats.
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.
@@ -632,7 +633,6 @@
 
 - [pickysysadmin/logitech-harmony-ir-archive](https://github.com/pickysysadmin/logitech-harmony-ir-archive) - An archive of every IR code and protocol format used by Logitech Harmony Remotes/Hubs
 - [bierzelt-kind/dashstream](https://github.com/bierzelt-kind/dashstream) - In-Car-Mediacenter, Live-Telemetrie-Cockpit, KI-Telegram-Bot & automatischer Medienserver für Tesla
-- [Jstudner/jcorp-nomad](https://github.com/Jstudner/jcorp-nomad) - An extremely compact offline media server for Movies, Shows, Books, and Music.
 - [passkeydeveloper/passkeys.dev](https://github.com/passkeydeveloper/passkeys.dev) - source for the passkeys.dev developer site
 - [MorganKryze/JellyFlare](https://github.com/MorganKryze/JellyFlare) - Put announcements where your users will actually see them; a customisable banner at the top of Jellyfin, with rotating messages, scheduling, and link support.
 - [l4rm4nd/MemeLord](https://github.com/l4rm4nd/MemeLord) - A taggable image meme board written in Python Django with OIDC SSO and S3 support.
@@ -725,6 +725,7 @@
 - [lewlew-glitch/qm_companion](https://github.com/lewlew-glitch/qm_companion) - Self-hosted companion for Quartermaster, with Docker management, service discovery and secure mobile pairing.
 - [tomer8007/whatsapp-web-incognito](https://github.com/tomer8007/whatsapp-web-incognito) - A Chrome extension that disables read receipts and presence updates on WhatsApp Web
 - [NathanLenias/Home-Assistant-Tablet-Dashboard](https://github.com/NathanLenias/Home-Assistant-Tablet-Dashboard) - A wall tablet dashboard for Home Assistant built as one plain web page. No Lovelace, no cards, no build step.
+- [Jstudner/jcorp-nomad](https://github.com/Jstudner/jcorp-nomad) - An extremely compact offline media server for Movies, Shows, Books, and Music.
 - [adamjthompson/Gaming-Status-Cards](https://github.com/adamjthompson/Gaming-Status-Cards) - A collection of beautiful, highly customizable dashboard cards designed specifically to work with the Gaming Status Integration.
 - [marrobHD/tv-card](https://github.com/marrobHD/tv-card) - 📺 TV Remote Card
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -1433,7 +1434,9 @@
 
 ## Python 
 
-- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi
+- [BlizzHacker/romarr](https://github.com/BlizzHacker/romarr) - Find, verify and organize your game library. Native Windows and Docker, DAT checks, ROM Hub plugins, and optional RomM/Cartridge integration.
+- [fscorrupt/posterizarr-community](https://github.com/fscorrupt/posterizarr-community) - Community repository for Posterizarr Blueprints and Dynamic Overlays. Browse, share, and directly import user-created UI presets, layouts, and overlay configurations into Posterizarr.
+- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi
 - [nortakales/flipper-zero-tonies](https://github.com/nortakales/flipper-zero-tonies) - 
 - [AlexSantini10/ventwise](https://github.com/AlexSantini10/ventwise) - Weather-aware window ventilation and indoor-comfort recommendations for Home Assistant.
 - [toniebox-reverse-engineering/tonies-json](https://github.com/toniebox-reverse-engineering/tonies-json) - Database of (all) Tonies and its metadata to identify it
@@ -1449,12 +1452,12 @@
 - [tamengual/omnarr](https://github.com/tamengual/omnarr) - One front end to search, browse, request and play everything on your self-hosted media server (Calibre, Audiobookshelf, Jellyfin, Sonarr, Radarr, Komga, RomM…)
 - [manix84/ha-tv-pip](https://github.com/manix84/ha-tv-pip) - This is an Android TV App, and Home Assistant Integration, designed to enable simple Picture in Picture notifications on your TV from Home Assistant.
 - [fscorrupt/garmin-bounce-homeassistant](https://github.com/fscorrupt/garmin-bounce-homeassistant) - Home Assistant integration for Garmin Bounce 2 & Garmin Jr. smartwatches. Features live GPS tracking, two-way messaging, voice playback, battery/step telemetry, and LTE wake-up commands.
-- [Mincka/spotcast](https://github.com/Mincka/spotcast) - Maintained fork. Start and transfer Spotify playback on idle Chromecast and Connect devices, on top of the official Home Assistant Spotify integration.
+- [Mincka/spotcast](https://github.com/Mincka/spotcast) - Start and transfer Spotify playback on idle Chromecast and Connect devices, on top of the official Home Assistant Spotify integration.
 - [jxlarrea/voice-satellite-card-llm-tools](https://github.com/jxlarrea/voice-satellite-card-llm-tools) - LLM tools for Home Assistant that extends Voice Satellite with weather, financial, image and video search capabilities. Provides tools that conversation agents (OpenAI, Google Generative AI, Anthropic
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) - Synchronize your data across media servers, media agents and trackers. Keep your movies and shows in sync, no matter where you watch.
 - [wilbowes/EchoMuse](https://github.com/wilbowes/EchoMuse) - A local voice assistant for Home Assistant on old Amazon Echoes, with no Amazon software left on them: our own Linux userspace (emOS), our own audio pipeline, and a wake word that runs on the Echo, so
 - [wolffcatskyy/crowdsec-blocklist-import](https://github.com/wolffcatskyy/crowdsec-blocklist-import) - 10-20x more blocks for your CrowdSec bouncers — 120k+ IPs from 32 free threat feeds
-- [cporcellijr/bookbridge](https://github.com/cporcellijr/bookbridge) - The missing link between your ears and your eyes.  Seamlessly sync your reading progress between Audiobookshelf (Audiobooks) and KOReader/KoSync (Ebooks). Start listening in the car, and pick up exact
+- [cporcellijr/bookbridge](https://github.com/cporcellijr/bookbridge) - Open-source, self-hosted progress sync for audiobooks and ebooks across Audiobookshelf, KOReader, Storyteller, BookOrbit and more.
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
 - [pullboxapp/pullbox](https://github.com/pullboxapp/pullbox) - Modern comic book management and acquisition platform for self-hosted environments
 - [dannyvfilms/Floppy](https://github.com/dannyvfilms/Floppy) - Self-hosted all-in-one media tracker and Trakt alternative for movies, TV, anime, books, games, music, and podcasts.
@@ -1492,7 +1495,6 @@
 - [FLOCK4H/Freeway](https://github.com/FLOCK4H/Freeway) - WiFi Penetration Testing & Auditing Tool
 - [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-- [frederikemmer/MediaLyze](https://github.com/frederikemmer/MediaLyze) - Self-hosted media library analysis for large media collections
 - [sahara101/Movie-Roulette](https://github.com/sahara101/Movie-Roulette) - Docker App which chooses a random movie from your movie library.
 - [ganhammar/hass-oidc-server](https://github.com/ganhammar/hass-oidc-server) - A Home Assistant custom component that turns your Home Assistant instance into a fully functional OpenID Connect (OIDC) server
 - [V33RU/CommandInWiFi-Zeroclick](https://github.com/V33RU/CommandInWiFi-Zeroclick) - CommandInWiFi: Exploiting SSID Storage in WiFi Scanning for Command Injection
@@ -1568,7 +1570,7 @@
 - [elfhosted/fakearr](https://github.com/elfhosted/fakearr) - An API to return a "fake" torrent or nzb, used with debridav and easynews
 - [primetime43/plexLocationBlock](https://github.com/primetime43/plexLocationBlock) - Block Plex streams via location
 - [better-ecosystem/better-control](https://github.com/better-ecosystem/better-control) - A simple control panel for linux based on the GTK framework
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your documents. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air-gapped, private AI for confidential documents. Open-source NotebookLM alternative that runs on your computer. Join our Discord: https://discord.gg/ejRNvftDp9
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [l4rm4nd/LinkedInDumper](https://github.com/l4rm4nd/LinkedInDumper) - Python 3 script to dump/scrape/extract company employees from LinkedIn API
@@ -1622,6 +1624,7 @@
 - [JourneyDocker/Plex-Auto-Languages](https://github.com/JourneyDocker/Plex-Auto-Languages) - Automated language selection for Plex TV Shows !
 - [CmdrShepard/Skyhook](https://github.com/CmdrShepard/Skyhook) - Wrapper for the Sonarr Skyhook (TVDB API Wrapper)
 - [eitchtee/WYGIWYH](https://github.com/eitchtee/WYGIWYH) - A simple but powerful self-hosted finance tracker
+- [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powe
 - [baxtree/subaligner](https://github.com/baxtree/subaligner) - Automatically synchronize and translate subtitles, or create new ones by transcribing, using pre-trained DNNs, Forced Alignments and Transformers. https://subaligner.readthedocs.io/
 - [eggplants/subt](https://github.com/eggplants/subt) - Translate a subtitle file
@@ -2116,7 +2119,6 @@
 - [open-webui/extension](https://github.com/open-webui/extension) - Deprecated; Please use https://github.com/open-webui/desktop instead
 - [brunostjohn/perplexideez](https://github.com/brunostjohn/perplexideez) - Search the web and your self-hosted apps using local AI agents.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 - [Alia5/lovelace-expander-card](https://github.com/Alia5/lovelace-expander-card) - Expander card for HomeAssistant
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -2195,6 +2197,7 @@
 - [zbejas/orbiscast](https://github.com/zbejas/orbiscast) - A Discord IPTV streaming bot.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+- [frederikemmer/MediaLyze](https://github.com/frederikemmer/MediaLyze) - Self-hosted media library analysis for large media collections
 - [Oghamark/Authentication](https://github.com/Oghamark/Authentication) - Authentication microservice written with NestJS
 - [Oghamark/homebranch-web](https://github.com/Oghamark/homebranch-web) - A self-hosted e-book management platform
 - [Oghamark/homebranch-api](https://github.com/Oghamark/homebranch-api) - A self-hosted e-book management platform
@@ -2216,7 +2219,7 @@
 - [shamubernetes/siren](https://github.com/shamubernetes/siren) - A simple, clean AlertManager dashboard
 - [itskovacs/trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
 - [yuzicapp/yuzic](https://github.com/yuzicapp/yuzic) - A cross-platform, free and open source music player for Navidrome & Jellyfin
-- [AyaanZaveri/finetic](https://github.com/AyaanZaveri/finetic) - A Modern Jellyfin Client built w/ Next.js
+- [AyaanZaveri/navigator](https://github.com/AyaanZaveri/navigator) - A fairly polished Stremio client with an assistant built in
 - [akhilmulpurii/aperture](https://github.com/akhilmulpurii/aperture) - A Modern Jellyfin Client built w/ Next.js
 - [PelagicaApp/pelagica](https://github.com/PelagicaApp/pelagica) - A modern web, desktop and TV client for Jellyfin
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
@@ -2440,7 +2443,6 @@
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker) - Self hosted media tracker for movies, tv shows, video games, books and audiobooks
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [jorgelbg/dashflare](https://github.com/jorgelbg/dashflare) - 🕵🏼‍♀️ Open Source and privacy-focused analytics solution. 📊 Advanced monitoring for your website behind Cloudflare
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
